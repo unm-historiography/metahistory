@@ -1,0 +1,7 @@
+theme: "just-the-docs"
+defaults:
+  -
+    scope:
+      path: "sites"
+    values:
+      layout: "single-col"

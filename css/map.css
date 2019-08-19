@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+}
+body {
+    margin: 0;
+    height: 100%;
+}
+
+#map {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.leaflet-overlay-pane path {
+    transition: fill-opacity 0.2s linear;
+}
+#map.hl-hint .leaflet-overlay-pane path {
+    fill-opacity: 0.5;
+}
+
+.leaflet-control-layers-list {
+    margin: -6px -10px -6px -6px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.leaflet-control-layers-selector {
+    display: none;
+}
+.leaflet-control-layers label span {
+    padding: 6px 20px;
+    display: block;
+    border-bottom: 1px solid #ccc;
+    background: #fff;
+}
+    .leaflet-control-layers label:last-child span {
+        border-bottom: none;
+    }
+.leaflet-control-layers label :checked + span,
+.leaflet-control-layers label span:active {
+    font-weight: bold;
+    background: #f4f4f4;
+    box-shadow: inset 0 0 8px #ccc;
+}
+.leaflet-control-layers label span:hover {
+    background: #f4f4f4;
+    cursor: pointer;
+}
+
+.leaflet-bar a {
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+
+.leaflet-bar a:active {
+    box-shadow: inset 0 0 8px #ccc;
+}
+    .leaflet-bar a.leaflet-disabled {
+        box-shadow: none;
+    }
+
+.leaflet-popup-content p {
+    margin: 0 0 10px;
+}
+
+.image-slider {
+    position: relative;
+    margin: 0 0 25px;
+    padding: 0;
+    background: #ccc;
+    overflow: hidden;
+}
+.bx-wrapper .image-slider {
+    margin-bottom: 0;
+}
+.image-slider li {
+    display: none;
+}
+.bx-wrapper .image-slider li,
+.image-slider li:first-child {
+    display: block;
+}
+.image-slider li img {
+    display: block;
+    max-width: 400px !important;
+    margin: 0 auto;
+}
+.bx-pager {
+    text-align: center;
+    line-height: 0;
+    margin-bottom: 5px;
+}
+.bx-pager-item {
+    display: inline-block;
+    margin: 5px 2px;
+}
+.bx-pager-link {
+    border-radius: 10px;
+    background: #ddd;
+    font-size: 0;
+    display: block;
+    padding: 5px;
+    height: 0;
+    width: 5px;
+}
+.bx-pager-link.active, .bx-pager-link:hover {
+    background: #555;
+}

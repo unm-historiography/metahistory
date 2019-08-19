@@ -1,0 +1,7 @@
+<div id="juxtapose-wrapper" class="juxtapose" data-startingposition="{{include.starting-position | default: 50%}}" data-label="{{include.data-label}}" data-credit="{{include.data-credit}}" data-showlabels="false" data-showcredits="false" data-animate="false">
+  <img src="{{site.baseurl}}{{include.image1}}" />
+  <img src="{{site.baseurl}}{{include.image2}}" />
+</div>
+<figcaption class="{{ include.class }}">
+  {{ include.caption | markdownify }}
+</figcaption>
