@@ -1,11 +1,9 @@
 ---
 layout: default
-title: The Enlightment Dudes | Enlightenment & Historiography
+title: Enlightenment & Historiography
 date: 2016-11-08 00:00:00
+author: Mary Phibbs and Zakery R Muñoz
 ---
-
-<p class="author">Mary Phibbs &amp; Zakery R Muñoz </p>
-
 # Enlightened Historiography
 
 ## _"Enlightenment is man's release from his self-incurred immaturity."_
@@ -94,7 +92,7 @@ The Enlightenment historians have a huge advantage over those that came before t
 ### Historical Theatre
 
 {% include figure.html class="img-right" src="Herder.jpg" caption="Johann Gottfried Herder, Google Commons, " %}
-Johann Herder was a German historian – really a German man of all trades. He was a philopher, a poet, a critic, a historian, and so on. But it’s really hard to separate the historians from the thinkers and others during the Enlightenment - for they were all doing a lot of the same stuff. The thinkers of the Enlightenment speculated rationality and meaning. They were fortunate enough to have all previous histories at their disposal - to use and make sense of. In a way it was the study of the human race. Herder was born in Mohrungen, and lived a poor life. Having mostly educated himself, eventually he attended a university and was lucky enough to be a student of Kant. Herder was highly invested in nature, and he was extremely curious about how man interacted and lived with nature. And this combination was true for most of his works. He saw the harmonizing of things of philosophy and history and so on. 
+Johann Herder was a German historian – really a German man of all trades. He was a philopher, a poet, a critic, a historian, and so on. But it’s really hard to separate the historians from the thinkers and others during the Enlightenment - for they were all doing a lot of the same stuff. The thinkers of the Enlightenment speculated rationality and meaning. They were fortunate enough to have all previous histories at their disposal - to use and make sense of. In a way it was the study of the human race. Herder was born in Mohrungen, and lived a poor life. Having mostly educated himself, eventually he attended a university and was lucky enough to be a student of Kant. Herder was highly invested in nature, and he was extremely curious about how man interacted and lived with nature. And this combination was true for most of his works. He saw the harmonizing of things of philosophy and history and so on.
 
 <p class="has-pullquote" data-pullquote="The history of mankind is confined within a limited period, and from every quarter brings an intimation that human affairs have had a beginning."></p>
 Again, the universality of this kind of history is prominent, and the deeper truth to these historians of the Enlightenment being closely associated with meaning is no accident. Because absolute truth is easier to identify with meaning. So, like the rest of the social sciences, history's attempt to make meaning of things is an indicative part of the Enlightenment. And while these rather dense and allusive texts are seemingly confusing, the greater meaning exists through and around the metaphors of nature and so on.
