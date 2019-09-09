@@ -1,13 +1,9 @@
 ---
 layout: default
 title: Postcolonialism
-date: 2016-11-19 00:00:00
 author: Jenni Scanlan
+date: 2016-11-19 00:00:00
 ---
-
-## Postcolonialism
-
-#### Jenni Scanlan
 
 **Postcolonialist history** is part of the larger umbrella of **poststructuralist historiography**, a type of historiography that is based on the idea that history, or knowledge in general, cannot reach a single, objective truth.  Postcolonialism is a school of thought that deals with **the effects of colonization on societies and peoples**. The term “Postcolonialism” is a bit of a misnomer— “post” typically means “after,” which implies that Colonialism has ended and the study of it takes place completely afterwards _(McClintock, 259)_. Most of the societies examined through the lens of Postcolonialism are still dealing with many of the problems of colonization and Eurocentric views, like the struggles for independence, return of resources, and recovery of history _(Houses 278)_. However, the **Eurocentric** view of history— the one in which **Europe still remains posed as the center for culture and society**— views Colonialism as firmly in the past, and as a part of capitalist development in the West, where the colonies were used as resources for raw materials to fuel production. Rather than focus on how Colonialism affected the societies that were colonized, it upholds Colonialism as part of the “European grand narrative of modernization,” or, a period of history in which the key defining feature was the advancement of modernization in the West rather than a period in which many peoples were conquered and subjugated _(Chatterjee, xi)_.
 

@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Greeks
+title: Greek Historiography
+subtitle: Herodotus, Thucydides, and the Foundation of Historical Methodology
+author:
 date: 2016-11-08 00:00:00
 ---
-
-# Greek Historiography
-
-## Herodotus, Thucydides, and the Foundation of Historical Methodology
 
 Institutional history and historical inquiry is often traced back to the oral traditions of the Greek dominated Mediterranean World in which traveling minstrels and poets were the primary vehicle of history before its evolution into a paradigmatic inquisitive practice.  Historical tradition in the early Hellenic world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean recorded “history” assumes the form of what we call today “epic poetry.” Homer’s _Illiad_ and _Odyssey_ became the standard for recording events so they would not be forgotten. According to [**Dr. Andreas Karatsolis**](http://cmsw.mit.edu/profile/andreas-karatsolis), Homer “may have been the only person who took these oral narratives and turned them into books.” Recording of historiographically significant narrative took place later and broke away from the Homeric tradition of epic poetry but still retained the spiritual tone and content of Greek mythological tradition.
 

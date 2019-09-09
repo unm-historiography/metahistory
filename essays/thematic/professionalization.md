@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Professionalization and Leopold Von Ranke
-date: 2016-11-19 00:00:00
+title: Professional History
+subtitle: The legacy of Leopold Von Ranke
 author: Richard Hughes
+date: 2016-11-19 00:00:00
 ---
 
 In mid-nineteenth century Germany, a professor at the University of Berlin would fundamentally change the way history is taught and applied. No individual contributed more to the professionalization of historiography than Leopold Von Ranke, his historical methods became a mainstay on the modern college campus (Cheng, 2012, p. 92). **Ranke’s implementation of the modern seminar system, peer review, source critique, and objectivity cumulated in a general practice on how to conduct historical study.** Before Ranke, there was no standardized methodology, historians utilized their own rudimentary approaches. Ranke created the standards of historical academia that still emanate in historiography today. While methodologies changed, and many accept the shortcomings and hypocrisy of the man himself, Ranke’s contributions to the professionalization of history cannot be disregarded.

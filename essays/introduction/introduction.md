@@ -1,9 +1,8 @@
 ---
 layout: default
 title: The Importance of Historiography
-date: 2016-11-08 00:00:00
 author: Michael Abonyi
-nav_order: 2
+date: 2016-11-08 00:00:00
 ---
 
 The notion of absolute fact is a dangerous concept. On one hand, _to believe in the existence of ultimate truth precludes oneself from critical thought and therefore limits the mind._ While on the other hand, to be overly skeptical renders oneself incapable of building complex notions of the world, for lack of foundational reason from which to work. In studying history, doubt is not only healthy, but necessary to the pursuit of ‘truth’. **The most dangerous histories are those which are believed wholly and without hesitation.** Within the realm of historiography, even ‘time’, its conception, and measure are open for debate (Momigliano 1966). That is not to say one should not accept certain narratives as fundamentally true or as reasonable explanations. Rather, one should approach history as inherently political, in existence because an individual or group sought to record an event or events as they perceived it to have happened. _“History is not indoctrination. It is a wrestling match”_ (Conway 2015). **Writing history should not be viewed as a mission to find the ‘truth’**, but rather as an exercise in analyzing perspectives – available data, narratives, prior works, and contemporary outlooks – and creating plausible interpretation. Historian Beverley Southgate posits there is no authoritative truth (Southgate 2005, 87-91), but that to accept a loss of order does not mean to lose the importance of history. In order to understand where we are going, we must know where we have been, with history as our guide and an amalgamation of historiographical narratives as our interpreter.

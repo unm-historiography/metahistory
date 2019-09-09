@@ -1,18 +1,14 @@
 ---
 layout: default
-title: Introduction to Historiography on the Web
-date: 2016-12-02 00:00:00
+title: An Introduction to Historiography
+subtitle: A preliminary guide to continuities and ruptures
 author: Fred Gibbs
+date: 2016-12-02 00:00:00
 ---
 
-
-# An Introduction to Premodern Historiography
-
-## A preliminary guide to continuities and ruptures
-
-<p class="abstract">
+{:.abstract}
 Despite the importance of historiography for modern enthusiasts of history, it often seems a intimidating subject with a high barrier to entry, mired in abstract theoretical, philosophical, and methodological jargon. The essays collected here take both a chronological and thematic approach to highlighting important developments, shifts, inflection points, continuities, and ruptures in the way people have conceived and produced historical interpretations of the western world. This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
-</p>
+
 
 ### What is Historiography?
 Even the very concept of historiography causes some confusion for most people. On one hand, it's a study of history itself, a history of history. On the other hand, in the more literal sense of the word, it's the act of writing history. While these are often different enterprises (perhaps the study of history should be called something like _historiology_, but it's not), they are both considered historiography.

@@ -1,18 +1,13 @@
 ---
 layout: default
 title: Providential History
+subtitle: How Judeo-Christian historiography created a universal history with a providential plan
 date: 2016-11-08 00:00:00
 author: Tiersa Cimino
 ---
 
-# Providential History
-
-## How Judeo-Christian historiography created a universal history with a providential plan
-
-<p class="abstract">
+{:.abstract}
 Judeo-Christian historiographers believed that history was universal in which God played an active role. They took on this task by creating a common origin, chronology, and a bridge that connected paganism and Christianity. The Bible spoke of this common origin of humankind, while chronologies connected a succession of kings and popes. The bridge of paganism and Christianity was composed of profane and sacred history. Judeo-Christian historiography strived to create a God of History.  
-</p>
-
 
 <p class="has-pullquote" data-pullquote="This is because what the Lord did for me when I came out of Egypt."></p>
 

@@ -1,20 +1,15 @@
 ---
 layout: default
 title: The Annales School
-date: 2018-05-11 00:00:00
 author: Erik Yorty
+date: 2018-05-11 00:00:00
 ---
-
-**The Annales School**
 
 Some of the most innovative and influential historiographic changes in the
 twentieth-century came from a group of French historians known as the Annales
-School. The methods they introduced challenged traditional historical focus from
-prominent and powerful individuals and shed light on often overlooked or
+School. The methods they introduced challenged traditional historical focus from prominent and powerful individuals and shed light on often overlooked or
 dismissed populations and cultures. To achieve this, they developed
-methodologies that examined evidence of broader beliefs, ideas, and attitudes of
-common everyday people. They also expanded the boundaries of the field of
-History by interacting and collaborating with other fields such as the Social
+methodologies that examined evidence of broader beliefs, ideas, and attitudes of common everyday people. They also expanded the boundaries of the field of History by interacting and collaborating with other fields such as the Social
 Sciences. This new focus on cultural and economic relationships and not just a
 sterile political narrative was a move that they hoped would bring us closer to
 what they termed as *Total History*. Throughout the years the Annales School

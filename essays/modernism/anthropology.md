@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Anthropology and Historiography
-date: 2018-05-11 00:00:00
 author: Desireé Martinez
+date: 2018-05-11 00:00:00
 ---
 
 My aim in this essay is to demonstrate how **Anthropology** has aided as well as influenced change in historiographical work over the centuries. **This section will illustrate change in historiographical works over time and demonstrate how historiographic authority reformed along the development and emergence of anthropology**. First, we need to understand Anthropology as its own discipline and second, how anthropology has influenced the methodological practice and perspective of the historian.
