@@ -1,0 +1,55 @@
+nav:
+  - title: Introduction
+    url: /essays/introduction/introduction.html
+  - section: Antiquity
+    subnav:
+      - title: Greek Historiography
+        url: /essays/classical-antiquity/greek-historiography.html
+      - title: Providential History
+        url: /essays/classical-antiquity/providential-historiography.html
+      - title: Roman Historiography
+        url: /essays/classical-antiquity/roman-historiography.html
+  - section: Early Modern
+    subnav:
+      - title: Reforming History
+        url: /essays/early-modern/reforming-history.html
+      - title: Renaissance Historiography
+        url: /essays/early-modern/renaissance-historiography.html
+      - title: Scientific History
+        url: /essays/early-modern/scientific-history.html
+  - section: Enlightenment
+    subnav:
+      - title: Reforming History
+        url: /essays/enlightenment/enlightenment-historiorgraphy.html
+      - title: Providential History
+        url: /essays/enlightenment/enlightenment.html
+  - section: Modernism
+    subnav:
+      - title: Annales School
+        url: /essays/modernism/annales-school.html
+      - title: Anthropology
+        url: /essays/modernism/anthropology.html
+  - section: Thematic
+    subnav:
+      - title: Film
+        url: /essays/thematic/film.html
+      - title: Truth
+        url: /essays/thematic/historical-truth.html
+      - title: History Wars
+        url: /essays/thematic/history-wars.html
+      - title: In Defense of Madness
+        url: /essays/thematic/in-defense-of-madness.html
+      - title: Marxism
+        url: /essays/thematic/marxism.html
+      - title: Postcolonialism
+        url: /essays/thematic/postcolonialism.html
+      - title: Professionalization
+        url: /essays/thematic/professionalization.html
+      - title: Universal Histories
+        url: /essays/thematic/universal-histories.html
+      - section: Women & Gender
+        subnav:
+          - title: 21st-century women and gender
+            url: /essays/thematic/women-gender/21st-century-gender.html
+          - title: Early feminist historiography
+            url: /essays/thematic/women-gender/early-feminist-historiography.html

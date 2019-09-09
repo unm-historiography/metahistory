@@ -4,12 +4,18 @@
 {% include head.html %}
 <body>
 
+  {% assign yml_nav = site.data.nav.nav %}
+
   <div class="page-wrap">
     <div class="side-bar">
       <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 lh-tight">{{ site.title }}</a>
       <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
-        {% include nav.html %}
+        <nav role="navigation" aria-label="Main navigation">
+          <ul class="navigation-list">
+            {% include nav.html nav=site.data.nav.nav%}
+          </ul>
+        </nav>
       </div>
       <footer role="contentinfo" class="site-footer">
         <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
@@ -53,6 +59,8 @@
           {% endif %}
         {% endunless %}
         <div id="main-content" class="page-content" role="main">
+          <div class="author">{{page.author}}</div>
+
           {{ content }}
 
           {% if page.has_children == true and page.has_toc != false %}
