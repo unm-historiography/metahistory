@@ -4,7 +4,7 @@ nav:
   - section: Antiquity
     subnav:
       - title: Myth and History
-        url: /essays/classical-antiquity/myth-and-history.html
+        url: /essays/antiquity/myth-and-history.html
       - title: Greek Historiography
         url: /essays/classical-antiquity/greek-historiography.html
       - title: Providential History
@@ -22,7 +22,7 @@ nav:
   - section: Enlightenment
     subnav:
       - title: Reforming History
-        url: /essays/enlightenment/enlightenment-historiorgraphy.html
+        url: /essays/enlightenment/enlightenment-historiography.html
       - title: Providential History
         url: /essays/enlightenment/enlightenment.html
   - section: Modernism
@@ -54,4 +54,4 @@ nav:
           - title: 21st-century women and gender
             url: /essays/thematic/women-gender/21st-century-gender.html
           - title: Early feminist historiography
-            url: /essays/thematic/women-gender/early-feminist-historiography.html
+            url: /essays/thematic/women-gender/early-feminist-history.html
