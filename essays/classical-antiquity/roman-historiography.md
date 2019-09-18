@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Roman Historiography
+author: Louisa Schoeller
 date: 2016-11-08 00:00:00
 ---
 

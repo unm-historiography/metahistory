@@ -1,6 +1,11 @@
 nav:
-  - title: Introduction
-    url: /essays/introduction/introduction.html
+  - section: Introductions
+    subnav:
+      - title: Why Historiography?
+        url: /essays/introduction/introduction.html
+      - title: What is this site?
+        url: /index.html
+
   - section: Antiquity
     subnav:
       - title: Myth and History
@@ -11,6 +16,10 @@ nav:
         url: /essays/classical-antiquity/providential-history.html
       - title: Roman Historiography
         url: /essays/classical-antiquity/roman-historiography.html
+      - title: Roman Historians and Rhetoric
+        url: /essays/classical-antiquity/roman-historians-rhetoric.html
+
+
   - section: Early Modern
     subnav:
       - title: Reforming History
@@ -19,18 +28,21 @@ nav:
         url: /essays/early-modern/renaissance-historiography.html
       - title: Scientific History
         url: /essays/early-modern/scientific-history.html
+
   - section: Enlightenment
     subnav:
       - title: Enlightened Historiography
         url: /essays/enlightenment/enlightenment-historiography.html
       - title: Providential History
         url: /essays/enlightenment/enlightenment.html
+
   - section: Modernism
     subnav:
       - title: Annales School
         url: /essays/modernism/annales-school.html
       - title: Anthropology
         url: /essays/modernism/anthropology.html
+
   - section: Thematic
     subnav:
       - title: Film
@@ -49,9 +61,17 @@ nav:
         url: /essays/thematic/professionalization.html
       - title: Universal Histories
         url: /essays/thematic/universal-histories.html
-      - section: Women & Gender
-        subnav:
-          - title: 21st-century women and gender
-            url: /essays/thematic/women-gender/21st-century-gender.html
-          - title: Early feminist historiography
-            url: /essays/thematic/women-gender/early-feminist-history.html
+
+  - section: Women & Gender
+    subnav:
+      - title: 21st-century women and gender
+        url: /essays/thematic/women-gender/21st-century-gender.html
+      - title: Early feminist historiography
+        url: /essays/thematic/women-gender/early-feminist-history.html
+
+  - section: Non-western
+    subnav:
+      - title: Chinese Historiography
+        url: /essays/non-western/chinese-historiography.html
+      - title: Medieval Islamic Historiography
+        url: /essays/non-western/medieval-islamic-historiography.html

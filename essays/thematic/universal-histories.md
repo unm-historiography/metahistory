@@ -2,6 +2,7 @@
 layout: default
 title: Histories for Everyone
 subtitle: The Varied and Deep Tradition of Universal History
+author: David Morin
 date: 2016-11-19 00:00:00
 ---
 

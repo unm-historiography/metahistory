@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Greek Historiography
-subtitle: Herodotus, Thucydides, and the Foundation of Historical Methodology
-author:
+subtitle: The Foundation of Modern Historical Methodology
+author: Alex Nocella
 date: 2016-11-08 00:00:00
 ---
 
