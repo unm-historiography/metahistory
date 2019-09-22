@@ -38,13 +38,13 @@ What histories have you been told from the colonialist perspective? How have tho
 
 ## Want to Know More?
 The last couple of generations have produced some incredible works in postcolonial thought. Check out some of these great authors if you want to delve more into postcolonial history:
-Salman Rushdie
-Joseph Conrad
-Barbara Baynton
-Chinua Achebe
-J.M. Coetzee
-Jean Rhys
-Edward Said
+* Salman Rushdie
+* Joseph Conrad
+* Barbara Baynton
+* Chinua Achebe
+* J.M. Coetzee
+* Jean Rhys
+* Edward Said
 
 ## Sources
 
