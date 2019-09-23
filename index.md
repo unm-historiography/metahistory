@@ -6,7 +6,7 @@ author: Fred Gibbs
 date: 2016-12-02 00:00:00
 ---
 
-{% include figure.html text="asdasd%}
+{% include figure.html text="asdasd" %}
 
 {:.abstract}
 Despite the importance of historiography for modern enthusiasts of history, it often seems a intimidating subject with a high barrier to entry, mired in abstract theoretical, philosophical, and methodological jargon. The essays collected here take both a chronological and thematic approach to highlighting important developments, shifts, inflection points, continuities, and ruptures in the way people have conceived and produced historical interpretations of the western world. This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
