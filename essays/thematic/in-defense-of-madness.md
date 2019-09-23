@@ -2,16 +2,22 @@
 
  > *Historians themselves (or some of them)have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
 
+
 In a post war world, the late 20th century saw an unprecedented philosophical backlash to the established academic fields that had been hyper focused on objective knowledge. “Postmodernism” arose from the grayish muck of wartime’s hardship and invaded the historical tradition by surprise. Helped along by the revolt against the bastardization of professional history by nationalist wartime powers; postmodernism entered the historical world forever changing the historiographical record. This article aims to describe how the postmodernist models have affected historiography in ways that shook historians code of ethics to their core and why they have created an understandable backlash to their abstract existence.
 ### **The Postmodern Experiment of Narrative**
 
+
 > *“History, meaning, and progress are no longer able to reach their escape velocity. They are no longer able to pull away from the overdense body that slows their trajectory”* – Jean Baudrillard *The illusions of the end* (The Postmodern History Reader,pg.41)
+
 
 Rarely has one particular school of history caused such controversy within the ranks of historians. Why does such a vehement disdain of this philosophical framework appear when fellow historians fall victim to the postmodernist thought? **The simple answer I suggest, is the obstruction of simple obtuse “truth”, a sentiment that implies the loss of greater meaning.** History relies the traditional belief on what most believe is a well-structured grand narrative allowing historians to write within a well-defined category building upon past knowledge. The belief in a well-structured narrative fits into an analogy of a house-built brick by brick through the works of countless historians.
 
+
 Those who would believe that by the unified methods of various collaborators a collective house will be constructed containing the story of the past. *This constructionist categorization of history prescribes an idea that there is an entirely objective element of historical structure that with enough dedication can be completed.* The overarching narrative structure of history has three general outlines described by Kathleen Troup and Anna Green in *The Houses of History* *“a master narrative which seeks to explain a broader segment of history; a grand narrative ‘which claims to offer the authoritative account of history generally’; and finally a metanarrative which draws upon some particular cosmology or metaphysical foundation, for example, Christianity.”* (Houses, pg. 204) **The enticing belief in a total or complete history plays on our basic human desire to find identity in an obscure past but the reality is that history is massively complex and requires an open, abstract view of the past.**
 
+
 **Postmodernists reject the total history narrative of older, professional history, and because of this they open themselves up to the divisiveness of their own historical structure.** To those still gripping onto the old Rankean model it seems as if Postmodernists have thrown away a meaningful purpose from professional history, what good is history if it does not present answers for truth? Postmodernists, however, have other, layered, goals in mind for their work. **For the postmodernist, history exists within an abstract realm of generalized form. Postmodernists may use history not to define a rigid past but to question the complacency of our own basic understanding of the past.** 
+
 
 ### Michel Foucault
 
@@ -19,24 +25,33 @@ Postmodernist **Michel Foucault (1926-1984)** believed that the dissecction of m
 
 Foucault’s desire to question the histories we had commonly accepted extended deeper than the subjects addressed in his own historical writing, what emerged was foundational elements to engaging history with a sense of exploration and nostalgia. To this end, Foucault’s histories exploded into abstract nightmares for strict “proper” historians who owed all knowledge to deep archival interaction. Because of Foucault’s fundamental flaw of not rooting his work in the traditional historical method, it’s difficult to utilize Foucault’s literal writing in a serious professional work, however, his message extends past words he’s written because he invokes the need to understand narrative and meaning in all texts.
 
+
 ### **The Meaning of Nothing**
 
 >  *“from one semantic to syntactical change, can one recognize that language has turned into rational discourse.”* (Michel Foucault, the Birth of the Clinic, pg.xi)
 
+
 Meaning in text is at the center of postmodern scholarship. The evaluation of narrative in historical scholarship challenges the pretense of well-defined truth. Naturally, postmodernist’s felt that truth was not easily obtainable through strict research alone. Instead, history, to postmodern thinkers was a truth that existed as a relative ideal found within the context of societies current culture. Truth within history is meant to be expressed for the purpose of narrative storytelling. This is not meant to say that all history is made up, or should be cherry picked by the historian to create destructive narratives, the difference comes from interpretation alone. Allowing group identity to be warped by fictitious beliefs of their past is harmful not only to that group but to the stability of their society. It would be mad to exclude commonly held historical fact in dates from histories and as a general rule Postmodernists will dissect a larger meaning from the archives. This lessons they learn can be individualized for the reader or author and is dependent on the manner in which the historical facts are analyzed.
 
+
 Postmodernists accept that there is a general, factual basis that history rests upon. Without the historian pulling together these elements of fact into a cohesive meaning then historical fact becomes trivial. The historian must function as a non-fiction storyteller. **The crucial element for any story teller is the narrative and purpose of the history they portray**. *The quality of the historian can help impart meaning where none may have been previously; this elevates the historian, who holds tremendous power over the narrative they illuminate.*
+
 
 When a postmodernist examines the purposes of narrative in history they make a conscious effort to realize the biases they have in the discourse of a topic. The examination of these narrative biases are crucial to the presentation of the past as fact. Postmodernists are hesitant to explicitly state that their explanation of the past is the most accurate depiction. *“To Speak about the thoughts of others, to try to say what they have said has, by tradition, been to analyze the signified”*(Foucault, Clinic,pg. xvii). **The idea of a grand historical narrative is too complex to ever expressly accept the fact of causation within the past.** Too many unexplainable and missing variables exist in the past to dictate why one historical actor behaved the way they did. So, we must examine the meaning behind the actions, the reasons why such actions or symbols were important in development, and accept that the answers might always be ambiguous.
 The most controversial element of postmodernist history will always be the unyielding element of questioning accepted historical “fact”.  Frankly, we must cautiously ask ourselves what are these facts that we should accept? **As readers and students of history we should look for histories that have legitimate factual sources but also pull a deeper wisdom out of the results of the changes they’ve presented. The facts of the past are there, but the purpose and meaning will always remain abstract**.
 
+
 > *“’Nobody can abolish the past’”*- F.M. Powicke (Southgate, pg. 134)
+
 
  Indeed the establishment of historical fact is out there, but historians continue to express a continued quest to find no meaning in unyielding research. *By questioning meaning we internalize a deeper, profound message from the lessons of the past*. **The purpose of postmodernist history is not allow baseless revisionism but to simply change the relation of history to the purpose of its end goal.** This incites the usage of narrative within historical literature. The basic structure of storytelling is the cornerstone of historical research, it forces the historian to accept the need to put together purpose for the reader.
 
+
  *The goal of postmodernist’s is to understand the deeper implementation of the narrative within history, the realization that meaning goes beyond the literal facts that the author hopes to share.* It remains the perpetual goal of the historians to give the reader that sense of purpose in history. The mindful nature of interpretation is forefront in goal of the historian and the challenge against old forms of “objective” interpretation is now more valid than ever. The meaning imparted from such interpretation, must guide the reader the basic framework of the past a way that pulls meaning from historical narrative long thought to have been settled. If for no other reason, this quest for meaning guides in a search relatable realism in our histories. **That realism, which is too often overlooked as near nihilist examination of pointless histories, should be reexamined as an attempt to give an individualized truth for each student to experience.** (Southgate, pg.136-7)
 
+
 > *‘Do not ask who I am and do not ask me to remain the same … Let us leave it to our bureaucrats and our police to see that our papers are in order’*. – Foucault (Gutting, pg.1)
+
 
 The meaning of the histories we write take on their own life in a manner that can never be objectively pinned down. Instead the historian should see the work as a method to propose meaning.  It can be a terrifying prospect to accept strict objective historical facts have no accurate meaning.  But we should reveal in the challenge of exploring the narrative historians are presenting before you. **The nature of our world is too often blindly accept the reality we’ve become easily socialized to.** Regardless of Foucault’s critics, he teaches us to step outside of what we perceive as the truth. **He implores to ask question of society and how the world has been complacent with itself. **
 We must question ourselves, not to uproot our own code of values and reality, but to understand why we believe the way we do. What decisions of influences lead to us to understand our past, present, and future? Just within ourselves we must exploring a deeper cause to our actions, how can we write history without internally doing the same. **Causation is not simple in human behavior and if we are to relate ourselves to the past we must also see how the past relates to our present.** The postmodernist struggle in history is not one that ends in the formless pit in the swamp of misery, but an open causeway of endless paths that implore us to explore. If one is concerned that anything is pointless, *then reveal in the obscurity*. For history gives comfort in knowing that never has humanity set to achieve what we have achieved, but that in the struggle for purpose and meaning have carved the way for a future of hope.
