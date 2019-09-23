@@ -72,8 +72,8 @@ The last couple of generations have produced some incredible works in postcoloni
 * [Barbara Baynton](https://en.wikisource.org/wiki/Bush_Studies)
 * [Chinua Achebe](https://www.biblio.com/chinua-achebe/author/1544)
 * [J.M. Coetzee](https://www.penguinrandomhouse.com/authors/231142/j-m-coetzee)
-* [Jean Rhys](
-* [Edward Said](
+* [Jean Rhys](https://www.biblio.com/jean-rhys/author/33591)
+* [Edward Said](https://www.biblio.com/edward-w-said/author/3101)
 
 ## Sources
 
