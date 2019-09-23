@@ -42,6 +42,13 @@ Essentialist post-colonial history focuses more on pre-colonization history more
 ## Possessive Exclusivism and Questions of Authorship
 The academic world is split on the issue of whether it is possible, let alone acceptable, for a historian from outside of a colonized society to write a postcolonial history. Some within colonized societies find this idea inappropriate. Some cultures in the Western world, in areas like North America and the Pacific, subscribe to “**possessive exclusivism”, or the idea that only the colonized should write postcolonial history** _(Houses, 282)_. This idea tends to go hand in hand with the essentialist idea of writing history. If the goal of the history is to provide a narrative that restores pre-colonial power in some way to colonized peoples, the concern over whether or not an outsider is writing the narrative is key. If the narrative comes from within the society, it is an act of empowerment. If it is written by an outsider, it can come across as yet another external group trying to control what the colonized society does.
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Born in Calcutta in 1942, Gayatri Chakravorty Spivak is a prominent feminist critic and postcolonialist scholar who teaches at Columbia University."
+  image-url="images/Spivak.jpg"
+  source-url="https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak"
+%}
 Other areas of the academic community see no problem with historians with outside perspectives writing postcolonial histories. In “Questions of Multi-culturalism,” author [Gayatri Chakravorty Spivak](https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak) argues to this end _(62-3)_. Histories of this inclination tend to align themselves more with the perspective that postcolonial history should be written with subaltern methods. Because the subaltern type of postcolonialism is not necessarily geared towards returning colonized peoples to their pre-colonial pasts, it is less important what the historian’s personal background is. What is more important is how they deal with their personal biases. While it is impossible to ever write a completely unbiased history, it is still important for historians writing postcolonial history to be aware of their own biases and not allow them to interfere in their narrative. For this type of postcolonial narrative, the question of who writes it is not nearly as important as if it is written fairly or not.
 
 ## Questions of Evidence
