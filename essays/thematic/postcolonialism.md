@@ -8,6 +8,14 @@ date: 2016-11-19 00:00:00
 ## What is Postcolonialism and Why Should We Care?
 **Postcolonialist history** is part of the larger umbrella of [poststructuralist historiography](https://www.britannica.com/art/poststructuralism), a type of historiography based on the idea that history, or knowledge in general, cannot reach a single, objective truth.  Postcolonialism is a school of thought that deals with **the effects of colonization on societies and peoples**. The term “Postcolonialism” is a bit of a misnomer— 'post' typically means 'after', which implies that Colonialism has ended and the study of it takes place afterwards _(McClintock, 259)_. However, the societies examined through the lens of Postcolonialism are still dealing with many of the problems of colonization such as the struggle for independence, return of resources, and recovery of history _(Houses 278)_. However, the **eurocentric** view of history, the one in which **Europe remains at the center of culture and society**, views colonialism as firmly in the past. In that perspective, colonialism was an integral part of capitalist development in the West, where the colonies were used as resources for raw materials to fuel production. Rather than focus on how colonialism affected the societies that were colonized, it upholds colonialism as part of the “European grand narrative of modernization,” or a period of history in which the key defining feature was the modernization in the West despite the many peoples who were conquered and subjugated _(Chatterjee, xi)_.
 
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption="This 1866 map of Britain and its colonies illustrates not only the extent of its empire but also the symbolism associated with colonization. Indigenous people are dressed in 'savage' garb or burdened by labor while the colonizers are depicted as bringers of freedom and fraternity. "
+  image-url="images/1886-colonialism-map.jpg"
+  source-url="https://scholarblogs.emory.edu/postcolonialstudies/2014/06/21/maps-in-colonialism/"
+%}
+
 In order to address Postcolonialism, Postcolonialist historians first address how Colonialist historians created their narratives. During colonization, histories were largely written by the elite European conquerors. The eurocentric worldview of these conquerors led them to write histories of the societies they colonized in a manner that placed them relative to European societies. Furthermore, the colonists placed the peoples they colonized both as diametrically opposite of their own and lesser than, allowing them to justify treating them as subordinates.
 
 **The writing of Postcolonialist histories is an effort to counteract the lasting effects of the colonial histories**, which tend to ignore or gloss over the severe damage colonialism has had on society. This includes the loss of land and resources, which hold significant spiritual and economic value. Cultural traditions and knowledge of pre-colonial pasts have also been wiped out in many places, due to persecution and forced conversions. We can look to the Spanish conquest of the present-day American Southwest for evidence of the consequences of colonialism. Indigenous peoples not killed by foreign diseases or war were often captured and forcibly converted to Christianity. The Conquistadores employed extreme violence in their takeover of the American Southwest and Mexico, resulting in deaths of countless indigenous peoples_(Restall, 96)_, but colonial history typically does not spend time addressing the negative consequences of their exploits. This causes issues in their narrative writing. Often, the losses indigenous peoples suffered are missing from the narrative, which produces a version of history in which these people’s voices and experiences are excluded. In trying to correct these issues, "[p]ostcolonial historical writing… has developed [the] two critiques of imperialism and colonialism by deconstructing colonialist discourses, and reconstructing the appalling scale of loss experienced by colonized and indigenous peoples" _(Houses, 281)_. 
@@ -18,6 +26,14 @@ Postcolonial historical writing is an attempt to move away from imperialist and 
 **Essentialism is the idea that the only real way to combat colonial ideas is to return to pre-colonization ideals and culture** _(Houses, 282)_. This is especially important in the discovery of land rights. For example, “historians in [colonized] countries play a key role in reconstructing the historical process of land alienation” _(Houses 278-9)_. Presenting a narrative that clearly outlines pre-colonization ownership of land and resources is a valuable tool for these peoples, because it can help them in political and legal battles with colonizing forces over land ownership claims. By having a record of what was taken from them, they can use it in their efforts to “decolonize” ancestral lands and resources in their fight for independence. We see this frequently in the Southwest United States, where the indigenous peoples continue to struggled with the United States government and private corporations for possession of sovereign, protected, and ancestral lands. The struggle between the United States government and indigenous Americans over the recent shrinking of Bear’s Ears National Monument for natural resource extraction _(US National Forest Service)_ is one contemporary example of how the colonialist narrative is still playing out. Much of the land that was just removed from national protection is considered ancestral land by indigenous groups, and the removal of resources is considered a form of desecration. Looking at this issue through the lens of essentialism is one way to analyze the deeper causes and implications of colonialism. 
 
 ## The Subaltern Approach
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="As a founding member of the Communist Party in Italy, Gramsci was an extremely prolific and influential thinker during the  Moussolini years. His works analyze topics from economics, education, religion, and the culture, among others. "
+  image-url="images/Gramsci.png"
+  source-url="https://en.wikipedia.org/wiki/Antonio_Gramsci"
+%}
 First laid out by Italian neo-Marxist philosopher [Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci), **the Subaltern approach reexamines colonialism through modern scientific methods like research and study**. Where history was written from the perspective of a small elite class during colonialism, the Subaltern approach aims to rewrite it from multiple perspectives, including the perspectives of the subjugated peoples _(Houses, 283)_. In this method, representation is a key concern. By writing from a series of perspectives, rather than the limited, Eurocentric one, history can be presented in a more universal light. In other words, history becomes more inclusive and avoids a single narrative in an effort to find deeper truths within the often conflicting accounts. One of the ways the subaltern approach addresses this issue is by critically engaging problematic ideologies like nationalism _(Houses, 284)_. These ideologies tend to rely on biased narratives and the “othering” of external groups, like colonized peoples. They present a narrative that upholds those in power, justifying thier actions through the guise of “progress” or “modernization.” Anyone outside these narratives becomes villainized because they are then fighting against the advancement of those in power. **Look for example to illustrate a subaltern approach in history.**
 
 ## Essentialism and Subaltern Methods in Action
@@ -26,6 +42,13 @@ Essentialist post-colonial history focuses more on pre-colonization history more
 ## Possessive Exclusivism and Questions of Authorship
 The academic world is split on the issue of whether it is possible, let alone acceptable, for a historian from outside of a colonized society to write a postcolonial history. Some within colonized societies find this idea inappropriate. Some cultures in the Western world, in areas like North America and the Pacific, subscribe to “**possessive exclusivism”, or the idea that only the colonized should write postcolonial history** _(Houses, 282)_. This idea tends to go hand in hand with the essentialist idea of writing history. If the goal of the history is to provide a narrative that restores pre-colonial power in some way to colonized peoples, the concern over whether or not an outsider is writing the narrative is key. If the narrative comes from within the society, it is an act of empowerment. If it is written by an outsider, it can come across as yet another external group trying to control what the colonized society does.
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Born in Calcutta in 1942, Gayatri Chakravorty Spivak is a prominent feminist critic and postcolonialist scholar who teaches at Columbia University."
+  image-url="images/Spivak.jpg"
+  source-url="https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak"
+%}
 Other areas of the academic community see no problem with historians with outside perspectives writing postcolonial histories. In “Questions of Multi-culturalism,” author [Gayatri Chakravorty Spivak](https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak) argues to this end _(62-3)_. Histories of this inclination tend to align themselves more with the perspective that postcolonial history should be written with subaltern methods. Because the subaltern type of postcolonialism is not necessarily geared towards returning colonized peoples to their pre-colonial pasts, it is less important what the historian’s personal background is. What is more important is how they deal with their personal biases. While it is impossible to ever write a completely unbiased history, it is still important for historians writing postcolonial history to be aware of their own biases and not allow them to interfere in their narrative. For this type of postcolonial narrative, the question of who writes it is not nearly as important as if it is written fairly or not.
 
 ## Questions of Evidence
@@ -44,7 +67,7 @@ There is no singular approach to postcolonialism. Essentialism and the Subaltern
 
 ## Want to Know More?
 The last couple of generations have produced some incredible works in postcolonial thought. Check out some of these great authors if you want to delve more into postcolonial history:
-* Salman Rushdie
+* [Salman Rushdie](https://www.salmanrushdie.com/books/)
 * Joseph Conrad
 * Barbara Baynton
 * Chinua Achebe
