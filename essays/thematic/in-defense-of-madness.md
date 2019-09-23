@@ -1,10 +1,10 @@
-# **In Defense of Madness: Explorations in Postmodernism**
-## Jacob Martinez
+## **In Defense of Madness: Explorations in Postmodernism**
+### Jacob Martinez
 
  > *Historians themselves (or some of them)have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
 
 In a post war world, the late 20th century saw an unprecedented philosophical backlash to the established academic fields that had been hyper focused on objective knowledge. “Postmodernism” arose from the grayish muck of wartime’s hardship and invaded the historical tradition by surprise. Helped along by the revolt against the bastardization of professional history by nationalist wartime powers; postmodernism entered the historical world forever changing the historiographical record. This article aims to demonstrate how the postmodernist models have affected historiography in ways that shook historians code of ethics to their core and why they have created an understandable backlash to their abstract existence.
-## **The Postmodern Experiment of Narrative**
+### **The Postmodern Experiment of Narrative**
 
 > *“History, meaning, and progress are no longer able to reach their escape velocity. They are no longer able to pull away from the overdense body that slows their trajectory”* – Jean Baudrillard *The illusions of the end* (The Postmodern History Reader,pg.41)
 
@@ -18,7 +18,7 @@ One of many postmodernist historians Foucault stood out as a particularly divisi
 
 Foucault’s desire to question the histories we had commonly accepted extended deeper than the subjects addressed in his own historical writing, what emerged was foundational elements to engaging history with a sense of exploration and nostalgia. To this end, Foucault’s histories exploded into abstract nightmares for strict “proper” historians who owed all knowledge to deep archival interaction. Because of Foucault’s fundamental flaw of not rooting his work in the traditional historical method, it’s difficult to utilize Foucault’s literal writing in a serious professional work, however, his message extends past words he’s written because he invokes the need to understand narrative and meaning in all texts.
 
-## **The Meaning of Nothing**
+### **The Meaning of Nothing**
 
 >  *“from one semantic to syntactical change, can one recognize that language has turned into rational discourse.”* (Michel Foucault, the Birth of the Clinic, pg.xi)
 
@@ -43,7 +43,7 @@ We must question ourselves, not to uproot our own code of values and reality, bu
 
 
 
-***Bibliography***
+### ***Bibliography***
 
 Breisach, Ernst. On the Future of History: The Postmodernist Challenge and Its Aftermath. Acls Humanities E-Book. University of Chicago Press, 2003.
 
