@@ -67,7 +67,7 @@ There is no singular approach to postcolonialism. Essentialism and the Subaltern
 
 ## Want to Know More?
 The last couple of generations have produced some incredible works in postcolonial thought. Check out some of these great authors if you want to delve more into postcolonial history:
-* Salman Rushdie
+* [Salman Rushdie](https://www.salmanrushdie.com/books/)
 * Joseph Conrad
 * Barbara Baynton
 * Chinua Achebe
