@@ -35,7 +35,12 @@ Regardless of the chosen methods or intent of writing a postcolonial narrative, 
 There is no singular approach to postcolonialism. Essentialism and the Subaltern method should not be compared to each other in terms of which is more effective, because each one aims to accomplish different goals within postcolonialism. The essentialist approach seeks to reestablish what societies ideally should be, by focusing on the historical narrative of what life was like before colonization. The subaltern method looks to interact directly with colonial narratives to expose the negative effects of colonization not addressed in earlier histories. Postcolonial historical writing can pick up where colonial historical narratives fall short. Whether using the essentialist or subaltern approach, postcolonialism engages with colonialist histories in an attempt to address their faults and produce narratives more focussed on human value. 
 
 ## Consider This
-What histories have you been told from the colonialist perspective? How have those narratives changed the way you view the world and your place in it? Do you support the idea of possessive exclusivism? Do you have histories that are personally significant that should not be told from an outside perspective? Should historians continue to value written sources over other types of evidence such as oral histories and folklore? Is one particular history more true because we have records of it in an archive? 
+- What histories have you been told from the colonialist perspective? 
+  - How have those narratives changed the way you view the world and your place in it? 
+- Do you support the idea of possessive exclusivism? 
+  - Do you have histories that are personally significant that should not be told from an outside perspective? 
+- Should historians continue to value written sources over other types of evidence such as oral histories and folklore? 
+  - Is one particular history more true because we have records of it in an archive? 
 
 ## Want to Know More?
 The last couple of generations have produced some incredible works in postcolonial thought. Check out some of these great authors if you want to delve more into postcolonial history:
