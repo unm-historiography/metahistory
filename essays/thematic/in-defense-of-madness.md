@@ -1,5 +1,4 @@
-## **In Defense of Madness: Explorations in Postmodernism**
-### Jacob Martinez
+## **In Defense of Madness: Explorations in Postmodernism** ### by Jacob Martinez
 
  > *Historians themselves (or some of them)have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
 
