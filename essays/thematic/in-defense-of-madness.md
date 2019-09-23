@@ -1,5 +1,4 @@
-## **In Defense of Madness: Explorations in Postmodernism** 
-## Jacob Martinez
+## **In Defense of Madness: Explorations in Postmodernism** by Jacob Martinez
 
 
 
