@@ -63,6 +63,7 @@ The most controversial element of postmodernist history will always be the unyie
 > *“’Nobody can abolish the past’”*- F.M. Powicke (Southgate, pg. 134)
 
 
+### ** Purpose and Goal**
 
  Indeed the establishment of historical fact is out there, but historians continue to express a continued quest to find no meaning in unyielding research. *By questioning meaning we internalize a deeper, profound message from the lessons of the past*. **The purpose of postmodernist history is not allow baseless revisionism but to simply change the relation of history to the purpose of its end goal.** This incites the usage of narrative within historical literature. The basic structure of storytelling is the cornerstone of historical research, it forces the historian to accept the need to put together purpose for the reader.
 
