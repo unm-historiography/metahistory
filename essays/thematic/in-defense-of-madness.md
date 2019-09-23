@@ -76,7 +76,7 @@ The most controversial element of postmodernist history will always be the unyie
 
 
 
-The meaning of the histories we write take on their own life in a manner that can never be objectively pinned down. Instead the historian should see the work as a method to propose meaning.  It can be a terrifying prospect to accept strict objective historical facts have no accurate meaning.  But we should reveal in the challenge of exploring the narrative historians are presenting before you. **The nature of our world is too often blindly accept the reality we’ve become easily socialized to.** Regardless of Foucault’s critics, he teaches us to step outside of what we perceive as the truth. **He implores to ask question of society and how the world has been complacent with itself. **
+The meaning of the histories we write take on their own life in a manner that can never be objectively pinned down. Instead the historian should see the work as a method to propose meaning.  It can be a terrifying prospect to accept strict objective historical facts have no accurate meaning.  But we should reveal in the challenge of exploring the narrative historians are presenting before you. **The nature of our world is too often blindly accept the reality we’ve become easily socialized to.** Regardless of Foucault’s critics, he teaches us to step outside of what we perceive as the truth. **He implores to ask question of society and how the world has been complacent with itself.**
 
 
 
