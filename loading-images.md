@@ -1,5 +1,5 @@
 ---
-title: Code Samples
+title: Loading images
 layout: default
 date: 2019-09-23
 ---
@@ -20,10 +20,12 @@ Because our work is not merely a class project but a publication (yay internet!)
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) is a great place to start.
 
+You will need to copy the URL of where you got the image so that you paste in into your `source-url` parameter, so keep your browser tabs open throughout the process.
+
 ### Download and Rename Images
 When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames that make it difficult to use, even within our repository. You should rename the image so it has a more human readable name that will make it easier to find later. Use only lowercase and hyphens (not underscores or spaces) in your filename.
 
-### Getting Images into our Repository
+### Put Images into our Repository
 Bring up a browser window of our [intro-guide repository](https://github.com/unm-historiography/intro-guide). Click on the `essays` folder, then the `images` folder. Drag and drop the file(s) you downloaded and renamed in the previous step.
 
 It is much faster to drag and drop multiple files at once, since after you commit a new image, you end up at the repository home page (not the images folder).
@@ -32,7 +34,12 @@ It is much faster to drag and drop multiple files at once, since after you commi
 ## Image Code
 As mentioned, we use a small block of code to help us keep the display of images and captions consistent and flexible.
 
-Again, all you need to do to get images on your essay page is to copy and paste the code from the gray box onto your page wherever you want the image to appear, and adjust the parameters (most importantly, to match your image filename and where you got the image).
+Again, all you need to do to get images on your essay page is to copy and paste the code from the gray box onto your page wherever you want the image to appear, and adjust the parameters.
+
+The parameters are self explanatory, with the possible exception of:
+- `image-url` is the filename of the image. That parameter will always start with `images/`
+- `source-url` is the URL of wherever you got the image.
+
 
 
 ### Standard Usage
@@ -122,8 +129,3 @@ To achieve the above full-width image, use:
   %}
 ```
 {%endraw%}
-
-
-
-### All image captions should have a link back to webpage of the original source.
-See the above image for an example.
