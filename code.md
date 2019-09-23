@@ -43,6 +43,7 @@ To embed the image above, we use:
   width="33%"
   caption="Mesa Vista Hall"
   image-url="images/default.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}{%endraw%}
 ```
 
@@ -50,7 +51,7 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 ### Half-width
-{% include figure.html class="img-left" width="50%" image-url="../../assets/images/Augustine.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
+{% include figure.html class="img-left" width="50%" image-url="../../assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -62,7 +63,8 @@ To achieve the above half-width image, use:
 class="img-left"
 width="50%"
 caption="Obviously we need a 50% image somewhere."
-image-url="images/Augustine.jpg"
+image-url="images/Augustine_Lateran"
+source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
 %}{%endraw%}
 ```
 ---
@@ -81,6 +83,7 @@ class="img-left"
 width="49%"
 caption="Here's an image on the left."
 image-url="images/Herder.jpg"
+source-url=""
 %}
 
 {% include figure.html
@@ -88,6 +91,7 @@ class="img-left"
 width="49%"
 caption="Here's an image on the right."
 image-url="images/Johann.jpg"
+source-url=""
 %}
 
 {%endraw%}
@@ -108,7 +112,7 @@ To achieve the above full-width image, use:
   class="img-center"
   width="100%"
   caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="../../assets/images/Cleve-van_construction-tower-babel.jpg"
+  image-url="images/Cleve-van_construction-tower-babel.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
   %}
 ```
