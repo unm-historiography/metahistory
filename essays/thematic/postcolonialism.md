@@ -68,12 +68,12 @@ There is no singular approach to postcolonialism. Essentialism and the Subaltern
 ## Want to Know More?
 The last couple of generations have produced some incredible works in postcolonial thought. Check out some of these great authors if you want to delve more into postcolonial history:
 * [Salman Rushdie](https://www.salmanrushdie.com/books/)
-* Joseph Conrad
-* Barbara Baynton
-* Chinua Achebe
-* J.M. Coetzee
-* Jean Rhys
-* Edward Said
+* [Joseph Conrad](https://www.biblio.com/joseph-conrad/author/1776)
+* [Barbara Baynton](https://en.wikisource.org/wiki/Bush_Studies)
+* [Chinua Achebe](https://www.biblio.com/chinua-achebe/author/1544)
+* [J.M. Coetzee](https://www.penguinrandomhouse.com/authors/231142/j-m-coetzee)
+* [Jean Rhys](
+* [Edward Said](
 
 ## Sources
 
