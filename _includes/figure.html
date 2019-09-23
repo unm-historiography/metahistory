@@ -1,6 +1,6 @@
 <figure class="{{ include.class }}" style="width:{{include.width | default: '100%}}">
-  <a class="image" href="{{ site.baseurl }}/essays/images/{{ include.src }}"><img src="{{ site.baseurl }}/essays/images/{{ include.src }}" alt="{{ include.caption }}" width="100%"></a>
+  <a class="image" href="{{ site.baseurl }}/essays/images/{{ include.image-url }}"><img src="{{ site.baseurl }}/essays/images/{{ include.image-url }}" alt="{{ include.caption }}" width="100%"></a>
 <figcaption class="{{ include.class }}">
-  {{ include.caption | markdownify }}
+  {{ include.caption | markdownify }} [<a href="{{ include.source-url }}">source</a>]
 </figcaption>
 </figure>

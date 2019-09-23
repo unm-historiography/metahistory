@@ -48,12 +48,13 @@ h1 {
 }
 
 h2 {
-  font-size: 2.3rem;
+  font-size: 1.6rem !important;
 }
 
 h3 {
-  font-size: 1.6rem !important;
+  font-size: 1.3rem !important;
   margin-top:2rem;
+  text-transform:uppercase;
 }
 
 h4 {
@@ -69,7 +70,7 @@ hr {
   height: 1px;
   border: 0;
   border-top: 1px solid #999;
-  margin: 0em 2rem;
+  margin: 2em 0rem;
   padding: 0;
   clear:both;
 }
@@ -145,7 +146,7 @@ li ul li {
 aside.pullquote {
   border-top:.3rem solid #333;
   border-bottom:.3rem solid #333;
-  margin-left:1rem;
+  margin-bottom:1rem;
 }
 
 aside.pullquote p{
@@ -153,7 +154,8 @@ aside.pullquote p{
   font-size:1.5rem;
   padding: 1rem;
   line-height:1.8rem;
-  text-align:left;;
+  text-align:left;
+  margin-bottom:0;
 }
 
 aside.aside-right {
@@ -168,6 +170,9 @@ margin:0 1rem 0 0;
 margin-top:.6rem;
 }
 
+blockquote {
+  font-variant:italic;
+}
 
 /*****************************************************
 IMAGES
@@ -191,7 +196,6 @@ IMAGES
 
 
 figure {
-  max-width:50%;
   clear:none;
   margin-bottom:1rem;
   /* no bottom padding; handled with caption */
@@ -238,7 +242,7 @@ figcaption p {
   font-family: 'Open Sans', sans-serif;
   font-size: .8rem;
   color:#888;
-  display:block;
+  display:inline;
   line-height: 1.1rem;
   margin:0;
 }
