@@ -75,7 +75,7 @@ Also in Europe, during the Early Middle Ages we begin to see the start of a dist
   width="50%"
   caption="A victum of histography and truth. His stories of King Arther was turned from works of historical truth to fable of myth."
   image-url="Geoffreymonmouth.jpg"
-  source-url="http://www.earlybritishkingdoms.com/arthur/geofmon.html"
+  source-url="https://blogs.haverford.edu/decentered/2015/07/02/geoffrey-of-monmouth-history-or-fiction/"
 %}
 
 ### Rebirth: The Renaissance and Reformation
