@@ -5,6 +5,14 @@ author: Desireé Martinez
 date: 2018-05-11 00:00:00
 ---
 
+{% include figure.html
+  class="img-center"
+  width="126%"
+  caption="Timeline of influential anthropological discoveries and publications"
+  image-url="anthro-timeline.png"
+  source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
+%}
+
 This essay demonstrates how historiographical work has changed over time, alongside the development and emergence of anthropology. In order to understand how anthropology has influenced the methodological practice and perspective of contemporary historians, we first need to understand anthropology as its own discipline.
 
 In its broadest definition, **_anthropology_ is the study of human societies and cultures**. Anthropologists study human development through the analysis of biological evolution, environmental factors, communicative practices, social interaction, and material culture. Prior to World War I, the terms anthropology and sociology were used interchangeably. However, sociologists focused on the study of social relations and their influence on societal development and progression; whereas, anthropologists studied a larger scope of society. Historians, more so, distinguished truth in the _origin_, _development_, and _functionality_ of human society. In other words, sociologists studied _how?_, anthropologists studied _what?_, and historians studied _why?_, but, collectively, all focused on human history.
@@ -58,14 +66,6 @@ Thus, _Ethnohistory_ emerged as, “the study of the history of the peoples norm
 Nevertheless, we do not know how anthropology will influence historians of the future. Natalie Zemon Davis, Canadian and American historian of the early modern period, states that historians can still learn from anthropology through “**close observation of living process[es] of social interaction; interesting ways of interpreting symbolic behaviour; suggestions about how the parts of a social system fit together; and material from cultures very different from those which historians are used to studying**” (Green and Troup, 1999, 177).
 
 Though historians will never completely know everything that has occurred in history, **anthropology has given historians the tools to better understand the past**. Allowing for the prediction to be made that anthropology will continue to contribute to historiography as new topics are explored and vice versa. 
-
-{% include figure.html
-  class="img-center"
-  width="120%"
-  caption="Timeline of influential anthropological discoveries and publications"
-  image-url="anthro-timeline.png"
-  source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
-%}
 
 ##### References
 
