@@ -55,7 +55,7 @@ Another founding principle of Christian authors was the belief that “**truth i
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Famed Christian historian, Augustine of Hippo, stuck to his gun of faith while the search for historical truth tested the scriptures."
+  caption="Famed Christian historian, Augustine of Hippo, stuck to his guns of faith while the search for historical truth tested the scriptures."
   image-url="Augustine of Hippo.jpg"
   source-url="https://opusdei.org/en/article/saint-augustine-of-hippo/"
 %}
