@@ -5,7 +5,7 @@ author: Eden Vigil
 date: 2018-05-11 00:00:00
 ---
 
-{% include figure.html class="img-right" width="33%" caption="Medieval islamic depiction of Socrates instructing students" image-url="image-url="images/506px-Sughrat.jpg" source-url="https://commons.wikimedia.org/wiki/File:Sughrat.jpg/" %}
+{% include figure.html class="img-right" width="33%" caption="Medieval islamic depiction of Socrates instructing students" image-url="image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/506px-Sughrat.jpg" source-url="https://commons.wikimedia.org/wiki/File:Sughrat.jpg/" %}
 
 Middle Eastern scientific and cultural achievements have traditionally been ignored by Eurocentric Western academia, and Middle Eastern historiography has accordingly been excluded from the traditional historiographical narrative. The sources most commonly used for Historiography classes focus almost exclusively on Greco-Roman and European historiographers, and this section hopes to include a medieval Middle Eastern perspective. This essay is going to focus on three historians and their methods of writing history: **al-Ṭabarī**, **ibn al-Athīr**, and **ibn Khaldūn** from the 10th-14th century. These three Islamic historians are often *unrepresented* in the historiographical narrative, yet they all offered unique contributions to the way medieval Middle Eastern history is understood today. These historians' works were both foundational and exceptional within the writing of history. *Without their views of Islamic history, the narrative of the Middle East would be deficient and barren.*
 
