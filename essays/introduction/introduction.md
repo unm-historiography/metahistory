@@ -22,7 +22,7 @@ Critical thought exists as the truest and most reliable approach to history. As 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption=""
+  caption="Adolf Hitler, learder of Germany from 1933-1945"
   image-url="adolf%20hitler.jpg.jpg"
   source-url="https://metro.co.uk/2015/04/30/here-are-eight-bizarre-and-little-known-facts-about-hitler-5175042/"
   %}
