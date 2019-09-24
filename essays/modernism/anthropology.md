@@ -8,7 +8,7 @@ date: 2018-05-11 00:00:00
 {% include figure.html
   class="img-center"
   width="121%"
-  caption="Timeline of influential anthropological discoveries and publications"
+  caption="Click on this image and zoom for a detailed timeline of influential anthropological discoveries and publications."
   image-url="anthro-timeline.png"
   source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
 %}
