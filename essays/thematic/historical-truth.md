@@ -17,7 +17,7 @@ From the scrolls of ancient Greece to the jargon packed books of the modern acad
   class="img-center"
   width="33%"
   caption="Herodotus and Thucydides led the way in the search for truth. They constantly questioned how true history and its sources are."
-  image-url="herodotus and thucydides.jpg"
+  image-url="herodotus-and-thucydides-2-638.jpg"
   source-url="https://steemit.com/history/@sandwichbill/5th-c-historians-of-greece-herodotus-and-thucydides"
 %}
 The ancient Greeks are seen as the fathers of history and two Greeks stand out: [Herodotus](https://www.britannica.com/biography/Herodotus-Greek-historian), and [Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian), laid the foundations of history. These two men began to look at sources in a more critical way, and differentiated between what we would call primary and secondary sources. For Herodotus, the father of history, “history depended on the one of two criteria, that is to be based on testimony that was either eyewitness (opsis) or hearsay (akoe)” (Kelly, 21). Thucydides didn’t concern himself with hearsay (secondary source) and was our founder of a more political history, which would become a key part of historiography later. (Kelly, 29) Thucydides relied on telling the story of states in conflict and was more **critical** in his telling of history than Herodotus. Also during this period western civilization still relied on the myth-histories of [Homer](https://www.britannica.com/biography/Homer-Greek-poet) and other Greek poets to lay the foundations of creation, in the eyes of the Greeks. Ironically the Greeks were both critical of the events of the past, and yet relied on the myths of their ancestors to begin their stories of history.
