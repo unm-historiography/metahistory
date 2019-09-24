@@ -11,6 +11,14 @@ In its broadest definition, **_anthropology_ is the study of human societies and
 
 Roots of anthropological and sociological studies are found in Greek antiquity. Early historians Herodotus and Thucydides sought to preserve the truth of the human past through a method of inquiry and analysis of evidence. This practice stood out as different from earlier intellectuals in "their attempt to define history as a distinct method of telling the story of the past” (Popkin, 2016, 27). For this reason, we can consider Herodotus’ _Histories_ and Thucydides’ _History of the Peloponnesian War_, as **the start of historiography in the Western world**.
 
+{% include figure.html
+  class="img-left"
+  width="40%"
+  caption="Herodotus (left), Thucydides (right)"
+  image-url="Thucydides-Versus-Herodotus.jpg"
+  source-url="https://www.ancient-origins.net/history-famous-people/thucydides-herodotus-history-0010439"
+%}
+
 However, the collapse of Rome and the political establishment of Christianity in the fifth century shifted the historiography of human history. After which, historical works focused on divine origin and “the purpose of the historian [was] to show the working out of God’s plan for humanity” (Popkin,2016, 37). The Catholic Church positioned itself as the authority over historical scholarship and therefore, “medieval historians often began their works with a summary of world history, drawn from the Bible and Roman sources” (Popkin, 2016, 40).
 
 Yet, at the same time in Asia, historians utilized scientific theories to understand society. In China “rulers of the Tang dynasty created an official **History Bureau**, charged with recording the events of the region” and Chinese historian Sima Guang "argued for the importance of evidence from **archaeology as a way of verifying claims made in written sources**” (Popkin, 2016, 42). In the Arab world Ibn Khaldun’s _Muqaddima_ “develop[ed] one of the first non-religious social theories, and anticipated Emile Durkheim’s ideas (discussed below) about social solidarity, which are today considered a cornerstone of sociology and anthropology” (Ericksen and Nielsen, 2001, 5).
