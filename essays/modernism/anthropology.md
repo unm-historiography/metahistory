@@ -36,7 +36,7 @@ It was not until the Enlightenment of the 17th and 18th centuries that **histori
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Karl Marx (left), Max Weber (right). While they did not consider themselves to be anthroplogists, Marx and Weber greatly influenced how societies and their function are viewed and understood. Influence of their ideas are still prominent to this day."
+  caption="Karl Marx (left), Max Weber (right). While they did not consider themselves to be anthropologists, Marx and Weber greatly influenced how societies and their function are viewed and understood. Influence of their ideas are still prominent to this day."
   image-url="Marx v Weber.jpg"
   source-url="http://julianarevalob.blogspot.com/2010/10/when-values-clash-with-economy.html"
 %}
