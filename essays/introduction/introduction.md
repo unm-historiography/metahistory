@@ -15,7 +15,7 @@ Critical thought exists as the truest and most reliable approach to history. As 
   class="img-right"
   width="33%"
   caption=""
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/download.jpg?raw=true.jpg"
+  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/adolf%20hitler.jpg.jpg"
   source-url="https://metro.co.uk/2015/04/30/here-are-eight-bizarre-and-little-known-facts-about-hitler-5175042/"
   %}
 
