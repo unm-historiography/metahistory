@@ -4,7 +4,9 @@ layout: default
 date: 2019-09-23
 ---
 
-*This page provides all the kinds of code snippets you might need. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
+*This page provides all the kinds of code snippets you might need, except for images, which are on the [loading images guide](loading-images).
+
+The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
@@ -26,103 +28,8 @@ date: 2019-09-13
 
 
 ## Images
-There is one basic way we will embed images in our essay files. Note that it is totally different from pure Markdown. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
+For information on images, please see the [Loading Images Guide](loading-images)
 
-
-### Standard Usage
-
-{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" image-url="../../assets/images/default.jpg" %}
-
-Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
-
----
-To embed the image above, we use:
-```
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Mesa Vista Hall"
-  image-url="images/default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
-%}{%endraw%}
-```
-
-### Use whatever width you want
-You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
-
-### Half-width
-{% include figure.html class="img-left" width="50%" image-url="../../assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
-
----
-
-To achieve the above half-width image, use:
-```
-{%raw%}{% include figure.html
-class="img-left"
-width="50%"
-caption="Obviously we need a 50% image somewhere."
-image-url="images/Augustine_Lateran"
-source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
-%}{%endraw%}
-```
----
-
-### Side by side
-{% include figure.html class="img-left" width="49%" image-url="../../assets/images/Herder.jpg" caption="Here's an image on the left."%}
-
-{% include figure.html class="img-left" width="49%" image-url="../../assets/images/Johann.jpg" caption="Here's an image on the right."%}
-
----
-To achieve two images side by side use (note the 49% width for each):
-```
-{%raw%}
-{% include figure.html
-class="img-left"
-width="49%"
-caption="Here's an image on the left."
-image-url="images/Herder.jpg"
-source-url=""
-%}
-
-{% include figure.html
-class="img-left"
-width="49%"
-caption="Here's an image on the right."
-image-url="images/Johann.jpg"
-source-url=""
-%}
-
-{%endraw%}
-```
-
-
-### Full-width
-{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy."  
-image-url="../../assets/images/Cleve-van_construction-tower-babel.jpg"
-source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
-%}
-
-
-To achieve the above full-width image, use:
-{%raw%}
-```
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="images/Cleve-van_construction-tower-babel.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
-  %}
-```
-{%endraw%}
-
-### Image sources
-Because our work is not merely a class project but a publication (yay internet!), we need to make sure we have sufficient permissions to use the images that we do and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it's always best to use images for which the permissions are very clear.
-
-### All image captions should have a link back to webpage of the original source.
-See the above image for an example.
 
 ---
 

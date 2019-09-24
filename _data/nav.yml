@@ -1,10 +1,17 @@
 nav:
+  - section: Instructions
+    subnav:
+      - title: Loading Images
+        url: /loading-images
+      - title: Code Samples
+        url: /code
+
   - section: Introductions
     subnav:
       - title: Why Historiography?
-        url: /essays/introduction/introduction.html
+        url: /essays/introduction/introduction
       - title: What is this site?
-        url: /index.html
+        url: /index
 
   - section: Antiquity
     subnav:

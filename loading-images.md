@@ -37,7 +37,8 @@ As mentioned, we use a small block of code to help us keep the display of images
 Again, all you need to do to get images on your essay page is to copy and paste the code from the gray box onto your page wherever you want the image to appear, and adjust the parameters.
 
 The parameters are self explanatory, with the possible exception of:
-- `image-url` is the filename of the image. That parameter will always start with `images/`
+- `image-url` is the ONLY the filename of the image.
+- It DOES NOT need to start with `images/` as we saw originally.
 - `source-url` is the URL of wherever you got the image.
 
 
@@ -54,7 +55,7 @@ To embed the image above, we use:
   class="img-right"
   width="33%"
   caption="Mesa Vista Hall"
-  image-url="images/default.jpg"
+  image-url="default.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}{%endraw%}
 ```
@@ -75,7 +76,7 @@ To achieve the above half-width image, use:
 class="img-left"
 width="50%"
 caption="Obviously we need a 50% image somewhere."
-image-url="images/Augustine_Lateran"
+image-url="Augustine_Lateran"
 source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
 %}{%endraw%}
 ```
@@ -94,7 +95,7 @@ To achieve two images side by side use (note the 49% width for each):
 class="img-left"
 width="49%"
 caption="Here's an image on the left."
-image-url="images/Herder.jpg"
+image-url="Herder.jpg"
 source-url=""
 %}
 
@@ -102,7 +103,7 @@ source-url=""
 class="img-left"
 width="49%"
 caption="Here's an image on the right."
-image-url="images/Johann.jpg"
+image-url="Johann.jpg"
 source-url=""
 %}
 
@@ -124,7 +125,7 @@ To achieve the above full-width image, use:
   class="img-center"
   width="100%"
   caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="images/Cleve-van_construction-tower-babel.jpg"
+  image-url="Cleve-van_construction-tower-babel.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
   %}
 ```
