@@ -73,8 +73,8 @@ Also in Europe, during the Early Middle Ages we begin to see the start of a dist
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="A victum of histography and truth. His stories of King Arther turned from history truth to fable of myth."
-  image-url="geoffrey_monmouth.jpg"
+  caption="A victum of histography and truth. His stories of King Arther was turned from works of historical truth to fable of myth."
+  image-url="Geoffreymonmouth.jpg"
   source-url="http://www.earlybritishkingdoms.com/arthur/geofmon.html"
 %}
 
