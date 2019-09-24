@@ -9,21 +9,29 @@ This essay demonstrates how historiographical work has changed over time, alongs
 
 In its broadest definition, **_anthropology_ is the study of human societies and cultures**. Anthropologists study human development through the analysis of biological evolution, environmental factors, communicative practices, social interaction, and material culture. Prior to World War I, the terms anthropology and sociology were used interchangeably. However, sociologists focused on the study of social relations and their influence on societal development and progression; whereas, anthropologists studied a larger scope of society. Historians, more so, distinguished truth in the _origin_, _development_, and _functionality_ of human society. In other words, sociologists studied _how?_, anthropologists studied _what?_, and historians studied _why?_, but, collectively, all focused on human history.
 
-Roots of anthropological and sociological studies are found in Greek antiquity. Early historians Herodotus and Thucydides sought to preserve the truth of the human past through a method of inquiry and analysis of evidence. This practice stood out as different from earlier intellectuals in "their attempt to define history as a distinct method of telling the story of the past” (Popkin, 2016, 27). For this reason, we can consider Herodotus’ _Histories_ and Thucydides’ _History of the Peloponnesian War_, as **the start of historiography in the Western world**.
-
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="45%"
   caption="Herodotus (left), Thucydides (right)"
   image-url="Thucydides-Versus-Herodotus.jpg"
   source-url="https://www.ancient-origins.net/history-famous-people/thucydides-herodotus-history-0010439"
 %}
+
+Roots of anthropological and sociological studies are found in Greek antiquity. Early historians Herodotus and Thucydides sought to preserve the truth of the human past through a method of inquiry and analysis of evidence. This practice stood out as different from earlier intellectuals in "their attempt to define history as a distinct method of telling the story of the past” (Popkin, 2016, 27). For this reason, we can consider Herodotus’ _Histories_ and Thucydides’ _History of the Peloponnesian War_, as **the start of historiography in the Western world**.
 
 However, the collapse of Rome and the political establishment of Christianity in the fifth century shifted the historiography of human history. After which, historical works focused on divine origin and “the purpose of the historian [was] to show the working out of God’s plan for humanity” (Popkin,2016, 37). The Catholic Church positioned itself as the authority over historical scholarship and therefore, “medieval historians often began their works with a summary of world history, drawn from the Bible and Roman sources” (Popkin, 2016, 40).
 
 Yet, at the same time in Asia, historians utilized scientific theories to understand society. In China “rulers of the Tang dynasty created an official **History Bureau**, charged with recording the events of the region” and Chinese historian Sima Guang "argued for the importance of evidence from **archaeology as a way of verifying claims made in written sources**” (Popkin, 2016, 42). In the Arab world Ibn Khaldun’s _Muqaddima_ “develop[ed] one of the first non-religious social theories, and anticipated Emile Durkheim’s ideas (discussed below) about social solidarity, which are today considered a cornerstone of sociology and anthropology” (Ericksen and Nielsen, 2001, 5).
 
 It was not until the Enlightenment of the 17th and 18th centuries that **historians adopted secularized views of social history in union with scientific critique**. An era defined as a “society [which] had emerged as an object to be continuously ‘improved’ and reshaped into more ‘advanced’ forms [in which] the independent, rational individual [can] change into someone new and different, and even truer to its nature” (Eriksen and Nielson, 2001, 11). Inspired works, such as Giambattista Vico’s _La Scienza Nuova_, Immanual Kant’s _Critique of Pure Reason_ and John Locke’s _Essay Concerning Human Understanding_, became some of the most influential histories to mediate concepts of individualism, class, property, and progression of human civilization.
+
+{% include figure.html
+  class="img-right"
+  width="45%"
+  caption="Karl Marx (left), Max Weber (right)"
+  image-url="Marx v Weber.jpg"
+  source-url="http://julianarevalob.blogspot.com/2010/10/when-values-clash-with-economy.html"
+%}
 
 Social changes during the 19th century caused the divergence of anthropology and sociology into two distinct sciences (Green and Troup, 1999, 172). The French philosopher Auguste Comte first coined the term ‘sociologie’, but economists like Karl Marx and Max Weber expanded on Comte’s social theories as capitalism and political modernity engrossed Europe (Green and Troup, 1999, 110). Additionally, Emile Durkheim’s _Les Règles de la Méthode Sociologique_ legitimized sociology as a science and laid the foundation for Functionalism, a theory stating “that all aspects of society were interrelated and therefore society should be studied as a whole" (Green and Troup, 1999, 174). So, **“while historians charted the rise of nations, anthropologists traced the cultural and social evolutions of mankind”** (Green and Troup, 1999, 172). Thus, as biologists Charles Darwin and Herbert Spencer formulated evolutionary theories of human history, sociologists Lewis Henry Morgan and Edward Burnett Tylor developed the concept of culture. As defined by Tylor, “[culture] includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society” (Green and Troup, 1999, 172). 
 
@@ -35,6 +43,14 @@ Some of the most influential works in historiography came in the 20th century, a
 
 > “the conjoining of History and Anthropology is not a matter of fusing two academic fields into a new Something-or-Other, but of redefining them in terms of one another by managing their relations within the bounds of a particular study: textual tactics. **That sorting things into what moves and what moves it, what victimizes and what is victimized, or what happened and what we can say about what happened**” (Geertz, History and Anthropology, 329). 
 
+{% include figure.html
+class="img-left"
+width="50%"
+caption="Image of the Kula, studied by Malinowski in _Argonauts of the Western Pacific_."
+image-url="Malinowski"
+source-url="http://www.bohol.ph/books/Argonauts/Argonauts.html"
+%}
+
 By the middle of the 20th century the culmination of both disciplines, history and anthropology, consolidated.
 
 Thus, _Ethnohistory_ emerged as, “the study of the history of the peoples normally studied by anthropologist[s]” (Green and Troup, 1999, 175). W. C. Sturtevant explained “ethnohistorians add another criterion for estimating reliability and bias” (Sturtevant, 2002, 13). Further, historian James Axtell states, “ethnohistory encompasses archaeology, ethnology, history and linguistics, and the source materials available to the ethnohistorian which include **folklore, oral tradition, maps, paintings, and artefacts, as well as written sources**” (Green and Troup, 1999, 175). As Postmodernism emerged in the late 20th century historians were able to access new technologies, resources, and accepted multiple perspectives on history. This included histories previously ignored, such as gendered and indigenous perspectives, which have been dominated by a male, Eurocentric narrative. 
@@ -42,6 +58,14 @@ Thus, _Ethnohistory_ emerged as, “the study of the history of the peoples norm
 Nevertheless, we do not know how anthropology will influence historians of the future. Natalie Zemon Davis, Canadian and American historian of the early modern period, states that historians can still learn from anthropology through “**close observation of living process[es] of social interaction; interesting ways of interpreting symbolic behaviour; suggestions about how the parts of a social system fit together; and material from cultures very different from those which historians are used to studying**” (Green and Troup, 1999, 177).
 
 Though historians will never completely know everything that has occurred in history, **anthropology has given historians the tools to better understand the past**. Allowing for the prediction to be made that anthropology will continue to contribute to historiography as new topics are explored and vice versa. 
+
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Timeline of influential anthropological discoveries and publications"
+  image-url="anthro-timeline.jpg"
+  source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
+  %}
 
 ##### References
 
