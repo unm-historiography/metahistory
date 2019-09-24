@@ -4,9 +4,9 @@ layout: default
 date: 2019-09-23
 ---
 
-*This page provides all the kinds of code snippets you might need, except for images, which are on the [loading images guide](loading-images).
+*This page provides all the kinds of code snippets you might need, except for images, which are on the [loading images guide](loading-images).*
 
-The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
+*The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
