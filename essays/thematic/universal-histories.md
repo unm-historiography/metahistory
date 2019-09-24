@@ -15,7 +15,7 @@ section: Instructions
       - title: Loading Images
         url: /loading-images
       - title: Code Samples
-        url: /code
+        url: /4271_2 Universal History.jpg
 
 ### Ancient Narratives
 Universal history as a discrete field is a relatively modern concept, yet the "idea" of universality can be traced further back. In mythic poetry we can see human themes which transcend the particulars, such as the struggle to return home, which is why Homer's Odyssey is still pertinent today.Furthermore, philosophers central to Grecian thought, used history as a rhetorical tool, source of discussion, and spoke of universal themes. Despite the limits of Grecian perspectives, we can see universal elements to their writings. Meanwhile, Rome, as both the subject of Greek writers from its own historians, exemplifies the trend of *transmitting* a universal message.
