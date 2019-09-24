@@ -63,7 +63,7 @@ Though historians will never completely know everything that has occurred in his
   class="img-right"
   width="70%"
   caption="Timeline of influential anthropological discoveries and publications"
-  image-url="anthro-timeline.jpg"
+  image-url="anthro-timeline.png"
   source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
 %}
 
