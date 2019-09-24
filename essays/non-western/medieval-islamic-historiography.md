@@ -7,7 +7,7 @@ date: 2018-05-11 00:00:00
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Illustration of Socrates from a 13th century Islamic manuscript "
   image-url="506px-Sughrat.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Sughrat.jpg"
@@ -33,7 +33,7 @@ Ibn al-Athīr's writing directly opposed the way in which other Islamic historia
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Bust of ibn Khaldun, Bejaia, Algeria"
   image-url="Bust_of_Ibn_Khaldun_(Casbah_of_Bejaia%2C_Algeria).jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Bust_of_Ibn_Khaldun_(Casbah_of_Bejaia,_Algeria).jpg"
