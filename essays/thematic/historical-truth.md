@@ -52,6 +52,13 @@ After the legalistic tradition of Rome the role of Truth changes drastically dur
 
 Another founding principle of Christian authors was the belief that “**truth is in the word of God**, which must be obeyed on the grounds of authority”. (Kelly 81) The historian [Clement](https://www.britannica.com/biography/Saint-Clement-of-Alexandria), believed in this principle and took it farther. He argued, “without the light of the Gospel, however, “Human traditions [are] intellectual nonsense”, and he believed in the “unified truth of Christianity”. (Kelly, 82) These principles pushed the classical form of truth **below** that of the Christian interpretation of truth because many Christian authors believed “Christian history was the expression of a higher **truth**”. (Kelly, 83)
 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Famed Christian historian, Augustine of Hippo, stuck to his gun of faith while the search for historical truth tested the scriptures."
+  image-url="Augustine of Hippo.jpg"
+  source-url="https://opusdei.org/en/article/saint-augustine-of-hippo/"
+%}
 This continued with the celebrated Christian historian and theologian, [Augustine of Hippo](https://www.britannica.com/biography/Saint-Augustine), because his “conversion drew him away from the sectarian search for wisdom to the **stable** truth of the Gospel”. (Kelly, 91) Augustine justified this belief by stating that “history itself is not … among human institutions.”, and that “for events which have already occurred and cannot be undone are to be considered as part of world order, whose found and ruler is God.” (Kelly, 95) This was considered the higher spiritual meaning of history and “secular history, is a written form of human memory, and perhaps even more fallible”. (Kelly, 95) Also, “history represents a level of reading that corresponds to human language in its grammatical sense”. (Kelly, 95)
 
 These two principles would be seen in the debate within Christianity between the **letter** and **spirit** of the law. For Christians the problem lies in the interpretation of written texts whether secular or spiritual. The interpretation of written texts eventually leads to the consensus that “the letter of the old law was the way of death, and only the spirit offered life.” (Kelly, 96) Repeatedly history is “occupying at once the lowest and the most fundamental level(s)”, and this low regard of history will be seen again in the later Middle Ages. (Kelly, 97)
