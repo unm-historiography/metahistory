@@ -20,7 +20,7 @@ In its broadest definition, **_anthropology_ is the study of human societies and
 {% include figure.html
   class="img-left"
   width="45%"
-  caption="Herodotus (left), Thucydides (right)"
+  caption="Herodotus (left), Thucydides (right). Considered the 'Fathers of History'."
   image-url="Thucydides-Versus-Herodotus.jpg"
   source-url="https://www.ancient-origins.net/history-famous-people/thucydides-herodotus-history-0010439"
 %}
@@ -36,7 +36,7 @@ It was not until the Enlightenment of the 17th and 18th centuries that **histori
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Karl Marx (left), Max Weber (right)"
+  caption="Karl Marx (left), Max Weber (right). While they did not consider themselves to be anthroplogists, Marx and Weber greatly influenced how societies and their function are viewed and understood. Influence of their ideas are still prominent to this day."
   image-url="Marx v Weber.jpg"
   source-url="http://julianarevalob.blogspot.com/2010/10/when-values-clash-with-economy.html"
 %}
@@ -54,7 +54,7 @@ Some of the most influential works in historiography came in the 20th century, a
 {% include figure.html
   class="img-center"
   width="70%"
-  caption="Image of the Kula, studied by Malinowski in _Argonauts of the Western Pacific_"
+  caption="Image of the Kula, studied by Malinowski in _Argonauts of the Western Pacific_. Malinowski was the first anthropologist to study a culture by living with the people, rather than simply reading about them from other literature. These new methods helped transform and legitimize anthropology as an independent discipline today."
   image-url="Malinowski.jpg"
   source-url="http://www.bohol.ph/books/Argonauts/Argonauts.html"
 %}
