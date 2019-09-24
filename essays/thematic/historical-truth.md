@@ -26,6 +26,13 @@ The core principle that the Greeks passed down was their obsession with **findin
 
 #### The Romans: Truth, Criticism, Critical Understanding, & Rhetoric
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Aulus Gellius focused his work on finding the truth in words and grammer used in historical accounts."
+  image-url=".jpg"
+  source-url="https://en.wikipedia.org/wiki/Aulus_Gellius"
+%}
 To understand ancient Rome requires a deep sense of tradition that Romans believed in. This sense of tradition came from a great respect for the ancestors of Rome. The *antiquarians* and jurists investigated the relics of “bygone and often forgotten ages”. (Kelly, 49) This look into origins comes with a problem for the scholar [Aulus Gellius](http://www.oxfordbibliographies.com/view/document/obo-9780195389661/obo-9780195389661-0200.xml), namely what is *“the precise meaning of ancient words and their correct etymologies”* (**Understanding**). (Kelly, 51) This is a key problem that modern historians have and even for Romans in the “ancient” world *understanding* was an issue “for long lapse of time has rendered old words and customs obsolete”. (Kelly, 51) Without *understanding* your sources historian cannot do “true history” as the Roman, Sempronius Asellio, said “one should also show with what purpose and for what reason things were done”. (Kelly, 52) Even in ancient times they knew the importance of truly *understanding* your sources and their **intentions**.
 
 The ancient Romans created key concepts for defining "truth" by solidifying their belief in historical facts and by criticizing one another's historical writings. Tacitus is by far the most trusted Roman historian because he told “no story to excite wonder; I do but relate what I have heard and what our fathers recorded”. (Kelly, 63) This regard for reporting the **facts** rather than telling a story was part of Tacitus’ “sharper analytical instrument, not the byways of Herodotean cultural history, but rather the Thucydidean model of mainly contemporary politico-military or “pragmatic” history”. (Kelly, 63) However more “truthful” reporting of facts was, “*none of these historians were “objective”* in a modern sense; all were eager to celebrate the moral virtues which had made Rome great”. (Kelly, 65) 
