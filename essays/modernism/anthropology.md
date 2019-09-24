@@ -60,7 +60,7 @@ Nevertheless, we do not know how anthropology will influence historians of the f
 Though historians will never completely know everything that has occurred in history, **anthropology has given historians the tools to better understand the past**. Allowing for the prediction to be made that anthropology will continue to contribute to historiography as new topics are explored and vice versa. 
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="120%"
   caption="Timeline of influential anthropological discoveries and publications"
   image-url="anthro-timeline.png"
