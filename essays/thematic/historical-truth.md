@@ -13,6 +13,13 @@ From the scrolls of ancient Greece to the jargon packed books of the modern acad
 ### Classical Foundations: Rome and Greece
 
 #### The Greeks:Truth & Impartiality
+{% include figure.html
+  class="img-center"
+  width="33%"
+  caption="Herodotus and Thucydides led the way in the search for truth. They constantly questioned how true history and its sources are."
+  image-url="herodotus and thucydides.jpg"
+  source-url="https://steemit.com/history/@sandwichbill/5th-c-historians-of-greece-herodotus-and-thucydides"
+%}
 The ancient Greeks are seen as the fathers of history and two Greeks stand out: [Herodotus](https://www.britannica.com/biography/Herodotus-Greek-historian), and [Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian), laid the foundations of history. These two men began to look at sources in a more critical way, and differentiated between what we would call primary and secondary sources. For Herodotus, the father of history, “history depended on the one of two criteria, that is to be based on testimony that was either eyewitness (opsis) or hearsay (akoe)” (Kelly, 21). Thucydides didn’t concern himself with hearsay (secondary source) and was our founder of a more political history, which would become a key part of historiography later. (Kelly, 29) Thucydides relied on telling the story of states in conflict and was more **critical** in his telling of history than Herodotus. Also during this period western civilization still relied on the myth-histories of [Homer](https://www.britannica.com/biography/Homer-Greek-poet) and other Greek poets to lay the foundations of creation, in the eyes of the Greeks. Ironically the Greeks were both critical of the events of the past, and yet relied on the myths of their ancestors to begin their stories of history.
 
 The core principle that the Greeks passed down was their obsession with **finding truth in sources**. For Herodotus and Thucydides, "They wanted to tell the "truth" as they saw it and thus to communicate something of value to their readers". (Kelly 42) These men inspired another Greek historian, [Polybius](https://www.britannica.com/biography/Polybius), who said that “to be a good historian, however, involved more than just being a good man or a good citizen, for it required that he be prepared to tell the **truth at all costs**, to the extent of accusing a friend or praising an enemy.” (Kelly, 33) This obsession with truth is the fundamental principle that they gave us historiography.
