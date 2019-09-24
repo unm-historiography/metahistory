@@ -100,6 +100,13 @@ The key event for historiography in regards to truth was the Enlightenment. The 
 
 The **secularization** and **codification** of history were critical to the creation of an **academic discipline** that would become academic history.  (Kelly, 198) To codify history is to know “not only what is said, but also by whom it is said, with what words it is said, in what time, on what occasion, what precedes, and what follows”. (Kelly, 205) This codification would be critical to the **methodology** of history, since reliance on credible sources is essential. The secularization of history is what allowed history to finally become a real **academic discipline**. The removal of church influence allowed history to be more impartial and search for a truth that could contradict the teachings of the Church.
 
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="The first social network. This map shows the wide reaching network of scholars during the 18th century."
+  image-url="republic_of_letters_tools.png"
+  source-url="http://www.datapointed.net/2010/11/mapping-early-scholarly-communications/"
+%}
 With these pillars of history being raised we can finally get to the **scholarship** that was also key to history becoming an academic discipline. [The Republic of Letters](http://republicofletters.stanford.edu/casestudies/voltaire.html), a network of correspondence between scholars, began a more comprehensive discussion between historians of different educational traditions. This “republic” is what allowed for discussion between Italians, French, German, and British historians, which began the academic discipline. Their work towards a **truer academic discipline** is what eventually led to historiography as we know it today.
 
 ### Modern Historiography: Methods and Terms
