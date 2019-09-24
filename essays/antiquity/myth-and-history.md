@@ -29,8 +29,8 @@ Historians have always attempted to relate human behavior and human nature with 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall"
-  image-url="palermo-stone.jpg"
+  caption="palermo stone used as a tool to record history "
+  image-url="Homer-artist.jpg"
   source-url="palermo-and-related-annals.html"
 %}
 
