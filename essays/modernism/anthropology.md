@@ -5,15 +5,15 @@ author: Desireé Martinez
 date: 2018-05-11 00:00:00
 ---
 
-This essay demonstrates how historiographical work has changed over time, alongside the development and emergence of anthropology. In order to understand how anthropology has influenced the methodological practice and perspective of contemporary historians, we first need to understand anthropology as its own discipline.
-
 {% include figure.html
   class="img-center"
-  width="126%"
+  width="121%"
   caption="Timeline of influential anthropological discoveries and publications"
   image-url="anthro-timeline.png"
   source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
 %}
+
+This essay demonstrates how historiographical work has changed over time, alongside the development and emergence of anthropology. In order to understand how anthropology has influenced the methodological practice and perspective of contemporary historians, we first need to understand anthropology as its own discipline.
 
 In its broadest definition, **_anthropology_ is the study of human societies and cultures**. Anthropologists study human development through the analysis of biological evolution, environmental factors, communicative practices, social interaction, and material culture. Prior to World War I, the terms anthropology and sociology were used interchangeably. However, sociologists focused on the study of social relations and their influence on societal development and progression; whereas, anthropologists studied a larger scope of society. Historians, more so, distinguished truth in the _origin_, _development_, and _functionality_ of human society. In other words, sociologists studied _how?_, anthropologists studied _what?_, and historians studied _why?_, but, collectively, all focused on human history.
 
