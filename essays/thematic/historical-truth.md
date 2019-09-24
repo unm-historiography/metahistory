@@ -63,6 +63,14 @@ The Early Middle Ages are more important for historiography than one would think
 
 Also in Europe, during the Early Middle Ages we begin to see the start of a distinction between **chroniclers**, compilers of facts and data, and the **historian**, the one whom finds the meaning behind historical events.  (Kelly, 103) Chroniclers, tell us what happened; historians tell us why it happened and why it mattered. We also begin to see the end of myth-histories near the end of this period with the **criticism and rejection** of the mythical tales of King Arthur. The tales of King Arthur were made historical by [Geoffrey of Monmouth](https://www.britannica.com/biography/Geoffrey-of-Monmouth) but were immediately assailed by his contemporary historians, and his work was label as **fiction**. (Kelly, 113) This is the **foundations for scholarship** as we know it in the west and historians became more **critical** of one another’s work. Although this scholarship still lacked a *formal academic discipline*, these actions by medieval historians laid the foundations of scholarship for later renaissance and enlightenment historians. The medieval age may not have been the most stable or prosperous, but its' historians aided historiography immensely.
 
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="A victum of histography and truth. His stories of King Arther turned from history truth to fable of myth."
+  image-url="geoffrey_monmouth.jpg"
+  source-url="http://www.earlybritishkingdoms.com/arthur/geofmon.html"
+%}
+
 ### Rebirth: The Renaissance and Reformation
 
 #### The Renaissance: Humanistic Historiography & Secularism's rise
