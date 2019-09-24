@@ -104,7 +104,7 @@ The **secularization** and **codification** of history were critical to the crea
   class="img-center"
   width="50%"
   caption="The first social network. This map shows the wide reaching network of scholars during the 18th century."
-  image-url="republic_of_letters_tool.png	"
+  image-url="republic_of_letters_tool (1).jpg"
   source-url="http://www.datapointed.net/2010/11/mapping-early-scholarly-communications/"
 %}
 With these pillars of history being raised we can finally get to the **scholarship** that was also key to history becoming an academic discipline. [The Republic of Letters](http://republicofletters.stanford.edu/casestudies/voltaire.html), a network of correspondence between scholars, began a more comprehensive discussion between historians of different educational traditions. This “republic” is what allowed for discussion between Italians, French, German, and British historians, which began the academic discipline. Their work towards a **truer academic discipline** is what eventually led to historiography as we know it today.
