@@ -6,13 +6,7 @@ date: 2018-05-11 00:00:00
 ---
 
 Middle Eastern scientific and cultural achievements have traditionally been ignored by Eurocentric Western academia, and Middle Eastern historiography has accordingly been excluded from the traditional historiographical narrative. The sources most commonly used for Historiography classes focus almost exclusively on Greco-Roman and European historiographers, and this section hopes to include a medieval Middle Eastern perspective. This essay is going to focus on three historians and their methods of writing history: **al-Ṭabarī**, **ibn al-Athīr**, and **ibn Khaldūn** from the 10th-14th century. These three Islamic historians are often *unrepresented* in the historiographical narrative, yet they all offered unique contributions to the way medieval Middle Eastern history is understood today. These historians' works were both foundational and exceptional within the writing of history. *Without their views of Islamic history, the narrative of the Middle East would be deficient and barren.*
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Medieval islamic depiction of Socrates instructing students"
-  image-url="images/506px-Sughrat.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Sughrat.jpg/"
-%}
+{% include figure.html class="img-right" width="33%" caption="Medieval islamic depiction of Socrates instructing students" image-url="images/506px-Sughrat.jpg" source-url="https://commons.wikimedia.org/wiki/File:Sughrat.jpg/" %}
 
 The importance of Islamic historiography in the Western narrative is seen throughout each historian's contributions. They prove that the way Western historiography developed was not unique nor was it inevitable. The use of narrative and relying on religion to explain events was seen not only in Medieval Islamic writing, but in medieval Christian chronicles and history as well. An example of this is seen in al-Ṭabarī's *khabar form* of writing history, which is explained below. Analyzing social structures and institutions to form a historical narrative was being done by fourteenth century in Mosul, but this technique wasn't used in Europe until the 20th century with the creation of the *Annales* schools. This work poses an answer to the supposed deficiency of Islamic historiographical perspective. The three authors who are the focus of this work are three historiographical founders and replicators of a Greco-Islamic approach and narrative of causation. In their three different works, they each attempt to answer the question of historical consequence. Each historian had a large framework in which they worked. They cannot be removed from their timeline, but with the perspective of historical hindsight, their importance to our understanding of historiography becomes clearer.
 
