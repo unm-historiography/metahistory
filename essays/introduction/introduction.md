@@ -13,7 +13,7 @@ Before one can dive into a collection of historiographic paradigms and framework
 class="img-left"
 width="45%"
 caption="Karl Marx, the creater of Marxism"
-image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Karl%20Marx.jpg"
+image-url="Karl%20Marx.jpg"
 source-url="https://theday.co.uk/opinions/why-i-believe-karl-marx-still-gets-it-right"
 %}
 
@@ -23,7 +23,7 @@ Critical thought exists as the truest and most reliable approach to history. As 
   class="img-right"
   width="33%"
   caption=""
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/adolf%20hitler.jpg.jpg"
+  image-url="adolf%20hitler.jpg.jpg"
   source-url="https://metro.co.uk/2015/04/30/here-are-eight-bizarre-and-little-known-facts-about-hitler-5175042/"
   %}
 
@@ -35,7 +35,7 @@ Some certain topics in a text of history’s history are ancient historians and 
 class="img-left"
 width="49%"
 caption="Here's Herodotus  on the left."
-image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Herodotus.jpg"
+image-url="Herodotus.jpg"
 source-url="https://www.thoughtco.com/who-was-the-greek-historian-herodotus-118979"
 %}
 
@@ -43,7 +43,7 @@ source-url="https://www.thoughtco.com/who-was-the-greek-historian-herodotus-1189
 class="img-left"
 width="49%"
 caption="Here's Thucydides on the right."
-image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Thucydides.jpg"
+image-url="Thucydides.jpg"
 source-url="https://www.thoughtco.com/pericles-funeral-oration-thucydides-version-111998"
 %}
 
@@ -57,7 +57,7 @@ No less important among the social histories, are those pertaining to the common
   class="img-center"
   width="100%"
   caption="The Annales School pictured in the year 1913"
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Annales%20School%20in%20France.jpg"
+  image-url="Annales%20School%20in%20France.jpg"
   source-url="http://www.essaydocs.org/the-annales-school-and-the-school-annals-naas-cbs-1913-23.html"
   %}
 
