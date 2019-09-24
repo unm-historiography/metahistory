@@ -44,11 +44,11 @@ Some of the most influential works in historiography came in the 20th century, a
 > “the conjoining of History and Anthropology is not a matter of fusing two academic fields into a new Something-or-Other, but of redefining them in terms of one another by managing their relations within the bounds of a particular study: textual tactics. **That sorting things into what moves and what moves it, what victimizes and what is victimized, or what happened and what we can say about what happened**” (Geertz, History and Anthropology, 329). 
 
 {% include figure.html
-class="img-left"
-width="50%"
-caption="Image of the Kula, studied by Malinowski in Argonauts of the Western Pacific."
-image-url="Malinowski.jpeg"
-source-url="http://www.bohol.ph/books/Argonauts/Argonauts.html"
+  class="img-left"
+  width="50%"
+  caption="Image of the Kula, studied by Malinowski in Argonauts of the Western Pacific"
+  image-url="Malinowski.jpg"
+  source-url="http://www.bohol.ph/books/Argonauts/Argonauts.html"
 %}
 
 By the middle of the 20th century the culmination of both disciplines, history and anthropology, consolidated.
@@ -60,12 +60,12 @@ Nevertheless, we do not know how anthropology will influence historians of the f
 Though historians will never completely know everything that has occurred in history, **anthropology has given historians the tools to better understand the past**. Allowing for the prediction to be made that anthropology will continue to contribute to historiography as new topics are explored and vice versa. 
 
 {% include figure.html
-  class="img-center"
-  width="100%"
+  class="img-right"
+  width="70%"
   caption="Timeline of influential anthropological discoveries and publications"
   image-url="anthro-timeline.jpg"
   source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
-  %}
+%}
 
 ##### References
 
