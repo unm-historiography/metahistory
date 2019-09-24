@@ -77,5 +77,7 @@ https://en.wikipedia.org/wiki/Herodotus
 https://en.wikipedia.org/wiki/Thucydides
 
 During my editing of this essay I found areas in which certian words and sentances were needed to be changed or re-worded in order for the reader at a 101 level could follow and understand. Also a few footnotes were added to lead to general background informaton of the individuals. But for the most part this essay was very well written and had alot of great information and definitions to make sure the topics were covered and to let the readers know the intentions of each subjects that would be discussed for the website. I read through this essay 4 times before submitting and wanted you to know that few changes were made but this essay would work very well as it is for the Website for understanding a brief definiton of Historiography and its sub parts. Ill be ready to discuss in class on 9-23-19.
+
 Thanks
+
 Nicholas Arellano 
