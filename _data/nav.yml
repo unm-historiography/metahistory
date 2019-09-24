@@ -16,69 +16,69 @@ nav:
   - section: Antiquity
     subnav:
       - title: Myth and History
-        url: /essays/antiquity/myth-and-history.html
+        url: /essays/antiquity/myth-and-history
       - title: Greek Historiography
-        url: /essays/classical-antiquity/greek-historiography.html
+        url: /essays/classical-antiquity/greek-historiography
       - title: Providential History
-        url: /essays/classical-antiquity/providential-history.html
+        url: /essays/classical-antiquity/providential-history
       - title: Roman Historiography
-        url: /essays/classical-antiquity/roman-historiography.html
+        url: /essays/classical-antiquity/roman-historiography
       - title: Roman Historians and Rhetoric
-        url: /essays/classical-antiquity/roman-historians-rhetoric.html
+        url: /essays/classical-antiquity/roman-historians-rhetoric
 
 
   - section: Early Modern
     subnav:
       - title: Reforming History
-        url: /essays/early-modern/reforming-history.html
+        url: /essays/early-modern/reforming-history
       - title: Renaissance Historiography
-        url: /essays/early-modern/renaissance-historiography.html
+        url: /essays/early-modern/renaissance-historiography
       - title: Scientific History
-        url: /essays/early-modern/scientific-history.html
+        url: /essays/early-modern/scientific-history
 
   - section: Enlightenment
     subnav:
       - title: Enlightened Historiography
-        url: /essays/enlightenment/enlightenment-historiography.html
+        url: /essays/enlightenment/enlightenment-historiography
       - title: Providential History
-        url: /essays/enlightenment/enlightenment.html
+        url: /essays/enlightenment/enlightenment
 
   - section: Modernism
     subnav:
       - title: Annales School
-        url: /essays/modernism/annales-school.html
+        url: /essays/modernism/annales-school
       - title: Anthropology
-        url: /essays/modernism/anthropology.html
+        url: /essays/modernism/anthropology
 
   - section: Thematic
     subnav:
       - title: Film
-        url: /essays/thematic/film.html
+        url: /essays/thematic/film
       - title: Truth
-        url: /essays/thematic/historical-truth.html
+        url: /essays/thematic/historical-truth
       - title: History Wars
-        url: /essays/thematic/history-wars.html
+        url: /essays/thematic/history-wars
       - title: In Defense of Madness
-        url: /essays/thematic/in-defense-of-madness.html
+        url: /essays/thematic/in-defense-of-madness
       - title: Marxism
         url: /essays/thematic/marxism.html
       - title: Postcolonialism
-        url: /essays/thematic/postcolonialism.html
+        url: /essays/thematic/postcolonialism
       - title: Professionalization
-        url: /essays/thematic/professionalization.html
+        url: /essays/thematic/professionalization
       - title: Universal Histories
-        url: /essays/thematic/universal-histories.html
+        url: /essays/thematic/universal-histories
 
   - section: Women & Gender
     subnav:
       - title: 21st-century women and gender
-        url: /essays/thematic/women-gender/21st-century-gender.html
+        url: /essays/thematic/women-gender/21st-century-gender
       - title: Early feminist historiography
-        url: /essays/thematic/women-gender/early-feminist-history.html
+        url: /essays/thematic/women-gender/early-feminist-history
 
-  - section: Non-western
+  - section: Non-Western
     subnav:
       - title: Chinese Historiography
-        url: /essays/non-western/chinese-historiography.html
+        url: /essays/non-western/chinese-historiography
       - title: Medieval Islamic Historiography
-        url: /essays/non-western/medieval-islamic-historiography.html
+        url: /essays/non-western/medieval-islamic-historiography

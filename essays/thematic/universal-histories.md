@@ -2,12 +2,13 @@
 layout: default
 title: Histories for Everyone
 subtitle: The Varied and Deep Tradition of Universal History
-author: David Morin, edited: Dustin Newsom
+author: David Morin
+editor: Dustin Newsom
 date: 2016-11-19 00:00:00
 ---
 
 {:.abstract}
-The ways in which people remeber the past, has a certain effect on the future. If we could have one combined narrative that ties us all together as mankind, it would be called a Universal history. Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars to form a narrative which applies to all the world’s peoples. As our documented and accepted histories today would tell us, this task of a universal history has been tried and failed. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that make it difficult to decipher the “truth”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis. 
+The ways in which people remember the past, has a certain effect on the future. If we could have one combined narrative that ties us all together as mankind, it would be called a Universal history. Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars to form a narrative which applies to all the world’s peoples. As our documented and accepted histories today would tell us, this task of a universal history has been tried and failed. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that make it difficult to decipher the “truth”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis.
 
 ### Ancient Narratives
 Universal history as a discrete field is a relatively modern concept, yet the "idea" of universality can be traced further back. In mythic poetry we can see human themes which transcend the particulars, such as the struggle to return home, which is why Homer's Odyssey is still pertinent today.Furthermore, philosophers central to Grecian thought, used history as a rhetorical tool, source of discussion, and spoke of universal themes. Despite the limits of Grecian perspectives, we can see universal elements to their writings. Meanwhile, Rome, as both the subject of Greek writers from its own historians, exemplifies the trend of *transmitting* a universal message.
@@ -71,7 +72,7 @@ The modern historian David Christian, however, perceives a master trend where un
 
 In particular, the new emphasis on minorities and women (who, while not a minority, have been ignored), and transcending the "colonialist" perspective of the past, both supports and contradicts this movement. On the one hand these are very particular perspectives, yet on the other they encompass the same *goal* to create a "history of everyone", in a way that massively improves on the past. Even the most universal histories were really histories of male Europeans. Additionally, writers of such histories already face issues with "speculation" due to the lack of historical documents; it is a shorter leap today, considering the rise of these postmodernist influenced histories, to universality.
 
-While these schools-of-thought are not necessarily truly predictive, they still offer a valuable perspective. Why shouldn’t they be true? Why should we not attempt to write a universal history of humanity, in the tradition of centuries of scholarship? I urge, as a final aside, that the reader not be intimidated by the fear of being wrong; universal histories have always had their place in historical scholarship, and regardless of validity, contain their own value and purpose. Lastly, I leave you the reader with a provocative question/thought, is it possible with todays technologies combined, with an international team of scholars could reach an accepted Universal History? 
+While these schools-of-thought are not necessarily truly predictive, they still offer a valuable perspective. Why shouldn’t they be true? Why should we not attempt to write a universal history of humanity, in the tradition of centuries of scholarship? I urge, as a final aside, that the reader not be intimidated by the fear of being wrong; universal histories have always had their place in historical scholarship, and regardless of validity, contain their own value and purpose. Lastly, I leave you the reader with a provocative question/thought, is it possible with todays technologies combined, with an international team of scholars could reach an accepted Universal History?
 
 Works Cited
 
