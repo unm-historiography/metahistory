@@ -6,17 +6,45 @@ author: James Hughes
 date: 2016-11-19 00:00:00
 ---
 
+
 {: .abstract }
 As history became increasingly popular among the general public in the late 20th century, the debate between competing historical narratives and themes became a crucial issue for modern historians (Popkin, 2016, 154). **This essay will focus on the “History Wars” of conflicting historical narratives, different approaches to studying history and ultimately, the battle for authority over historical studies.** An important element of the “History Wars” is the conflict between popular history and academic history (Popkin, 2016, 154). In essence, a work of popular history is written for the purpose of reaching mass audiences; while academic or scholarly history is made through objective vigorous scholarly research.  The historical construction of national identities is another crucial aspect of the “History Wars” as countries debate and have debated on historical themes such as nationalism and imperialism. **The debate on how historians should construct the past will have repercussions for the future of historical studies because, “he who controls the past controls the future. He who controls the present controls the past”** (Popkin, 2016, 113).
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Louis XIV"
+  image-url="Louis_XIV_of_France.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg"
+%}
 Even though the term “History Wars” was not coined until the late 20th century, the power struggle over which historical works will be promoted and accepted has a rich historiographic tradition (Popkin, 2016, 154). In 1439-1440, Lorenzo Valla’s *Discourse on the Forgery of Constantine* challenged the Catholic Church’s claim that the Roman Emperor Constantine gave the Catholic Church jurisdiction over Rome in the 4th century (Popkin, 2016, 48). Through his use of new language from the 15th century, Valla’s historical work challenged the Catholic Church’s authority. In 17th century France, King Louis XIV used propaganda history, such as Cardinal Bossuet’s *Universal History*, to defend “the absolute power” of the monarchy (Popkin, 2016, 57). In the 17th and 18th century, the Enlightenment historians challenged the Renaissance movement’s perspective on historical studies by emphasizing the progress of humanity instead of classical Roman and Greek works (Popkin, 2016, 61). After World War I, the “general faith in human progress that had underlain the development of academic history in the nineteenth century was shattered” and **the struggle to define the past has continued to be a contested issue**(Popkin, 2016, 106).
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="France Goes to War 1914"
+  image-url="France_goes_to_war_1914.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:France_goes_to_war_1914.JPG"
+%}
+
 
 Ever since Leopold Von Ranke led the “professionalization” of history movement in the 19th century, academic history has attempted to provide a more accurate and factual account of the past (Popkin, 2016, 76). Ranke’s historiographic “revolution” inspired academic historians to be neutral within their works (Popkin, 2016, 76). Ranke advocated that historians use “primary sources” and new “scientific” methods to write historical narratives (Popkin, 2016, 75-76). By the time that popular history surged in popularity in the 1960s and 1970s, Ranke’s legacy had already made a long-lasting major impact on the history profession. **Popular history, however, came into conflict with Ranke’s legacy because its first purpose was to reach mass audiences, not to be objective**. Due to its perceived lack of objectivity, “popular history is often looked down upon by more academically minded historians” (Norton, 2013).  The debate between popular and academic history initiated another power struggle for control of historical studies.
 
 In the 1960s and 1970s, popular historians such as Pierra Nora, Emmanuel Le Roy Ladurie and George Duby successfully marketed their works to mass audiences (Popkin, 2016, 154). George Duby wrote that one hundred years after works on history withdrew from the marketplace because they were written only for those who understood history, these works were revised to become more availabe to the mass audiences (Popkin, 2016, 154). Not only did academic historians attack popular history for its lack of objectivity, **academic historians attacked popular history because its consumers and the general public, were fascinated with flashy topics**. For example, British “university historians” attacked the general public’s interest in the “restoration of wealthy ‘stately homes’” because it placed too much importance on the lives of the rich and powerful (Popkin, 2016, 154). In this case, academic historians pushed for history that is more accessible and relatable for the common man.
-
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="_Enola Gay_"
+  image-url="Enola_Gay_(plane).jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Enola_Gay_(plane).jpg"
+%}
 In 1994, the divide between popular and academic history was on full display in the United States when the Smithsonian attempted to bring the *Enola Gay*, the plane that dropped the atomic bomb on Hiroshima during World War II, to its Washington D.C. museum (Linenthal, 1996). In alignment with the mainstream academic historical perspective, the Enola Gay exhibit was designed to show “the devastation and human suffering caused by its use” (Popkin, 2016, 160). The exhibit was seen by many Republicans and veteran groups as “anti-American” and “projecting the ‘countercultural values’ of the Vietnam era onto America’s last good war” (Linenthal, 1996, p. 2). But for academic historians like Beverley Southgate, who was not involved in the development of the Enola Gay exhibit, the agenda of all modern history should not be to promote nationalist histories but to advocate for “that international community to which now we all belong” (Southgate, 2005, 74). **In this case, not only do the believers of popular history and academic history have different viewpoints but they have different values.** The Enola Gay exhibit was later discarded by the museum in 1995. But, the idea of the exhibit itself struck at the heart of the “History Wars”, a term that drove Edward Linenthal to write the book “*History Wars: The Enola Gay and Other Battles for the American Past*” (Linenthal, 1996).
-
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="The Japanese signing the act of surrender on bear the USS Missouri on Septemnber 2nd, 1945, marking the end of World War II."
+  image-url="World_War_II_is_over.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:World_War_II_is_over.jpg"
+%}
 **The historical battle over the Enola Gay is not only crucial from a historical standpoint of showing “what actually happened,” as Ranke stated, but it had a profound impact on how America saw its national identity** (Popkin, 2016, 76). While certain examples of American popular history glorified America’s role in dropping the atomic bombs on Japan, such as its inclusion in President Truman’s Presidential Library, the consensus among academic historians is to take a more objective approach by analyzing the devastating impact the atomic bomb had on the Japanese people (The Harry S. Truman Library and Museum, 2018) (Linenthal, 1996, 131). If the historical consensus is that the United States unnecessarily dropped the atomic bombs, then the United States unjustifiably killed hundreds of thousands of civilians (Linenthal, 1996, 79). President Truman’s advisor, Admiral Leahy, estimated that an invasion into Japan would have resulted in the deaths of 50,000 American soldiers and other reports had estimated 500,000 dead American soldiers (Linenthal, 1996, 54-56). If the historical consensus is that the United States was justified in the dropping of the atomic bombs because it saved 50,000 or up to 500,000 American soldiers, then the United States was the heroic winner of World War II.
 
 The atomic bombings on Japan is not the only controversial issue in the American History debate between popular and academic history. In the academic historian Anders Stephanson’s book, “*Manifest Destiny: American Expansionism and the Empire of Right*”, Stephanson takes a more critical viewpoint of the popular historical perspective that glorified America’s westward expansion (Stephanson, 1995). Native American historian Roxanne Dunbar-Ortiz, in her book “*An Indigenous Peoples' History of the United States*”, aggressively attacked the United States, as an imperialist nation, for perpetuating a “genocide” against Indigenous peoples and displacing native tribes off their land (Dunbar-Ortiz, 2014). Dunbar-Ortiz advocated that the history of United States and Indigenous relations be studied through a settler-colonial approach. Differing views of how the United States has handled Indigenous relations have sparked a debate concerning how American’s view their past. **Was the United States’ expansion westward justifiable? Has the United States committed genocide against Indigenous individuals?** These questions are critical to the battle to define America’s past.
