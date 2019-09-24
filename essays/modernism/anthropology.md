@@ -44,7 +44,7 @@ Some of the most influential works in historiography came in the 20th century, a
 > “the conjoining of History and Anthropology is not a matter of fusing two academic fields into a new Something-or-Other, but of redefining them in terms of one another by managing their relations within the bounds of a particular study: textual tactics. **That sorting things into what moves and what moves it, what victimizes and what is victimized, or what happened and what we can say about what happened**” (Geertz, History and Anthropology, 329). 
 
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="50%"
   caption="Image of the Kula, studied by Malinowski in Argonauts of the Western Pacific"
   image-url="Malinowski.jpg"
