@@ -26,6 +26,13 @@ The ability to write history effectively involves three important factors: scope
 {% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Figure 1: Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)" %}
 
 Historians have always attempted to relate human behavior and human nature with its environment, which also includes social and natural contexts that help to locate and distinguish it from other cultures and communities (Kelley, 8). The ancient Egyptians are considered one of the main groups who have supplied many examples of historical inquiry and interpretations for historians over the course of time, because they were a society that held a vast interest in the origins of the universe. More specifically, the ancient Egyptians placed great value in their gods, genealogies, chronologies, victories over their enemies, and the afterlife. The [Palermo Stone](http://archaeology.about.com/od/oldkingdom/fl/The-Palermo-Stone-Key-to-Old-Kingdom-Egypt-Royal-Families.htm) is one example of their efforts to record their history. The stone contains inscriptions of regnal lists on one of six fragments of a giant slab. If the slab were to be put back together today, it would undoubtedly contain a series of annals, in which, it would display the most prominent events of ancient Egyptian culture up to the middle of the fifth dynasty, which would  include monarchs, important festivals, and even information on the Nile River (Brown, 10).  Social memory during the time of the ancient Egyptians was embodied in architecture and funeral remains. Pyramids and monuments (such as the Palermo Stone) were also used as a way of recording ancient Egyptian myths, which ultimately aided in the preservation of memories (Kelley, 13-14).
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Mesa Vista Hall"
+  image-url="palermo-stone.jpg"
+  source-url="palermo-and-related-annals.html"
+%}
 
 #### The Methods of Manetho
 
