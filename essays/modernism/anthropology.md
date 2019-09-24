@@ -46,7 +46,7 @@ Some of the most influential works in historiography came in the 20th century, a
 {% include figure.html
 class="img-left"
 width="50%"
-caption="Image of the Kula, studied by Malinowski in _Argonauts of the Western Pacific_."
+caption="Image of the Kula, studied by Malinowski in Argonauts of the Western Pacific."
 image-url="Malinowski.jpeg"
 source-url="http://www.bohol.ph/books/Argonauts/Argonauts.html"
 %}
