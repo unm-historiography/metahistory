@@ -13,7 +13,7 @@ According to author Donald R. Kelley, history emerged from myth and forced itsel
 class="img-right"
 width="30%"
 caption="Philosopher Machiavelli."
-image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Machiavelli.jpg"
+image-url="Machiavelli.jpg"
 source-url="https://www.iep.utm.edu/machiave/"
 %}
 
@@ -21,7 +21,7 @@ source-url="https://www.iep.utm.edu/machiave/"
 class="img-right"
 width="30%"
 caption="Philosopher Voltaire"
-image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/voltaire.jpg"
+image-url="voltaire.jpg"
 source-url="https://www.biography.com/scholar/voltaire"
 %}
 
@@ -37,7 +37,7 @@ What specifically qualifies as history? Arguably, the biggest form of history is
   class="img-right"
   width="33%"
   caption="Greek Author Homer"
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Homer-artist.jpg"
+  image-url="Homer-artist.jpg"
   source-url="https://www.britannica.com/biography/Homer-Greek-poet"
 %}
 
@@ -81,7 +81,7 @@ Philosophy and science made Greece the starting point for the story of the [huma
   class="img-right"
   width="33%"
   caption="Philosopher Herodotus"
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Herodotus.jpg"
+  image-url="Herodotus.jpg"
   source-url="https://www.ancient.eu/herodotus/"
 %}
 
@@ -93,7 +93,7 @@ Philosophy and science made Greece the starting point for the story of the [huma
   class="img-right"
   width="33%"
   caption="Philosoper Thucydides"
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/thucydides.jpg"
+  image-url="thucydides.jpg"
   source-url="https://www.history.com/topics/ancient-history/thucydides"
 %}
 
