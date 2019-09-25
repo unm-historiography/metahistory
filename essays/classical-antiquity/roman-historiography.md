@@ -24,13 +24,6 @@ Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus]
 
 Roman historians faced a major challenge as they worked on their writings since most of Roman history was transmitted through [**oral traditions**](https://en.wikipedia.org/wiki/Oral_tradition "The act of orally passing down traditon and history from one generation to the next."). These oral histories been passed down from generation to generation so it's almost impossible to note what are the facts and what are the myths. Oral histories not only expressed the Roman historians limited number of written sources at their disposal but also the complication of having to determine what is fact and what is myth in a specific account.
 
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption="A painting by Roberto Bompiani representing the upper class of Roman society."
-  image-url="aromanfeast.jpg"
-  source-url="https://www.google.com/search?client=firefox-b-1-e&biw=1140&bih=752&tbm=isch&sa=1&ei=D9OLXezOMIvh-gS7556oDg&q=upper+class+of+roman+society&oq=upper+class+of+roman+society&gs_l=img.3...358490.363548..363850...1.0..0.181.1913.22j2......0....1..gws-wiz-img.......0i67j0j0i24j0i10i24j0i8i30.cPnOtxdvwPQ&ved=0ahUKEwiskq_q7OzkAhWLsJ4KHbuzB-UQ4dUDCAY&uact=5#imgrc=faybqX3aoQ070M:"
-%}
 Roman Historiography would have been something that remained limited to the upper classes of Roman society. During the time of the Roman Empire, only the elite would have had the access to upper levels of education and possessed the ability to read and write. Allowing the smallest percentage of the population the opportunity to focus their history on reflecting themselves and their ancestors while leaving out the majority of the population. The fact that historical writing remained a privilege of the upper class might allude to the propagandist tendencies and the nationalist approach that Roman historians have been characterized by. The ruling class would want to maintain their power and what better way to do that than by writing themselves into the history and development of the Roman Empire itself.
 
 All of these aspects impacted Roman Historiography in their own ways, some reaching far beyond the time of the Romans. This essay will focus on Roman historiography in terms of national histories and religion, as both held importance in Roman history.
