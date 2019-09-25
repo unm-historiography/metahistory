@@ -70,7 +70,7 @@ De Beauvoir, Simone, et al. *The Second Sex*. New York : Alfred A. Knopf, 2010
 cat05987a, Zimmerman Second Floor HQ1208 .
 
 Fenstermaker, Sarah. “Dividing the Domestic: Men, Women, and Household Work in Cross-
-National Perspective.” *Contemporary Sociology*, vol. 40, no. 2, 2011, pp. 233–35. WorldCat.org.
+National Perspective.” *Contemporary Sociology*, vol. 40, no. 2, 2011, pp. 233–35. WorldCat.org. 
 
 Green, Anna, and Kathleen Troup. *The Houses of History: A Critical Reader in Twentieth-
 Century History and Theory*. New York: New York University Press, 1999., 1999. Zimmerman Second Floor D13.2 H64 1999.
