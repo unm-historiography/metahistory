@@ -15,8 +15,8 @@ A time of enlightened thought, a time of _rational_ thought, a time of _reason_.
 {% include figure.html
   class="img-left"
   width="33%"
-  caption='William Blake's Newton (1795), depicted as a divine geometer.'
-  image-url="default.jpg"
+  caption="William Blake's Newton (1795), depicted as a divine geometer."
+  image-url="blake2.jpg"
   source-url="blake2.jpg"
 %}
 
