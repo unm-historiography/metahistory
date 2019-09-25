@@ -67,13 +67,13 @@ Bodin was a historian, lawyer, economist, and natural philosopher in the sixteen
   source-url="https://en.wikipedia.org/wiki/Juan_Luis_Vives#/media/File:LuisVives.jpg"
 %}
 
-The difficult part about history is the impossibility of proving dishonesty.  There are often times when there are many variations of the same event, "making history filled with impurities" (Kelley). A counter argument to that statement would be history is what it is because of impurities.  History brings a singular wisdom, but it isn’t without flaws.  History has been negatively influence by political gains, lust, greed, military glory, and/or religious ambition; "Sixteenth-century historians loved the idea of disposition of narrative, the requirements of cause, analysis and critical judgment, the need for impartiality, and the priority (neglected by the ancients) of truth over beauty.”(Kelley).  [Bartholomeus Keckerman](https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Keckermann) said history was a mode of arrangement, rather than subject matter.  He criticized disorganization, claiming history was only truthful when it was combined with other fields (economics and politics primarily).  This process was what began history’s metamorphosis from an art to a science.  Common previous sixteenth-century views only addressed particular facts, “lacking the status of particular truth”(Kelley).
+The difficult part about history is the impossibility of proving dishonesty.  There are often times when there are many variations of the same event, "making history filled with impurities" (Kelley). A counter argument to that statement would be history is what it is because of impurities.  History brings a singular wisdom, but it isn’t without flaws.  History has been negatively influence by political gains, lust, greed, military glory, and/or religious ambition; "Sixteenth-century historians loved the idea of disposition of narrative, the requirements of cause, analysis and critical judgment, the need for impartiality, and the priority (neglected by the ancients) of truth over beauty.”(Kelley).  [Bartholomaeus Keckerman](https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Keckermann) said history was a mode of arrangement, rather than subject matter.  He criticized disorganization, claiming history was only truthful when it was combined with other fields (economics and politics primarily).  This process was what began history’s metamorphosis from an art to a science.  Common previous sixteenth-century views only addressed particular facts, “lacking the status of particular truth”(Kelley).
 
 {% include figure.html
-  class="img-center"
+  class="img-right"
   width="33%"
-  caption="Bartholomeus Keckermam (1572 – 1608): German writer and philospher."
-  image-url="388px-Bartholomeus_Keckermann.jpg"
+  caption="Bartholomaeus Keckermam (1572 – 1608): German writer and philospher."
+  image-url="388px-Bartholomaeus_Keckermann.jpg"
   source-url="https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Keckermann#/media/File:Bartholomaeus_Keckermann.jpg"
  %} 
 
