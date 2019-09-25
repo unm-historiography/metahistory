@@ -26,6 +26,14 @@ Renaissance humanism had an interest in, and almost a devotion to, classical cul
 ### History as an Art
 Renaissance humanism created a genre of writing called the “arts of history.”  This type of writing studied the methods of famous authors; [Aristotle](https://www.britannica.com/biography/Aristotle), [Cicero](https://www.britannica.com/biography/Cicero), [Quintilian](https://www.britannica.com/biography/Quintilian), and more.  Much of the writings imitated ancient texts.  In addition to imitating these texts, humanist tended to elaborate on them as well.
 
+{% include figure.html
+  class="img-center"
+  width="33%"
+  caption="Jean Bodin"
+  image-url="381px-Jean_Bodin.jpg"
+  source-url="https://en.wikipedia.org/wiki/Jean_Bodin"
+%}
+
 Leonardo Bruni (1370-1444) was an Italian humanist who is famous for his [*History of the Florentine People*](https://books.google.com/books/about/History_of_the_Florentine_People_Books_I.html?id=rT28aN0xDHoC); which was considered one of the greatest works during the Renaissance. Bruni created a new style of writing during his time by trying to give readings more overall meaning, not just a word-for-word translation. Bruni used [Livy](https://www.britannica.com/biography/Livy) (59-17), a Roman hsitorian, as a model for his format, style, and language instead of the old medieval style of formatting.   Bruni paved the way for modern historiography, acknowledging the importance of history by saying 
 >“knowledge of the past gives guidance to our counsels and our practical judgment, and the consequences of similar undertakings [in the past] will encourage or deter us according to our circumstances in the present.”  
 
