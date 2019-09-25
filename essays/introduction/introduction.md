@@ -39,14 +39,6 @@ image-url="Herodotus.jpg"
 source-url="https://www.thoughtco.com/who-was-the-greek-historian-herodotus-118979"
 %}
 
-{% include figure.html
-class="img-right"
-width="49%"
-caption="Here's Thucydides on the right."
-image-url="Thucydides.jpg"
-source-url="https://www.thoughtco.com/pericles-funeral-oration-thucydides-version-111998"
-%}
-
 Following the theme of escaping western-centric tunnel vision, our collection dedicates scholarship to the post-colonial movement in historiography. **In this analysis, we show how deeply embedded colonial histories are entrenched within those of other nations; how western history permeates and often infiltrates the histories of local hosts in eastern and indigenous cultures.** Thinkers like Edward Said – a father of post-colonial history – advocated for ideas of “orientalism”, whereby non-centrist histories took center-stage. Other schools of thought, like subaltern historians led by Dipesh Chakrabarty and his fellow hisotrians at The University of Chicago, developed in response and became seen as more moderate in post-colonial studies. Chakrabarty thought it more prudent to recognize the existence of western bias, but appreciate its contributions for what they are, rather than deny their legacy, as some have accused Said and his followers (Popkin 2016, 146-148). _This movement of post-colonialism sparked a broader evolution into post-modern history, whereby intersectionality became more important to the modern scholar._
 
 Marginalized members of society, namely women and minorities, were the focus of post-modern scholarship. Our collection analyzes the controversial philosophies of Michel Foucault and his new perspectives on human sexuality and impossibility of truth; as well as women, gender, and the various waves of feminism. Looking from a 21st century perspective, our scholars look at the progress that has been made in the world of feminist history, even in comparing the post-modern movement from the start of the 1980s to now, a mere thirty years later. Historiography and gender have come a long way since academics first began framing the importance of women in history. In 1986, Joan W. Scott detailed the importance of including gender diversity in the historic record. However, _in reading her once-profound perspective, any millennial academic would be remiss not to notice her binary approach to the discussion._ In rethinking and rewriting gender history, the modern historian must consider the spectrum of genders and identities in order to be representative and most accurate.
