@@ -27,7 +27,7 @@ Renaissance humanism had an interest in, and almost a devotion to, classical cul
 Renaissance humanism created a genre of writing called the “arts of history.”  This type of writing studied the methods of famous authors; [Aristotle](https://www.britannica.com/biography/Aristotle), [Cicero](https://www.britannica.com/biography/Cicero), [Quintilian](https://www.britannica.com/biography/Quintilian), and more.  Much of the writings imitated ancient texts.  In addition to imitating these texts, humanist tended to elaborate on them as well.
 
 {% include figure.html
-  class="img-right"
+  class="img-Center"
   width="33%"
   caption="Leonardo Bruni"
   image-url="Leonardo_Bruni_2.jpg"
@@ -37,10 +37,8 @@ Renaissance humanism created a genre of writing called the “arts of history.�
 Leonardo Bruni (1370-1444) was an Italian humanist who is famous for his [*History of the Florentine People*](https://books.google.com/books/about/History_of_the_Florentine_People_Books_I.html?id=rT28aN0xDHoC); which was considered one of the greatest works during the Renaissance. Bruni created a new style of writing during his time by trying to give readings more overall meaning, not just a word-for-word translation. Bruni used [Livy](https://www.britannica.com/biography/Livy) (59-17), a Roman hsitorian, as a model for his format, style, and language instead of the old medieval style of formatting.   Bruni paved the way for modern historiography, acknowledging the importance of history by saying 
 >“knowledge of the past gives guidance to our counsels and our practical judgment, and the consequences of similar undertakings [in the past] will encourage or deter us according to our circumstances in the present.”  
 
-{% include figure.html class="img-right" src="Hercules and Iole.jpg" caption="King Eurytus insulted Hercules, and in revenge Hercules attacks the kingdom.  He captures Princess Iole, and sends her to Deianeira. Etched by Antonio Fantuzzi 1540-45"%}
 
-
-For humanists, history was a way to add structure to the world and to understand it better.  While truth was enhanced during the Renaissance, there were still doubts about how honest history was.  [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) (484-425)has been referred to as the father of history, but also the father of lies.  Scholars once looked up to Herodotus as one of the creators of history, but as time went on they questioned his approach.  This is one example of negative criticism towards the art of history.  Kelly expresses his concern with history, by saying it can, unfortunately, lead to the "admiration" of wrongdoers; like [Caesar](http://militaryhistory.about.com/od/battleswarsto1000/p/alesia.htm),[Hercules](http://www.perseus.tufts.edu/Herakles/labors.html), and [Cyrus](http://www.liquisearch.com/battle_of_thymbra) who acquired fame through unjust and often violent actions.
+For humanists, history was a way to add structure to the world and to understand it better.  While truth was enhanced during the Renaissance, there were still doubts about how honest history was.  [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) (484-425) has been referred to as the father of history, but also the father of lies.  Scholars once looked up to Herodotus as one of the creators of history, but as time went on they questioned his approach.  This is one example of negative criticism towards the art of history.  Kelly expresses his concern with history, by saying it can, unfortunately, lead to the "admiration" of wrongdoers; like [Caesar](http://militaryhistory.about.com/od/battleswarsto1000/p/alesia.htm),[Hercules](http://www.perseus.tufts.edu/Herakles/labors.html), and [Cyrus](http://www.liquisearch.com/battle_of_thymbra) who acquired fame through unjust and often violent actions.
 
 
 ### The Method of History
