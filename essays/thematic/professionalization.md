@@ -33,10 +33,10 @@ Focusing on objectiveness created a tendency to rely on political source materia
 
 {% include figure.html
   class="img-right"
-  width="33%"
-  caption="Mesa Vista Hall"
+  width="42%"
+  caption="A diagram of the basic principles of Eugenics"
   image-url="Eugenics_congress_logo.png"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="https://commons.wikimedia.org/wiki/Eugenics#/media/File:Eugenics_congress_logo.png"
 %}
 
 Another dangerous result of applying scientific methodology to history was the rise of narratives concerning racial purity and [eugenics](https://en.wikipedia.org/wiki/Eugenics). These “racial explanations were frequently advanced to justify historical developments such as [European imperial conquests](https://en.wikipedia.org/wiki/Imperialism#Imperialism_by_country) in the rest of the world, the [westward expansion of the United States](https://www.history.com/topics/westward-expansion/westward-expansion), and [slavery](https://www.history.com/topics/black-history/slavery) and [segregation](https://www.history.com/topics/black-history/segregation-united-states) in the American South” (Popkin, 2016, p. 88). This became a rampant feature of this time, which coupled with nationalist ideals to a devastating effect in the late 19th and early 20th century. Even though Ranke vehemently opposed the concept of a "total" or "grand" narrative that encompasses all of humanity, **he was often guilty of constructing these overarching narratives anyway** (Popkin, 2016, p. 82). This highlights a reoccurring theme during this period, the hypocrisy of the Rankean historian.
