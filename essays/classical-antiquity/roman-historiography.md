@@ -6,7 +6,7 @@ date: 2016-11-08 00:00:00
 ---
 {% include figure.html
   class="img-right"
-  width="49%"
+  width="42%"
   caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus. He was born is 126 AD and died in 126 c. "
   image-url="Tacitus.jpg"
   source-url="https://www.google.com/search?q=tacitus&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip05X75OzkAhXMuZ4KHWWiApIQ_AUIEigC&biw=1140&bih=752#imgrc=jyu9sdnd9wwdSM:"
