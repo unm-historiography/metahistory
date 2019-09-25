@@ -28,6 +28,14 @@ Those who would believe that by the unified methods of various collaborators a c
 
 ### **Michel Foucault**
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Michel Foucault Caption Trial"
+  image-url="kyleFoucault5.jpg"
+  source-url="https://en.wikipedia.org/wiki/Michel_Foucault"
+%}
+
 **Michel Foucault (1926-1984)** believed that the dissecction of meaning in history existed far beyond traditional models of analytical histories. One of many postmodernist historians, Foucault stood out as a particularly divisive figure. His writing is abstract, strange, and challenging; picking apart the intellectual structure of the world around him. To even bring Foucault into a discussion of historiography is challenging because of the chaotic nature of his own intellectualism. Gary Gutting’s *Foucault: A Very Short Introduction* compiles a short summary of Foucault’s own personal history, Gutting best felt that Foucault operated within nontraditional role of historical writing that was  Rebellious in nature, the histories Foucault wrote were reactionary to the internal frustrations and hardships that challenged him in his life. He targeted the accepted social behaviors and developments in the fields of medicine, psychiatry, sex, and crime, *“He always had an interest in and sympathy for those excluded by mainstream standards.”* (Gutting, pg. 24) Foucault felt strongly that society needed to begin questioning our histories through the conceptual categories we create for our own understanding. **What troubled Foucault was blind acceptance of learned conditions and instead challenged readers to begin examining the categorical bias we impose or simply allow in our daily lives.** It is his own personal philosophy that he translates into a historical approach that is unique among scholarship because it exists outside of standard meticulous source citation; instead Foucault lives within a conceptual realm of narrative; understanding his own narrative inserts a profound aspiration to celebrate isolated aspects of histories as meaningful lessons from the past.
 
 
