@@ -40,7 +40,7 @@ source-url="https://www.thoughtco.com/who-was-the-greek-historian-herodotus-1189
 %}
 
 {% include figure.html
-class="img-left"
+class="img-right"
 width="49%"
 caption="Here's Thucydides on the right."
 image-url="Thucydides.jpg"
