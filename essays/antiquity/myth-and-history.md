@@ -10,7 +10,7 @@ date: 2016-11-08 00:00:00
 According to author Donald R. Kelley, history emerged from myth and forced itself into stories and legends until it gained full insight (Kelley, 1) But when exactly did this happen? Was it during the time of [Machiavelli](https://unm-historiography.github.io/491-fall2016/essays/renaissance-historiography.html), the well-known Italian Renaissance historian? Or [Voltaire](https://www.britannica.com/biography/Voltaire), the famous French writer and historian during the [Enlightenment](https://unm-historiography.github.io/491-fall2016/essays/enlightenment-historiography-zak.html "mkgyui") era? Or is there an understanding of it still being gained in the current century? This question will probably never gain a definite answer. As long as there are people around to record it, the subject of history will forever be changing and gaining wisdom and knowledge by those studying and trying to perfect the art of crafting it (Kelley, 1). The main purpose of this essay is to take a closer look at how the mythologies of the ancient Egyptians and Greeks influenced their ways of writing history. It will also discuss a few of the key players that are attributed with the founding of history and the creation of what we now know as historiography.
 
 {% include figure.html
-class="img-left"
+class="img-right"
 width="30%"
 caption="Philosopher Machiavelli."
 image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Machiavelli.jpg"
@@ -18,7 +18,7 @@ source-url="https://www.iep.utm.edu/machiave/"
 %}
 
 {% include figure.html
-class="img-left"
+class="img-right"
 width="30%"
 caption="Philosopher Voltaire"
 image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/voltaire.jpg"
@@ -55,7 +55,7 @@ Historians have always attempted to relate human behavior and human nature with 
   class="img-right"
   width="33%"
   caption="palermo stone, one of the first examples by the ancient Egyptians used as a tool to record history "
-  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/palermostone11.jpg"
+  image-url="palermostone11.jpg"
   source-url="http://www.ancientpages.com/2016/04/15/palermo-stone-one-of-the-earliest-history-records-of-ancient-egypt/"
 %}
 
