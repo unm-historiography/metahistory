@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modern Chinese Historiography
+title: Chinese Historiography
 author: Alex Plymale
 date: 2018-05-11 00:00:00
 ---
