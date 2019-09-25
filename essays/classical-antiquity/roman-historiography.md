@@ -1,8 +1,9 @@
 ---
+layout:default
 title: Roman Historiography
 author: Louisa Schoeller
 editor: Karli Montoya
-date: 2019-25-09 
+date: 2019-09-25 
 ---
 
 {% include figure.html
