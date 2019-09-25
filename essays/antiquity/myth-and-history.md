@@ -13,7 +13,7 @@ According to author Donald R. Kelley, history emerged from myth and forced itsel
 class="img-right"
 width="33%"
 caption="Philosopher Machiavelli."
-image-url="Machiavelli.jpg"
+image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Machiavelli.jpg"
 source-url="https://www.iep.utm.edu/machiave/"
 %}
 
@@ -31,8 +31,7 @@ source-url="https://www.biography.com/scholar/voltaire"
 
 <p class="has-pullquote" data-pullquote="History is probably our myth. -Michel de Certeau"></p>
 
-What specifically qualifies as history? Arguably, the biggest form of history is myth. A [myth](https://www.merriam-webster.com/dictionary/myth) or traditional story by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example of this would be an epic poem, primarily associated with the ancient Greek author [Homer]( https://www.britannica.com/biography/Homer-Greek-poet#ref524682), in which they typically discuss heroic deeds and events that are significant to the culture of the poet. Lists of priests and kings are also important forms of recorded history, because they each kept track of significant people within various societies. Finally, the last noteworthy form of history is chronology, which observes the arrangement of events and keeps them all in order by the dates they occurred on. All of these genres became a form of history before the term and concept of "history" even existed (Kelley, 3). Another point that Kelley makes is that we are never fully able to see past our own prejudices with either history or myth, but when it comes to "working on myth" or "historicizing", our prejudices allow us to remain critical of our work and question the sources we are using. Without our deepest prejudices  in our minds, we wouldn't be able to write history in the clearest way possible, especially when including mythologies in the mix (Kelley, 1).
-
+What specifically qualifies as history? Arguably, the biggest form of history is myth. A [myth](https://www.merriam-webster.com/dictionary/myth) or traditional story by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example of this would be an epic poem, primarily associated with the ancient Greek author [Homer]( https://www.britannica.com/biography/Homer-Greek-poet#ref524682), in which they typically discuss heroic deeds and events that are significant to the culture of the poet. 
 {% include figure.html
   class="img-right"
   width="33%"
@@ -40,6 +39,17 @@ What specifically qualifies as history? Arguably, the biggest form of history is
   image-url="Homer-artist.jpg"
   source-url="https://www.britannica.com/biography/Homer-Greek-poet"
 %}
+Lists of priests and kings are also important forms of recorded history, because they each kept track of significant people within various societies. Finally, the last noteworthy form of history is chronology, which observes the arrangement of events and keeps them all in order by the dates they occurred on. All of these genres became a form of history before the term and concept of "history" even existed (Kelley, 3). Another point that Kelley makes is that we are never fully able to see past our own prejudices with either history or myth, but when it comes to "working on myth" or "historicizing", our prejudices allow us to remain critical of our work and question the sources we are using. Without our deepest prejudices  in our minds, we wouldn't be able to write history in the clearest way possible, especially when including mythologies in the mix (Kelley, 1).
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Greek Author Homer"
+  image-url="Homer-artist.jpg"
+  source-url="https://www.britannica.com/biography/Homer-Greek-poet"
+%}
+
+
+
 
 ### The Art of Writing History
 
@@ -74,7 +84,7 @@ Historians have always attempted to relate human behavior and human nature with 
 
 Philosophy and science made Greece the starting point for the story of the [human condition]( https://unm-historiography.github.io/491-fall2016/essays/universal-histories.html) in time (Kelley, 13). Proto-historiographical forms of writing in Greek culture included: **Genealogy**, a line of descent traced continuously from a specific ancestor. **Geography**, the study of human activity, including the distribution of populations and resources over time, **Ethnography**, the scientific description of the customs of different cultures and groups of people, and **local history**, the study of the patterns and behavior of the people in one’s own community. Like the Egyptians, the Greeks also expressed an interest in **chronology**. The objective for many of the first Greek historiographers was to go back as far as they possibly could, and attempt to combine both mythological events from the past with more recent events. By doing this, they were attempting to create a more harmonized chronology of their culture (Calame, 19). [Hellanicus] (https://www.britannica.com/biography/Hellanicus-of-Lesbos), a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the mythical aspects from his work to make it more historically accurate (Kelley, 15). This tells us that although the ancient Greeks were aware of the issues of myth early on, it was sometimes so difficult to break away from including it in their histories, that many had to ultimately abandon their work. Some examples of Greek mythology in literature that are still important today include both myths and teachings about Greek gods and heroes (think back to _Homer_), as well as the origins and importance of their own rituals and culture, and the nature of the world.
 
-#### Herodotus and the Founding of History
+#### Herodotus and the Founding of History ###
 {% include figure.html
   class="img-right"
   width="33%"
