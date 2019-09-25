@@ -5,12 +5,19 @@ subtitle: The Foundation of Modern Historical Methodology
 author: Alex Nocella
 date: 2016-11-08 00:00:00
 ---
-
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Early pre historian Homer,author of the Illiad and Odyssey"
+  image-url="Homer.jpg"
+  source-url="https://www.biography.com/writer/homer"
+%}
 The interest in the study of history can be traced back to the Greeks as bards and poets traveled around the Mediterranean before knowledge was recorded.  Historical tradition in the ancient Greek world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons, mainly because most people were illiterate. Since there is so little left, it is hard to determine how people thought about their history. To determine how the early Greeks through about history, us historians must look at their concepts of **historiography**, or the history of history. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean (commonly referred to as Greeks) recorded “history” assumes the form of what we call today “epic poetry.”
 
 **Homer, the First Greek Historian**
 
 [Homer]([https://en.wikipedia.org/wiki/Homer](https://en.wikipedia.org/wiki/Homer))’s[ _Illiad_]([https://en.wikipedia.org/wiki/Iliad](https://en.wikipedia.org/wiki/Iliad)) and [_Odyssey_]([https://en.wikipedia.org/wiki/Odyssey](https://en.wikipedia.org/wiki/Odyssey)) became the standard for recording events so they would not be forgotten. According to [**Dr. Andreas Karatsolis**](http://cmsw.mit.edu/profile/andreas-karatsolis), Homer “may have been the only person who took these oral narratives and turned them into books.” Recording of a historically significant narrative took place later and broke away from the Homeric tradition of epic poetry but still retained the spiritual tone and content of Greek mythological tradition. It is due to this work of later writers that we get a glimpse into the thoughts of these early thinkers and how they thought about the past. The writings of Homer reflect other early thinkers on how history was focused on wars, battles and the reigns of leaders.
+
 
 **The Father of History: Finally, Someone Writes Some History NOT in Lyric Form!**
 
@@ -39,3 +46,16 @@ Polybius must have seen the writing on the wall in his practice of using **archa
 **Moving Forward while Looking Back: Do Not Try This While Driving!**
 
 Although Herodotus and Thucydides contributed significantly to historiographical practice in general, they did very little to develop the practice in theoretical terms. Their methodologies are based on the ideas of history over space and time rather than an overt desire to create paradigms about how to practice historiography, though their ideas and practices themselves would hold significant value in the later development of historiography as a scientific discipline of its own. Their ideas concluded, in part, that history is ultimately inclusive of a host of other human-centric sciences like political philosophy, geography, theology, etc. As historiography and historical inquiry continued to develop as a historical discipline with its own intrinsic value, historians like Polybius and others that later ‘practiced’ in his method began to lend the makings of theoretical and scientific validity to history and historiography as academic disciplines. All the while within the practice of history itself, literary style, political influence and analysis, and religious and moral inclinations and implications developed as concerns with in the methodology of historical inquiry. These narratives all seemed to lay a foundation on which later Roman historians would build a nationalist vision of history that incorporated the practices of the Greek world and set Rome apart as a [“city on a hill.”](http://www.ushistory.org/us/3c.asp)
+
+
+## Conciser This 
+
+ - What information can be lost from switching from Oral traditions to writing?
+ - Can mythology and history work side by side and still be accurate? Explain.
+ - What do historians loose when we choose to just write the facts?
+
+## Further Reading
+- Victor Castellani "_Beginnings of Ancient Greek History and Historiography_" 
+- Thomas F. Scanlon "_Greek Historiography_"
+
+-[ Myth and History ](https://unm-historiography.github.io/intro-guide/essays/antiquity/myth-and-history)
