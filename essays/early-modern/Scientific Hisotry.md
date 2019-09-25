@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientific History
+title: Scientific Hisotry 
 subtitle: Approaching A New Genre of History
 author: McKenzie Manwill
 date: 2016-11-19 00:00:00
@@ -28,7 +28,7 @@ Renaissance humanism created a genre of writing called the “arts of history.�
 
 {% include figure.html
   class="img-Center"
-  width="33%"
+  width="50%"
   caption="Leonardo Bruni"
   image-url="Leonardo_Bruni_2.jpg"
   source-url="https://commons.wikimedia.org/wiki/Leonardo_Bruni#/media/File:Leonardo_Bruni_2.jpg"
@@ -59,6 +59,15 @@ Bodin was a historian, lawyer, economist, and natural philosopher in the sixteen
 
 
 The difficult part about history is the impossibility of proving dishonesty.  There are often times when there are many variations of the same event, "making history filled with impurities" (Kelley). A counter argument to that statement would be history is what it is because of impurities.  History brings a singular wisdom, but it isn’t without flaws.  History has been negatively influence by political gains, lust, greed, military glory, and/or religious ambition; "Sixteenth-century historians loved the idea of disposition of narrative, the requirements of cause, analysis and critical judgment, the need for impartiality, and the priority (neglected by the ancients) of truth over beauty.”(Kelley).  [Bartholomeus Keckerman](https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Keckermann) said history was a mode of arrangement, rather than subject matter.  He criticized disorganization, claiming history was only truthful when it was combined with other fields (economics and politics primarily).  This process was what began history’s metamorphosis from an art to a science.  Common previous sixteenth-century views only addressed particular facts, “lacking the status of particular truth”(Kelley).
+
+{% include figure.html
+  class="img-Center"
+  width="33%"
+  caption="Bartholomeus Keckermam (1572 – 1608): German writer and philospher."
+  image-url="388px-Bartholomeus_Keckermann.jpg"
+  source-url="https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Keckermann#/media/File:Bartholomaeus_Keckermann.jpg"
+ %}
+
 
 History alone was not a science; it had to be applied to reason first and had no further meaning than what it described.  Only through reason could sixteenth-century humanists use history as a science; there had to be a reason why the Trojans opened the doors to let the wooden horse into their city, otherwise it is just a list of events.  According to Jean Bodin, history was divided into three laws; human, nature, and divine.
 
