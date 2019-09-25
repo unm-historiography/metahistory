@@ -30,17 +30,40 @@ Bring up a browser window of our [intro-guide repository](https://github.com/unm
 
 It is much faster to drag and drop multiple files at once, since after you commit a new image, you end up at the repository home page (not the images folder).
 
+Remember to click the green "Commit Changes" button to upload your image (just dragging and dropping does not commit the file).
+
 
 ## Image Code
 As mentioned, we use a small block of code to help us keep the display of images and captions consistent and flexible.
 
 Again, all you need to do to get images on your essay page is to copy and paste the code from the gray box onto your page wherever you want the image to appear, and adjust the parameters.
 
-The parameters are self explanatory, with the possible exception of:
+
+### Edit parameters
+The parameters (class, width, caption) are self explanatory, but note that:
 - `image-url` is the ONLY the filename of the image.
-- It DOES NOT need to start with `images/` as we saw originally.
+- It MUST NOT start with `images/` as we saw originally.
 - `source-url` is the URL of wherever you got the image.
 
+Make sure what's in the code and your file name as it appears in the repository MATCH EXACTLY.
+
+### Double check and commit your changes
+Double check that you have:
+- the `{%` and `%}` at the beginning and end of your code block
+- matching double quotation marks for all your parameters
+- a PERFECT EXACT match between your image filename and what's in the `image-url` field.
+- Use the green button to commit your changes as always.
+
+### Check your work
+Wait a few minutes, then reload/refresh your essay's webpage. Your images should appear. If they do not, either you need to wait a little longer or you made a mistake with the code. Better to wait a little more before experimenting with code changes, which might not be necessary.
+
+### Troubleshooting
+If you've waited more than 5 minutes and your image is still not appearing, you probably made a silly typo somewhere and you have to find it.
+- Most common problem is a mismatch between image filename and what you put in the `image-url` field.
+- Relatedly, double check you filename extension---it might be `jpg` or `jpeg` or `png`. Make sure your code and the filename match EXACTLY.
+- Double check your code against the model for a missing quote or bracket.
+- Make sure you do not have double quotes anywhere in your caption.
+- Make sure your files are in the `/essays/images` folder in our repository.
 
 
 ### Standard Usage
@@ -76,7 +99,7 @@ To achieve the above half-width image, use:
 class="img-left"
 width="50%"
 caption="Obviously we need a 50% image somewhere."
-image-url="Augustine_Lateran"
+image-url="Augustine_Lateran.jpg"
 source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
 %}{%endraw%}
 ```
