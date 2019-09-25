@@ -5,12 +5,7 @@ author: Lauren Ball
 date: 2016-11-19 00:00:00
 ---
 
-{ % include figure.html
-  class="img-center"
-  width="100%"
-  caption="Historical Value of Film"
-  image-url="Film_History_Banner.jpeg"
-  source-url="https://raw.githubusercontent.com/unm-historiography/intro-guide/master/essays/images/Film_History_Banner.jpeg }
+
 
 Film as an academic medium for historiography has several advantages over textual sources. **The phrase, “a picture is worth a thousand words” comes to mind; if this is so, then film’s value for history should be self-evident.** When watching a film or documentary, the average viewer is immersed in a moment in history in a way that reading a text could never accomplish. When viewing film through a historian’s lens, we can be more objective in our observations of footage from the past. As historians, we can identify that the events being filmed did indeed happen, assuming the footage wasn’t doctored. We must recognize however, that humans are creatures ruled by their senses. We interact with the world visually, thus it makes sense for a visual medium to have a more profound emotional impact on us. Still images via photography can capture iconic moments which on their own can alter the “course of history”. Films about history bring the “past to life” and helps viewers better relate to the characters or events of that past. Narratives within film can be powerful motivators and allow filmmakers and historians to more fully engage with their audience. **Non-textual sources such as film and photography are therefore uniquely positioned to communicate the emotional impact of historical events and for historiography, their value cannot be understated.** I will discuss film specifically in this essay, both its advantages for history as well as the criticisms against it. I will argue that like historical texts and novels, it does not matter if film as history cannot be proven to be 100% accurate. What matters most are the emotions and thoughts films invoke, the narratives and stories filmmakers and historians choose to remember and value.
 
