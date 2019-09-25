@@ -59,6 +59,15 @@ Both Livy and Julius Caesar take on this national history form in order to conve
 
 **Roman Religion, Christianity, and Historiography**
 
+{% include figure.html
+  class="img-centere"
+  width="50%"
+  caption="Depiction of the all Powerfu; God Jupiter. "
+  image-url="Jupiter.jpg"
+  source-url="https://www.google.com/search?client=firefox-b-1-e&biw=1140&bih=752&tbm=isch&sa=1&ei=5dqLXYPbA4X7-gTH_ZTICw&q=jupiter+roman+god&oq=jupiter+roman+god&gs_l=img.3..0l10.97842.99431..99556...0.0..0.85.764.10......0....1..gws-wiz-img.......0i67.rywGFp64aMI&ved=0ahUKEwjD4cam9OzkAhWFvZ4KHcc-BbkQ4dUDCAY&uact=5#imgrc=gOXqiibl8TK8uM:"
+%}
+
+
 Early Roman civilization is known to be a polytheistic society. A polytheistic society is known as a society that believes in more than one God. Their deities include Jupiter (better known as Zeus in Greek Mythology), Venus (Aphrodite), and Mars (Ares). The Romans believed that every aspect of their lives, their actions, and their successes were dependent upon the happiness of their gods. *They believed that the gods and goddesses played a significant role in the course of their lives and the success of the empire.* Their religious beliefs and superstitions would have carried over into their political and military lives/decisions, so why would their religion not impact their history?
 
 Considering how important and central their religion was to the Romans, it can be surprising that it is not one of the focused upon or emphasized themes in their historical writings. Roman religion believed in and placed value on the idea of omens or hints from the heavens when trying to make any big decisions as they were seen a guidance from the deities above.
