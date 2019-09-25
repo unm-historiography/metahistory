@@ -9,7 +9,15 @@ date: 2016-11-08 00:00:00
   width="49%"
   caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus. He was born is 126 AD and died in 126 c. "
   image-url="Tacitus.jpg"
-  source-url="https://www.bing.com/images/search?q=tacitus+the+roman+historian&id=1CB2DA0892158F13B52237C4ACC7B09BC767738D&s=1&view=detailv2&rtpu=%2fsearch%3fq%3dtacitus+the+roman+historian&FORM=IEQNAI"
+  source-url="https://www.google.com/search?q=tacitus&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip05X75OzkAhXMuZ4KHWWiApIQ_AUIEigC&biw=1140&bih=752#imgrc=jyu9sdnd9wwdSM:"
+%}
+
+{% include figure.html
+  class="img-left"
+  width="49%"
+  caption="Livy, a famous Roman Historian who was influenced by Greek Philosophers. He was born between 59 and 64BC and died in 17AD.  "
+  image-url="Livy.jpg"
+  source-url="https://www.google.com/search?q=livy+roman+historian&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs6JeD4ezkAhWGnp4KHSHWDbwQ_AUIEigC&biw=1920&bih=929#imgrc=mdGekKmdjnghpM:"
 %}
 
 Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus](https://www.britannica.com/biography/Tacitus-Roman-historian) were influenced by greek historians like Herodutus and Thucydides whome you read about in [Greek Historiography](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html). Their approaches to history would eventually 'evolve' into national histories, as a majority of their Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
