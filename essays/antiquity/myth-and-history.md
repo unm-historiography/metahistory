@@ -13,7 +13,7 @@ According to author Donald R. Kelley, history emerged from myth and forced itsel
 class="img-right"
 width="33%"
 caption="Philosopher Machiavelli."
-image-url="machiavelli.jpg"
+image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Machiavelli.jpg"
 source-url="https://www.iep.utm.edu/machiave/"
 %}
 
