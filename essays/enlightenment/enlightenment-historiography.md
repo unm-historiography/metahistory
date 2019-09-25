@@ -20,7 +20,6 @@ A time of enlightened thought, a time of _rational_ thought, a time of _reason_.
   source-url=blake2.jpg
 %}
 
-{% include figure.html class="img-left" src="blake2.jpg" caption="William Blake's Newton (1795), depicted as a divine geometer." %}
 
 
 ### The Master Science
