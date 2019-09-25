@@ -17,6 +17,14 @@ section: Instructions
       - title: Code Samples
         url: /4271_2 Universal History.jpg
         
+ {% include figure.html
+  class="img-right"
+  width="33%"
+  caption="The tributaries that all lead to the ocean of one history"
+  image-url="4271_2 Universal History.jpg"
+  source-url="https://www.jamesarsenault.com/pages/books/4271/friedrich-strass-m-d-r-s-fisher/stream-of-time-or-chart-of-universal-history-from-the-original-german-of-strass/?soldItem=true"
+%} 
+        
        
 ### Ancient Narratives
 Universal history as a discrete field is a relatively modern concept, yet the "idea" of universality can be traced further back. In mythic poetry we can see human themes which transcend the particulars, such as the struggle to return home, which is why Homer's Odyssey is still pertinent today.Furthermore, philosophers central to Grecian thought, used history as a rhetorical tool, source of discussion, and spoke of universal themes. Despite the limits of Grecian perspectives, we can see universal elements to their writings. Meanwhile, Rome, as both the subject of Greek writers from its own historians, exemplifies the trend of *transmitting* a universal message.
