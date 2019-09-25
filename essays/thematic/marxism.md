@@ -9,7 +9,7 @@ date: 2019-09-24
 class="img-left"
 width="35%"
 Caption="_The Manifesto of the Communist Party_, (1848), was the clarion call for oppressed factory workers across Russia and all of Europe to rise up and exert their power against industrialist and capitalism."
-image-url="CommunistManifesto1910_TP"
+image-url="CommunistManifesto1910_TP.jpg"
 source-url="https://oll.libertyfund.org/pages/marx-manifesto"
  %}
 Looking at the historical and political events of our lifetime, **socialism has become inextricably ingrained in our lives** at nearly every conceivable level and turn.  The rise of this phenomenon can be squarely attributed to one man: Karl Marx.  With the publication of the _Manifesto of the Communist Party_ (1848), Marx laid the groundwork for a radical new view of the world and man’s interaction within it.  First, an examination of the history preceding Marx and his work is needed to better understand the nature and significance of his vision and later effects on Europe.
