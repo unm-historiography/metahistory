@@ -35,7 +35,7 @@ We see this frequently in the Southwest United States, where the indigenous peop
   class="img-right"
   width="33%"
   caption="As a founding member of the Communist Party in Italy, Gramsci was an extremely prolific and influential thinker during the  Moussolini years. His works analyze topics from economics, education, religion, and the culture, among others. "
-  image-url="images/Gramsci.png"
+  image-url="Gramsci.png"
   source-url="https://en.wikipedia.org/wiki/Antonio_Gramsci"
 %}
 First laid out by Italian neo-Marxist philosopher [Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci), **the Subaltern approach reexamines colonialism through modern scientific methods like research and study**. Where history was written from the perspective of a small elite class during colonialism, the Subaltern approach aims to rewrite it from multiple perspectives, including the perspectives of the subjugated peoples _(Houses, 283)_. In this method, representation is a key concern. 
@@ -52,7 +52,7 @@ The academic world is split on the issue of whether it is possible, let alone ac
   class="img-right"
   width="33%"
   caption="Born in Calcutta in 1942, Gayatri Chakravorty Spivak is a prominent feminist critic and postcolonialist scholar who teaches at Columbia University."
-  image-url="images/Spivak.jpg"
+  image-url="Spivak.jpg"
   source-url="https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak"
 %}
 Other areas of the academic community see no problem with historians with outside perspectives writing postcolonial histories. In “Questions of Multi-culturalism,” author [Gayatri Chakravorty Spivak](https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak) argues to this end _(62-3)_. Histories of this inclination tend to align themselves more with the perspective that postcolonial history should be written with subaltern methods. Because the subaltern type of postcolonialism is not necessarily geared towards returning colonized peoples to their pre-colonial pasts, it is less important what the historian’s personal background is. What is more important is how they deal with their personal biases. While it is impossible to ever write a completely unbiased history, it is still important for historians writing postcolonial history to be aware of their own biases and not allow them to interfere in their narrative. For this type of postcolonial narrative, the question of who writes it is not nearly as important as if it is written fairly or not.
