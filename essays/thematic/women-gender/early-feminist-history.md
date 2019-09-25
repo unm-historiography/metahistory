@@ -75,8 +75,7 @@ National Perspective.” *Contemporary Sociology*, vol. 40, no. 2, 2011, pp. 233
 Green, Anna, and Kathleen Troup. *The Houses of History: A Critical Reader in Twentieth-
 Century History and Theory*. New York: New York University Press, 1999., 1999. Zimmerman Second Floor D13.2 H64 1999.
 
-Kelly, Joan. Women, *History & Theory: The Essays of Joan Kelly*. University of Chicago Press,
-1984.WorldCat.org
+Kelly, Joan. Women, *History & Theory: The Essays of Joan Kelly*. University of Chicago Press, 1984.
 
 Scott, Joan W. “Gender: A Useful Category of Historical Analysis.” *American Historical
 Review*, vol. 91, no. 5, 1986, pp. 1053–75.
