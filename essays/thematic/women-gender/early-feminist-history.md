@@ -76,7 +76,7 @@ Green, Anna, and Kathleen Troup. *The Houses of History: A Critical Reader in Tw
 Century History and Theory*. New York: New York University Press, 1999., 1999. Zimmerman Second Floor D13.2 H64 1999.
 
 Kelly, Joan. Women, *History & Theory: The Essays of Joan Kelly*. University of Chicago Press,
-1984. WorldCat.org
+1984.WorldCat.org
 
 Scott, Joan W. “Gender: A Useful Category of Historical Analysis.” *American Historical
 Review*, vol. 91, no. 5, 1986, pp. 1053–75.
