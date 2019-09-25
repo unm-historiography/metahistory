@@ -11,9 +11,9 @@ According to author Donald R. Kelley, history emerged from myth and forced itsel
 
 {% include figure.html
 class="img-right"
-width="30%"
+width="32%"
 caption="Philosopher Machiavelli."
-image-url="Machiavelli.jpg"
+image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Machiavelli.jpg"
 source-url="https://www.iep.utm.edu/machiave/"
 %}
 
@@ -21,7 +21,7 @@ source-url="https://www.iep.utm.edu/machiave/"
 class="img-right"
 width="30%"
 caption="Philosopher Voltaire"
-image-url="voltaire.jpg"
+image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/voltaire.jpg"
 source-url="https://www.biography.com/scholar/voltaire"
 %}
 
@@ -47,17 +47,18 @@ The ability to write history effectively involves three important factors: **sco
 
 ### The Ancient Egyptians
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="palermo stone, one of the first examples by the ancient Egyptians. It was used as a tool to record history "
+  image-url="palermostone11.jpg"
+  source-url="http://www.ancientpages.com/2016/04/15/palermo-stone-one-of-the-earliest-history-records-of-ancient-egypt/"
+%}
+
 {% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Figure 1: Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)" %}
 
 Historians have always attempted to relate human behavior and human nature with its environment, which also includes social and natural contexts that help to locate and distinguish it from other cultures and communities (Kelley, 8). The ancient Egyptians are considered one of the main groups who have supplied many examples of historical inquiry and interpretations for historians over the course of time because they were a society that held a vast interest in the origins of the universe. More specifically, the ancient Egyptians placed great value in their gods, genealogies, chronologies, victories over their enemies, and the afterlife. The [Palermo Stone](http://archaeology.about.com/od/oldkingdom/fl/The-Palermo-Stone-Key-to-Old-Kingdom-Egypt-Royal-Families.htm) is one example of their efforts to record their history. The stone contains inscriptions of regnal lists on one of six fragments of a giant slab. If the slab were to be put back together today, it would undoubtedly contain a series of [annals](https://www.merriam-webster.com/dictionary/annals), in which, it would display the most prominent events of ancient Egyptian culture up to the middle of the fifth dynasty, which would  include monarchs, important festivals, and even information on the Nile River (Brown, 10).  Social memory during the time of the ancient Egyptians was embodied in architecture and funeral remains. Pyramids and monuments (such as the Palermo Stone) were also used as a way of recording ancient Egyptian myths, which ultimately aided in the preservation of memories (Kelley, 13-14).
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="palermo stone, one of the first examples by the ancient Egyptians used as a tool to record history "
-  image-url="palermostone11.jpg"
-  source-url="http://www.ancientpages.com/2016/04/15/palermo-stone-one-of-the-earliest-history-records-of-ancient-egypt/"
-%}
 
 #### The Methods of Manetho
 
@@ -75,27 +76,28 @@ Philosophy and science made Greece the starting point for the story of the [huma
 
 #### Herodotus and the Founding of History
 
-[Herodotus](http://www.krauselabs.net/writings/herodotus-father-of-history/), known as the "father of history" and the "father of lies," was a Greek historian who greatly enjoyed recording history by means of story-telling. The fact that he was a little too ambitious with his writings and made up many inaccurate details about different cultures heavily links him to the subjects of both myth and history. He was, however, the first historian to systematically collect sources, test the legitimacy of them (to an extent), and arranged his materials into well-constructed narratives/tales. He was also the first person to present the concept of a [thesis](https://www.dictionary.com/browse/thesis) into his writings. His large-scale historical narrative has managed to survive throughout the centuries, and still influences the ways in which history is recorded today (Kelley, 2-6). Herodotus was born in the Greek city of Halicarnassus in the year 484 BC to a wealthy merchant family. As an adult, he spent most of his time traveling through many Persian territories including Egypt, Babylon, Syria, and Palestine. Herodotus made a point of keeping track of and recording all the different myths, legends, and oral histories from the countries he visited. He spent the majority of his life working on [*The Histories*](https://en.wikipedia.org/wiki/Histories_(Herodotus)), originally published in 440 BC. In his works, Herodotus attempted to explain why the [Persian Wars](https://www.ancient.eu/Persian_Wars/) happened, or more specifically, what exactly caused both sides to want to fight against one another. He tried to explain the how and the why of the Persian Wars by giving firsthand accounts of the events of the war, but he also included myths and legends that he had recorded during his travels with his historical writings. Although it can be interpreted that Herodotus did realize that the memories and stories that he was writing down were not always entirely true, he believed nonetheless, that they needed to be told so that they would be preserved for others to inquire about in the future (Mali, 1).
-
 {% include figure.html
   class="img-right"
   width="33%"
   caption="Philosopher Herodotus"
-  image-url="Herodotus.jpg"
+  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Herodotus.jpg"
   source-url="https://www.ancient.eu/herodotus/"
 %}
 
-#### Thucydides and the Perfecting of History
+[Herodotus](http://www.krauselabs.net/writings/herodotus-father-of-history/), known as the "father of history" and the "father of lies," was a Greek historian who greatly enjoyed recording history by means of story-telling. The fact that he was a little too ambitious with his writings and made up many inaccurate details about different cultures heavily links him to the subjects of both myth and history. He was, however, the first historian to systematically collect sources, test the legitimacy of them (to an extent), and arranged his materials into well-constructed narratives/tales. He was also the first person to present the concept of a [thesis](https://www.dictionary.com/browse/thesis) into his writings. His large-scale historical narrative has managed to survive throughout the centuries, and still influences the ways in which history is recorded today (Kelley, 2-6). Herodotus was born in the Greek city of Halicarnassus in the year 484 BC to a wealthy merchant family. As an adult, he spent most of his time traveling through many Persian territories including Egypt, Babylon, Syria, and Palestine. Herodotus made a point of keeping track of and recording all the different myths, legends, and oral histories from the countries he visited. He spent the majority of his life working on [*The Histories*](https://en.wikipedia.org/wiki/Histories_(Herodotus)), originally published in 440 BC. In his works, Herodotus attempted to explain why the [Persian Wars](https://www.ancient.eu/Persian_Wars/) happened, or more specifically, what exactly caused both sides to want to fight against one another. He tried to explain the how and the why of the Persian Wars by giving firsthand accounts of the events of the war, but he also included myths and legends that he had recorded during his travels with his historical writings. Although it can be interpreted that Herodotus did realize that the memories and stories that he was writing down were not always entirely true, he believed nonetheless, that they needed to be told so that they would be preserved for others to inquire about in the future (Mali, 1).
 
-[Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian), known as the "second founding father of history," concentrated his efforts on politics and the military. His writings on the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War) rejected the story-telling narrative that Herodotus was so fond of, and eventually coined the term the [Thucydidean Model](https://www.history.com/topics/ancient-history/thucydides), which included eyewitness testimony, personal experience, and observable facts (amongst other things) as a way of recording history. He approached his studies in a more analytical manner, thus allowing his readers to come up with their own conclusions from his works. Thucydides can be seen as the first historian who really attempted to distinguish myth from history through his work (Kelley, 2-6). Not much is known about Thucydides except for what is mentioned in his own works. He was born in the year 460 BC in Halimos, a suburb of Athens. In 424 BC, he was put in charge of a military fleet, but failed to reach the city of Amphipolis in time to stop the [Spartans](https://www.ancient.eu/sparta/) from seizing it, and was exiled for 20 years. It was during these 20 years that Thucydides was able to research, collect data, and really perfect his historical analysis of the *Peloponnesian War*. Unlike Herodotus, Thucydides makes little to no references of the interference of the Greek gods in important historical events, instead choosing to look specifically at the human causes of war and conflict. By using this method, he determined that the only logical reason for Athens falling to the Spartans was because of poor leadership and his societies moral decline. Arguably, it was Thucydides who set the path for future historiographers who concerned themselves with only recording what they believed to be true and disregarding anything that could not be proven through a series of tactics created to attain the facts.   
+
+#### Thucydides and the Perfecting of History
 
 {% include figure.html
   class="img-right"
   width="33%"
   caption="Philosoper Thucydides"
-  image-url="thucydides.jpg"
+  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/thucydides.jpg"
   source-url="https://www.history.com/topics/ancient-history/thucydides"
 %}
+[Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian), known as the "second founding father of history," concentrated his efforts on politics and the military. His writings on the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War) rejected the story-telling narrative that Herodotus was so fond of, and eventually coined the term the [Thucydidean Model](https://www.history.com/topics/ancient-history/thucydides), which included eyewitness testimony, personal experience, and observable facts (amongst other things) as a way of recording history. He approached his studies in a more analytical manner, thus allowing his readers to come up with their own conclusions from his works. Thucydides can be seen as the first historian who really attempted to distinguish myth from history through his work (Kelley, 2-6). Not much is known about Thucydides except for what is mentioned in his own works. He was born in the year 460 BC in Halimos, a suburb of Athens. In 424 BC, he was put in charge of a military fleet, but failed to reach the city of Amphipolis in time to stop the [Spartans](https://www.ancient.eu/sparta/) from seizing it, and was exiled for 20 years. It was during these 20 years that Thucydides was able to research, collect data, and really perfect his historical analysis of the *Peloponnesian War*. Unlike Herodotus, Thucydides makes little to no references of the interference of the Greek gods in important historical events, instead choosing to look specifically at the human causes of war and conflict. By using this method, he determined that the only logical reason for Athens falling to the Spartans was because of poor leadership and his societies moral decline. Arguably, it was Thucydides who set the path for future historiographers who concerned themselves with only recording what they believed to be true and disregarding anything that could not be proven through a series of tactics created to attain the facts.   
+
 
 ### Truth, Memory, and the Issues They Pose
 
