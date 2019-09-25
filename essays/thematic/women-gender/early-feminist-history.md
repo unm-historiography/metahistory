@@ -59,7 +59,7 @@ Feminist historians would contribute a **significant** amount to the push toward
 
 During the early development of postmodernism, second-wave feminism took hold of society. Not only would second-wave feminism change the way that society viewed women of the present, but also how they viewed female agency of the past. While many remnants of previous thought were kept in the field of historiography, postmodernism would fundamentally change the way that historians viewed the past.
 
-Second-wave feminism would fundamentally **transform** historiography by forcing historians to break free from traditional ways of thinking. Along with this, it would also bring to light the singular male lens that society had been viewed through. Both of these changes led historians to continually question their biases, as well as opening historiography's doors to new and different perspectives. Both were a much needed breathe of fresh air in the realm of historiography.
+Second-wave feminism would fundamentally **transform** historiography by forcing historians to break free from traditional ways of thinking. Along with this, it would also bring to light the singular male lens that society had been viewed through. Both of these changes led historians to continually question their biases, as well as opening historiography's doors to new and different perspectives. Both were a much needed breathe of fresh air in the realm of historiography. 
 
 ### Bibliography
 
