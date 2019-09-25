@@ -27,11 +27,11 @@ Renaissance humanism had an interest in, and almost a devotion to, classical cul
 Renaissance humanism created a genre of writing called the “arts of history.”  This type of writing studied the methods of famous authors; [Aristotle](https://www.britannica.com/biography/Aristotle), [Cicero](https://www.britannica.com/biography/Cicero), [Quintilian](https://www.britannica.com/biography/Quintilian), and more.  Much of the writings imitated ancient texts.  In addition to imitating these texts, humanist tended to elaborate on them as well.
 
 {% include figure.html
-  class="img-center"
+  class="img-right"
   width="33%"
-  caption="Jean Bodin"
-  image-url="381px-Jean_Bodin.jpg"
-  source-url="https://en.wikipedia.org/wiki/Jean_Bodin"
+  caption="Leonardo Bruni"
+  image-url=""
+  source-url="https://commons.wikimedia.org/wiki/Leonardo_Bruni#/media/File:Leonardo_Bruni_2.jpg"
 %}
 
 Leonardo Bruni (1370-1444) was an Italian humanist who is famous for his [*History of the Florentine People*](https://books.google.com/books/about/History_of_the_Florentine_People_Books_I.html?id=rT28aN0xDHoC); which was considered one of the greatest works during the Renaissance. Bruni created a new style of writing during his time by trying to give readings more overall meaning, not just a word-for-word translation. Bruni used [Livy](https://www.britannica.com/biography/Livy) (59-17), a Roman hsitorian, as a model for his format, style, and language instead of the old medieval style of formatting.   Bruni paved the way for modern historiography, acknowledging the importance of history by saying 
@@ -47,6 +47,15 @@ For humanists, history was a way to add structure to the world and to understand
 The beginning of historiography was not original to Renaissance humanists.  Historiography began as early as Antiquity, from authors like [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) and [Thucydides](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#thucydides-science-politics-and-professionalism).  Some sixteenth-century scholars were not satisfied with history being defined as an art; they wanted to apply methodical concepts to make history more of a science.  One way to achieve this method was to translate ancient philosophical texts into the context of the modern era.  An example of this is seen in [Jean Bodin’s *Republique*](http://www.iep.utm.edu/bodin/).
 
 > The love of knowledge, says Aristotle, is natural to all men.  It is passion to which the wise men of antiquity were slaves, and which still inflames the learned in our own day.  It is the source of all science and of all philosophy.  From an etymological point of view, what is the philosophy? It is the love of knowledge (41).
+
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Jean Bodin"
+  image-url="381px-Jean_Bodin.jpg"
+  source-url="https://en.wikipedia.org/wiki/Jean_Bodin"
+%}
 
 Bodin was a historian, lawyer, economist, and natural philosopher in the sixteenth century.   He tried to use history for legal and political purposes, and implied the type of government he wanted was a [republic](http://www.merriam-webster.com/dictionary/republic).  Renaissance humanists translated literary texts from antiquity with the intention of dictating human decisions; like the way Bodin tries to make [Tacitus](https://en.wikipedia.org/wiki/Tacitus) (56-120) or the Roman Rebublic relevant to his time.  The idea that hindsight is 20/20 was appealing and applied to every person. The key for history to become a science was organization.  Organization gave structure to knowledge; like a skeleton to an animal.  Organization put an emphasis on genealogy (line of decent) which was important to the Ciceronian Laws.  The Ciceronian Laws refer to the use of both truth and impartiality to achieve perfection under the influence of rhetoric.   Organization also helped the status of a particular topic.  For example, the Spanish philosopher [Juan Luis Vives](http://www.encyclopedia.com/people/philosophy-and-religion/philosophy-biographies/juan-luis-vives) was upset that pagan history was better recorded than Christian history.
 
