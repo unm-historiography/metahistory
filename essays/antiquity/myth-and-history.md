@@ -54,7 +54,7 @@ Historians have always attempted to relate human behavior and human nature with 
   class="img-right"
   width="33%"
   caption="palermo stone used as a tool to record history "
-  image-url="palermostone11.jpg"
+  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/palermostone11.jpg"
   source-url="http://www.ancientpages.com/2016/04/15/palermo-stone-one-of-the-earliest-history-records-of-ancient-egypt/"
 %}
 
