@@ -3,7 +3,7 @@ layout: default
 title: How History Emerged from Myth
 subtitle:
 author: Sarah Sykes
-editor:Marcellina Padilla
+editor: Marcellina Padilla
 date: 2019-09-25 00:00:00
 ---
 
