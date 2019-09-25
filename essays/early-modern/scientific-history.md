@@ -30,7 +30,7 @@ Renaissance humanism created a genre of writing called the â€œarts of history.â€
   class="img-right"
   width="33%"
   caption="Leonardo Bruni"
-  image-url=""
+  image-url="Leonardo_Bruni_2.jpg"
   source-url="https://commons.wikimedia.org/wiki/Leonardo_Bruni#/media/File:Leonardo_Bruni_2.jpg"
 %}
 
