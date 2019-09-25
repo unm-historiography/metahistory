@@ -40,8 +40,17 @@ Leonardo Bruni (1370-1444) was an Italian humanist who is famous for his [*Histo
 
 For humanists, history was a way to add structure to the world and to understand it better.  While truth was enhanced during the Renaissance, there were still doubts about how honest history was.  [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) (484-425) has been referred to as the father of history, but also the father of lies.  Scholars once looked up to Herodotus as one of the creators of history, but as time went on they questioned his approach.  This is one example of negative criticism towards the art of history.  Kelly expresses his concern with history, by saying it can, unfortunately, lead to the "admiration" of wrongdoers; like [Caesar](http://militaryhistory.about.com/od/battleswarsto1000/p/alesia.htm),[Hercules](http://www.perseus.tufts.edu/Herakles/labors.html), and [Cyrus](http://www.liquisearch.com/battle_of_thymbra) who acquired fame through unjust and often violent actions.
 
+{% include figure.html
+  class="img-Center"
+  width="50%"
+  caption="Leonardo Bruni"
+  image-url=""
+  source-url=""
+%}
+
 
 ### The Method of History
+
 The beginning of historiography was not original to Renaissance humanists.  Historiography began as early as Antiquity, from authors like [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) and [Thucydides](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#thucydides-science-politics-and-professionalism).  Some sixteenth-century scholars were not satisfied with history being defined as an art; they wanted to apply methodical concepts to make history more of a science.  One way to achieve this method was to translate ancient philosophical texts into the context of the modern era.  An example of this is seen in [Jean Bodin’s *Republique*](http://www.iep.utm.edu/bodin/).
 
 > The love of knowledge, says Aristotle, is natural to all men.  It is passion to which the wise men of antiquity were slaves, and which still inflames the learned in our own day.  It is the source of all science and of all philosophy.  From an etymological point of view, what is the philosophy? It is the love of knowledge (41).
