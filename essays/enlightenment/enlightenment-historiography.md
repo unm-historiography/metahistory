@@ -12,7 +12,13 @@ _"Enlightenment is man's release from his self-incurred immaturity."_
 
 A time of enlightened thought, a time of _rational_ thought, a time of _reason_. A time that blurred lines between Philosophers and Historians. The Enlightenment was a time of profound change in intellectual thought in the 17th and 18th centuries. Like most significant eras, the Enlightenment provoked events that would have repercussions on society – the Enlightenment would go on to inspire the founding documents of The United States of America, the French Revolution and would play a significant role in shaping modern European politics and thought, and history will began to be written in differing ways; ways that society sill uses to this day. During the Enlightenment, history was approached more critically and with a desire to use the lessons learned to improve the human condition. This age of reason and logic was the culmination and pinnacle of human development. The Enlightenment didn’t happen on accident; it was strewed on by great thinkers, scientific revolution, and historians – history is the master science. (The so what? question is not answered here or in the end of the essay. It is easy to read this essay and come away feeling like you heard a lot of facts and no reason to care about any of them. How does the Enlightenment affect how we view the world and how we interpret history now?). 
 
-
+{% include figure.html
+  class=img-left
+  width=33%
+  caption=William Blake's Newton (1795), depicted as a divine geometer.
+  image-url=default.jpg
+  source-url=blake2.jpg
+%}
 
 {% include figure.html class="img-left" src="blake2.jpg" caption="William Blake's Newton (1795), depicted as a divine geometer." %}
 
