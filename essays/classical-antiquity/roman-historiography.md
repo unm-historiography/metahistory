@@ -2,7 +2,7 @@
 layout: default
 title: Roman Historiography
 author: Louisa Schoeller
-Editor:Karli Montoya
+editor: Karli Montoya
 date: 2019-25-09 
 ---
 {% include figure.html
@@ -60,7 +60,7 @@ Both Livy and Julius Caesar take on this national history form in order to conve
 **Roman Religion, Christianity, and Historiography**
 
 {% include figure.html
-  class="img-centere"
+  class="img-center"
   width="50%"
   caption="Depiction of the all Powerfu; God Jupiter. "
   image-url="Jupiter.jpg"
