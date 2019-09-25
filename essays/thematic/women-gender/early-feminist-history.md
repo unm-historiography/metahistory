@@ -34,7 +34,8 @@ Society was working against the early second-wave feminists, and change was not 
 
 Early second-wave feminists would lead the way to break the norms within historiography, giving way to a more decentralized narrative, and the ever present question of one’s positionality and inherent bias. Feminist historians would also be critical of their own bias. These changes have taken time to come about and “[t]he extraordinary range and variety of early modern women’s cultural agency and creativity have come into focus in ways that Kelly could hardly have imagined,” (Coletti, pg. 249). Coletti, reviewing Kelly’s work almost fifty years later, is one of the examples of the sweeping change that would take hold of historiography. Coletti’s critique of second-wave feminists was only possible because of the work done by early feminists like Kelly. The effects of second-wave feminism within history would take *decades* to solidify and only then would it create the change they wanted to see. While much of the critique of second-wave feminists was that they assumed that all women’s experiences were the same, third-wave feminist would step in to make these changes.
 
-{% include figure.html class="img-right" width="50%" caption="Theresa Coletti, author of *‘Did Women Have a Renaissance?’ A Medievalist Reads Joan Kelly and Aemilia Lanyer.*"
+{% include figure.html class="img-right" 
+width="50%" caption="Theresa Coletti, author of *‘Did Women Have a Renaissance?’ A Medievalist Reads Joan Kelly and Aemilia Lanyer.*"
 image-url="dst_coletti.png"
 source-url="https://www.english.umd.edu/news/4823"
 %}
