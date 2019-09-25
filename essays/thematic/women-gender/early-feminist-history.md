@@ -5,8 +5,7 @@ date: 2018-05-11 00:00:00
 author: Emily Hartshorn
 ---
 
-{% include figure.html class="img-center" width="100%" caption="Protest during second-wave feminism, 1970. Although this movement was not as inclusive as later feminist movements, it did push forward policy which changed women's rights in the workplace, marraige, and academic environments."
-image-url="Womens-Strike-Day-march-employment-opportunities-Washington-August-26-1970.jpg"
+{% include figure.html class="img-center" width="100%" caption="Protest during second-wave feminism, 1970. Although this movement was not as inclusive as later feminist movements, it did push forward policy which changed women's rights in the workplace, marraige, and academic environments." image-url="Womens-Strike-Day-march-employment-opportunities-Washington-August-26-1970.jpg"
 source-url="https://cdn.britannica.com/90/131390-050-366FFD5A/Womens-Strike-Day-march-employment-opportunities-Washington-August-26-1970.jpg"
 %}
 
