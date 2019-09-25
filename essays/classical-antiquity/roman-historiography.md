@@ -7,7 +7,7 @@ date: 2016-11-08 00:00:00
 {% include figure.html
   class="img-right"
   width="49%"
-  caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus. He was born is 126 AD and died in 126 c. "
+  caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus, influenced by greek philosophers. He was born is 126 AD and died in 126 C. "
   image-url="Tacitus.jpg"
   source-url="https://www.google.com/search?q=tacitus&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip05X75OzkAhXMuZ4KHWWiApIQ_AUIEigC&biw=1140&bih=752#imgrc=jyu9sdnd9wwdSM:"
 %}
@@ -32,6 +32,14 @@ All of these aspects impacted Roman Historiography in their own ways, some reach
 The Romans are well-known for their military expeditions that would expand their empire's borders, wealth, and influence across the Mediterranean world. [**Polybius**](https://www.ancient.eu/Polybius/ "Roman Historian") wrote several works that emphasized the Romans role in the world as they knew it. He would not use rhetoric due to the fear that it would inhibit him conveying the truth as he had set out to do (Sorek, 2012, 81). Polybius studied and wrote his histories with the aim of trying to understand what elements or values could explain Rome's success. Were these motives economic,Political, Military,or possibly social? He focused specifically on Roman history and chose not to include outside societies and the lower classes in his works as they were considered "less noble" (Sorek, 2012, 80). Roman historians that followed Polybius, like Livy, Julius Caesar, and Ammianus Marcellnius, would officially create the genre of **national histories**. National histories can be defined as *"the story of a single political community over an extended period of time"* (Popkin, 2016, 32). In terms of the Romans, this would be the emphasis of the events of the past in relation to the Roman's imperial success.
 
 **The goal of national histories was to place importance upon themselves above the rest of the world.** The world the Romans lived in resembled their success as one of *the* most powerful empires in Antiquity; which they wanted to be conveyed through their histories. This would also include the histories of their families and what they had contributed to Rome's success. *"They were proud of their traditions - what had begun as family memories became over the centuries a collective national mystique"* (Mellor, 2013, xvi). The Romans wanted to remain true to their past, in their present and by writing national histories where they kept their ancestors and their own actions alive.
+
+{% include figure.html
+  class="img-left"
+  width="40%"
+  caption="Julius Caesar, also known as Gaius Julius Caesar, was born in 59-64 BC and died in 17 AD. He was known to write Roman History to promote propaganda."
+  image-url="Julius_Caesar.jpg"
+  source-url="https://www.google.com/search?hl=en&biw=924&bih=752&tbm=isch&sa=1&ei=K86LXZjBBIj3-gSC_Y7oAw&q=julius+caesar+wiki+commons&oq=julius+caesar+wiki+commons&gs_l=img.3...2714.7436..7564...2.0..0.153.1236.14j1......0....1..gws-wiz-img.......0i67j0j0i24.OxobDxFA3GA&ved=0ahUKEwjYgoOV6OzkAhWIu54KHYK-Az0Q4dUDCAY&uact=5#imgrc=os6wOz7JaOtF1M:"
+%}
 
 [**Julius Caesar**](https://en.wikipedia.org/wiki/Julius_Caesar) was a historian who promoted propaganda, although, his works did follow in the tradition of a national history as he did promote the things he had already done and wanted to continue to do for Rome. He had come from an elite family in the Roman Empire that had gone back several generations; his dad and grandfather held public offices during their lives, just as Caesar had (Sorek, 2012, 91). He is known for his military successes than for his contribution to Roman Historiography. Two of his most notable works are the *The Civil War*, a memoir in which he describes in detail his conflict with Pompey the Great, and the *Gallic Wars*, a memoir that details his military campaigns in the Germanic lands across the Rhine (Sorek, 2012, 93). Susan Sorek, in *Ancient Historians A Student Handbook*, argues that both of these works were written as propaganda that not only emphasized Caesar himself but also the success of the empire. His version of Roman historiography had then, taken on a persuasive rhetoric that could be used on the lower classes of their society when Julius needed to round up support. He wanted to explain why his military expeditions were necessary and why the people should remain supportive of these causes. In order for him to have conquered the lands he had, he needed to have the support of Rome.
 
