@@ -58,9 +58,8 @@ Both Livy and Julius Caesar take on this national history form in order to conve
 
 **Roman Religion, Christianity, and Historiography**
 
-
 {% include figure.html
-  class="img-left"
+  class="img-centre"
   width="40%"
   caption="A marble statue of the Roman Gods Juno, Jupiter, and Minerva"
   image-url="Roamngodstrio.jpg"
