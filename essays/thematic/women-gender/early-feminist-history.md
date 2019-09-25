@@ -9,9 +9,7 @@ In the 20th century, avenues that had been previously closed now had the ability
 
 Throughout much of history, women were pushed to the back burner of the narrative. With the rise of feminist authors, historians began to question the relationship of women in history. [Simone de Beauvoir](https://www.britannica.com/biography/Simone-de-Beauvoir), one of the most influential feminist during the early postmodern period, wrote *The Second Sex*, a novel on the treatment of women, and one of the first pieces of literature that addresses the sex and gender distinction. The difference between biological sex and socially constructed gender is what would drive much of second-wave feminism. De Beauvoir states that “[h]umanity is male, and man defines woman, not in herself, but in relation to himself” (de Beauvoir, pg. 26). De Beauvoir was bringing the actual problem to the forefront. Instead of attacking the lack of female perspectives within society, she was questioning the fact that a woman’s entire existence was based upon the men who surrounded her. **This was groundbreaking, as it was questioning the system itself, and the positionality of history as a whole.** While this was not unique to the postmodern era, as every change in historiography took someone questioning the current norm, it was still one of the most pivotal moments within the field of feminist historiography.
 
-{% include figure.html
-class="img-left"
-width="50%"
+{% include figure.html class="img-left" width="50%"
 caption="Simone de Beauvoir in Beijing, 1955. De Beauvior wrote the groundbreaking essay 'le Deuxieme Sexe' which illustrated the differences between the rights of men and women."
 image-url="Simone_de_Beauvoir_in_Beijing_1955.jpg"
 source-url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Simone_de_Beauvoir_in_Beijing_1955.jpg"
