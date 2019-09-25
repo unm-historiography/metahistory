@@ -5,10 +5,6 @@ subtitle: The Foundation of Modern Historical Methodology
 author: Alex Nocella
 date: 2016-11-08 00:00:00
 ---
-
-The interest in the study of history can be traced back to the Greeks as bards and poets traveled around the Mediterranean before knowledge was recorded.  Historical tradition in the ancient Greek world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons, mainly because most people were illiterate. Since there is so little left, it is hard to determine how people thought about their history. To determine how the early Greeks through about history, us historians must look at their concepts of **historiography**, or the history of history. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean (commonly referred to as Greeks) recorded “history” assumes the form of what we call today “epic poetry.”
-
-**Homer, the First Greek Historian**
 {% include figure.html
   class="img-right"
   width="33%"
@@ -16,6 +12,10 @@ The interest in the study of history can be traced back to the Greeks as bards a
   image-url="Homer.jpg"
   source-url="https://www.biography.com/writer/homer"
 %}
+The interest in the study of history can be traced back to the Greeks as bards and poets traveled around the Mediterranean before knowledge was recorded.  Historical tradition in the ancient Greek world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons, mainly because most people were illiterate. Since there is so little left, it is hard to determine how people thought about their history. To determine how the early Greeks through about history, us historians must look at their concepts of **historiography**, or the history of history. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean (commonly referred to as Greeks) recorded “history” assumes the form of what we call today “epic poetry.”
+
+**Homer, the First Greek Historian**
+
 [Homer]([https://en.wikipedia.org/wiki/Homer](https://en.wikipedia.org/wiki/Homer))’s[ _Illiad_]([https://en.wikipedia.org/wiki/Iliad](https://en.wikipedia.org/wiki/Iliad)) and [_Odyssey_]([https://en.wikipedia.org/wiki/Odyssey](https://en.wikipedia.org/wiki/Odyssey)) became the standard for recording events so they would not be forgotten. According to [**Dr. Andreas Karatsolis**](http://cmsw.mit.edu/profile/andreas-karatsolis), Homer “may have been the only person who took these oral narratives and turned them into books.” Recording of a historically significant narrative took place later and broke away from the Homeric tradition of epic poetry but still retained the spiritual tone and content of Greek mythological tradition. It is due to this work of later writers that we get a glimpse into the thoughts of these early thinkers and how they thought about the past. The writings of Homer reflect other early thinkers on how history was focused on wars, battles and the reigns of leaders.
 
 
