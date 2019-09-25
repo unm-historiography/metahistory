@@ -62,7 +62,7 @@ Both Livy and Julius Caesar take on this national history form in order to conve
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Depiction of the all Powerfu; God Jupiter. "
+  caption="Depiction of the all and powerful God Jupiter. "
   image-url="Jupiter.jpg"
   source-url="https://www.google.com/search?client=firefox-b-1-e&biw=1140&bih=752&tbm=isch&sa=1&ei=5dqLXYPbA4X7-gTH_ZTICw&q=jupiter+roman+god&oq=jupiter+roman+god&gs_l=img.3..0l10.97842.99431..99556...0.0..0.85.764.10......0....1..gws-wiz-img.......0i67.rywGFp64aMI&ved=0ahUKEwjD4cam9OzkAhWFvZ4KHcc-BbkQ4dUDCAY&uact=5#imgrc=gOXqiibl8TK8uM:"
 %}
