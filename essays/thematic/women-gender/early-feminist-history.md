@@ -7,8 +7,7 @@ author: Emily Hartshorn
 
 In the 20th century, avenues that had been previously closed now had the ability to make their debut. Along with other histories, including those of previously colonized people groups, women’s history emerged alongside second wave feminism, blossoming because of women questioning why their story had been left out of the narrative. Using the groundwork laid by [postmodernism](https://onlinelibrary.wiley.com/doi/abs/10.1111/0018-2656.00057), second-wave feminism would fundamentally transform historiography through bringing to light the many male-centric ways that the world was classified through, and questioning the traditional ways of thinking about the world. Feminist historians would seek out a larger change to historiography, as it was the institution that perpetuated an unchanging view of women in history.
 
-{% include figure.html class="img-center" width="100%"
-caption="Protest during second-wave feminism, 1970. Although this movement was not as inclusive as later feminist movements, it did push forward policy which changed women's rights in the workplace, marraige, and academic environments."
+{% include figure.html class="img-center" width="100%" caption="Protest during second-wave feminism, 1970. Although this movement was not as inclusive as later feminist movements, it did push forward policy which changed women's rights in the workplace, marraige, and academic environments."
 image-url="Womens-Strike-Day-march-employment-opportunities-Washington-August-26-1970.jpg"
 source-url="https://cdn.britannica.com/90/131390-050-366FFD5A/Womens-Strike-Day-march-employment-opportunities-Washington-August-26-1970.jpg"
 %}
