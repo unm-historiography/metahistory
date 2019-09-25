@@ -31,7 +31,7 @@ All of these aspects impacted Roman Historiography in their own ways, some reach
 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="43%"
   caption="Polybius, a Greek and Roman Historian who wrote about how Rome came to great power."
   image-url="Polybios.jpg"
