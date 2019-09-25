@@ -6,7 +6,7 @@ date: 2016-11-08 00:00:00
 ---
 {% include figure.html
   class="img-right"
-  width="49%"
+  width="50%"
   caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus, influenced by greek philosophers. He was born is 126 AD and died in 126 C. "
   image-url="Tacitus.jpg"
   source-url="https://www.google.com/search?q=tacitus&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip05X75OzkAhXMuZ4KHWWiApIQ_AUIEigC&biw=1140&bih=752#imgrc=jyu9sdnd9wwdSM:"
@@ -14,7 +14,7 @@ date: 2016-11-08 00:00:00
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="43%"
   caption="Livy, a famous Roman Historian who was influenced by Greek Philosophers. He was born between 59 and 64BC and died in 17AD.  "
   image-url="Livy.jpg"
   source-url="https://www.google.com/search?q=livy+roman+historian&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs6JeD4ezkAhWGnp4KHSHWDbwQ_AUIEigC&biw=1920&bih=929#imgrc=mdGekKmdjnghpM:"
