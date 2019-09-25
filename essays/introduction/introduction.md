@@ -34,7 +34,7 @@ Some certain topics in a text of history’s history are ancient historians and 
 {% include figure.html
 class="img-left"
 width="49%"
-caption="Here's Herodotus  on the left."
+caption="Herodotus, an ancient Greek historian from c. 484 – 425/413 BCE."
 image-url="Herodotus.jpg"
 source-url="https://www.thoughtco.com/who-was-the-greek-historian-herodotus-118979"
 %}
