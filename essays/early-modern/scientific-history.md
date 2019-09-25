@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientific Hisotry 
+title: Scientific History 
 subtitle: Approaching A New Genre of History
 author: McKenzie Manwill
 date: 2016-11-19 00:00:00
