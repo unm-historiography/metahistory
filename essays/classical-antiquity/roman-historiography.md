@@ -29,6 +29,15 @@ Roman Historiography would have been something that remained limited to the uppe
 All of these aspects impacted Roman Historiography in their own ways, some reaching far beyond the time of the Romans. This essay will focus on Roman historiography in terms of national histories and religion, as both held importance in Roman history.
 **National Histories**
 
+
+{% include figure.html
+  class="img-left"
+  width="43%"
+  caption="Polybius, a Greek and Roman Historian who wrote about how Rome came to great power."
+  image-url="Polybios.jpg"
+  source-url="https://www.google.com/search?q=polybius+works&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj00bqa6uzkAhVQ_J4KHSRgBBsQ_AUIESgB&biw=1140&bih=752#imgrc=mKf-Vw_vn4L3nM:"
+%}
+
 The Romans are well-known for their military expeditions that would expand their empire's borders, wealth, and influence across the Mediterranean world. [**Polybius**](https://www.ancient.eu/Polybius/ "Roman Historian") wrote several works that emphasized the Romans role in the world as they knew it. He would not use rhetoric due to the fear that it would inhibit him conveying the truth as he had set out to do (Sorek, 2012, 81). Polybius studied and wrote his histories with the aim of trying to understand what elements or values could explain Rome's success. Were these motives economic,Political, Military,or possibly social? He focused specifically on Roman history and chose not to include outside societies and the lower classes in his works as they were considered "less noble" (Sorek, 2012, 80). Roman historians that followed Polybius, like Livy, Julius Caesar, and Ammianus Marcellnius, would officially create the genre of **national histories**. National histories can be defined as *"the story of a single political community over an extended period of time"* (Popkin, 2016, 32). In terms of the Romans, this would be the emphasis of the events of the past in relation to the Roman's imperial success.
 
 **The goal of national histories was to place importance upon themselves above the rest of the world.** The world the Romans lived in resembled their success as one of *the* most powerful empires in Antiquity; which they wanted to be conveyed through their histories. This would also include the histories of their families and what they had contributed to Rome's success. *"They were proud of their traditions - what had begun as family memories became over the centuries a collective national mystique"* (Mellor, 2013, xvi). The Romans wanted to remain true to their past, in their present and by writing national histories where they kept their ancestors and their own actions alive.
