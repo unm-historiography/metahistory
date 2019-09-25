@@ -32,7 +32,7 @@ Those who would believe that by the unified methods of various collaborators a c
   class="img-right"
   width="33%"
   caption="Mesa Vista Hall"
-  image-url="default.jpg"
+  image-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Foucault5.jpg"
   source-url="https://github.com/unm-historiography/intro-guide/blob/master/essays/images/Foucault5.jpg
 %}
 
