@@ -13,7 +13,7 @@ According to author Donald R. Kelley, history emerged from myth and forced itsel
 class="img-right"
 width="33%"
 caption="Philosopher Machiavelli."
-image-url="machiavelli.jpg"
+image-url="Machiavelli.jpg"
 source-url="https://www.iep.utm.edu/machiave/"
 %}
 {% include figure.html
@@ -31,6 +31,7 @@ source-url="https://www.biography.com/scholar/voltaire"
 <p class="has-pullquote" data-pullquote="History is probably our myth. -Michel de Certeau"></p>
 
 What specifically qualifies as history? Arguably, the biggest form of history is myth. A [myth](https://www.merriam-webster.com/dictionary/myth) or traditional story by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example of this would be an epic poem, primarily associated with the ancient Greek author [Homer]( https://www.britannica.com/biography/Homer-Greek-poet#ref524682), in which they typically discuss heroic deeds and events that are significant to the culture of the poet. 
+
 % include figure.html
   class="img-right"
   width="30%"
