@@ -63,7 +63,7 @@ Both Livy and Julius Caesar take on this national history form in order to conve
   class="img-left"
   width="40%"
   caption="A marble statue of the Roman Gods Juno, Jupiter, and Minerva"
-  image-url="Romangodstrio.jpg"
+  image-url="romangodstrio.jpg"
   source-url="https://en.wikipedia.org/wiki/List_of_Roman_deities#/media/File:Arte_romana,_triade_capitolina,_160-180_dc_(guidonia_montecelio,_museo_civico_archeologico)_01.jpg"
 %}
 
