@@ -3,7 +3,7 @@ layout: default
 title: How History Emerged from Myth
 subtitle:
 author: Sarah Sykes
-date: 2016-11-08 00:00:00
+date: 2019-09-25 00:00:00
 ---
 
 {:.abstract}
@@ -19,7 +19,7 @@ source-url="https://www.iep.utm.edu/machiave/"
 
 {% include figure.html
 class="img-right"
-width="30%"
+width="35%"
 caption="Philosopher Voltaire"
 image-url="voltaire.jpg"
 source-url="https://www.biography.com/scholar/voltaire"
