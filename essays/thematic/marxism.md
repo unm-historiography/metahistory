@@ -17,6 +17,7 @@ Caption="_The Manifesto of the Communist Party_, (1848), was the clarion call fo
 image-url="CommunistManifesto1910_TP.jpg"
 source-url="https://oll.libertyfund.org/thumbs/8c-di-0-0;8c-di/24453-CommunistManifesto1910_TP.jpg"
  %}
+ 
 Looking at the historical and political events of our lifetime, **socialism has become inextricably ingrained in our lives** at nearly every conceivable level and turn.  The rise of this phenomenon can be squarely attributed to one man: Karl Marx.  With the publication of the _Manifesto of the Communist Party_ (1848), Marx laid the groundwork for a radical new view of the world and man’s interaction within it.  First, an examination of the history preceding Marx and his work is needed to better understand the nature and significance of his vision and later effects on Europe. 
 
 ## The Enlightenment - Giving Birth to Social Change
@@ -37,6 +38,8 @@ width="35%"
 Caption="Niccolò Machiavelli's _The Prince_ redefined relationships between the people and those governing them."
 image-url="Machiavelli.jpg"
 source-url="https://nationalinterest.org/sites/default/files/styles/resize-1440/public/main_images/800px-Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait_1.jpg?itok=H10vypcf"
+%}
+
 Social and class distinctions were nothing new in European history.  Marx and Engles admitted there has always been a class that has been subservient to another since the Roman Empire.[6]  Where the early Enlightenment author [Niccolò Machiavelli](https://en.wikipedia.org/wiki/Niccolò_Machiavelli) focused on the Italian power struggles while presenting the perspective of the common people as instrumental in maintaining power, Marx was convicted to the **importance of the working class** in building and sustaining the health of society.[7]  This ideal extended to full integration and involvement in the political and economic machines at every level by those most responsible for their success, the workers.
 
 {% include figure.html
@@ -46,6 +49,7 @@ Caption="the historical impact of **Friedrich Engles** (left) and **Karl Marx** 
 image-url="engles-marx-1.jpg"
 source-url="https://libcom.org/files/images/library/marx_1.jpg"
  %}
+ 
 Marx emphasized the Industrial Revolution as seminal in the rise of social and economic inequalities. E.P. Thompson mentions in _Exploitation_, “The physical instruments of production were seen as giving rise in a direct and more-or-less compulsive way to new social relationships, institutions, and cultural modes.”[8]  Marx continues, “Modern industry has converted the little workshop of the patriarchal master into the great factory of the industrial capitalists.”[9]  The decline of the aristocracy gave rise to two classes, according to Marx:  controlling capital and the means of production were the **[Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)**[10], and the exploited workers, subordinate to the capitalist Bourgeoisie, were the **[Proletariat](https://en.wikipedia.org/wiki/Proletariat)**".[11]  Marx had identified the largely overlooked actors in previous historical writings.
 
 ## Class Divisions
@@ -59,6 +63,7 @@ Caption="Russian workers strike over working conditions and police oppression in
 image-url="russian-Strikes-1917.jpg"
 source-url="https://isreview.org/sites/default/files/styles/400x400/public/issue/106/story/2044/putilov.jpg?itok=OTgFJnc_"
  %}
+ 
 **The factory was an iconic symbol of oppression**, providing a glimpse into the working conditions of 19th Century England. The factory housed dreadful working conditions attributed to the increase of manufacture, rising population in the cities,  technological innovation, and capitalist profiteering.[14] Factory conditions were worse than those experienced by plantation slaves in the American South.[15] Slaves worked largely an open-air environment; factory workers labored in hot and unventilated rooms for hours with little or no rest.[16]  With two distinct classes identified, Marxist historical writing centered on the workers' plight and revealed to the world the economic and social disparities of the two classes.
 
 ## Ideas Flourish and Spread
@@ -70,9 +75,16 @@ Caption="Lenin's reception on his April 1917 return to St. Petersburg, Russia, f
 image-url="Lenin-1917.jpg"
 source-url="https://static.themoscowtimes.com/image/article_1360/8b/19982e6c85.jpg"
  %}
+ 
 Influenced by the Enlightenment, Marxism was grounded in observation; the observation of class inequities. The [French Revolution](https://www.history.com/topics/france/french-revolution) (1789) demonstrated that ordinary people were active participants of history and they were capable of controlling their own destiny.[17] [Johannes Guttenberg's](https://www.britannica.com/biography/Johannes-Gutenberg) printing press extended the distribution of written texts, making them more accessible to the masses.[18] _Manifesto_ and its ideas captured the imagination of the oppressed, igniting discontent throughout Europe and across large swaths of the European-influenced world.[19] With the bourgeoisie in control of production and distribution, printed Marxist literature carried a heavily watered down the message. Later Marxist authors, including [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin), **developed creative methods** to expand the reach of their message, which included **disguising their true meaning of messages**.[20] The Marxist message reached an expanded audience, though the subversive message was diluted to escape 20th-century government censors.
 
 ## Lenin Carries the Banner of Marxism
+
+{% include figure.html
+class=“img-left”
+width=“35%”
+image-url=“vanguard-quote.png”
+%}
 
 What made Vladimir Lenin unique in historiographical literature was his passion and dedication to the cause. “[N]o proposition is more susceptible of historical truth than that there is a tendency for various economic groups to become aware of their class interests and to work consciously for the fulfillment of ends which they consider good.”[21]  _In What is to be Done?_ (1913), Lenin states, “ [The] role of vanguard...can only be fulfilled only by a party that is guided by an advanced theory.”[22]  His charisma, intelligence, and conviction were key to awakening the masses from their class ignorance. 
 
