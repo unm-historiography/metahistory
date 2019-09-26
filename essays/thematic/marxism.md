@@ -20,7 +20,7 @@ source-url="https://oll.libertyfund.org/thumbs/8c-di-0-0;8c-di/24453-CommunistMa
  
 Looking at the historical and political events of our lifetime, **socialism has become inextricably ingrained in our lives** at nearly every conceivable level and turn.  The rise of this phenomenon can be squarely attributed to one man: Karl Marx.  With the publication of the _Manifesto of the Communist Party_ (1848), Marx laid the groundwork for a radical new view of the world and man’s interaction within it.  First, an examination of the history preceding Marx and his work is needed to better understand the nature and significance of his vision and later effects on Europe. 
 
-## The Enlightenment - Giving Birth to Social Change
+## The Enlightenment - Giving Birth to Social Change 
 
 With the arrival of the [Enlightenment](https://www.livescience.com/55327-the-enlightenment.html), Europe entered a new age: an age of growing science, art, and history. Prior to the Enlightenment, histories were largely focused on the documentation and discussion of royalty and religious figures.[1] As reason and scientific observation became central to the study of the natural world, the stranglehold of the Catholic Church as the sole authority on the history of mankind was deconstructed.  
 
