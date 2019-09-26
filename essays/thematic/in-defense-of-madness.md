@@ -13,7 +13,7 @@ date: 09/26/19
 {% include figure.html
 class="img-left"
 width="35%"
-Caption="_The Manifesto of the Communist Party_, (1848), was the clarion call for oppressed factory workers across Russia and all of Europe to rise up and exert their power against industrialist and capitalism."
+Caption="Caption"
 image-url="kylenutshell.jpg"
 source-url="https://www.pinterest.com/pin/26880928999669745/"
  %}
