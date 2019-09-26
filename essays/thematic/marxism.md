@@ -81,9 +81,9 @@ Influenced by the Enlightenment, Marxism was grounded in observation; the observ
 ## Lenin Carries the Banner of Marxism
 
 {% include figure.html
-class=“img-right”
-width=“35%”
-image-url=“vanguard-quote.png”
+class="img-right"
+width="35%"
+image-url="vanguard-quote.png"
  %}
 
 What made Vladimir Lenin unique in historiographical literature was his passion and dedication to the cause. “[N]o proposition is more susceptible of historical truth than that there is a tendency for various economic groups to become aware of their class interests and to work consciously for the fulfillment of ends which they consider good.”[21]  _In What is to be Done?_ (1913), Lenin states, “ [The] role of vanguard...can only be fulfilled only by a party that is guided by an advanced theory.”[22]  His charisma, intelligence, and conviction were key to awakening the masses from their class ignorance. 
