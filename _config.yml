@@ -1,6 +1,8 @@
 baseurl: /intro-guide
 title: metahistory
 
+exclude: [vendor]
+
 defaults:
   -
     scope:
