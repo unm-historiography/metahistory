@@ -10,14 +10,18 @@ date: 09/26/19
 ##### Jacob Martinez - author
 ##### Kyle Sparks - editor
 
+
 {% include figure.html
 class="img-left"
 width="35%"
-Caption="Caption"
+Caption="_Caption"
 image-url="kylenutshell.jpg"
 source-url="source"
  %}
  
+
+
+
  > *Historians themselves (or some of them) have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
 
 
