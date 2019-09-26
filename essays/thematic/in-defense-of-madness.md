@@ -15,7 +15,7 @@ class="img-left"
 width="35%"
 Caption="Caption"
 image-url="kylenutshell.jpg"
-source-url="https://www.pinterest.com/pin/26880928999669745/"
+source-url="source"
  %}
  
  > *Historians themselves (or some of them) have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
