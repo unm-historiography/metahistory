@@ -3,7 +3,8 @@ layout: default
 title: How History Emerged from Myth
 subtitle:
 author: Sarah Sykes
-date: 2016-11-08 00:00:00
+editor: Marcellina Padilla
+date: 2019-09-25 00:00:00
 ---
 
 {:.abstract}
@@ -13,13 +14,13 @@ According to author Donald R. Kelley, history emerged from myth and forced itsel
 class="img-right"
 width="33%"
 caption="Philosopher Machiavelli."
-image-url="machiavelli.jpg"
+image-url="Machiavelli.jpg"
 source-url="https://www.iep.utm.edu/machiave/"
 %}
 
 {% include figure.html
 class="img-right"
-width="30%"
+width="35%"
 caption="Philosopher Voltaire"
 image-url="voltaire.jpg"
 source-url="https://www.biography.com/scholar/voltaire"
@@ -31,7 +32,6 @@ source-url="https://www.biography.com/scholar/voltaire"
 
 <p class="has-pullquote" data-pullquote="History is probably our myth. -Michel de Certeau"></p>
 
-What specifically qualifies as history? Arguably, the biggest form of history is myth. A [myth](https://www.merriam-webster.com/dictionary/myth) or traditional story by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example of this would be an epic poem, primarily associated with the ancient Greek author [Homer]( https://www.britannica.com/biography/Homer-Greek-poet#ref524682), in which they typically discuss heroic deeds and events that are significant to the culture of the poet. 
 % include figure.html
   class="img-right"
   width="30%"
@@ -40,6 +40,8 @@ What specifically qualifies as history? Arguably, the biggest form of history is
   source-url="https://www.britannica.com/biography/Homer-Greek-poet"
 %}
 
+
+What specifically qualifies as history? Arguably, the biggest form of history is myth. A [myth](https://www.merriam-webster.com/dictionary/myth) or traditional story by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example of this would be an epic poem, primarily associated with the ancient Greek author [Homer]( https://www.britannica.com/biography/Homer-Greek-poet#ref524682), in which they typically discuss heroic deeds and events that are significant to the culture of the poet. 
 Lists of priests and kings are also important forms of recorded history, because they each kept track of significant people within various societies. Finally, the last noteworthy form of history is chronology, which observes the arrangement of events and keeps them all in order by the dates they occurred on. All of these genres became a form of history before the term and concept of "history" even existed (Kelley, 3). Another point that Kelley makes is that we are never fully able to see past our own prejudices with either history or myth, but when it comes to "working on myth" or "historicizing", our prejudices allow us to remain critical of our work and question the sources we are using. Without our deepest prejudices  in our minds, we wouldn't be able to write history in the clearest way possible, especially when including mythologies in the mix (Kelley, 1).
 
 

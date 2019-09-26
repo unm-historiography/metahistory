@@ -2,8 +2,10 @@
 layout: default
 title: Roman Historiography
 author: Louisa Schoeller
-date: 2016-11-08 00:00:00
+editor: Karli Montoya
+date: 2019-09-25 
 ---
+
 {% include figure.html
   class="img-right"
   width="50%"
@@ -20,7 +22,7 @@ date: 2016-11-08 00:00:00
   source-url="https://www.google.com/search?q=livy+roman+historian&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs6JeD4ezkAhWGnp4KHSHWDbwQ_AUIEigC&biw=1920&bih=929#imgrc=mdGekKmdjnghpM:"
 %}
 
-Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus](https://www.britannica.com/biography/Tacitus-Roman-historian) were influenced by greek historians like Herodutus and Thucydides whome you read about in [Greek Historiography](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html). Their approaches to history would eventually 'evolve' into national histories, as a majority of their Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
+Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus](https://www.britannica.com/biography/Tacitus-Roman-historian) were influenced by greek historians like Herodutus and Thucydides whom you read about in [Greek Historiography](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html). Their approaches to history would eventually 'evolve' into national histories, as a majority of their Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
 
 Roman historians faced a major challenge as they worked on their writings since most of Roman history was transmitted through [**oral traditions**](https://en.wikipedia.org/wiki/Oral_tradition "The act of orally passing down traditon and history from one generation to the next."). These oral histories been passed down from generation to generation so it's almost impossible to note what are the facts and what are the myths. Oral histories not only expressed the Roman historians limited number of written sources at their disposal but also the complication of having to determine what is fact and what is myth in a specific account.
 
@@ -28,6 +30,15 @@ Roman Historiography would have been something that remained limited to the uppe
 
 All of these aspects impacted Roman Historiography in their own ways, some reaching far beyond the time of the Romans. This essay will focus on Roman historiography in terms of national histories and religion, as both held importance in Roman history.
 **National Histories**
+
+
+{% include figure.html
+  class="img-right"
+  width="43%"
+  caption="Polybius, a Greek and Roman Historian who wrote about how Rome came to great power."
+  image-url="Polybios.jpg"
+  source-url="https://www.google.com/search?q=polybius+works&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj00bqa6uzkAhVQ_J4KHSRgBBsQ_AUIESgB&biw=1140&bih=752#imgrc=mKf-Vw_vn4L3nM:"
+%}
 
 The Romans are well-known for their military expeditions that would expand their empire's borders, wealth, and influence across the Mediterranean world. [**Polybius**](https://www.ancient.eu/Polybius/ "Roman Historian") wrote several works that emphasized the Romans role in the world as they knew it. He would not use rhetoric due to the fear that it would inhibit him conveying the truth as he had set out to do (Sorek, 2012, 81). Polybius studied and wrote his histories with the aim of trying to understand what elements or values could explain Rome's success. Were these motives economic,Political, Military,or possibly social? He focused specifically on Roman history and chose not to include outside societies and the lower classes in his works as they were considered "less noble" (Sorek, 2012, 80). Roman historians that followed Polybius, like Livy, Julius Caesar, and Ammianus Marcellnius, would officially create the genre of **national histories**. National histories can be defined as *"the story of a single political community over an extended period of time"* (Popkin, 2016, 32). In terms of the Romans, this would be the emphasis of the events of the past in relation to the Roman's imperial success.
 
@@ -48,6 +59,15 @@ The Romans are well-known for their military expeditions that would expand their
 Both Livy and Julius Caesar take on this national history form in order to convey the greatness of the empire. No matter if the historian focused on the military history or the complete history of the empire, both Livy and Julius Caesar take on a superior tone in their writings that emphasize the Romans in a brighter light when compared to other races or civilization at the time.
 
 **Roman Religion, Christianity, and Historiography**
+
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="Depiction of the all and powerful God Jupiter. "
+  image-url="Jupiter.jpg"
+  source-url="https://www.google.com/search?client=firefox-b-1-e&biw=1140&bih=752&tbm=isch&sa=1&ei=5dqLXYPbA4X7-gTH_ZTICw&q=jupiter+roman+god&oq=jupiter+roman+god&gs_l=img.3..0l10.97842.99431..99556...0.0..0.85.764.10......0....1..gws-wiz-img.......0i67.rywGFp64aMI&ved=0ahUKEwjD4cam9OzkAhWFvZ4KHcc-BbkQ4dUDCAY&uact=5#imgrc=gOXqiibl8TK8uM:"
+%}
+
 
 Early Roman civilization is known to be a polytheistic society. A polytheistic society is known as a society that believes in more than one God. Their deities include Jupiter (better known as Zeus in Greek Mythology), Venus (Aphrodite), and Mars (Ares). The Romans believed that every aspect of their lives, their actions, and their successes were dependent upon the happiness of their gods. *They believed that the gods and goddesses played a significant role in the course of their lives and the success of the empire.* Their religious beliefs and superstitions would have carried over into their political and military lives/decisions, so why would their religion not impact their history?
 

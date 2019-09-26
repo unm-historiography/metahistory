@@ -10,12 +10,13 @@ date: 2016-11-19 00:00:00
 {:.abstract}
 The ways in which people remember the past, has a certain effect on the future. If we could have one combined narrative that ties us all together as mankind, it would be called a Universal history. Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars to form a narrative which applies to all the world’s peoples. As our documented and accepted histories today would tell us, this task of a universal history has been tried and failed. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that make it difficult to decipher the “truth”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis.
 
-section: Instructions
-    subnav:
-      - title: Loading Images
-        url: /loading-images
-      - title: Code Samples
-        url: /4271_2 Universal History.jpg
+ {% include figure.html
+  class="img-"
+  width="100%"
+  caption="The tributaries that lead to the ocean of 'One History'"
+  image-url="4271_2 Universal History.jpg"
+  source-url="https://www.jamesarsenault.com/pages/books/4271/friedrich-strass-m-d-r-s-fisher/stream-of-time-or-chart-of-universal-history-from-the-original-german-of-strass/?soldItem=true"
+%} 
         
        
 ### Ancient Narratives
