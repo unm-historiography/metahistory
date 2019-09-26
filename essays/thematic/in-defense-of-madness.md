@@ -1,7 +1,24 @@
-# **In Defense of Madness: Explorations in Postmodernism** 
-by Jacob Martinez
+---
+title: In Defense of Madness
+author: Jacob Martinez
+editor: Kyle Sparks
+date: 09/26/19
+---
 
- > *Historians themselves (or some of them)have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
+# In Defense of Madness
+
+##### Jacob Martinez - author
+##### Kyle Sparks - editor
+
+{% include figure.html
+class="img-left"
+width="35%"
+Caption="_The Manifesto of the Communist Party_, (1848), was the clarion call for oppressed factory workers across Russia and all of Europe to rise up and exert their power against industrialist and capitalism."
+image-url="kylenutshell.jpg"
+source-url="https://www.pinterest.com/pin/26880928999669745/"
+ %}
+ 
+ > *Historians themselves (or some of them) have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections* (Southgate, 107)
 
 
 
