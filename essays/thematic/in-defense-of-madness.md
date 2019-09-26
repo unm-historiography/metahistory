@@ -51,7 +51,7 @@ Those who would believe that by the unified methods of various collaborators a c
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="40%"
   caption="Michel Foucault Caption Trial"
   image-url="kyleFoucault5.jpg"
   source-url="https://en.wikipedia.org/wiki/Michel_Foucault"
