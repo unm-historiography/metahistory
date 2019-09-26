@@ -2,6 +2,7 @@
 layout: default
 title: 20th Century Feminist History and Postmodernism
 date: 2018-05-11 00:00:00
+editor: Chloë King
 author: Emily Hartshorn
 ---
 
