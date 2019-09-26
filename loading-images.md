@@ -41,8 +41,8 @@ Again, all you need to do to get images on your essay page is to copy and paste 
 
 ### Edit parameters
 The parameters (class, width, caption) are self explanatory, but note that:
-- `image-url` is the ONLY the filename of the image.
-- It MUST NOT start with `images/` as we saw originally.
+- `image-url` is the ONLY the filename of the image, with appropriate extension (`.jpg`, `.png`, `.jpeg`, etc).
+  - Your filename MUST NOT start with `images/` as we saw originally.
 - `source-url` is the URL of wherever you got the image.
 
 Make sure what's in the code and your file name as it appears in the repository MATCH EXACTLY.
