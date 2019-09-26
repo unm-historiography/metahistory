@@ -81,18 +81,13 @@ Influenced by the Enlightenment, Marxism was grounded in observation; the observ
 ## Lenin Carries the Banner of Marxism
 
 {% include figure.html
-class=“img-left”
+class=“img-right”
 width=“35%”
 image-url=“vanguard-quote.png”
-%}
+ %}
 
 What made Vladimir Lenin unique in historiographical literature was his passion and dedication to the cause. “[N]o proposition is more susceptible of historical truth than that there is a tendency for various economic groups to become aware of their class interests and to work consciously for the fulfillment of ends which they consider good.”[21]  _In What is to be Done?_ (1913), Lenin states, “ [The] role of vanguard...can only be fulfilled only by a party that is guided by an advanced theory.”[22]  His charisma, intelligence, and conviction were key to awakening the masses from their class ignorance. 
 
-{% include aside.html
-class="pullquote"
-text=[The] role of vanguard...can only be fulfilled only by a party that is guided by an advanced theory."
-width="30%"
- %}
 Using an authoritative and condescending tone,  **Lenin's work successfully incited the workers, trade unions, and peasants into class consciousness**.[23]  Captivating the imaginations of the oppressed, Lenin was successful inciting large segments of the 'proletariat'[24] and cast the existing economic and class systems into turmoil, as Marx had proffered in The Manifesto.[25] The use of a commanding narrative by Lenin swayed his contemporaries into political action, altering the landscape of modern historiography. Western 20th Century historians like Gordon Watkins, Emile Vandervelde, and E.P. Thompson, have offered their perspectives and interpretations of Marxism, as we will see. 
 
 ## Stalin and Nationalism
