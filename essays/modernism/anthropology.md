@@ -2,6 +2,7 @@
 layout: default
 title: Anthropology and Historiography
 author: Desireé Martinez
+editor: Keena Hays
 date: 2018-05-11 00:00:00
 ---
 
