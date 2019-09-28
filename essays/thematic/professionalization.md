@@ -20,7 +20,7 @@ If asked to sum this up, Ranke would declare that history is “documentary, not
 {% include figure.html
   class="img-right"
   width="42%"
-  caption="Ranke was 'cool' ...."
+  caption="Leopold Van Ranke."
   image-url="ranke.jpg"
   source-url="https://en.wikipedia.org/wiki/Leopold_von_Ranke#/media/File:Jebens,_Adolf_-_Leopold_von_Ranke_(detail)_-_1875.jpg"
 %}
@@ -68,7 +68,7 @@ Another dangerous result of applying scientific methodology to history was the r
 {% include figure.html
   class="img-left"
   width="42%"
-  caption="Mother Germany. German Nationalism "
+  caption="Mother Germany. German Nationalism. The sentiments of German nationalism embodied into an anthropomorphic figure. "
   image-url="800px-Image_Germania_(painting).jpg"
   source-url="https://commons.wikimedia.org/wiki/Category:Nationalism_in_Germany#/media/File:Image_Germania_(painting).jpg"
 %}
