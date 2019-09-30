@@ -40,7 +40,7 @@ Those who would believe that by the unified methods of various collaborators a c
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="45%"
   caption="Michel Foucault, was a French philosopher, historian of ideas, social theorist, and literary critic. Foucault's theories primarily address the relationship between power and knowledge, and how they are used as a form of social control through societal institutions"
   image-url="kyleFoucault5.jpg"
   source-url="https://en.wikipedia.org/wiki/Michel_Foucault"
@@ -62,7 +62,7 @@ Meaning in text is at the center of postmodern scholarship. The evaluation of na
 
 {% include figure.html
   class="img-right"
-  width="90%"
+  width="85%"
   caption="Postmodernism"
   image-url="kylepostmodernism.jpg"
   source-url="https://www.slideshare.net/mesterman/postmodernism-and-history"
@@ -95,7 +95,7 @@ The meaning of the histories we write take on their own life in a manner that ca
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="40%"
   caption="Truth"
   image-url="61q5kk0ZAUL._SY606_.jpg"
   source-url="https://www.google.com/search?q=what+is+truth&rlz=1C1CHZL_enUS759US759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjph5iX1ffkAhUEuZ4KHcjzC6wQ_AUIFCgD&biw=1536&bih=722#imgrc=Frse8TogAaoywM:"

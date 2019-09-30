@@ -5,11 +5,6 @@ editor: Rick Rockett
 date: 2019-09-24
 ---
 
-# Marxism and Its Historical Significance
-
-##### JEROME T. MONDRAGON - author
-##### RICK ROCKETT - editor
-
 {% include figure.html
 class="img-left"
 width="35%"

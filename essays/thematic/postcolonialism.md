@@ -2,6 +2,7 @@
 layout: default
 title: Postcolonialism
 author: Jenni Scanlan
+editor: Autumn Buckridge
 date: 2016-11-19 00:00:00
 ---
 
