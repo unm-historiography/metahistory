@@ -42,7 +42,7 @@ Marxist state ideology has forced historians to switch their focus onto the comm
   class="img-right"
   width="33%"
   caption="The Ming Dynasty Wanli Emperor, now only bones, was dug up and denounced during the Cultural Revolution."
-  image-url="wanliemeror.jpg"
+  image-url="wanliemperor.jpg"
   source-url="https://en.wikipedia.org/wiki/Cultural_Revolution#/media/File:Wanlitod.jpg"
 %} 
 
