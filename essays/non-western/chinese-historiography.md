@@ -19,7 +19,7 @@ The establishment of the [Chinese Republic](https://en.wikipedia.org/wiki/Republ
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Liang Qichao"
+  caption="Liang Qichao, while intially a monarchist, would help modernize Chinese historiography at the beginning of the revolutionary period"
   image-url="liangqichao.jpeg"
   source-url="https://en.wikipedia.org/wiki/Liang_Qichao#/media/File:Liang_Qichao_portrait.jpg"
 %} 
@@ -41,9 +41,9 @@ Marxist state ideology has forced historians to switch their focus onto the comm
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Poster from early years of the Cultural Revolution"
-  image-url="culturalrevolution.jpeg"
-  source-url="https://www.atlasobscura.com/articles/chinese-propaganda-posters-cultural-revolution-shaomin-li"
+  caption="The Ming Dynasty Wanli Emperor, now only bones, was dug up and denounced during the Cultural Revolution."
+  image-url="wanliemeror.jpg"
+  source-url="https://en.wikipedia.org/wiki/Cultural_Revolution#/media/File:Wanlitod.jpg"
 %} 
 
 The idea of "feudalism" is seen repeatedly referenced during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution-the), particularly by the young Marxist historians who had grown up in communist China. To these new Marxist intellectuals, the Chinese idea of feudalism went beyond how we view the concept in the West. Feudalism became a catch-all critique of the highly bureaucratic structure of imperial China and the 
@@ -56,10 +56,10 @@ It is also important to note for Westerners studying Chinese historiography the 
 
 {% include figure.html
   class="img-left"
-  width="50%"
-  caption="Foreign troops outside the Forbidden City during the Boxer Rebellion"
-  image-url="boxerrebellion.jpg"
-  source-url="https://commons.wikimedia.org/wiki/清朝#/media/File:Foreign_armies_in_Beijing_during_Boxer_Rebellion.jpg"
+  width="100%"
+  caption="A Japanese depiction of the Battle of the Yalu River.  The rise of Japanaese Imperialism would have great impact on how China viewed itself, and its history in the 19th and 20th centuries"
+  image-url="battleoftheyellowsea.jpg"
+  source-url="https://en.wikipedia.org/wiki/First_Sino-Japanese_War#/media/File:Battle_of_the_Yellow_Sea_by_Korechika.jpg"
 %}
 
 China has undergone not only large amounts of political turmoil in the past two centuries but has also been radically changed by influxes of outside influence. For a nation which has often been very insular in its academic tradition, the beginnings of contact with other intellectual traditions during the Qing dynasty have had a massive impact. The British incursions during the Qing period, and the anti-intellectual reforms of the Qing emperors during that time forced academics to change their stance on the incorporation of outside materials in their methodology and work. (Teng 133) The proliferation of western academia into Chinese historiography would only be increased in the 20th century as the country underwent large transitions into not a state Marxism influenced by modernization, industrialization and globalism. (Li 348)
