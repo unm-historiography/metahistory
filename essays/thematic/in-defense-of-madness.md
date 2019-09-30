@@ -40,7 +40,7 @@ Those who would believe that by the unified methods of various collaborators a c
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="45%"
   caption="Michel Foucault, was a French philosopher, historian of ideas, social theorist, and literary critic. Foucault's theories primarily address the relationship between power and knowledge, and how they are used as a form of social control through societal institutions"
   image-url="kyleFoucault5.jpg"
   source-url="https://en.wikipedia.org/wiki/Michel_Foucault"
