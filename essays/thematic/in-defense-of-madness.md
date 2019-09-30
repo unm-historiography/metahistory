@@ -4,17 +4,6 @@ author: Jacob Martinez
 editor: Kyle Sparks
 ---
 
-{% include figure.html
-class="img-left"
-width="35%"
-Caption="Caption"
-image-url="kylenutshell.jpg"
-source-url="source"
- %}
-
-
-
-
  > Historians themselves (or some of them) have long since been aware of the theortetical complexities inherent in their subject – of the subjectivity involved in assigning causal connections (Southgate, 107)
 
 In a post war world, the late 20th century saw an unprecedented philosophical backlash to the established academic fields that had been hyper focused on objective knowledge. “Postmodernism” arose from the grayish muck of wartime’s hardship and invaded the historical tradition by surprise. Helped along by the revolt against the bastardization of professional history by nationalist wartime powers; postmodernism entered the historical world forever changing the historiographical record. This article aims to describe how the postmodernist models have affected historiography in ways that shook historians code of ethics to their core and why they have created an understandable backlash to their abstract existence.
@@ -43,7 +32,7 @@ Those who would believe that by the unified methods of various collaborators a c
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Michel Foucault Caption Trial"
+  caption="Michel Foucault, was a French philosopher, historian of ideas, social theorist, and literary critic. Foucault's theories primarily address the relationship between power and knowledge, and how they are used as a form of social control through societal institutions"
   image-url="kyleFoucault5.jpg"
   source-url="https://en.wikipedia.org/wiki/Michel_Foucault"
 %}
