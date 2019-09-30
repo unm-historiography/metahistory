@@ -7,7 +7,7 @@ editor: Kyle Sparks
 
 {% include figure.html
   class="img-right"
-  width="60%"
+  width="50%"
   caption="Humor"
   image-url="kylenutshell.jpg"
   source-url="https://funnyjunk.com/channel/funny/Philosophy+in+a+nutshell/hgGwGut/"
