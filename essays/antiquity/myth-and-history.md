@@ -30,11 +30,12 @@ source-url="https://www.biography.com/scholar/voltaire"
 
 ### What is History?
 
+
 % include figure.html
   class="img-right"
   width="30%"
   caption="Greek Author Homer"
-  image-url="homer-artist.jpg"
+  image-url="Homer-artist.jpg"
   source-url="https://www.britannica.com/biography/Homer-Greek-poet"
 %}
 
@@ -77,6 +78,8 @@ Historians have always attempted to relate human behavior and human nature with 
 Philosophy and science made Greece the starting point for the story of the [human condition]( https://unm-historiography.github.io/491-fall2016/essays/universal-histories.html) in time (Kelley, 13). Proto-historiographical forms of writing in Greek culture included: **Genealogy**, a line of descent traced continuously from a specific ancestor. **Geography**, the study of human activity, including the distribution of populations and resources over time, **Ethnography**, the scientific description of the customs of different cultures and groups of people, and **local history**, the study of the patterns and behavior of the people in one’s own community. Like the Egyptians, the Greeks also expressed an interest in **chronology**. The objective for many of the first Greek historiographers was to go back as far as they possibly could, and attempt to combine both mythological events from the past with more recent events. By doing this, they were attempting to create a more harmonized chronology of their culture (Calame, 19). [Hellanicus] (https://www.britannica.com/biography/Hellanicus-of-Lesbos), a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the mythical aspects from his work to make it more historically accurate (Kelley, 15). This tells us that although the ancient Greeks were aware of the issues of myth early on, it was sometimes so difficult to break away from including it in their histories, that many had to ultimately abandon their work. Some examples of Greek mythology in literature that are still important today include both myths and teachings about Greek gods and heroes (think back to _Homer_), as well as the origins and importance of their own rituals and culture, and the nature of the world.
 
 #### Herodotus and the Founding of History ###
+
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -84,11 +87,13 @@ Philosophy and science made Greece the starting point for the story of the [huma
   image-url="Herodotus.jpg"
   source-url="https://www.ancient.eu/herodotus/"
 %}
+
 [Herodotus](http://www.krauselabs.net/writings/herodotus-father-of-history/), known as the "father of history" and the "father of lies," was a Greek historian who greatly enjoyed recording history by means of story-telling. The fact that he was a little too ambitious with his writings and made up many inaccurate details about different cultures heavily links him to the subjects of both myth and history. He was, however, the first historian to systematically collect sources, test the legitimacy of them (to an extent), and arranged his materials into well-constructed narratives/tales. He was also the first person to present the concept of a [thesis](https://www.dictionary.com/browse/thesis) into his writings. His large-scale historical narrative has managed to survive throughout the centuries, and still influences the ways in which history is recorded today (Kelley, 2-6). Herodotus was born in the Greek city of Halicarnassus in the year 484 BC to a wealthy merchant family. As an adult, he spent most of his time traveling through many Persian territories including Egypt, Babylon, Syria, and Palestine. Herodotus made a point of keeping track of and recording all the different myths, legends, and oral histories from the countries he visited. He spent the majority of his life working on [*The Histories*](https://en.wikipedia.org/wiki/Histories_(Herodotus)), originally published in 440 BC. In his works, Herodotus attempted to explain why the [Persian Wars](https://www.ancient.eu/Persian_Wars/) happened, or more specifically, what exactly caused both sides to want to fight against one another. He tried to explain the how and the why of the Persian Wars by giving firsthand accounts of the events of the war, but he also included myths and legends that he had recorded during his travels with his historical writings. Although it can be interpreted that Herodotus did realize that the memories and stories that he was writing down were not always entirely true, he believed nonetheless, that they needed to be told so that they would be preserved for others to inquire about in the future (Mali, 1).
 
 
 
 #### Thucydides and the Perfecting of History
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -96,6 +101,7 @@ Philosophy and science made Greece the starting point for the story of the [huma
   image-url="thucydides.jpg"
   source-url="https://www.history.com/topics/ancient-history/thucydides"
 %}
+
 [Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian), known as the "second founding father of history," concentrated his efforts on politics and the military. His writings on the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War) rejected the story-telling narrative that Herodotus was so fond of, and eventually coined the term the [Thucydidean Model](https://www.history.com/topics/ancient-history/thucydides), which included eyewitness testimony, personal experience, and observable facts (amongst other things) as a way of recording history. He approached his studies in a more analytical manner, thus allowing his readers to come up with their own conclusions from his works. Thucydides can be seen as the first historian who really attempted to distinguish myth from history through his work (Kelley, 2-6). Not much is known about Thucydides except for what is mentioned in his own works. He was born in the year 460 BC in Halimos, a suburb of Athens. In 424 BC, he was put in charge of a military fleet, but failed to reach the city of Amphipolis in time to stop the [Spartans](https://www.ancient.eu/sparta/) from seizing it, and was exiled for 20 years. It was during these 20 years that Thucydides was able to research, collect data, and really perfect his historical analysis of the *Peloponnesian War*. Unlike Herodotus, Thucydides makes little to no references of the interference of the Greek gods in important historical events, instead choosing to look specifically at the human causes of war and conflict. By using this method, he determined that the only logical reason for Athens falling to the Spartans was because of poor leadership and his societies moral decline. Arguably, it was Thucydides who set the path for future historiographers who concerned themselves with only recording what they believed to be true and disregarding anything that could not be proven through a series of tactics created to attain the facts.   
 
 
