@@ -93,6 +93,15 @@ Indeed the establishment of historical fact is out there, but historians continu
 
 The meaning of the histories we write take on their own life in a manner that can never be objectively pinned down. Instead the historian should see the work as a method to propose meaning.  It can be a terrifying prospect to accept strict objective historical facts have no accurate meaning.  But we should reveal in the challenge of exploring the narrative historians are presenting before you. **The nature of our world is too often blindly accept the reality we’ve become easily socialized to.** Regardless of Foucault’s critics, he teaches us to step outside of what we perceive as the truth. **He implores to ask question of society and how the world has been complacent with itself.**
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Truth"
+  image-url="61q5kk0ZAUL._SY606_.jpg"
+  source-url="https://www.google.com/search?q=what+is+truth&rlz=1C1CHZL_enUS759US759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjph5iX1ffkAhUEuZ4KHcjzC6wQ_AUIFCgD&biw=1536&bih=722#imgrc=Frse8TogAaoywM:"
+%}
+
+
 
 ## Conclusion
 
