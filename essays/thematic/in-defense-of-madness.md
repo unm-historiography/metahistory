@@ -62,7 +62,7 @@ Meaning in text is at the center of postmodern scholarship. The evaluation of na
 
 {% include figure.html
   class="img-right"
-  width="80%"
+  width="85%"
   caption="Postmodernism"
   image-url="kylepostmodernism.jpg"
   source-url="https://www.slideshare.net/mesterman/postmodernism-and-history"
