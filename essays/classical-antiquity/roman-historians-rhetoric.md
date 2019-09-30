@@ -12,7 +12,7 @@ This section takes a look at the Romans and the historians that helped shaped th
 ### Before Rome
 The Greeks came before the Romans and used a different method to tell their history. The method was to pass down to each generation to keep the history alive by telling stories and writing poems about important events. Herodotus, one of the fathers of history who was also known as the “gift of Hera” (Kelly, pg. 19) was a Greek historian. Herodotus was a major traveler, which performed interviews with people about events, and then turns those into poems and mighty stories to tell. An example of this would be when Herodotus talked about the Peloponnesian wars. The key difference from Greek and Roman historians is that the Greeks took the individual stories and events to make them their own, and the Romans wrote their lives and used individual stories to tell about events. This leads to Livy and how he wrote about Roman history.
 
-{% include figure.html class="img-right" src="Titus_Livius.png" caption="Portrait of Livy (59BC-17AD) artist and date unknown"%}
+{% include figure.html class="img-right" image-url="Titus_Livius.png" caption="Portrait of Livy (59BC-17AD) artist and date unknown"%}
 
 ### Livy A Man of History
 
@@ -30,7 +30,7 @@ Rhetoric is definded by [Quintilian](https://en.wikipedia.org/wiki/Quintilian) a
 
 It can be said that Roman rhetoric had a major influence on the Renaissance area after the fall of Rome. This was due to the writings of the Roman historians and the ability of public speaking. William Shakespeare, one of the most profound English writers during the Renaissance era, wrote plays that had Caesar in them. Garry Wills' book, Rome and Rhetoric: Shakespeare’s Julius Caesar, states that “Caesar was a commanding figure in the Renaissance imagination” (Wills, pg. 25). The Renaissance held Caesar to very high standards because many of the Caesars showed great poise and leadership. The purpose in the play was to show Caesar as the God-like figure he was and whom leaders of the Renaissance emmulated.
 
-{% include figure.html class="img-right" src="Cicero.png" caption="Bust of Cicro (106BC-43BC) Denkmäler des klassischen Altertums.1885"%}
+{% include figure.html class="img-right" image-url="Cicero.png" caption="Bust of Cicro (106BC-43BC) Denkmäler des klassischen Altertums.1885"%}
 
 ### Cicero A Master of Rhetoric
 
@@ -38,13 +38,13 @@ Kelly tells us the "first law" (Kelly, pg. 66) is to tell the truth no matter wh
 
 Cicero was an artist of rhetoric and gave very powerful speeches to the people. In many cases he would help Caesar get laws passed. Caesar would give great speeches to the people for many things like war, expansion, and laws. He would speak so well and emotional at times that he put fear in the people of Rome and sometimes not knowing. Frank Marsh the author of The Founding of the Roman Empire stated about Cicero, “The powerful speech of Cicero may have done something to make compliance easier for some” (Marsh, pg.71). Cicero would take the chance to put the people at ease if there was a very good reason like if he supported war, expansion, or laws. Although he preceded Livy it was his use of rhetoric that made he a great Roman figure.
 
-{% include figure.html class="img-right" src="Tacitus.jpg" caption="Statue of Tacitus (56AD-120AD) artist and date unkown"%}
+{% include figure.html class="img-right" image-url="Tacitus.jpg" caption="Statue of Tacitus (56AD-120AD) artist and date unkown"%}
 
 ### Tacitus The Father of Fall
 
 [Tacitus](https://en.wikipedia.org/wiki/Tacitus) (56 AD- 120 AD) also wrote the history he lived. He was a politician and a military officer that wrote about what he experienced on the battlefield and in the senate. Tacitus to major works, “which covered the years of his own youth down to the death of Domitian, and the Annals, which was a richly detailed account of Roman history from A.D. 14 to 68” (Kelly, pg. 61). Tacitus followed Livy later on down the road, and wrote about the later history of Rome. He was the major historian for the decline and fall of Rome. He is one of the true writers of the fall because being in the system of politics; he saw what was wrong with the senate and the problems he saw started the decline of Rome. It could be the that Tacitus recorded the fall Rome for the reason that mistakes were made and that the future civilizations would not make the same mistakes.
 
-{% include figure.html class="img-right" src="1024px-Place-Saint-Pierre-foule.jpg" caption="Saint Peter's Square (2005) artist and date unknown"%}
+{% include figure.html class="img-right" image-url="1024px-Place-Saint-Pierre-foule.jpg" caption="Saint Peter's Square (2005) artist and date unknown"%}
 
 ### Link to Christianity
 
