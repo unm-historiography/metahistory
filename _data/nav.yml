@@ -12,6 +12,8 @@ nav:
         url: /essays/introduction/introduction
       - title: What is this site?
         url: /index
+      - title: Site status
+        url: https://travis-ci.com/unm-historiography/intro-guide
 
   - section: Antiquity
     subnav:
