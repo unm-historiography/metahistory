@@ -220,16 +220,15 @@ figure {
 
 figcaption {
   margin:.4rem 0 0rem 0;
+  text-align: justify;
   clear:both;
 }
 
 figcaption.img-right {
-  text-align: justify;
   padding:0 0px 0px 0rem;
 }
 
 figcaption.img-left {
-  text-align: justify;
   padding:0;
 }
 
@@ -240,10 +239,10 @@ figcaption.img-center {
 
 figcaption p {
   font-family: 'Open Sans', sans-serif;
-  font-size: .8rem;
+  font-size: .7rem;
   color:#888;
-  display:inline;
-  line-height: 1.1rem;
+  display:block;
+  line-height: .9rem;
   margin:0;
 }
 
