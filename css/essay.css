@@ -237,7 +237,7 @@ figcaption.img-center {
   padding:0;
 }
 
-figcaption p {
+figcaption {
   font-family: 'Open Sans', sans-serif;
   font-size: .7rem;
   color:#888;
