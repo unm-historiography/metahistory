@@ -26,7 +26,6 @@ Those who would believe that by the unified methods of various collaborators a c
 **Postmodernists reject the total history narrative of older, professional history,** and because of this they open themselves up to the divisiveness of their own historical structure.** To those still gripping onto the old Rankean model it seems as if Postmodernists have thrown away a meaningful purpose from professional history, what good is history if it does not present answers for truth? Postmodernists, however, have other, layered, goals in mind for their work. For the postmodernist, history exists within an abstract realm of generalized form. **Postmodernists may use history not to define a rigid past but to question the complacency of our own basic understanding of the past.**
 
 
-
 ## Michel Foucault
 
 {% include figure.html
@@ -51,7 +50,13 @@ Foucault’s desire to question the histories we had commonly accepted extended 
 
 Meaning in text is at the center of postmodern scholarship. The evaluation of narrative in historical scholarship challenges the pretense of well-defined truth. Naturally, postmodernist’s felt that truth was not easily obtainable through strict research alone. Instead, history, to postmodern thinkers was a truth that existed as a relative ideal found within the context of societies current culture. Truth within history is meant to be expressed for the purpose of narrative storytelling. This is not meant to say that all history is made up, or should be cherry picked by the historian to create destructive narratives, the difference comes from interpretation alone. Allowing group identity to be warped by fictitious beliefs of their past is harmful not only to that group but to the stability of their society. It would be mad to exclude commonly held historical fact in dates from histories and as a general rule Postmodernists will dissect a larger meaning from the archives. This lessons they learn can be individualized for the reader or author and is dependent on the manner in which the historical facts are analyzed.
 
-
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Postmodernism"
+  image-url="kylepostmodernism.jpg"
+  source-url="https://www.slideshare.net/mesterman/postmodernism-and-history"
+%}
 
 Postmodernists accept that there is a general, factual basis that history rests upon. Without the historian pulling together these elements of fact into a cohesive meaning then historical fact becomes trivial. The historian must function as a non-fiction storyteller. **The crucial element for any story teller is the narrative and purpose of the history they portray**. *The quality of the historian can help impart meaning where none may have been previously; this elevates the historian, who holds tremendous power over the narrative they illuminate.*
 
