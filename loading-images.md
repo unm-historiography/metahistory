@@ -49,7 +49,7 @@ Make sure what's in the code and your file name as it appears in the repository 
 
 ### Double check and commit your changes
 Double check that you have:
-- the `\{\%` and `\%\}` at the beginning and end of your code block
+- the {%raw%} {% {%endraw%} and {%raw%} %} {%endraw%} at the beginning and end of your code block
 - matching double quotation marks for all your parameters
 - a PERFECT EXACT match between your image filename and what's in the `image-url` field.
 - Use the green button to commit your changes as always.

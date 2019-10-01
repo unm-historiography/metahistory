@@ -9,7 +9,25 @@ date: 2016-11-19 00:00:00
 
 Film as an academic medium for historiography has several advantages over textual sources. **The phrase, “a picture is worth a thousand words” comes to mind; if this is so, then film’s value for history should be self-evident.** When watching a film or documentary, the average viewer is immersed in a moment in history in a way that reading a text could never accomplish. When viewing film through a historian’s lens, we can be more objective in our observations of footage from the past. As historians, we can identify that the events being filmed did indeed happen, assuming the footage wasn’t doctored. We must recognize however, that humans are creatures ruled by their senses. We interact with the world visually, thus it makes sense for a visual medium to have a more profound emotional impact on us. Still images via photography can capture iconic moments which on their own can alter the “course of history”. Films about history bring the “past to life” and helps viewers better relate to the characters or events of that past. Narratives within film can be powerful motivators and allow filmmakers and historians to more fully engage with their audience. **Non-textual sources such as film and photography are therefore uniquely positioned to communicate the emotional impact of historical events and for historiography, their value cannot be understated.** I will discuss film specifically in this essay, both its advantages for history as well as the criticisms against it. I will argue that like historical texts and novels, it does not matter if film as history cannot be proven to be 100% accurate. What matters most are the emotions and thoughts films invoke, the narratives and stories filmmakers and historians choose to remember and value.
 
+
+{% include video.html
+
+video-url='<iframe width="652" height="367" src="https://www.youtube.com/embed/8xwrIy1JzL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+
+caption='this is my test caption'
+%}
+
 There are two basic types of film to be used as a historical artifact with an entire spectrum of possible expression in between. The first is **“unedited” or “raw” footage**, as close to the “true” event as possible. The second is **film which has been carefully crafted and shot with some intention in mind, be it propaganda or art.** Everything along this spectrum is valuable as a historical artifact, though of course it must be watched with a critical eye. First, let’s examine “unedited” or “raw” footage. Footage of this nature has been used to document history since the end of the 19th century. **Thomas Edison famously took a [short film](https://www.loc.gov/item/98501035/ "T. Edison Film") of soldiers unloading cargo in Tampa, Florida in May of 1898.** These images carry a curious potency to the historian; to quote Janna Jones in her work, *The Past is a Moving Picture: Preserving the Twentieth Century on Film*, “These moving images resurrected the city and the soldiers in a way photographs could not. Edison’s moving images of a Tampa that existed one hundred years ago were a compelling reminder of how a city’s past can disappear from the landscape and from memory” (Jones, 2012, 3-4).
+
+{% include video.html
+
+video-url='<iframe src="https://player.vimeo.com/video/2696386" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
+
+caption='this is my test caption'
+
+%}
+
+
 
 This sort of footage can bring more poignant memories to light, forcing society to accept the reality of a situation it would rather avoid. For example, footage taken of Jewish internment camps (WWII) was used as evidence for the first time during the **[Nuremberg trials](https://www.youtube.com/watch?v=QMvDIv8QOvQ "Nuremberg Trials Footage")** (1945-1946, trials held by the Allied forces against twenty-two Nazi criminals). **Camera operators and filmmakers such as George Stevens, John Huston, Frank Capra, Samuel Fuller and Billy Wilder were deployed to capture the horrific conditions of the war. Filmmakers were allowed into concentration camps to [document](https://www.youtube.com/watch?v=mdX82V2rPfo "Concentration Camp Footage") the atrocities committed there** (Wilson, 2012, 7). Nazis soldiers and officers, however unwittingly, aided in their own prosecution by utilizing photographers such as Wilhelm Brasse to take portraits of their victims. “From clandestine glimpses of persecution and extermination snatched by bystanders and underground members and the grinning, shameless, and triumphant images captured by the Nazis and their collaborators to record their ‘mastery,’ to the newsreels and photojournalism of liberation taken as twofold evidence: here is evidence of the unthinkable crimes committed and also literal, judicial evidence collated for the anticipated war crimes trials.” (Wilson, 2012, 22-23). George Stevens’ footage, as well as that of many others, formed the backbone of evidence against many Nazi party members and leaders.
 

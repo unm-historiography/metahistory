@@ -1,5 +1,5 @@
 baseurl: /intro-guide
-title: metahistory
+title: "Making History"
 
 exclude: [vendor]
 
@@ -8,4 +8,4 @@ defaults:
     scope:
       path: "sites"
     values:
-      layout: "single-col"
+      layout: "default"

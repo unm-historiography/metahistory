@@ -7,9 +7,9 @@
   {% else %}
     <li class="navigation-list-item {% if item.url == page.url %}active{% endif %}">
       {% if item.url contains "http" %}
-      <a href="{{ item.url }}">{{ item.title }}</a>
+        <a href="{{ item.url }}">{{ item.title }}</a>
       {% else %}
-      <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
     </li>
   {% endif %}
