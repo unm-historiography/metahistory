@@ -2,6 +2,7 @@
 layout: default
 title: The Historical Value of Film
 author: Lauren Ball
+editor: Walid Hasan
 date: 2016-11-19 00:00:00
 ---
 
