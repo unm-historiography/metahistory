@@ -15,7 +15,7 @@ Film as an academic medium for historiography has several advantages over textua
 
 video-url='<iframe width="652" height="367" src="https://www.youtube.com/embed/8xwrIy1JzL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
-caption='Thomas Edison Video of soldiers in Tampa'
+caption='Test caption'
 %}
 
 There are two basic types of film to be used as a historical artifact with an entire spectrum of possible expression in between. The first is **“unedited” or “raw” footage**, as close to the “true” event as possible. The second is **film which has been carefully crafted and shot with some intention in mind, be it propaganda or art.** Everything along this spectrum is valuable as a historical artifact, though of course it must be watched with a critical eye. First, let’s examine “unedited” or “raw” footage. Footage of this nature has been used to document history since the end of the 19th century. **Thomas Edison famously took a short film of soldiers unloading cargo in Tampa, Florida in May of 1898.** These images carry a curious potency to the historian; to quote Janna Jones in her work, *The Past is a Moving Picture: Preserving the Twentieth Century on Film*, “These moving images resurrected the city and the soldiers in a way photographs could not. Edison’s moving images of a Tampa that existed one hundred years ago were a compelling reminder of how a city’s past can disappear from the landscape and from memory” (Jones, 2012, 3-4).
