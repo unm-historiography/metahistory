@@ -47,7 +47,7 @@ It must be noted that the **deceptive nature of these films does not negate thei
 
 {% include video.html
 
-video-url='<iframe width="652" height="367" src="https://www.youtube.com/embed?v=09m4X5FG5vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+video-url='<iframe width="665" height="374" src="https://www.youtube.com/embed/09m4X5FG5vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 caption="Gettysburg(1993) showing a dramatization of Pickett's infamous charge"
 %}
