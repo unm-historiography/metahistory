@@ -67,6 +67,13 @@ There is no singular approach to postcolonialism. Essentialism and the Subaltern
 ## Consider This
 - What histories have you been told from the colonialist perspective? 
   - How have those narratives changed the way you view the world and your place in it? 
+  {% include figure.html
+  class="img-right"
+  width="100%"
+  caption="Students protest Columbus Day, advocating instead for Indigenous People's Day. The shift in public opinion towards celebrating Christopher Columbus is evidence of a growing post-colonialist narrative."
+  image-url="Columbus-day.jpg"
+  source-url="https://www.cnn.com/2016/10/09/us/columbus-day-indigenous-peoples-day/index.html"
+%}
 - Do you support the idea of possessive exclusivism? 
   - Do you have histories that are personally significant that should not be told from an outside perspective? 
 - Should historians continue to value written sources over other types of evidence such as oral histories and folklore? 
