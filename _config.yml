@@ -1,3 +1,4 @@
+baseurl: /intro-guide
 title: "Making History"
 essay-images: /essays/images
 exclude: [vendor]
