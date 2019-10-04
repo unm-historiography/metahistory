@@ -9,7 +9,7 @@
       {% if item.url contains "http" %}
         <a href="{{ item.url }}">{{ item.title }}</a>
       {% else %}
-        <a href="{{ item.url | absolute-url }}">{{ item.title }}</a>
+        <a href="{{site.baseurl}}{{ item.url | absolute-url }}">{{ item.title }}</a>
       {% endif %}
     </li>
   {% endif %}
