@@ -14,8 +14,8 @@ As history became increasingly popular among the general public in the late 20th
   class="img-right"
   width="50%"
   caption="Louis XIV"
-  image-url="Louis_XIV_of_France.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.JPG"
+  image-url="https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg"
 %}
 Even though the term “History Wars” was not coined until the late 20th century, the power struggle over which historical works will be promoted and accepted has a rich historiographic tradition (Popkin, 2016, 154). In 1439-1440, Lorenzo Valla’s *Discourse on the Forgery of Constantine* challenged the Catholic Church’s claim that the Roman Emperor Constantine gave the Catholic Church jurisdiction over Rome in the 4th century (Popkin, 2016, 48). Through his use of new language from the 15th century, Valla’s historical work challenged the Catholic Church’s authority. In 17th century France, King Louis XIV used propaganda history, such as Cardinal Bossuet’s *Universal History*, to defend “the absolute power” of the monarchy (Popkin, 2016, 57). In the 17th and 18th century, the Enlightenment historians challenged the Renaissance movement’s perspective on historical studies by emphasizing the progress of humanity instead of classical Roman and Greek works (Popkin, 2016, 61). After World War I, the “general faith in human progress that had underlain the development of academic history in the nineteenth century was shattered” and **the struggle to define the past has continued to be a contested issue**(Popkin, 2016, 106).
 {% include figure.html
@@ -34,16 +34,16 @@ In the 1960s and 1970s, popular historians such as Pierra Nora, Emmanuel Le Roy 
   class="img-center"
   width="100%"
   caption="_Enola Gay_"
-  image-url="Enola_Gay_(plane).jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Enola_Gay_(plane).JPG"
+  image-url="https://commons.wikimedia.org/wiki/File:Enola_Gay_(plane).jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Enola_Gay_(plane).jpg"
 %}
 In 1994, the divide between popular and academic history was on full display in the United States when the Smithsonian attempted to bring the *Enola Gay*, the plane that dropped the atomic bomb on Hiroshima during World War II, to its Washington D.C. museum (Linenthal, 1996). In alignment with the mainstream academic historical perspective, the Enola Gay exhibit was designed to show “the devastation and human suffering caused by its use” (Popkin, 2016, 160). The exhibit was seen by many Republicans and veteran groups as “anti-American” and “projecting the ‘countercultural values’ of the Vietnam era onto America’s last good war” (Linenthal, 1996, p. 2). But for academic historians like Beverley Southgate, who was not involved in the development of the Enola Gay exhibit, the agenda of all modern history should not be to promote nationalist histories but to advocate for “that international community to which now we all belong” (Southgate, 2005, 74). **In this case, not only do the believers of popular history and academic history have different viewpoints but they have different values.** The Enola Gay exhibit was later discarded by the museum in 1995. But, the idea of the exhibit itself struck at the heart of the “History Wars”, a term that drove Edward Linenthal to write the book “*History Wars: The Enola Gay and Other Battles for the American Past*” (Linenthal, 1996).
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The Japanese signing the act of surrender on bear the USS Missouri on Septemnber 2nd, 1945, marking the end of World War II."
-  image-url="World_War_II_is_over.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:World_War_II_is_over.JPG"
+  caption="The Japanese signing the act of surrender on board the USS Missouri on Septemnber 2nd, 1945, marking the end of World War II."
+  image-url="https://commons.wikimedia.org/wiki/File:World_War_II_is_over.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:World_War_II_is_over.jpg"
 %}
 **The historical battle over the Enola Gay is not only crucial from a historical standpoint of showing “what actually happened,” as Ranke stated, but it had a profound impact on how America saw its national identity** (Popkin, 2016, 76). While certain examples of American popular history glorified America’s role in dropping the atomic bombs on Japan, such as its inclusion in President Truman’s Presidential Library, the consensus among academic historians is to take a more objective approach by analyzing the devastating impact the atomic bomb had on the Japanese people (The Harry S. Truman Library and Museum, 2018) (Linenthal, 1996, 131). If the historical consensus is that the United States unnecessarily dropped the atomic bombs, then the United States unjustifiably killed hundreds of thousands of civilians (Linenthal, 1996, 79). President Truman’s advisor, Admiral Leahy, estimated that an invasion into Japan would have resulted in the deaths of 50,000 American soldiers and other reports had estimated 500,000 dead American soldiers (Linenthal, 1996, 54-56). If the historical consensus is that the United States was justified in the dropping of the atomic bombs because it saved 50,000 or up to 500,000 American soldiers, then the United States was the heroic winner of World War II.
 
