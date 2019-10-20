@@ -3,3 +3,10 @@ title: Fernand Braudel
 author: Autumn Buckridge
 date: 2019-10-20
 ---
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Braudel drafted his defining work on the Mediterranean while in a prisoner of war camp in Nazi Germany."
+  image-url="default.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}
