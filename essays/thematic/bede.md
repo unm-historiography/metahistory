@@ -5,12 +5,11 @@ date: 2019-10-20
 ---
 
 {% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Mesa Vista Hall"
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  class="img-center"
+  width="100%"
+  caption="Look at this cure cat I found in the images folder!"
+  image-url="Cute-Cat.JPG"
+  source-url="who knows?"
 %}
 
-# Venerable Bede 
-Lorem Ipsum etc...
+Lorem Ipsum Lemon was an idiot for ignoreing, among others, the Venerable Bede etc...
