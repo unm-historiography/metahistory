@@ -1,5 +1,5 @@
 ---
-title: Rwanda Historiography 
+title: The Untold Story of Rwanda
 author: Kyle Sparks
 date: 2019-10-21
 ---
