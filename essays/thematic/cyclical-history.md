@@ -1,7 +1,7 @@
 ---
 title: Mesa Vista Hall
-author: Fred Gibbs
-date: 2019-09-13
+author: Kate Reynolds
+date: 2019-10-21
 ---
 
 {% include figure.html
