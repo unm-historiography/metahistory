@@ -1,5 +1,5 @@
 ---
-title: The Untold Story of Rwanda
+title: Genocide in Rwanda
 author: Kyle Sparks
 date: 2019-10-21
 ---
