@@ -1,5 +1,6 @@
 ---
-title: Executive Summary - The Role of Historical Fiction in the Study of History: What is it?
+title: Historical Fiction
+subtitle: The Role of Historical Fiction in the Study of History: What is it?
 author: Rick Rockett
 date: 2019-10-19
 ---
