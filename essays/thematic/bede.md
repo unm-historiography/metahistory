@@ -7,7 +7,7 @@ date: 2019-10-20
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Look at this cure cat I found in the images folder!"
+  caption="Look at this cute cat I found in the images folder!"
   image-url="Cute-Cat.JPG"
   source-url="https://github.com/ebisbee/intro-guide/blob/master/essays/images/Cute-Cat.JPG"
 %}
