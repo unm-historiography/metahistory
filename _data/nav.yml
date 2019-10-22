@@ -5,6 +5,8 @@ nav:
         url: /loading-images.html
       - title: Code Samples
         url: /code.html
+      - title: New Page
+        url: /essays/new-folder/new-page
 
   - section: Introductions
     subnav:
