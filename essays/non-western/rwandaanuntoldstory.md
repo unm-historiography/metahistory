@@ -54,7 +54,7 @@ In 1988, a counter politcal party was formed called the **Rwandan Patriotic Fron
 
 ### Assasination 
 
-On April 6th, 1994, President Juvenal Habyarimana (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but investigation of who carried out the action was not clear. However, the assasination sparked outrage of the Hutu against the Tutsi. 
+On April 6th, 1994, **President Juvenal Habyarimana** (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but investigation of who carried out the action was not clear. However, the assasination sparked outrage of the Hutu against the Tutsi. 
 
 
 
