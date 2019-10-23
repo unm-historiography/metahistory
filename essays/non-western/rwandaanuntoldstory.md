@@ -52,7 +52,7 @@ In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to r
 In 1988, a counter politcal party was formed called the **Rwandan Patriotic Front** (RPF), formed by Tutsi exhiles in Uganda. It's goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it's formattion, in 1990, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords wetre signed on August 3rd, 1993. The treaties promised compromise for each tribe and an attempt for negotiations of political representation. 
 
 
-### Assasination 
+### Presidential Assasination 
 
 On April 6th, 1994, **President Juvenal Habyarimana** (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but investigation of who carried out the action was not clear. Nevertheless, the assasination sparked outrage of Hutu tribesmnen who blamed the RPF and sought to retaliate. The cease-fire ended and violence erupted. 
 
@@ -66,7 +66,7 @@ In 1990, the RPF led a military coalition against the MRND to stop the genocide 
 
 
 
-
+## History of the Genocide 
 
 
 
