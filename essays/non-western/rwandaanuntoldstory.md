@@ -12,7 +12,7 @@ date: 2019-10-21
   source-url="https://fridaymagazine.ae/travel/destinations/in-rwanda-a-new-dawn-for-the-land-of-a-thousand-hills-1.2300540"
 %}
 
-As history is often written by the victors, this essay will examine the official historical account of the genocide which occured in Rwanda, 1994. It aims to study how the history of the war was written, portrayed, and perhaps manipulated. History provides us with the perception of a true story, a story all too often percieved to be the reality of an event or series of events. This essay aims to show how an untold story of Rwanda brings fuller context to the conflict of Rwanda and how such story of history underlies a closer truth to reality. To better understand a history closer to truth, as should be the historians purpose, the discipline of historiography plays a critical role in understanding the story of Rwanda. It is merely the purpose of this essay to interpret the historical sources and examine just how the history of Rwanda was written, portrayed, and percieved (the history of history) and also show how the relationship between history and truth can be distorted. 
+As history is often written by the victors, this essay will examine the official historical account of the genocide which occured in Rwanda, 1994. It aims to study how the history of the genocide was written, portrayed, and perhaps manipulated. History provides us with the perception of a true story, a story all too often percieved to be the reality of an event or series of events. This essay aims to show how an untold story of Rwanda brings fuller context to the conflict of Rwanda and how such a story of history underlies a closer truth to reality. To further study a history closer to truth, as should be the historians purpose, the discipline of historiography plays a critical role in understanding the story of Rwanda. It is merely the purpose of this essay to interpret the historical sources and examine just how the history of Rwanda was written, portrayed, and percieved (the history of history) and also show how the relationship between history and truth can be distorted. 
 
 {% include figure.html
   class="img-right"
@@ -27,11 +27,30 @@ The country of Rwanda is a beautiful place full of attractive landscapes, abunda
 
 ## Background
 
-As of today, an estimate of approximately one million casualties and five million refugees have been displaced from their homes in Rwanda as a result of civil war between two opposing tribes, the Hutu and the Tutsi. Tensions and disputes between the two tribes has long withstood, but following the first World War, under the Treaty of Versailles, the League of Nations permitted Belgian occupation of formerly German occupied Rwanda. Belgium, favoring the Tutsi minority over the Hutu majority, gave the tribe special priviledges such as western-style education and authority to govern and rule over Rwanda, including governance of the Hutu. This colonial influence of power to the Tutsi tribe largely contributed to the escalation of conflict from dispute to total war between the Hutu and the Tutsi tribes.
+As of today, an estimatation of approximately 1,000,000 casualties and 5,000,000 refugees have been displaced from their homes in Rwanda as a result of civil war between two opposing tribes, the Hutu and the Tutsi. Tensions and disputes between the two tribes has long withstood, but following the first World War, under the Treaty of Versailles, the League of Nations permitted Belgian occupation of formerly German occupied Rwanda. Belgium, favoring the Tutsi minority over the Hutu majority, gave the tribe special priviledges such as western-style education and authority to govern and rule over Rwanda, including governance of the Hutu. This colonial influence of power to the Tutsi tribe largely contributed to the escalation of conflict from dispute to total war between the Hutu and the Tutsi tribes.
 
 ### Hutu Revolution 
 
 In 1957, the PARMEHUTU (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against Tutsi rule and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the the "social revolution", forced evacuation of approximately 150,000 Tutsi people into refugee camps in nearby Burundi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% include figure.html
   class="img-right"
@@ -41,9 +60,6 @@ In 1957, the PARMEHUTU (Party for the Emancipation of the Hutus) formed to rebel
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-
-the Hutu and Tutsi tribes have warred against each other to assert dominance, both sides having committed atrocites. 
 
 
 {% include figure.html
