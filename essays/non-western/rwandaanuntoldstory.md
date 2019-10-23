@@ -35,7 +35,9 @@ It is estimated that approximately one million casualties and five million refug
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-As history is often written by the victors, this essay will examine the official historical account of the war, how the written history of the war was intentionally manipulated (by partiality), and how an untold story of Rwanda brings fuller context to the conflict that underlies a closer truth. To better understand a history closer to truth, as should be the historians purpose, the discipline of historiography plays a critical role towards understanding the story of Rwanda. It is merely the purpose of this essay to interpret the historical sources and examine just how the history of Rwanda was written (the history of history) and also show how the relationship between history and truth can be sometimes twisted. 
+As history is often written by the victors, this essay will examine the official historical account of the war, how the written history of the war was intentionally manipulated (by partiality), and how an untold story of Rwanda brings fuller context to the conflict that underlies a closer truth. To better understand a history closer to truth, as should be the historians purpose, the discipline of historiography plays a critical role towards understanding the story of Rwanda. It is merely the purpose of this essay to interpret the historical sources and examine just how the history of Rwanda was written (the history of history) and also show how the relationship between history and truth can be distorted. 
+
+
 
 
 
