@@ -46,16 +46,6 @@ In 1957, the PARMEHUTU (Party for the Emancipation of the Hutus) formed to rebel
 the Hutu and Tutsi tribes have warred against each other to assert dominance, both sides having committed atrocites. 
 
 
-
-
-.
-.
-.
-.
-.
-.
-
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -63,14 +53,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
   image-url="RWANDAGENOCIDE.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
-
-
-.
-.
-.
-.
-.
-.
 
 {% include figure.html
   class="img-right"
@@ -81,13 +63,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
-.
-.
-.
-.
-.
-.
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -96,13 +71,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-.
-.
-.
-.
-.
-.
 
 {% include figure.html
   class="img-right"
@@ -113,13 +81,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
-.
-.
-.
-.
-.
-.
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -128,13 +89,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-.
-.
-.
-.
-.
-.
 
 {% include figure.html
   class="img-right"
@@ -145,14 +99,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
-
-.
-.
-.
-.
-.
-.
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -161,13 +107,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-.
-.
-.
-.
-.
-.
 
 {% include figure.html
   class="img-right"
@@ -178,13 +117,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
-.
-.
-.
-.
-.
-.
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -194,13 +126,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
-.
-.
-.
-.
-.
-.
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -209,13 +134,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-.
-.
-.
-.
-.
-.
 
 {% include figure.html
   class="img-right"
@@ -227,13 +145,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 
 
 
-.
-.
-.
-.
-.
-.
-
 {% include figure.html
   class="img-right"
   width="45%"
@@ -241,14 +152,6 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
   image-url="RWANDAGENOCIDE16.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
-
-
-.
-.
-.
-.
-.
-.
 
 
 {% include figure.html
