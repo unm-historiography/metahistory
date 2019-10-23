@@ -26,7 +26,7 @@ As history is often written by the victors, this essay will examine the official
 
 ## Introduction
 
-The country of Rwanda is a beautiful place full of attractive landscapes, abundance of resources, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events in past decades have unfolded in the country that has resulted in murder, carnage, mass genocide, and war crime atrocities. 
+The country of Rwanda is a beautiful place full of attractive landscapes, abundance of resources, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events in past decades have unfolded within the country that has resulted in murder, rape, starvation, disease, homelessness, mass genocide, and war crime atrocities. 
 
 
 ## Background
@@ -45,7 +45,23 @@ As of today, an estimatation of approximately 1,000,000 casualties and 5,000,000
 
 ### Hutu Revolution 
 
-In 1957, the PARMEHUTU (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against Tutsi rule and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the the "social revolution", forced evacuation of approximately 150,000 Tutsi people into refugee camps in nearby Burundi. 
+In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against the Tutsi monarchy and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the the "social revolution", forced evacuation of approximately 150,000 Tutsi people into refugee camps in nearby Burundi and Uganda. The Hutu remained in control of Rwanda for the next 35 years, elected offcial Juvénal Habyarimana as president. 
+
+### Rwandan Patriotic Front 
+
+In 1988, a counter politcal party was formed called the **Rwandan Patriotic Front** (RPF), formed by Tutsi exhiles in Uganda. It's goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it's formattion, in 1990, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords wetre signed on August 3rd, 1993. The treaties promised compromise for each tribe and an attempt for negotiations of political representation. 
+
+
+### Assasination 
+
+On April 6th, 1994, President Juvenal Habyarimana (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but investigation of who carried out the action was not clear. However, the assasination sparked outrage of the Hutu against the Tutsi. 
+
+
+
+
+
+
+
 
 
 
