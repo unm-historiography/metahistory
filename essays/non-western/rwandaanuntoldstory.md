@@ -30,8 +30,8 @@ It is estimated that approximately one million casualties and five million refug
   class="img-right"
   width="45%"
   caption="Rwanda"
-  image-url="RWANDAGENOCIDE6.jpg"
-  source-url="https://fridaymagazine.ae/travel/destinations/in-rwanda-a-new-dawn-for-the-land-of-a-thousand-hills-1.2300540"
+  image-url="RWANDAGENOCIDE15.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
 
