@@ -25,7 +25,7 @@ As history is often written by the victors, this essay will examine the official
 The country of Rwanda is a beautiful place full of attractive landscapes, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events have unfolded in the country within the past couple decades that has resulted in murder, carnage, mass genocide, and war crime atrocities. 
 
 
-## Back Story
+## Background
 
 As of today, an estimate of approximately one million casualties and five million refugees have been displaced from their homes in Rwanda as a result of civil war between two opposing tribes, the Hutu and the Tutsi. Tensions and disputes between the two tribes has long withstood, but following the first World War, under the Treaty of Versailles, the League of Nations permitted Belgian occupation of formerly German occupied Rwanda. Belgium, favoring the Tutsi minority over the Hutu majority, gave the tribe special priviledges such as western-style education and authority to govern and rule over Rwanda, including governance of the Hutu. This colonial influence of power to the Tutsi tribe largely contributed to the escalation of conflict from dispute to total war between the Hutu and the Tutsi tribes.
 
