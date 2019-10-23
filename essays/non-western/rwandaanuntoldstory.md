@@ -65,6 +65,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -75,6 +81,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -85,6 +97,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -95,6 +113,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -105,6 +129,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -116,6 +146,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -126,6 +162,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -136,6 +178,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -146,6 +194,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -156,6 +210,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -167,6 +227,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 
 
 
+.
+.
+.
+.
+.
+.
 
 {% include figure.html
   class="img-right"
@@ -177,6 +243,12 @@ the Hutu and Tutsi tribes have warred against each other to assert dominance, bo
 %}
 
 
+.
+.
+.
+.
+.
+.
 
 
 {% include figure.html
