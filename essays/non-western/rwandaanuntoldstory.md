@@ -1,5 +1,5 @@
 ---
-title: Rwanda: An Untold Story
+title: An Untold Story of Rwanda
 author: Kyle Sparks
 date: 2019-10-21
 ---
