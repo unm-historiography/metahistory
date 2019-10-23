@@ -12,6 +12,8 @@ date: 2019-10-21
   source-url="https://fridaymagazine.ae/travel/destinations/in-rwanda-a-new-dawn-for-the-land-of-a-thousand-hills-1.2300540"
 %}
 
+## Historiography of Rwanda
+
 As history is often written by the victors, this essay will examine the official historical account of the genocide which occured in Rwanda, 1994. It aims to study how the history of the genocide was written, portrayed, and perhaps manipulated. History provides us with the perception of a true story, a story all too often percieved to be the reality of an event or series of events. This essay aims to show how an untold story of Rwanda brings fuller context to the conflict of Rwanda and how such a story of history underlies a closer truth to reality. To further study a history closer to truth, as should be the historians purpose, the discipline of historiography plays a critical role in understanding the story of Rwanda. It is merely the purpose of this essay to interpret the historical sources and examine just how the history of Rwanda was written, portrayed, and percieved (the history of history) and also show how the relationship between history and truth can be distorted. 
 
 {% include figure.html
@@ -21,6 +23,8 @@ As history is often written by the victors, this essay will examine the official
   image-url="RWANDAGENOCIDE18.jpg"
   source-url="https://www.google.com/search?q=rwanda&rlz=1C1CHZL_enUS759US759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip4v2cq7LlAhUJbKwKHZMSDTEQ_AUIFCgD&biw=1536&bih=678#imgrc=FuEqgiJpnnuBcM:"
 %}
+
+## Introduction
 
 The country of Rwanda is a beautiful place full of attractive landscapes, abundance of resources, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events in past decades have unfolded in the country that has resulted in murder, carnage, mass genocide, and war crime atrocities. 
 
