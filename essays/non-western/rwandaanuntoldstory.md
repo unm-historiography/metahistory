@@ -7,7 +7,7 @@ date: 2019-10-21
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall"
+  caption="Rwanda"
   image-url="RWANDAGENOCIDE14.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}
