@@ -22,7 +22,7 @@ As history is often written by the victors, this essay will examine the official
   source-url="https://www.globalresearch.ca/commemorating-rwandan-genocide-senate-resolution-praise-blood/5675702"
 %}
 
-The country of Rwanda is a beautiful place full of attractive landscapes, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events have unfolded in the country within the past couple decades that has resulted in murder, carnage, mass genocide, and war crime atrocities. 
+The country of Rwanda is a beautiful place full of attractive landscapes, abundance of resources, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events in past decades have unfolded in the country that has resulted in murder, carnage, mass genocide, and war crime atrocities. 
 
 
 ## Background
