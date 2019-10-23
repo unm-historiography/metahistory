@@ -1,5 +1,5 @@
 ---
-title: Rwanda An Untold Story
+title: Rwanda: An Untold Story
 author: Kyle Sparks
 date: 2019-10-21
 ---
@@ -12,5 +12,4 @@ date: 2019-10-21
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}
 
-Write a 1-2 paragraph abstract of what you’d intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
-
+The country of Rwanda is a beautiful place full of attractive landscapes, wonderful people, and exceptionally unique culture. Aside from these attributes, recent events have unfolded within the past couple decades that has resulted in mass genocide, carnage, and war crime atrocites. An estimation of approximately one million casualties has resulted from civil war between two oposing tribes. These tribes, the Hutu and the Tutsi, have 
