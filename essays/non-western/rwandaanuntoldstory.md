@@ -64,9 +64,18 @@ Following the assasination of President Juvenal Habyarimana, the **National Repu
 
 In 1990, the RPF led a military coalition against the MRND to stop the genocide and retake control of the country. After months of fighting the civil war, the RPF began to sucessfully capture the Rwandan cities. By July 4th, 1994, the RPF captured contol of the capital Kigali and on July 18th, 1994, gained control of the entire country. The elected president Paul Kagame, rose to power as the national president of Rwanda and remains in that position today, 25 years later. 
 
+### Tutsi Refugee
+
+As the RPF regained military and political control of Rwanda, Hutu survivors feared that retallion against them would soon occur.... (to be continued).
+
+
+
+
 
 
 ## History of the Genocide 
+
+## President Paul Kagame, Hero or Villian? 
 
 
 
