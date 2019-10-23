@@ -56,13 +56,15 @@ In 1988, a counter politcal party was formed called the **Rwandan Patriotic Fron
 
 On April 6th, 1994, **President Juvenal Habyarimana** (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but investigation of who carried out the action was not clear. Nevertheless, the assasination sparked outrage of Hutu tribesmnen who blamed the RPF and sought to retaliate. The cease-fire ended and violence erupted. 
 
-## 100 Day Massacre
+### 100 Day Massacre
 
-Following the assasination of President Juvenal Habyarimana, the **National Republican Movement for Democracy and Development** (MRND) organized themselves to seek retaliation against Tutsi civilians. An all out genocide campaign was ordered out to kill all Tutsi members in the country. Roadblocks and blockades were constructed and travlelers checked of their tribal orientation based on identification (ID) cards. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing cities, including the capitol Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. Indiscrimante in the massacre, the NRMD killed men, women, and children. 
+Following the assasination of President Juvenal Habyarimana, the **National Republican Movement for Democracy and Development** (MRND) organized themselves to seek retaliation against Tutsi civilians. An all out genocide campaign was ordered out to kill all Tutsi members in the country. Roadblocks and blockades were constructed and travlelers checked of their tribal orientation based on identification (ID) cards. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing cities, including the capitol Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. Indiscrimante in their killings, the NRMD killed men, women, and children. 
 
 ### RPF Control
 
-In 1990, the RPF, led by Major General Fred Gisa Rwigyema, fought against the MRND and in 1994
+In 1990, the RPF led a military coalition against the MRND to stop the genocide and retake control of the country. After months of fighting the civil war, the RPF began to sucessfully capture the Rwandan cities. By July 4th, 1994, the RPF captured contol of the capital Kigali and on July 18th, 1994, gained control of the entire country. The elected president Paul Kagame, rose to power as the national president of Rwanda and remains in that position today, 25 years later. 
+
+
 
 
 
