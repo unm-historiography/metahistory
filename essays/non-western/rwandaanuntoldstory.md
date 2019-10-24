@@ -29,7 +29,7 @@ As history is often written by the victors, this essay will examine the official
 The country of Rwanda is a beautiful place full of attractive landscapes, abundance of resources, wonderful people, and exceptionally unique culture. However, aside from these positive attributes, recent events in past decades have unfolded within the country that has resulted in murder, rape, starvation, disease, homelessness, mass genocide, and war crime atrocities. 
 
 
-## Context
+## Historical Context
 
 An estimatation of approximately 1,000,000 casualties and 5,000,000 refugees have been displaced from their homes in Rwanda as a result of civil war between two opposing tribes, the Hutu and the Tutsi. Tensions and disputes between the two tribes has long withstood, but following the first World War, under the Treaty of Versailles, the League of Nations permitted Belgian occupation of formerly German occupied Rwanda. Belgium, favoring the Tutsi minority over the Hutu majority, gave the tribe special priviledges such as western-style education and authority to govern and rule over Rwanda, including governance of the Hutu. This colonial influence of power to the Tutsi tribe largely contributed to the escalation of conflict from dispute to total war between the Hutu and the Tutsi tribes.
 
@@ -54,11 +54,11 @@ In 1988, a counter politcal party was formed called the **Rwandan Patriotic Fron
 
 ### Presidential Assasination 
 
-On April 6th, 1994, **President Juvenal Habyarimana** (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but investigation of who carried out the action was not clear. Nevertheless, the assasination sparked outrage of Hutu tribesmnen who blamed the RPF and sought to retaliate. The cease-fire ended and violence erupted. 
+On April 6th, 1994, **President Juvenal Habyarimana** (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but further investigation to determime who carried out the action was not clear. Nevertheless, the assasination sparked outrage of Hutu tribesmnen who blamed the RPF. The Hutu quuickly organized armed militais and sought to retaliate. Once organized, the Hutu ended the cease-fire ended and violence erupted. 
 
 ### 100 Day Massacre
 
-Following the assasination of President Juvenal Habyarimana, the **National Republican Movement for Democracy and Development** (MRND) organized themselves to seek retaliation against Tutsi civilians. An all out genocide campaign was ordered out to kill all Tutsi members in the country. Roadblocks and blockades were constructed and travlelers checked of their tribal orientation based on identification (ID) cards. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing cities, including the capitol Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. Indiscrimante in their killings, the NRMD killed men, women, and children. 
+Following the assasination, the **National Republican Movement for Democracy and Development** (MRND) organized themselves to seek retaliation against Tutsi civilians. An all out genocide campaign was ordered out to kill all Tutsi members in the country. Roadblocks and blockades were constructed and travlelers checked of their tribal orientation based on identification (ID) cards. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing cities, including the capitol Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. Indiscrimante in their killings, the NRMD killed men, women, and children. 
 
 ### RPF Control
 
