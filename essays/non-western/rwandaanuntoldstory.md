@@ -14,10 +14,9 @@ date: 2019-10-21
 
 ## HISTORIOGRAPHY
 
-This essay will examine the official historical account of the genocide that occurred in Rwanda, 1994. It aims to compare the similarities and differences of how the history of the genocide was written, portrayed, understood, and is perceived today. The reality of ‘what really happened’ and the country’s national history of ‘what really happened’ are far from the same. As history is often written and remembered by the victors, a closer examination of the Rwandan genocide reveals a story of government coverups, secrecy, and the suppression of voice by many. Historiography is the study of how history is written, understood, perceived, and interpreted. I will attempt to show how the history of a nation was intentionally manipulated, by the method of partiality, to restore the practical necessity of order within the country. 
+This essay will examine the official historical account of the genocide that occurred in Rwanda, 1994. It aims to compare the similarities and differences of how the history of the genocide was written, portrayed, understood, and perceived today. The reality of ‘what really happened’ and the country’s national history of ‘what really happened’ are far from the same. As history is often written and remembered by the victors, a closer examination of the Rwandan genocide reveals a story of government coverups, secrecy, and the suppression of voice by many. Historiography is the study of how history is written, understood, perceived, and interpreted. I will attempt to show how the history of a nation was intentionally manipulated, by the method of partiality, to restore the practical necessity of order within the country. 
 > "Thus, a practically motivated study of something is partial both in the sense that it does not study its material fully but only those 'parts' relevant to its objective - and in the sense that the thinking involved demonstrates a 'partiality' towards lines of thinking and conclusions appropriate or 'convenient' to one's purposes. Although this does not mean the understandings achieved will necessarily be false (although such a danger threatens), it does mean the study, as angled towards the ends sought, will be 'distorted” (287). -Lemon 
 
-This essay will be constructed in a framework designed to guide the reader in a manner that provides a better understanding of how the ‘history of history’ pertains to Rwanda. It will provide the historical context concerning the genocide, but will focus rather on how we understand the history of the event and how this history effects the nation today. The framework of the essay will be constructed as follows: First, data collection of empirical evidence (primary resources) will be gathered to understand the ‘full’ context. Second, critical comparison of empirical evidence to the historical understanding (official or unofficial) is needed to interpret how the event was perceived and portrayed. Third, understanding how the common believed history of the nation effects the nation today and how a believed history may be used for practical purposes. 
 
 
 {% include figure.html
@@ -27,6 +26,10 @@ This essay will be constructed in a framework designed to guide the reader in a 
   image-url="RWANDAGENOCIDE18.jpg"
   source-url="https://www.google.com/search?q=rwanda&rlz=1C1CHZL_enUS759US759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip4v2cq7LlAhUJbKwKHZMSDTEQ_AUIFCgD&biw=1536&bih=678#imgrc=FuEqgiJpnnuBcM:"
 %}
+
+
+This essay will be constructed in a framework designed to guide the reader in a manner that provides a better understanding of how the ‘history of history’ pertains to Rwanda. It will provide the historical context concerning the genocide, but will focus rather on how we understand the history of the event and how this history effects the nation today. The framework of the essay will be constructed as follows: First, data collection of empirical evidence (primary resources) will be gathered to understand the ‘full’ context. Second, critical comparison of empirical evidence to the historical understanding (official or unofficial) is needed to interpret how the event was perceived and portrayed. Third, understanding how the common believed history of the nation effects the nation today and how a believed history may be used for practical purposes. 
+
 
 ## Introduction
 
