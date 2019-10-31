@@ -71,16 +71,11 @@ Following the assassination, the **National Republican Movement for Democracy an
 
 ### RPF Control
 
-In 1990, the RPF led a military coalition against the MRND to stop the genocide and retake control of the country. After months of fighting the civil war, the RPF began to successfully capture the Rwandan cities. By July 4th, 1994, the RPF captured control of the capital Kigali and on July 18th, 1994, gained control of the entire country. The elected president, Paul Kagame, rose to power as the national president of Rwanda and remains in that position today, 25 years later.
+In 1990, the RPF led a military coalition against the MRND to retake control of the country. After months of fighting, the RPF began to successfully capture the Rwandan cities. By July 4th, 1994, the RPF captured capital Kigali and on July 18th, 1994, sucessfully gained control of the entire country. The elected president, Paul Kagame, rose to power as the national president of Rwanda and remains president today, 25 years later.
 
-### Tutsi Refugee
+### Kibeho Massacre
 
-As the RPF regained military and political control of Rwanda, Hutu survivors feared that retallion against them would soon occur.... (to be continued).
-
-
-
-
-## President Paul Kagame, Hero or Villian? 
+As the RPF regained military and political control of Rwanda, Hutu tribe members fled their homes in fear of being killed. In south-west Rwanda, Hutu refugees gathered in the Kibeho refugee camp. On April 22, 1995, the Tutsi RPF opened fire on the unarmed refugees began indiscrimately murdering them. Australian soldiers serving as part of the United Nations Assistance Mission later estimated that approximately 4,000 people in the camp were killed. The RPF claimed only 300 people were killed. At the time, current president Paul Kagama was vice president of the RPF. 
 
 
 
