@@ -13,7 +13,7 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
   class="img-center"
   width="30%"
   caption="Europe is so much more than just a continent. To _be_ European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as _European_. This has greatly influenced who has been included in depictions of historical Europe."
-  image-url="worldmap.jpeg"
+  image-url="worldmap.jpg"
   source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
 
@@ -39,7 +39,7 @@ In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of H
   class="img-left"
   width="40%"
   caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the source link for an informative video on Eurocentrism's development."
-  image-url="carvingeuro.jpeg"
+  image-url="carvingeuro.jpg"
   source-url="https://youtu.be/GI8k9_jiINM"
 %}
 
@@ -50,7 +50,7 @@ In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of H
   class="img-right"
   width="40%"
   caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
-  image-url="scrambleforafrica.jpeg"
+  image-url="scrambleforafrica.jpg"
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
 %}
 
@@ -67,14 +67,14 @@ One theory of why this view at last took hold in the twentieth century is due to
 class="img-left"
 width="49%"
 caption="This image depicts a map of the world and basic definitions of what it means to be a 'developed' vs. 'developing' country. These terms recently replaced 'First', 'Second' and 'Third' world classifications. Note how 'development' is still defined by Eurocentric ideals, such as economy type, industrialization, and systemized education."
-image-url="developingcountry.jpeg"
+image-url="developingcountry.jpg"
 source-url="https://marketbusinessnews.com/financial-glossary/developing-country/"
 %}
 {% include figure.html
 class="img-left"
 width="49%"
 caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism and capitalism (and exploitation), Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
-image-url="resourcecapitalism.jpeg"
+image-url="resourcecapitalism.jpg"
 source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
 %}
 
