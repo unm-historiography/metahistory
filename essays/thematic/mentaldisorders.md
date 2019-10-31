@@ -15,7 +15,7 @@ date: 2019-10-18
 **Abstract**
 I am a history major, and a psychology minor here at UNM. That being said, I plan to combine the two disciplines in the charting of mental disorders as they have been medically perceived, and historically recorded throughout time. The first historical record of mental disorders dates back to 400 B.C., and continues to be researched in the present. This essay will provide a concise history of mental disorders that incorporates perceived causalities, as well as the treatments, as both progress through documented history. Being that I cannot possibly include every recorded episode, I will provide the majorly influential examples that were, and are, widely accepted. The academic value within these works are intended to summarize and educate the readers on mental disorders throughout the majority of documented history, and why it is important that these areas continue to be researched. 
 
-Trephination Image
+
 {% include figure.html
   class="img-center"
   width="100%"
@@ -23,11 +23,12 @@ Trephination Image
   image-url="https://github.com/DustinNewsom/intro-guide/blob/master/essays/images/trephination.jpg"
   source-url="https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/"
   %}
+  
 The documented history of mental disorders dates back over the last “10,000 years, with the timeline holding evident through evidence of *Trephination* throughout Europe” (4). With more than “200 skulls being found from Scandinavia to the Balkans” (4). This ancient technique was the first surgical operation and served numerous purposes. It’s evolution through the periods advanced the technical means, knowledge, and therapeutic needs as time elapsed. “Hippocrates was the one to classify for the first time the kinds of cranial fractures and define the conditions and circumstances for carrying out trepanning” (4). “In 400 B.C. **Hippocrates** suggested that mental disorders are caused by both biological and psychological attributes” (1). Hippocrates, also known as Hippocrates II, was a Greek physician, who is considered one of the most outstanding figures in the history of medicine, as well as “the father of western medicine” (1). It is evident that during this place in time mental disorders were thought to be cured by the drilling of holes, through specific parts of the skull, allowing the pressure to be released along with any bad spirits. 
 
 In 200 A.D. **Galen**, a Roman physician adopted and incorporating Hippocrates ideas which created a long lasting school of thought throughout the field of psychopathology. He suggested that normal and abnormal behaviors are related to four bodily fluids, or humors. These fluids/humors needed to be maintained at specific levels in order for people to function ‘normally’. This biological tradition would continue into the 19th century. However, during the “18th and 19th century, trephination operations had been rejected as a therapeutic surgical method, due to the high mortality that reached 100% at the time” (4). 
 
-# Witchcraft Image
+
 {% include figure.html
   class="img-center"
   width="100%"
@@ -49,7 +50,7 @@ In 1793 **Philippe Pinel**, a French physician who was highly influential in the
 Across the globe, numerous individuals began to develop hypothesis, theories, and new branches of the field of mental disorders. In 1900 **Sigmund Freud**, an Austrian neurologist and the founder of psychoanalysis, which was a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst published ‘The Interpretation of Dreams’. While in 1904 **Ivan Pavlov**, a Russian physiologist known primarily for his work in classical conditioning, received the Nobel Prize due to his studies on the physiology of digestion. In the viewpoint of behavioral psychologists, those who suffered from certain mental disorders could be treated with Pavlov’s classical conditioning. 
 Behaviorism would be coined by John B. Watson, an American psychologist who established the psychological school of behaviorism. He indorsed a change in psychology through his speech about the Psychology as the Behaviorist Views it, which he gave at Columbia University in 1913. In 1920 **John B. Watson’s** ‘Little Albert’ experiments dealing with conditioned fear, through the use of operant conditioning. This was the term coined later by **B.F. Skinner** in 1938. He elaborates the principals of operant conditioning through his publishing of The Behavior of Organisms. Which by *reinforcement* and *shaping* were used in order to ‘correct’ the behavior of an individual. 
 
-# Image of ECT
+
 {% include figure.html
   class="img-center"
   width="100%"
@@ -57,6 +58,7 @@ Behaviorism would be coined by John B. Watson, an American psychologist who esta
   image-url="https://github.com/DustinNewsom/intro-guide/blob/master/essays/images/electric%20shock%20therapy.jpg"
   source-url="https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy"
   %}
+  
 
 Going slightly back in time to 1930, **electric shock treatments** as well as **brain surgery** began to be used to treat psychopathology. Other than *psychosurgery* such as *trephination*, **ECT** is the most controversial treatment for mental disorders. The ideas for this go back even further, but so as to not have disrupted the continuity of *Behaviorism* I jumped around in my chronology. Benjamin Franklin “accidentally discovered, and then confirmed experimentally in the 1750’s, that a mild electric shock produced a brief convulsion and memory loss, but otherwise did little harm. Soon then after, a friend of Franklin, a Dutch physician proposed that this shock may serve as a treatment for depression. 
 
