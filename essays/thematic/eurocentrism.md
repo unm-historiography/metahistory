@@ -17,11 +17,11 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
   source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
 
-In order to understand eurocentrism, we must first understand a different question: What is Europe? That might seem like an obvious question, Europe is a continent east of the Atlantic Ocean. Physically, yes, Europe is a continent, but let's dive into the previous sentence a bit more. "Europe is a continent _east_ of the Atlantic," why _east_? How was that orientation determined? Who decided what was _east_ and what was _west_? This simple view of our contemporary map is a remnant of a Eurocentric past, drawing Europe as the original focus of the globe.
+In order to understand eurocentrism, we must first understand a different question: What is Europe? That might seem like an obvious question, Europe is a continent east of the Atlantic Ocean. Geologically, yes, Europe is a continent, but let's dive into the previous sentence a bit more. "Europe is a continent _east_ of the Atlantic," why _east_? How was that orientation determined? Who decided what was _east_ and what was _west_? This simple view of our contemporary map is a remnant of a Eurocentric past, drawing Europe as the original focus of the globe.
 
 Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centric' is center. Simply, it is that Europe is seen and has historically seen itself as the center of the world, or the focus (more so than the geographical center), and the only 'west' before encountering the Americas, naturally designating all other sectors as 'north', 'south', 'east', or 'west' from that focal point. But, there is much more to Eurocentrism than locality. Europe is also a concept itself. Much like Eurocentrism, Europe is an idea that a group of people collectively came to understand and agree upon. This idea formed into a culture, with certain values and practices which differentiated it from other cultures, until eventually coinciding with a specific image in our heads of what it means to _be 'European'_.
 
-Eurocentrism encompasses many Western concepts (and there very real effects), including colonialism, capitalism, Christianity, racism, patriarchy, and countless other cultural and historical identifiers. However, Eurocentrism itself is not individually any of these concepts, but rather the amalgamation of the hegemonic entity of European culture which through time has influenced the world to such a degree that perspectives have been skewed to view Europe as "better", "more civilized", "more developed", or as a "First World Country" in comparison to non-European regions. Eurocentrism has acted as both the motivation for and the outcome of many of these listed concepts, giving it its complex, multilayered identity.
+Eurocentrism encompasses many Western concepts (and there very real effects), including colonialism, capitalism, monotheism, racism, patriarchy, and countless other cultural and historical identifiers. However, Eurocentrism itself is not individually any of these concepts, but rather the amalgamation of the hegemonic entity of European culture which through time has influenced the world to such a degree that perspectives have skewed to view Europe as "better", "more civilized", "more developed", or as a "First World Country" in comparison to non-European regions. Eurocentrism has acted as both the motivation for and the outcome of many of these listed concepts, giving it its complex, multilayered identity.
 
 ## Origins to Present
 
@@ -29,7 +29,7 @@ Many authors of Eurocentrism trace its origins as far back as ancient Greece, lo
 
 > **Fun Fact:** The term "Barbarian" is actually a Greek term used to describe anyone who did not speak Koine Greek, the common language in ancient Greece. 'ian' means "one who speaks" and 'bar' describes what Grecians thought non-Greek languages sounded like, "barbarbarbar".
 
-In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of Hippo wrote a document titled _City of God_. This document's intention was to explain the reasons for Roman defeat and attempt to understand human history. However, as historians, we can examine this document for much more than its _intended_ purpose. Augustine redefined history as not only a Western one, but as a Christian one. This is a belief that will become the basis for contemporary Eurocentrism, much more permeating than the Greeks ever employed. With the addition of Christianity to Western, European identity, the concept of paternalism, or Europe viewing itself as a 'father' to the rest of the world, soon intertwined with this identity. Stemming from paternalistic views already well-developed in the Roman-Catholic church, think of the male-dominated clergy, such as the Pope, archbishop, bishops, etc. roles which can only be held by males and the view of the Christian god himself as a man and father, this new understanding of Europeanism would not only provincialize all non-European countries, but would also position them as children needing to be cared for by their European 'father'.
+In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of Hippo wrote a document titled _City of God_. This document's intention was to explain the reasons for Roman defeat and attempt to understand human history, as well as predict the future fate of humanity (Fortin, 324). However, as historians, we can examine this document for much more than its _intended_ purpose. Augustine redefined history as not only a Western one, but as a Christian one. This is a belief that will become the basis for contemporary Eurocentrism, much more permeating than the Greeks ever employed. With the addition of Christianity to Western, European identity, the concept of paternalism, or Europe viewing itself as a 'father' to the rest of the world, soon intertwined with this identity. Stemming from paternalistic views already well-developed in the Roman-Catholic church, think of the male-dominated clergy, such as the Pope, archbishop, bishops, etc., roles which can only be held by males and the view of the Christian god himself as a man and father, this new understanding of Europeanism would not only provincialize all non-European countries, but would also position them as children needing to be cared for by their European 'father'.
 
 > _Pro.vin.cial, adj.: of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded._ **Provincialism** refers to the biproduct of Eurocentrism. While Europe positioned itself as the center of the world, all other countries were 'provincialized', or seen as on the "outskirts" of history, rather than as active participants. Additionally this view strengthened European ideas of non-Europeans as 'children', who were uneducated, pagan, 'backward', and in need of assistance, or being 'saved'.
 
@@ -55,6 +55,8 @@ One theory of why this view at last took hold in the twentieth century is due to
 
 ## Examples of Historiographical Eurocentrism
 
+##### Eurocentrism in Textbooks and the "Discovery" of the "New" World
+
 {% include figure.html
   class="img-left"
   width="45%"
@@ -62,6 +64,8 @@ One theory of why this view at last took hold in the twentieth century is due to
   image-url="carvingeuro.jpg"
   source-url="https://youtu.be/GI8k9_jiINM"
 %}
+
+##### 
 
 
 {% include figure.html
@@ -72,12 +76,15 @@ One theory of why this view at last took hold in the twentieth century is due to
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
 %}
 
+##### Eurocentrism in Multimedia
+
 
 
 
 
 
 _In an effort to support the expansion of perspectives, the majority of sources for this essay were written by non-Europeans, non-Christians, and/or women._
+
 
 
 
