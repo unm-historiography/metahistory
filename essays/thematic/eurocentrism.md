@@ -11,7 +11,7 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
 
 {% include figure.html
   class="img-center"
-  width="39%"
+  width="30%"
   caption="Europe is so much more than just a continent. To _be_ European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as _European_. This has greatly influenced who has been included in depictions of historical Europe."
   image-url="eurocentrism.jpeg"
   source-url="http://examinedworlds.blogspot.com/2016/09/eurocentrism-as-political-correctness.html"
@@ -37,16 +37,18 @@ In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of H
 
 {% include figure.html
   class="img-left"
-  width="45%"
-  caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the 'source' link for an informative video on Eurocentrism's development."
+  width="40%"
+  caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the source link for an informative video on Eurocentrism's development."
   image-url="carvingeuro.jpeg"
   source-url="https://youtu.be/GI8k9_jiINM"
 %}
 
 
+
+
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="40%"
   caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
   image-url="scrambleforafrica.jpeg"
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
@@ -68,7 +70,6 @@ caption="This image depicts a map of the world and basic definitions of what it 
 image-url="developingcountry.jpeg"
 source-url="https://marketbusinessnews.com/financial-glossary/developing-country/"
 %}
-
 {% include figure.html
 class="img-left"
 width="49%"
