@@ -13,8 +13,8 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
   class="img-center"
   width="30%"
   caption="Europe is so much more than just a continent. To _be_ European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as _European_. This has greatly influenced who has been included in depictions of historical Europe."
-  image-url="eurocentrism.jpeg"
-  source-url="http://examinedworlds.blogspot.com/2016/09/eurocentrism-as-political-correctness.html"
+  image-url="worldmap.jpeg"
+  source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
 
 In order to understand eurocentrism, we must first understand a different question: What is Europe? That might seem like an obvious question, Europe is a continent east of the Atlantic Ocean. Physically, yes, Europe is a continent, but let's dive into the previous sentence a bit more. "Europe is a continent _east_ of the Atlantic," why _east_? How was that orientation determined? Who decided what was _east_ and what was _west_? This simple view of our contemporary map is a remnant of a Eurocentric past, drawing Europe as the original focus of the globe.
