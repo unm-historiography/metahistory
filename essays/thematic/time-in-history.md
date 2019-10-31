@@ -20,3 +20,7 @@ Why does this matter?
 How is it important to the understanding of the philosophy of history? 
 What is Linear view of History? 
 What is a cyclical View of History? 
+
+I am going to take you on an adventure through time.During this adventure we are going to look at time and how perceptions of time have been influenced by outside factor and then how those perceptions of time changed and finally how it afects the study histroy. 
+
+
