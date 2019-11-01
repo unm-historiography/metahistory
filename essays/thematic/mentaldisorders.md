@@ -18,7 +18,7 @@ I am a history major, and a psychology minor here at UNM. That being said, I pla
 
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="30"
   caption="Seems a bit Screwy."
   image-url="https://github.com/DustinNewsom/intro-guide/blob/master/essays/images/trephination.jpg"
   source-url="https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/"
@@ -31,7 +31,7 @@ In 200 A.D. **Galen**, a Roman physician adopted and incorporating Hippocrates i
 
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="30"
   caption="Evil or Misunderstood ? "
   image-url="https://github.com/DustinNewsom/intro-guide/blob/master/essays/images/witchcraft.jpg"
   source-url="https://www.nytimes.com/2016/10/31/opinion/witchcraft-on-the-campaign-trail.html"
@@ -53,7 +53,7 @@ Behaviorism would be coined by John B. Watson, an American psychologist who esta
 
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="30"
   caption="A Shocking treatmnet."
   image-url="https://github.com/DustinNewsom/intro-guide/blob/master/essays/images/electric%20shock%20therapy.jpg"
   source-url="https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy"
