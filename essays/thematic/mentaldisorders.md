@@ -18,7 +18,7 @@ I am a history major, and a psychology minor here at UNM. That being said, I pla
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="49%"
   caption="Seems a bit Screwy."
   image-url="trephination.jpg"
   source-url="https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/"
