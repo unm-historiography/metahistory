@@ -72,7 +72,7 @@ Mental disorders throughout history, and into the present, continue to be resear
   class="img-center"
   width="100%"
   caption="The Historiography of thought in Psychology."
-  image-url="Influential-Psychologist.jpg"
+  image-url="Influential-Psychologists.jpg"
   source-url="https://balancedachievement.com/psychology/influential-psychologists/"
   %}
 
