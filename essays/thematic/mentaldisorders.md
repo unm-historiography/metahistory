@@ -66,7 +66,32 @@ In the 1950’s mental hospitals began to incorporate the practice of *electric 
 
 The International Statistical Institute adopted the first **International Classification of Diseases (ICD)** in 1893. In 1952 the first edition of the **Diagnostic and Statistical Manual (DSM-1)** is published in the United States. As the years progressed, both have revised, and continue to expand their classifications through multiple editions. The ICD-10 is the most current globally, while the DSM-5 is used primarily in the United States. 
 
-Mental disorders throughout history, and into the present, continue to be researched and developed in vastly different ways, however, “the history of psychiatry teaches us to doubt it, by emphasizing the infinitely variable and fluctuating character of psychiatric entities” (2). It is much like the rest of the categories studied by historians, paradoxical and dizzyingly contradicting. We as future historians must be aware of these aspects in order for *progress* to ensue. “The idea that emotional reactions occur reflexively and involuntarily in response to internal and external stimuli persists in the present and continues to make possible and plausible the concept of **mood disorders**” (3).   
+Mental disorders throughout history, and into the present, continue to be researched and developed in vastly different ways, however, “the history of psychiatry teaches us to doubt it, by emphasizing the infinitely variable and fluctuating character of psychiatric entities” (2). It is much like the rest of the categories studied by historians, paradoxical and dizzyingly contradicting. We as future historians must be aware of these aspects in order for *progress* to ensue. “The idea that emotional reactions occur reflexively and involuntarily in response to internal and external stimuli persists in the present and continues to make possible and plausible the concept of **mood disorders**” (3).
+
+                                                      Bibliography
+
+(1)Barlow, Durand, Hofmann. Abnormal Psychology An Integrative Approach. 8th ed., Cengage Learning, 2018.
+
+(2)Borch-Jacobsen, Mikkel; History of the Human Sciences, Vol 14(2), May, 2001 pp. 19-38. Publisher: Sage Publications; [Journal Article], Database: PsycINFO
+
+(3)Jansson, Asa. “Mood Disorders and the Brain: Depression, Melancholia, and the Historiography   of Psychiatry.” Medical History 55, no. 3 (2011): 393–99. doi:10.1017/S0025727300005469. 
+
+(4)Pitsios, Theodoros, and Vasiliki Zafiri. 2012. “Cases of Trephination in Ancient Greek Skulls.” International Journal of Caring Sciences 5 (3): 239–45. https://search.ebscohost.com/login.aspx?direct=true&db=ccm&AN=104502198&site=eds-live&scope=site.
+
+(5)Spanos, Nicholas P. 1978. “Witchcraft in Histories of Psychiatry: A Critical Analysis and an Alternative Conceptualization.”
+Psychological Bulletin 85 (2): 417–39. doi:10.1037/0033-2909.85.2.417.
+
+(6)https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/
+
+(7)https://en.wikipedia.org/wiki/Mental_disorder
+
+(8)https://www.nytimes.com/2016/10/31/opinion/witchcraft-on-the-campaign-trail.html
+
+(9)https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy
+
+
+
+ 
  
 
 
