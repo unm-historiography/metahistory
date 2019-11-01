@@ -12,8 +12,9 @@ date: 2019-10-18
   source-url="https://www.google.com/search?q=mental+disorders&client=firefox-b-1-d&sxsrf=ACYBGNQ2CAOEYDbhmWa2pcDvZAC7HRSc5Q:1571411575549&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjSqIamjKblAhVOoZ4KHcXnCeAQ_AUIESgB&biw=1366&bih=632#imgrc=vfaNvDsSr3ilIM:"
   %}
 
-**Abstract**
-I am a history major, and a psychology minor here at UNM. That being said, I plan to combine the two disciplines in the charting of mental disorders as they have been medically perceived, and historically recorded throughout time. The first historical record of mental disorders dates back 10,000 years. However, I will primarily focus from 400 B.C., to the present. This essay will provide a concise history of mental disorders that incorporates perceived causalities, as well as the treatments, as both progress through documented history. Being that I cannot possibly include every recorded episode, I will provide the majorly influential examples that were, and are, widely accepted. The academic values within these works are intended to summarize and educate the readers on mental disorders throughout the majority of documented history, as well as why it is important that these areas continue to be researched and developed. 
+**Abstract**:
+
+I am currently a history major, and a psychology minor at the University of New Mewico (UNM). That being said, I plan to combine the two disciplines in the charting of mental disorders as they have been medically perceived, and historically recorded throughout time. The first historical record of mental disorders dates back 10,000 years. However, I will primarily focus from 400 B.C., to the present. This essay will provide a concise history of mental disorders that incorporates perceived causalities, as well as the treatments, as both progress through documented history. Being that I cannot possibly include every recorded episode, I will provide the majorly influential examples that were, and are, widely accepted. The academic values within these works are intended to summarize and educate the readers on mental disorders throughout the majority of documented history, as well as why it is important that these areas continue to be researched and developed. 
 
 
 {% include figure.html
