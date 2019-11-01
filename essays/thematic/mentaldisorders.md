@@ -53,7 +53,7 @@ Behaviorism would be coined by John B. Watson, an American psychologist who esta
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="49%"
   caption="A Shocking treatmnet."
   image-url="electric%20shock%20therapy.jpg"
   source-url="https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy"
