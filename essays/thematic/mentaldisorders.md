@@ -68,6 +68,14 @@ The International Statistical Institute adopted the first **International Classi
 
 Mental disorders throughout history, and into the present, continue to be researched and developed in vastly different ways, however, “the history of psychiatry teaches us to doubt it, by emphasizing the infinitely variable and fluctuating character of psychiatric entities” (2). It is much like the rest of the categories studied by historians, paradoxical and dizzyingly contradicting. We as future historians must be aware of these aspects in order for *progress* to ensue. “The idea that emotional reactions occur reflexively and involuntarily in response to internal and external stimuli persists in the present and continues to make possible and plausible the concept of **mood disorders**” (3).
 
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="The Historiography of thought in Psychology."
+  image-url="Influential-Psychologist.jpg"
+  source-url="https://balancedachievement.com/psychology/influential-psychologists/"
+  %}
+
                                                       Bibliography
 
 (1)Barlow, Durand, Hofmann. Abnormal Psychology An Integrative Approach. 8th ed., Cengage Learning, 2018.
@@ -88,6 +96,8 @@ Psychological Bulletin 85 (2): 417–39. doi:10.1037/0033-2909.85.2.417.
 (8)https://www.nytimes.com/2016/10/31/opinion/witchcraft-on-the-campaign-trail.html
 
 (9)https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy
+
+(10)https://balancedachievement.com/psychology/influential-psychologists/
 
 
 
