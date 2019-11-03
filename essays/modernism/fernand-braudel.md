@@ -55,6 +55,14 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 
 ### As a Prisoner of War
 
+{% include figure.html
+  class="img-right"
+  width="66%"
+  caption="Braudel's time as a POW in Nazi Germany directly influenced his perspectives on time."
+  image-url="pow-camp.jpg"
+  source-url="https://wikimili.com/en/Oflag_X-C"
+%}
+
 ### Professional Life
 
 {% include figure.html
