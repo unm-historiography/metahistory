@@ -57,8 +57,8 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 
 {% include figure.html
   class="img-right"
-  width="66%"
-  caption="Braudel's time as a POW in Nazi Germany directly influenced his perspectives on time."
+  width="33%"
+  caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time."
   image-url="pow-camp.jpg"
   source-url="https://wikimili.com/en/Oflag_X-C"
 %}
