@@ -17,7 +17,7 @@ date: 2019-10-21
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall. "
+  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
   image-url="declining-linegraph.jpg"
   source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
 %}
