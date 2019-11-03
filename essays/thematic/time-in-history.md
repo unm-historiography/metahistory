@@ -4,13 +4,7 @@ author: Kate Reynolds
 date: 2019-10-21
 ---
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Thucydides"
-  image-url="322px-Thucydides_pushkin02.jpg"
-  source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
-%}
+
 
 
 
@@ -31,13 +25,22 @@ date: 2019-10-21
   source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
 %}
 
+There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture and everyday life. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being. Time, however, was dualistic, there being two perceptions of time that were simultaneous with one another. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 
-Abstract
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="Thucydides"
+  image-url="322px-Thucydides_pushkin02.jpg"
+  source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
+%}
 
-Cycles are an important theme that reoccurs through the study and writing of history. From the beginning of written history, cycles have played an important role in shaping the way in which the history of individuals and empires have been written. Historical cycles have been used to describe the history of civilizations, for example, with rise and fall of civilizations like that of the Roman empire or the rise and fall of political institutions. The belief in historical cycles has also shaped the way in which the future is perceived. From Augustine (354-450) to Vico (1668-1744), cycles have been a constant presence in the philosophy of history. Cycles have also shaped a big part of historiography and its study. 
+According to Arnaldo Momigliano, Thucydides is whom we should attribute the cyclical view of history "(Momigliano 11). __Thucydides__ (460-400) was a Greek historian who wrote about the Peloponnesian war. Thucydides was under the belief that "there will be future events either identical or similar" to the ones he narrated (Momigliano 11). Nemesius, Bishop of Emesa, was under the belief that people would live the same life with the same friends. Stating the both Socrates and Plato would be once again (Whitrow 43). It is important to realize that not every Greek intellectual was under the belief that history was cyclical. Some believed that only politics or changing of political climate was cyclical, not history as a whole. The __Roman empire__ was one that believed they were timeless, believing that their empire was the peak of perfection. This changed with __Constantine__, making Christianity the main religion of the Roman empire. With there was a shift from cyclical history to linear history as Christianity took over. 
 
-Why does this matter? 
+
+
+Why __does__ this matter? 
 How is it important to the understanding of the philosophy of history? 
 What is Linear view of History? 
 What is a cyclical View of History? 
