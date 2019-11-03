@@ -36,6 +36,7 @@ What Mariner says is that the notes taken during an interview can be wrong based
 #### The Present
 
 >For the field of oral history, the true digital revolution has only just begun, and it entails more than the economic or technological changes that make recorders cheaper, smaller, and faster with better resultant sound. The real revolution will be a change in consciousness about how oral history, as a historical resource, can be engaged and discovered more easily, more widely and effectively distributed, and ultimately, more responsibly preserved (Ritchie).
+
 In recent years, the attitudes toward oral history has changed because of the development in technology. When recording people, we have always used some type of device and microphone and that hasn’t changed. What has changed is the way the recorded information has been passed to reach larger audiences that it wasn’t able to reach before. Before recorded audio was only for a select few and couldn’t really be passed to masses of people.  We also don’t record on cassettes anymore which could be lost and destroyed. Now recordings can be uploaded on the internet or put on another digital device. 
 
 {% include figure.html
