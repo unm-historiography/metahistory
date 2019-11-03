@@ -74,16 +74,17 @@ In 1990, the RPF led a military coalition against the MRND to retake control of 
 
 As the RPF regained military and political control of Rwanda, Hutu tribe members fled their homes in fear of being killed. In south-west Rwanda, Hutu refugees gathered in the Kibeho refugee camp. On April 22, 1995, the Tutsi RPF opened fire on the unarmed refugees began indiscrimately murdering them. Australian soldiers serving as part of the United Nations Assistance Mission later estimated that approximately 4,000 people in the camp were killed. The RPF claimed only 300 people were killed. At the time, current president Paul Kagama was vice president of the RPF. 
 
-### Restorative Peace vs. Retributive Peace
+#### Restorative Peace 
 
-Since the RPF invasion, the country has since reestablished relative peace and order in the society. President Paul Kagame has been accredited by many of the country's citizens as the person responsible for reestablishing peace. However, the aftermath shows that criminal offenses and atrocites were caused by both sides and criminal justice for these atrocities was deeply desired. 
-
+Since the RPF invasion, the country has since reestablished peace and order in the society. President Paul Kagame has been accredited by many of the country's citizens as the person responsible for reestablishing peace. However, the aftermath shows that criminal offenses and atrocites were caused by both sides and criminal justice for these atrocities was deeply desired. 
 
 
 > "By the end of 1994, the human toll of the crisis in Rwanda was in the millions. In
 addition to the 800,000 victims of the genocide and the two million refugees
 outside Rwanda, some 1.5 million people were internally displaced. Out of a
 population of seven million, over half had been directly affected." -United Nations High Commissioner for Refugees
+
+
 
 #### International Criminal Tribunal
 
@@ -97,6 +98,8 @@ Paul Kagame was indeniably involved in the delegation of military command connec
 
 The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website, for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all the victims. The main title states, "WE REMEMBER THE VICTIMS OF THE GENOCIDE AGAINST THE TUTSI AND WE TEACH ABOUT PEACE" 
 This example of partiality shows a direct pattern to historiagraphy of how history is studied, as well as how history and reality are not always the same. 
+
+### Genocide Denial
 
 
 
