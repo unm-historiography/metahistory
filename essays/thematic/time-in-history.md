@@ -37,6 +37,8 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
 
 In a different perception of time, humans at the beginning were primitive beast but are on the incline as they acquire more knowledge through time. This can be seen especially in that of Judaism and Christianity. While man did start in a type of Golden Age in the Garden of Eden, humans since the fall are working their ways towards salvation. 
 
+Cyclical history requires a dualism or polytheistic view or heavy importance on politics. While linear history is focused on the one, God one path for "faith expressed itself, according to Eliade, in a linear view of history" (Olsen 17) . While it was unintentional linear history is what became the way in which to write history.  
+
 
 
 
