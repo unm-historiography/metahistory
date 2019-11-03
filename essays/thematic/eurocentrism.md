@@ -37,7 +37,7 @@ Historians today are able to study events in the past and understand them as Eur
 
 {% include figure.html
 class="img-left"
-width="49%"
+width="48%"
 caption="This image depicts a map of the world and basic definitions of what it means to be a 'developed' vs. 'developing' country. These terms recently replaced 'First', 'Second' and 'Third' world classifications. Note how 'development' is still defined by Eurocentric ideals, such as economy type, industrialization, and systemized education."
 image-url="developingcountry.jpg"
 source-url="https://marketbusinessnews.com/financial-glossary/developing-country/"
@@ -60,7 +60,7 @@ One theory of why this view at last took hold in the twentieth century is due to
 
 How did you learn about the history of Mexico and South America in your high school history class or early college courses? Were Europeans portrayed as heroes, or saviors? How highlighted were the genocides which decimated over ninety percent of the indigenous populations? (Hamnett, 82) Was any indigenous context or point of view discussed? These are the types of questions Historiographers have asked since Postmodernism. What was happening on the "other" side of history? But, also, how has the history of Europe and the "other" been portrayed and reinforced through Western education? History textbooks do not only lay a foundation for education and a basic understanding of history, but can also be used to propagate Eurocentric ideas (Paez, 211-217). These views of European history can further create a divide between Europe and the "other" by generating an "Us vs. Them" mentality (Shohat, 61).
 
-By now you are probably well aware that the term "Indian" to refer to an indigenous American is not only inaccurate, but also inappropriate, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts. It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences.
+By now you are probably well aware that the term "Indian" to refer to an indigenous American is not only inaccurate, but also inappropriate, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla, 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts. It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences.
 
 {% include figure.html
   class="img-center"
