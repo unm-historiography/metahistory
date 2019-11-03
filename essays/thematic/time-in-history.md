@@ -65,12 +65,8 @@ Historically, the overall written account of history has come from the upper cla
 
 ### Past, Present, Furture
 
-The Greeks, Romans, and Jews put different emphasis on the past, present, and future. The Greek's concern lay more in the past because of the lack of historical account that Greek historians had of past historical events. The Greeks were in a sort of race against time as historical evidence, and sources disappeared due to decay. In *Essays in Ancient and Modern Historiography*, Arnoldo Momigliano states that "there was more concern with the future among Roman historians, and it expressed  itself in anxiety about the Roman empire." (*Essay in Historiography* 193). The future of the empire was the main focus of Roman intellectuals. The __eternal Rome__ and the state of politics influenced the emphasis they put on the future.
-In Roman historical writing and study, one of the objectives was to determine the future. For the Jews as well as the Christians, time was about the present and the future. God was in the present, but he was also in the future when it was time for salvation. There was not worry about the past more of an understanding of the present and the future in terms of religion.  In modern historiographical study, the past, present, and future are not clear cut. Today history and the understanding of history is about the past. However, understanding where people were coming from or what they valued, the past, present, or future can help us better understand the motive behind what was written. The problem is that "in ordinary oral or written communication, the reference either to past or to the future can be left to the understanding or imagination of the recipient" (Momigliano *Time in Ancient Historiography* 6). 
- 
-### Cyclical and Linear? Are they still in style
-
-Today the a linear view of history is taught in school. There is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilzation. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not be create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__. 
+The Greeks, Romans, and Jews put different emphasis on the past, present, and future. The Greek's concern lay more in the past because of the lack of historical account that Greek historians had of past historical events. The Greeks were in a sort of race against time as historical evidence, and sources disappeared due to decay. In *Essays in Ancient and Modern Historiography*, Arnoldo Momigliano states that "there was more concern with the future among Roman historians, and it expressed  itself in anxiety about the Roman empire." (*Essay in Historiography* 193). The future of the empire was the main focus of Roman intellectuals. The __Rome eternal__ and the state of politics influenced the emphasis they put on the future.
+In Roman historical writing and study, one of the objectives was to determine the future. 
 {% include figure.html
   class="img-left"
   width="43%"
@@ -78,26 +74,41 @@ Today the a linear view of history is taught in school. There is an overall incl
   image-url="rome-eternal.jpg"
   source-url="https://www.youtube.com/watch?v=ADVZhVtXpsg"
 %}
-
-“In ordinary oral or written communication, the reference either to past or to the future can be left to the understanding or imagination of the recipient” (Momigliano 6).  
-
-
-
-
-
-
-
  
 
+For the Jews as well as the Christians, time was about the present and the future. God was in the present, but he was also in the future when it was time for salvation. There was not worry about the past more of an understanding of the present and the future in terms of religion.  In modern historiographical study, the past, present, and future are not clear cut. Today history and the understanding of history is about the past. However, understanding where people were coming from or what they valued, the past, present, or future can help us better understand the motive behind what was written. The problem is that "in ordinary oral or written communication, the reference either to past or to the future can be left to the understanding or imagination of the recipient" (Momigliano *Time in Ancient Historiography* 6). 
+ 
+### Teaching Linear History 
+
+Today a linear view of history is taught in school. In school, there is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilization. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__.  Time can be used as a method to write history in a particular way or to teach history in a certain way. When talking about the Mayans to the ancient Greeks, there are different conceptualizations of time that need to be accounted for in order to understand their history and the importance that they placed in history.
 
 Everything i have written does not matter because in ther end time is subjective. 
 
 ### Questions
-How to we reconcile multiple perceptions of time when writing about hisotry? 
 
-For a histiography should one look past conceptions of time or it an integral part of a culutres history? 
+How do we reconcile multiple perceptions of time when writing about history? 
 
-For those under the immpression that history is cyccal what is the point of wrting hisory if they believe that it is repeating? 
+Are conceptions of time an integral part of a culture's history? 
 
-Sources
+Do you think in academia, perceptions of history have changed, especially with the advancement of technology? 
+
+
+
+### Bibliography
+
+Cairns, Grace E. Philosophies of History; Meeting of East and West in Cycle-Pattern Theories of History. New York, Philosophical Library [1962], 1962.
+
+Lemon, M. C. Philosophy of History: A Guide for Students. Routledge, 2003.
+
+Momigliano, Arnaldo. Essays in Ancient and Modern Historiography. Middletown, Conn. : Wesleyan University Press, 1977., 1977.
+
+Momigliano, Arnaldo. “Time in Ancient Historiography.” History and Theory 6 (1966): 1–23. https://doi.org/10.2307/2504249.
+
+Olsen, Glenn W. Supper at Emmaus. Washington, D.C.: Catholic University of America Press, 2016. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1429297&site=eds-live&scope=site.
+
+Whitrow, G. J. Time in History : The Evolution of Our General Awareness of Time and Temporal Perspective. Oxford [Oxfordshire] ; New York : Oxford University Press, 1988., 1988.
+
+
+
+
 
