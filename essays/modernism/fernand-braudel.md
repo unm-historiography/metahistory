@@ -23,14 +23,6 @@ date: 2019-10-20
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
-  image-url="maison-homme.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
-%}
-
-{% include figure.html
-  class="img-right"
-  width="33%"
   caption="Braudel wrote this 1100 page masterpiece largely from memory."
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
@@ -81,6 +73,15 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 ### As a Prisoner of War
 
 ### Professional Life
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
+  image-url="maison-homme.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
+%}
+
 reference wife and her significance
 
 ## HIS LEGACY
