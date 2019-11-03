@@ -58,7 +58,7 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="60%"
   caption="young-braudel"
   image-url="young-braudel.jpg"
   source-url="https://gw.geneanet.org/jpbov55?lang=en&n=braudel&oc=0&p=fernand+paul+achille"
