@@ -67,7 +67,7 @@ date: 2019-10-20
 ### Algiers and Brazil
 
 ### Febvre and the Annales School
-
+The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 ### As a Prisoner of War
 
 ### Professional Life
