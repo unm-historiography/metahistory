@@ -19,10 +19,3 @@ Beginning in 1923, he taught first in Algiers and then in Sao Paolo, Brazil wher
 
 Braudel was a prolific writer known as much for his beautiful narrative prose as for his revolutionary perspectives on historical time. Other than *The Mediterranean*, his two most significant works are *Civilization and Capitalism* and *The Identity of France*. He died in November 1985 at the age of 83. 
 
-## Quotes I want to use
-
-> It replaced the study of leaders with the lives of ordinary people and supplanted the hallowed trio of politics, diplomacy, and wars with inquiries into climate, demography, agriculture, commerce, technology, transportation, and communication, as well as social groups and mentalities. (https://www.britannica.com/biography/Fernand-Braudel)
-
-> Events are the ephemera of history; they pass across its stage like fireflies, hardly glimpsed before they settle back into darkness and as often as not into oblivion. Every event, however brief, has to be sure a contribution to make, lights up some dark corner or even some wide vista of history. Nor is it only political history which benefits most, for every historical landscape - political, economic, social, even geographical - is illumined by the intermittent flare of the event. (https://www.quotetab.com/quote/by-fernand-braudel)
-
-> The mere smell of cooking can evoke an entire civilization. Braudel
