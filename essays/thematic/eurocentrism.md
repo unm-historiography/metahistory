@@ -12,7 +12,7 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
 {% include figure.html
   class="img-center"
   width="56%"
-  caption="Europe is so much more than just a continent. To **be** European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as 'European'. This has greatly influenced who has been included in depictions of historical Europe."
+  caption="Europe is so much more than just a continent. To be European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as 'European'. This has greatly influenced who has been included in depictions of historical Europe."
   image-url="worldmap.jpg"
   source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
@@ -45,7 +45,7 @@ source-url="https://marketbusinessnews.com/financial-glossary/developing-country
 
 {% include figure.html
 class="img-left"
-width="51%"
+width="52%"
 caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism and capitalism (and exploitation), Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
 image-url="resourcecapitalism.jpg"
 source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
@@ -78,7 +78,7 @@ One of the most overriding Eurocentric concepts which has impacted not only our 
 
 {% include figure.html
   class="img-right"
-  width="54%"
+  width="51%"
   caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
   image-url="scrambleforafrica.jpg"
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
