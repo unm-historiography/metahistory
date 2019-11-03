@@ -43,7 +43,8 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
 %}
 
 In a different perception of time, humans at the beginning were primitive beast but are on the incline as they acquire more knowledge through time. This can be seen especially in that of Judaism and Christianity. While man did start in a type of Golden Age in the Garden of Eden, humans since the fall are working their ways towards salvation. A famous advocate of linear history was St. Augustine. __St. Augustine__ (354-430) was a Christian thinker who wrote many famous works one of them being the *City of God*. In his writings, "he rejected the idea of cosmic and historical cycles endlessly recurring" (Lemon 91). 
-Cyclical history requires a dualism or polytheistic view or heavy importance on politics. While linear history is focused on the one, God one path for "faith expressed itself, according to Eliade, in a linear view of history" (Olsen 17) . While it was unintentional linear history is what became the way in which to write history.  
+Cyclical history requires a dualism or polytheistic view or heavy importance on politics. While linear history is focused on the one, God one path for "faith expressed itself, according to Eliade, in a linear view of history" (Olsen 17) . While it was unintentional linear history is what became the way in which to write history.  To put it in more perspective Whitrow states that
+> "Whereas for most Greeks and Romans, whether they believed in cycles or not, the dominant aspects of time were the present and the past, Christianity directed man's attention to the future. Pg. 64-65). 
 
 {% include figure.html
   class="img-center"
