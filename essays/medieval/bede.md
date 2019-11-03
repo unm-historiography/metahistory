@@ -16,6 +16,8 @@ author: Eamon Bisbee
 
 ## Introduction and historical context
 
+In many cases in the study of historiography, the whole of the period from the fall of Rome to the beginning of the Renaissance, and the revolution in thought that it heralded, are ignored. ‘Historians’ in the medieval era are derided as mere chroniclers, or else so biased or backwards in their finished works and methodology alike as to be beneath notice. 
+However, this is not strictly the case. There were many medieval historians whose methods and works might be thought of as ‘ahead of their time’. One such scholar is [Bede](https://en.wikipedia.org/wiki/Bede) (c. 672-735), commonly known as ‘the Venerable Bede.” Bede’s most well-known work was the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People). 
 
 
 ## *The Ecclesiastical History of the English People* and its methodology and influences
