@@ -9,7 +9,7 @@ date: 2019-11-04 00:00:00
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="50%"
   caption="A Japanese print decribing the arrival of the U.S. Navy's 'Black Ships' (1854).  This event set in motion the downfall of the Tokugawa Shogunate, and the rapid modernization of Japan. "
   image-url="blackships.jpg"
   source-url="https://en.wikipedia.org/wiki/Black_Ships#/media/File:Japanese_1854_print_Commodore_Perry.jpg"
