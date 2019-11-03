@@ -1,5 +1,5 @@
 ---
-title: Mesa Vista Hall
+title: Time as a Methodolgy 
 author: Kate Reynolds
 date: 2019-10-21
 ---
@@ -37,6 +37,11 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
 In a different perception of time, humans at the beginning were primitive beast but are on the incline as they acquire more knowledge through time. This can be seen especially in that of Judaism and Christianity. While man did start in a type of Golden Age in the Garden of Eden, humans since the fall are working their ways towards salvation. 
 
 Cyclical history requires a dualism or polytheistic view or heavy importance on politics. While linear history is focused on the one, God one path for "faith expressed itself, according to Eliade, in a linear view of history" (Olsen 17) . While it was unintentional linear history is what became the way in which to write history.  
+
+Time tells us a lot about a culture and or civilization. Looking at polytheistic groups like that of the Egyptians, we can descreen they had a more cyclical view of time. Those who were monotheistic, therefore, had a linear view of time. Understanding what time says about a culture or society is important to histography. It can be used as a method to uncover some biased or inclination of one's view of themselves in time.   
+ 
+
+“There are cyclical patterns he admits in the rise and fall of great civilizations; nevertheless there has been linear progress on the whole in religion “(Cairns 279). 
 
 
 
