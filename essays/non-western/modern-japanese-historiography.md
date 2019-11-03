@@ -10,7 +10,7 @@ date: 2019-11-04 00:00:00
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="A Japanese print decribing the arrival of the U.S. Navy's 'Black Ships'(1854).  This event set in motion the downfall of the Tokugawa Shogunate, and the rapid modernization of Japan. "
+  caption="A Japanese print decribing the arrival of the U.S. Navy's 'Black Ships' (1854).  This event set in motion the downfall of the Tokugawa Shogunate, and the rapid modernization of Japan. "
   image-url="blackships.jpg"
   source-url="https://en.wikipedia.org/wiki/Black_Ships#/media/File:Japanese_1854_print_Commodore_Perry.jpg"
 %}
@@ -24,7 +24,7 @@ date: 2019-11-04 00:00:00
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Fukuzawa Yukicihi, founder of Keio University."
+  caption="Fukuzawa Yukicihi, founder of Keio University, and the most widely read Japanese intellectual of the 19th century."
   image-url="fukuzawayukichi.jpg"
   source-url="https://en.wikipedia.org/wiki/Fukuzawa_Yukichi#/media/File:FukuzawaYukichi.jpg"
 %} 
