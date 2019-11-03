@@ -37,7 +37,7 @@ Historians today are able to study events in the past and understand them as Eur
 
 {% include figure.html
 class="img-left"
-width="47%"
+width="46%"
 caption="This image depicts a map of the world and basic definitions of what it means to be a 'developed' vs. 'developing' country. These terms recently replaced 'First', 'Second' and 'Third' world classifications. Note how 'development' is still defined by Eurocentric ideals, such as economy type, industrialization, and systemized education."
 image-url="developingcountry.jpg"
 source-url="https://marketbusinessnews.com/financial-glossary/developing-country/"
