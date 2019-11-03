@@ -6,7 +6,7 @@ date: 2019-10-21
 
 #### Abstract
 
-I am going to take you on an adventure through time where you and I will look at the concept itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied, but you would not know it since, in historical practice today, there is an all-consuming linear view of history when that is not the only type of hisotry. There is also cyclical and unilinear. For the purpose of this paper, however, we will be focusing on linear and cyclical views of historical progress and why it is important in historiography.  
+I am going to take you on an adventure through time where you and I will look at the concept itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied, but you would not know it since, in historical practice today, there is an all-consuming linear view of history when that is not the only type of hisotry. There is also cyclical and unilinear. There is also the path inwhihc hisotry would follow wether that is an decline or incline. Then there is the topic of the past, present, and futre and how different civlizations percieved each one how the value they put into those terms. 
 
 ### History
 
@@ -57,8 +57,15 @@ Cyclical history requires a dualism or polytheistic view or heavy importance on 
 Time tells us a lot about a culture and or civilization. Looking at polytheistic groups like that of the Egyptians, we can descreen they had a more cyclical view of time. Those who were monotheistic, therefore, had a linear view of time. Understanding what time says about a culture or society is important to histography. It can be used as a method to uncover some biased or inclination of one's view of themselves in time. Cycles may work for one type of history like that of political or economic while it may not work with things like religion, Cairns, puts this into perspective saying "there are cyclical patterns he admits in the rise and fall of great civilizations; nevertheless there has been linear progress on the whole in religion "(Cairns 279). 
 
 ### Time of the Scholar vs. Time of the Ordinary Man  
-Historical the overall written account of histroy has come from the upper class like that of philosopher, scholars, and religiosu insitiutions. For the majority of acdemic scholarship history has been written by very few. This is important espically when it comes to perceptions of time and historical prgress. For acdemic scholarship time is linear becase of the non repeating of evidence. For the ordinanry man however he may feel that it is cyclica becase of the life that he or she lives. 
 
+Historically, the overall written account of history has come from the upper class like that of philosophers, scholars, and from institutions like that of the church. For the majority of academic scholarship, history has been written by very few. This is important, especially when it comes to perceptions of time and historical progress. For academic scholarship, time is linear because of non-repeating events in the overall historical narrative. For the ordinary man, however, he may feel that it is cyclical because of the life that he or she live People who worked the lands were often under a cyclical view of time. Momigliano gives us a good perspective when talking about Plato; he states, " there is no reason to consider Plato's thoughts about time as typical of the ordinary Greek man" (8). When studying history, it is for this reason that we need to be aware of the different types of time that people are writing history. While some are writing under the impression that there is a repetition, others are writing under the impression that there is not. 
+
+Past, Present, Furture
+
+
+### Cyclical and Linear? Are they still in style
+
+Today the linear view of history is taught in school. There is an overall incline view of the direction in which history is moving, not one of dissension. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not be create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__. 
 
 “In ordinary oral or written communication, the reference either to past or to the future can be left to the understanding or imagination of the recipient” (Momigliano 6).  
 
@@ -77,3 +84,8 @@ Everything i have written does not matter because in ther end time is subjective
 How to we reconcile multiple perceptions of time when writing about hisotry? 
 
 For a histiography should one look past conceptions of time or it an integral part of a culutres history? 
+
+For those under the immpression that history is cyccal what is the point of wrting hisory if they believe that it is repeating? 
+
+Sources
+
