@@ -44,6 +44,7 @@ date: 2019-11-04 00:00:00
 ### The Founding of Historiographical Bureau
 
 ### History and the State
+Kunitake's elevated status at the Imperial University was short-lived.  In 1892, he wrote an article that would immediately cast him out of favor with Imperial authorities.  _Shinto Is an Outdated Custom of Heaven Worship_ was a take down of the very state-sponsered religion that the Imperial Household was using to maintain its legitimacy, calling into question their historical descendence from **Amaterasu**, the sun goddess, and most important figure in Shinto mythology.  While Kunitake was able to able to continue writing, and eventually found work a private university, he was finished at the Historiographical Bureau.  That none of his colleagues stood up for him was a sign of things to come, as **State Shinto** and Japanese militarism grew in the 20th century.
 
 ### Japan on the World's Stage
 
