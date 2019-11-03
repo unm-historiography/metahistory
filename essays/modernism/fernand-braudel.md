@@ -44,6 +44,14 @@ date: 2019-10-20
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Braudel's last major work..."
+  image-url="identity-of-france.jpg"
+  source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
+%}
+
 
 
 ## Abstract
