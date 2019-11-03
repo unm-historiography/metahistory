@@ -31,6 +31,14 @@ date: 2019-10-20
 {% include figure.html
   class="img-right"
   width="33%"
+  caption="Braudel's reception in France and abroad..."
+  image-url="maison-homme.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
   caption="Braudel wrote this 1100 page masterpiece largely from memory."
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
