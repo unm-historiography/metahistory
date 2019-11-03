@@ -4,17 +4,15 @@ author: Chloë King
 date: 2019-10-16
 ---
 
+Queen Elizabeth the First of Britain was one of the most idealized, revered monarchs in European history. Ruling for 44 years, from 1558 to her death in 1603, she still stays on the list of top ten longest-ruling monarchs of the United Kingdom. Perhaps most impressively, she managed to accomplish this despite the fact that she was a woman. But how did historians think of her, throughout time?
+
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="Ooh Cate Blanchett"
+  caption="Princess Elizabeth, on right, painted with her father King Henry VIII"
   image-url="51s9wX+19PL._SX385_.jpg"
   source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
 %}
-
-Queen Elizabeth the First of Britain was one of the most idealized, revered monarchs in European history. Ruling for 44 years, from 1558 to her death in 1603, she still stays on the list of top ten longest-ruling monarchs of the United Kingdom. Perhaps most impressively, she managed to accomplish this despite the fact that she was a woman. But how did historians think of her, throughout time?
-
-image of elizabeth with henry viii here
 
 Historiographically speaking, there has been very little attention paid to women before the modern era. There are, however, exceptions, a key one being the history of female regents, and other female members of royal families. The treatment of Queens like Elizabeth I, Victoria, Isabella, and Catherine the Great serve as indicators and influencers for the overall view of women in the public reckoning.
 
@@ -31,7 +29,13 @@ The structure of this work is certainly not recognizable to modern historians. F
 
 And on it goes in this style. There are two things here to note. The first is the heavily biased nature of the document: rather than say Elizabeth became Queen at her sister's death, the historian chooses a heavily narrative style characteristic of these early histories.
 
-image of elizabeth as princess here
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Elizabeth I, still a princess, at age 13."
+  image-url="51s9wX+19PL._SX385_.jpg"
+  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+%}
 
 The second object of interest is the particular attention paid to her external features, which continue at length in this chapter. The other monarchs in this book, all male, have only cursory descriptions of their appearances. This indicates a priority placed in the culture at the time on the *physical maturity* of a woman. This work continues to approach Elizabeth in a markedly different way than the other monarchs, spending more time on her appearance and personality than her governmental decisions or her contributions to the Reformation period. One point, however, remained nearly the same in her chapter as the others, which is that of her favorites.
 
@@ -43,7 +47,13 @@ They go on to describe that Dudley must not have had any particular control over
 
 ### A Rankean Elizabeth, with a nod to the past ###
 
-image of portrait of elizabeth here
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="A Portrait of Queen Elizabeth in her later Years."
+  image-url="51s9wX+19PL._SX385_.jpg"
+  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+%}
 
 The second source, written in 1896, is simply titled *Queen Elizabeth*, by J.E. Neale. This era places it firmly after the introduction of [Ranke's philosophy of history](https://unm-historiography.github.io/intro-guide/essays/thematic/professionalization), which emphasized objectivity, peer review, and a standardized methodology still recognizable to modern readers.
 
@@ -62,6 +72,13 @@ The third source, *The Progresses, Pageants, and Entertainments of Queen Elizabe
 This book takes that interest to heart. It does not tell an overall account of Elizabeth I's reign, in whatever style was more popular at the moment. Instead, this work sits comfortably in the realm of microhistory, explaining an often-overlooked facet of the Queen's life.
 
 The book has several other elements more recognizable to the modern (or post-modern) reader. The first is simply 
-image of elizabeth gloves here
+
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Elizabeth I, surveying three goddesses, finding them all below her standards."
+  image-url="51s9wX+19PL._SX385_.jpg"
+  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+%}
 
 >“The attentiveness and proximity to the Queen of Robert Dudley, partly from his duties as Master of the Horse, led to scandalmongering about the real purpose of Elizabeth’s frequent progresses. In Ipswich, a citizen claimed that Elizabeth ‘looked like one lately come out of childbed’; about her progress in 1564, ‘Some say that she is pregnant and is going away to lie in.’ Another rumor asserted that ‘Lord Robert hath had fyve children by the Quene, and she never goeth in progress but to be delivered.’ Such rumors present an unsurprising slander of a Queen who loved travel, men, and power” (42-43).
