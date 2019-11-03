@@ -1,5 +1,5 @@
 ---
-title: Venerable Bede
+title: the Venerable Bede and medieval Historiography
 author: Eamon Bisbee
 date: 2019-11-3
 ---
