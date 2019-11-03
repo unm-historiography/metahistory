@@ -9,7 +9,7 @@ author: Eamon Bisbee
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Look at this cute cat I found in the images folder!"
+  caption="The Venerable Bede, from *the last Chapter* by James Doyle Penrose"
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}
