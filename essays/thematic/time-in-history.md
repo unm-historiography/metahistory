@@ -26,7 +26,6 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
   image-url="declining-linegraph.jpg"
   source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
 %}
-
 {% include figure.html
   class="img-left"
   width="40"
