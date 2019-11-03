@@ -6,7 +6,7 @@ date: 2019-11-03
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="King James Ci of Scotland, later King James I of England, discussed how women were most suceptible to the devil and hunted them extensively during his reign."
   image-url="jamesviandi.jpg"
   source-url="https://www.historyextra.com/period/stuart/king-james-vi-i-hunted-witches-hunter-devilry-daemonologie/"
