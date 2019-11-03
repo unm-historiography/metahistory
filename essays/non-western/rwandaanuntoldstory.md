@@ -12,6 +12,9 @@ date: 2019-10-21
   source-url="https://fridaymagazine.ae/travel/destinations/in-rwanda-a-new-dawn-for-the-land-of-a-thousand-hills-1.2300540"
 %}
 
+
+[Rwanda's Untold Story Documentary](https://vimeo.com/107867605) by BBC
+
 ## HISTORIOGRAPHY
 
 This essay will examine the official historical account of the genocide that occurred in Rwanda, 1994. It aims to compare the similarities and differences of how the history of the genocide was written, portrayed, understood, and perceived today. The reality of ‘what really happened’ and the country’s national history of ‘what really happened’ are far from the same. As history is often written and remembered by the victors, a closer examination of the Rwandan genocide reveals a story of government coverups, secrecy, and the suppression of voice by many. Historiography is the study of how history is written, understood, perceived, and interpreted. I will attempt to show how the history of a nation was intentionally manipulated, by the method of partiality, to restore the practical necessity of order within the country. 
@@ -58,16 +61,15 @@ In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to r
 
 ### Rwandan Patriotic Front 
 
-In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, in 1990, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. The treaties promised compromise for each tribe and an attempt for negotiations of political representation.
-
+In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. The peace accords established a cease-fire between Hutu and Tutsi tribes in hopes of coming to diplomatic political negotiations. 
 
 ### Presidential Assasination 
 
-On April 6th, 1994, **President Juvenal Habyarimana** (Rwanda) and his counterpart Cyprien Ntaryamira (Burundi), both Hutu, had just taken off flight when suddenly the plane they were travelling on was shot out of the sky, instantly killing both of them as well as everyone else on board. The cause of this event was clear to have been intentional, but further investigation to determine who carried out the action was not clear. Nevertheless, the assassination sparked outrage of Hutu tribesmen who blamed the RPF. The Hutu quickly organized armed militias and sought to retaliate. Once organized, the Hutu ended the cease-fire ended and violence erupted.
+On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and preident of Burundi Cyprien Ntaryamira (both Hutu), had just boarded a plane that was preparing to take flight when the plane exploded from a rocket propelled grenade launcher. The explosion killed all passengers on the plane. Although the cause of this event was clear to have been intentional, further investigation found no definitive determination of who carried out the plan. However, the assassination sparked outrage amongst Hutu tribesmen within the country who blamed the RPF were responsible for the attack. Hutu militias soon organized and sought to retaliate. Once organized, the Hutu ended the cease-fire and the peace accords ended. 
 
 ### 100 Day Massacre
 
-Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) organized themselves to seek retaliation against Tutsi civilians. An all-out genocide campaign was ordered out to kill all Tutsi members in the country. Roadblocks and blockades were constructed, and travelers checked of their tribal orientation based on identification (ID) cards. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. Indiscriminate in their killings, the NRMD killed men, women, and children.
+Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Any one who was confimred to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the countries cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100 day massacre, Tutsi civilian were indiscrimately targeted including men, women, and children.
 
 ### RPF Control
 
@@ -76,6 +78,21 @@ In 1990, the RPF led a military coalition against the MRND to retake control of 
 ### Kibeho Massacre
 
 As the RPF regained military and political control of Rwanda, Hutu tribe members fled their homes in fear of being killed. In south-west Rwanda, Hutu refugees gathered in the Kibeho refugee camp. On April 22, 1995, the Tutsi RPF opened fire on the unarmed refugees began indiscrimately murdering them. Australian soldiers serving as part of the United Nations Assistance Mission later estimated that approximately 4,000 people in the camp were killed. The RPF claimed only 300 people were killed. At the time, current president Paul Kagama was vice president of the RPF. 
+
+### Restorative Peace vs. Retributive Peace
+
+Since the RPF invasion, the country has since reestablished relative peace and order in the society. President Paul Kagame has been accredited by many of the country's citizens as the person responsible for reestablishing peace. However, the aftermath showed that criminal offenses were caused by both sides and justice for the genocide was deeply desired. 
+
+> "By the end of 1994, the human toll of the crisis in Rwanda was in the millions. In
+addition to the 800,000 victims of the genocide and the two million refugees
+outside Rwanda, some 1.5 million people were internally displaced. Out of a
+population of seven million, over half had been directly affected." -United Nations High Commissioner for Refugees
+
+
+
+## History vs. Reality 
+
+
 
 
 
