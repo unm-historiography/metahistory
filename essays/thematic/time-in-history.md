@@ -4,27 +4,6 @@ author: Kate Reynolds
 date: 2019-10-21
 ---
 
-
-
-
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
-  image-url="declining-linegraph.jpg"
-  source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
-%}
-
-
-{% include figure.html
-  class="img-left"
-  width="33%"
-  caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
-  image-url="upcline-lingraph.jpg"
-  source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
-%}
-
 There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture and everyday life. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being. Time, however, was dualistic, there being two perceptions of time that were simultaneous with one another. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 
@@ -46,6 +25,14 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
   caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
   image-url="declining-linegraph.jpg"
   source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
+%}
+
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
+  image-url="upcline-lingraph.jpg"
+  source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
 %}
 
 
