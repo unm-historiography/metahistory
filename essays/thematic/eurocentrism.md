@@ -2,7 +2,7 @@
 layout: default
 title: Eurocentrism
 author: Keena Hays
-date: 2019-10-15 00:00:00
+date: 2019-11-04 00:00:00
 ---
 
 The exact extent of Eurocentrism in contemporary culture, academia, politics, and many other facets of daily life is impossible to determine. While not being solidified as a concept until the Postmodern revolution in the late twentieth century, the traces of Eurocentrism throughout history and the deep-seeded effects it has on all human life today can no longer be ignored. Eurocentrism, as a concept, can be applied to any person, place, or thing throughout history, there is truly nothing untouched by Western imperialism and influence, but for the purposes of this essay, eurocentrism will focus strictly on historiography, or how history has been written, with a Eurocentric perspective and the repercussions of such views. With this in mind, my examination of Eurocentrism is going to begin with one of the first men considered to be a 'historian', Augustine of Hippo. But first, let's understand exactly what is Eurocentrism.
