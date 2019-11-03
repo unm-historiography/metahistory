@@ -45,7 +45,7 @@ source-url="https://marketbusinessnews.com/financial-glossary/developing-country
 
 {% include figure.html
 class="img-left"
-width="49%"
+width="53%"
 caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism and capitalism (and exploitation), Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
 image-url="resourcecapitalism.jpg"
 source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
@@ -55,38 +55,39 @@ One theory of why this view at last took hold in the twentieth century is due to
 
 ## Examples of Historiographical Eurocentrism
 
-##### Eurocentrism in Textbooks and the "Discovery" of the "New" World
+#### Eurocentrism in Textbooks and the "Discovery" of the "New" World
 
 How did you learn about the history of Mexico and South America in your high school history class or early college courses? Were Europeans portrayed as heroes, or saviors? How highlighted were the genocides which decimated over ninety percent of the indigenous populations? (Hamnett, 82) Was any indigenous context or point of view discussed? These are the types of questions Historiographers have asked since Postmodernism. What was happening on the "other" side of history? But, also, how has the history of Europe and the "other" been portrayed and reinforced through Western education? History textbooks do not only lay a foundation for education and a basic understanding of history, but can also be used to propagate Eurocentric ideas (Paez, 211-217). These views of European history can further create a divide between Europe and the "other" by generating an "Us vs. Them" mentality (Shohat, 61).
 
 By now you are probably well aware that the term "Indian" to refer to an indigenous American is not only inaccurate, but also inappropriate, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts. It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences.
 
-Finally, let's discuss Christopher Columbus. It is more popular of a discussion to question the celebration of Columbus Day and what many refer to as the 'atrocities' he committed, but I want to focus more so on the specific language we use to talk about him at all. In 1992, the Mexican government changed the "Discovery of America" to "The Encounter of Two Worlds", an idea which still celebrated the meeting of European and indigenous cultures, but removed the implication that America was something waiting to be "discovered", rather than a whole, functioning region on its own (Pena, 286). Likewise, the Americas being referred to as the "new" world, aid Eurocentric sentiments that indigenous groups lack a substantial history of their own or that their presence was little recognized at all when colonists arrived. Indigenous American people have a history as long and complex as Europe, as can be said for all regions around the globe.
-
-
 {% include figure.html
   class="img-left"
-  width="45%"
+  width="56%"
   caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the 'source' link for an informative video on Eurocentrism's development."
   image-url="carvingeuro.jpg"
   source-url="https://youtu.be/GI8k9_jiINM"
 %}
 
-##### Eurocentric Ideology and the Imposition of Progress
+Finally, let's discuss Christopher Columbus. It is more popular of a discussion to question the celebration of Columbus Day and what many refer to as the 'atrocities' he committed, but I want to focus more so on the specific language we use to talk about him at all. In 1992, the Mexican government changed the "Discovery of America" to "The Encounter of Two Worlds", an idea which still celebrated the meeting of European and indigenous cultures, but removed the implication that America was something waiting to be "discovered", rather than a whole, functioning region on its own (Pena, 286). Likewise, the Americas being referred to as the "new" world, aid Eurocentric sentiments that indigenous groups lack a substantial history of their own or that their presence was little recognized at all when colonists arrived. Indigenous American people have a history as long and complex as Europe, as can be said for all regions around the globe.
+
+
+#### Eurocentric Ideology and the Imposition of Progress
 
 One of the most overriding Eurocentric concepts which has impacted not only our views of "other" regions, but has actually impacted their real-world ability to participate in valued (meaning Western) economics, academia, and politics, is Progress. Western ideas of progression, meaning a _continuous_ improvement of building ideas and inventions over time, has effected countless regions and Eurocentric views of them as 'stagnant', 'immobile', or 'unproductive'. Essentially, when it comes to the 'progress' the West has made, it entirely rejects any historical contribution by non-European regions (Demir, 79). Have you taken the _required_ course "Western Civilization" yet? What does 'civilization' even mean? It's a European concept to describe aspects of European culture. So, any culture which defines progress differently, or not at all, is viewed as 'uncivilized' and, therefore, not part of European history.
 
-So, what about cultures that do have ideas of progress, but they are the exact opposite of Western ideals. What about cultures that pride themselves on caring for the earth and not creating waste? Or cultures which value concepts of community sharing and reciprocity over individualism and mass economies? How can cultures like these ever make their way into the vision of a _world_ history rather than a Western history?
-
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="56%"
   caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
   image-url="scrambleforafrica.jpg"
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
 %}
 
-##### Eurocentrism in Multimedia
+So, what about cultures that do have ideas of progress, but they are the exact opposite of Western ideals. What about cultures that pride themselves on caring for the earth and not creating waste? Or cultures which value concepts of community sharing and reciprocity over individualism and mass economies? How can cultures like these ever make their way into the vision of a _world_ history rather than a Western history?
+
+
+#### Eurocentrism in Multimedia
 
 While you might not think of movies, television, or even music as a form of history, these portrayals of Western culture and history are just as, if not more so, important to the reinforcement of Eurocentric beliefs. Not only are these resources accessible to Westerners, but they are accessible around the world. Eurocentric idealizations do not only reinforce western beliefs of superiority, but they are also used to reinforce "other's" views of themselves as inferior. Can you name one film where America is portrayed as the 'villain', rather than the hero? Further, historical films are used to depict issues as only in the past, rather than continuous scenarios with long-lasting repercussions for all involved (Lambropoulos, 194). For example, a historical film which depicts slavery as "ending" does not really mean that the effects of slavery have ended, but can give that impression to a viewer who does not live with those historical impacts. This can create a conversational boundary between a European who views history and a non-European who lives _with_ history.
 
