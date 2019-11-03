@@ -7,9 +7,9 @@ date: 2019-10-21
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall"
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  caption="Thucydides"
+  image-url=""
+  source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
 %}
 
 Abstract
