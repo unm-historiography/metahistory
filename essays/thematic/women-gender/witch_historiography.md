@@ -17,6 +17,8 @@ Over time witch hunts have been used to assimilate many social movements. This p
 
 The questions I would like to answer are _why witches? how did their language and idealization change overtime? and why are they important to a current society?_ In american schools we cover the Salem witch trials glossing over other countries own witch hunts and the affect that the European front had on the world at large. 
 
+#Writers of Witches
+
 witches_baldung.jpg
 https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1
 
