@@ -13,7 +13,7 @@ date: 2019-11-04
   source-url="https://gnosticwarrior.com/rod-of-asclepius.html"
 %}
 
-# Western Medicine and its’ Place in History #
+### Western Medicine and its’ Place in History ###
    
 <p> Every year, thousands of new young doctors graduate from medical school with the hopes of touching and changing lives every day in their respective fields. Although they have chosen different specialized fields of medicine, they all have the same aspirations to help and heal the sick. With each new class of doctors, there is also that time honored tradition of taking the Hippocratic Oath. But what exactly is the Hippocratic Oath and why is it relevant to medical practices today? The short answer to that is; Western medicine has its’ origins within Ancient Greek practices and the Hippocratic Oath is attributed to the ‘Father of Modern Medicine,’ Hippocrates. However, the view that the ancient Greek’s had of medicine is very different in application from the views we have of medicine today and in order to understand how we got from Ancient Greek medical practices to the medical advancements and practices in the modern era, we must take a look at the origins of modern Westernized medicine and ask ourselves the most important question of all, why does it matter? 
 
