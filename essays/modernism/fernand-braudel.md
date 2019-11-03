@@ -28,10 +28,17 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="49%"
   caption="Braudel got a position teaching in Algiers in the 1920s"
   image-url="algiers-1920s.jpg"
   source-url="https://www.hippostcard.com/listing/boulevard-de-la-republique-alger-algeria-africa-1910-1920s/17289145"
+%}
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Brazil inspired a new perspective of the influence of the Mediterranean from the other side of the Atlantic."
+  image-url="brazil-1920s.jpg"
+  source-url="https://pixels.com/featured/the-praca-da-se-in-sao-paulo-underwood-archives.html"
 %}
 
 ### Febvre and the Annales School
