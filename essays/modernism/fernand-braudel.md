@@ -11,6 +11,14 @@ date: 2019-10-20
   image-url="braudel-main.jpg"
   source-url="https://https://www.historytoday.com/archive/portrait-author-historian-fernand-braudel"
 %}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
+  image-url="lucien-febvre.jpg"
+  source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
+%}
 ## Abstract
 
 On August 24, 1902, a school teacher and his wife in Lumeville, France gave birth to a boy who would become one of the most influential historians of the 20th century. His name was Fernand Paul Braudel and his scholarship changed the way the world viewed historical time and space. Emphasizing geography and climate over political or economic events, Braudel worked in long time scales over massive spatial regions. As a leading member of the Annales School, Braudel stressed an interdisciplinary social sciences approach and quantitative methodologies. 
