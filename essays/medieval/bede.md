@@ -31,5 +31,7 @@ In Bede’s time, the computation of dates, particularly of [Easter](https://en.
 
 In 725, Bede wrote [*The Reckoning of Time*](https://en.wikipedia.org/wiki/The_Reckoning_of_Time), (*De temporum ratione* in the original Latin), which among much else promoted the use of a novel system for dating years, which had been created by a fellow monk, [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguusnysius_Exiguus) (c. 470-c. 544). In this system, years are numbered from the incarnation of Jesus Christ, and described with the phrase *anno Domini*, “in the Year of our Lord”. 
 
+Prior to Bede’s use of the AD system, and its ensuing popularization by Bede’s students, systems of numbering years were confused and complex. One common method was regnal dating, referring to years in reference to the reigns of kings or often popes. Bede himself uses this system, referring to events taking place in the “3rd year of Pope Gregory,” for example. This approach has obvious limitations. 
+
 
 ## Conclusion
