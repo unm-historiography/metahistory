@@ -44,7 +44,7 @@ Historians such as Yamaji Aizan worked outside the influence of the Historiograp
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="50%"
   caption="A 1885 woodblock print by Tsukioka Yoshitoshi, depicting Toyotomi Hideyoshi on a daring nighttime raid.  Hideyoshi was one of many figures from Japan's past used to promote its future greatness."
   image-url="hideyoshi.jpg"
   source-url="https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi#/media/File:YoshiClimber.jpg"
@@ -54,7 +54,7 @@ Historians such as Yamaji Aizan worked outside the influence of the Historiograp
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="A woodblock print by Kobayashi Kiyochika, depicting Nicholas II's living nightmare of Russia's defeat at the hands of the Japanese (1904-1905).  Japan's decisive victory in the Russo Japanese War served as a vindication of its modernizing efforts, and as a precurser to further expansion on the Asian continent."
   image-url="nicholas_nightmare.jpg"
   source-url="https://en.wikipedia.org/wiki/Russo-Japanese_War#/media/File:Forces_returning_2.jpg"
