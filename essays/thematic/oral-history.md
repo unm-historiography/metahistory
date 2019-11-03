@@ -32,7 +32,6 @@ For centuries philosophers and historians have argued why oral history is not a 
 What Mariner says is that the notes taken during an interview can be wrong based on the fact we, as interviewers, get to pick and choose what we think is insignificant, and what we may think as insignificant may not be insignificant to the person we are interviewing, and that makes the interview unreliable. The questions the interviewer asks could be worded in a way that makes the interviewee answer in swayed direction, and that makes the interview as a whole unreliable. Though, not only the interviewer could be bias, but the interviewee could be answering in ways that serve an alternative purpose as well. There is also the case of misremembrance. People telling their history will often forget or add to it making the whole truth unknown.
 
 #### The Present
-
 {% include figure.html
   class="img-right"
   width="35%"
@@ -40,12 +39,7 @@ What Mariner says is that the notes taken during an interview can be wrong based
   image-url="tupac.jpg"
   source-url="https://www.pinterest.fr/pin/701576448172383760/"
   %}
-
-
-
-
-
-
+In recent years, the attitudes toward oral history has changed because of the development in technology, and this allowed us to develop new forms of oral history with the digital age, such as podcasts and music.  Music has always been a form of oral history, but wasn’t taken seriously by historians of the past because it was viewed as storytelling and often the music was changed for the reasons we have mentioned above, and not a reliable source to use, but now we have more advanced technology to hear the music written by people that are telling their own story, for example the rapper Tupac creates music about how he views his home and the way people lived in that era. 
 
 
 #### Oral History vs Oral Tradition
