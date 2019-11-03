@@ -23,4 +23,8 @@ What is a cyclical View of History?
 
 I am going to take you on an adventure through time.During this adventure we are going to look at time and how perceptions of time have been influenced by outside factor and then how those perceptions of time changed and finally how it afects the study histroy. 
 
+Everything i have written does not matter because in ther end time is subjective. 
 
+Questions
+ How to we reconcile multiple perceptions of time when writing about hisotry? 
+ For a histiography should one look past conceptions of time or it an integral part of a culutres history? 
