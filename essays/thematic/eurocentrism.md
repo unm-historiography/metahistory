@@ -94,6 +94,7 @@ While you might not think of movies, television, or even music as a form of hist
 For some examples, view these articles on _Black Panther_ (Note the authors):
 
 [Black Panther: does the Marvel epic solve Hollywood's Africa problem?](https://www.theguardian.com/film/2018/feb/03/marvel-black-panther-chadwick-boseman-michael-b-jordan)
+
 [Black Panther review – Marvel's thrilling vision of the afrofuture](https://www.theguardian.com/film/2018/feb/06/black-panther-review-marvel-wakanda-chadwick-boseman)
 
 ## So, Now What?
