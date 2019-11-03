@@ -23,8 +23,8 @@ date: 2019-10-20
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
-  image-url="braudel-reinvented.jpg"
+  caption="Braudel's reception in France and abroad..."
+  image-url="braudel-reinventedhistory.jpg"
   source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
 %}
 
