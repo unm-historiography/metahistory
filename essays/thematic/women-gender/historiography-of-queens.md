@@ -7,11 +7,11 @@ date: 2019-10-16
 Queen Elizabeth the First of Britain was one of the most idealized, revered monarchs in European history. Ruling for 44 years, from 1558 to her death in 1603, she still stays on the list of top ten longest-ruling monarchs of the United Kingdom. Perhaps most impressively, she managed to accomplish this despite the fact that she was a woman. But how did historians think of her, throughout time?
 
 {% include figure.html
-  class="img-right"
-  width="40%"
+  class="img-center"
+  width="100%"
   caption="Princess Elizabeth, on right, painted with her father King Henry VIII"
-  image-url="51s9wX+19PL._SX385_.jpg"
-  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+  image-url="elizabethi-henryviii.jpg"
+  source-url="https://www.rct.uk/collection/405796/the-family-of-henry-viii"
 %}
 
 Historiographically speaking, there has been very little attention paid to women before the modern era. There are, however, exceptions, a key one being the history of female regents, and other female members of royal families. The treatment of Queens like Elizabeth I, Victoria, Isabella, and Catherine the Great serve as indicators and influencers for the overall view of women in the public reckoning.
@@ -33,8 +33,8 @@ And on it goes in this style. There are two things here to note. The first is th
   class="img-right"
   width="40%"
   caption="Elizabeth I, still a princess, at age 13."
-  image-url="51s9wX+19PL._SX385_.jpg"
-  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+  image-url="elizabethi-princess.jpg"
+  source-url="https://www.rct.uk/collection/404444/elizabeth-i-when-a-princess"
 %}
 
 The second object of interest is the particular attention paid to her external features, which continue at length in this chapter. The other monarchs in this book, all male, have only cursory descriptions of their appearances. This indicates a priority placed in the culture at the time on the *physical maturity* of a woman. This work continues to approach Elizabeth in a markedly different way than the other monarchs, spending more time on her appearance and personality than her governmental decisions or her contributions to the Reformation period. One point, however, remained nearly the same in her chapter as the others, which is that of her favorites.
@@ -48,11 +48,11 @@ They go on to describe that Dudley must not have had any particular control over
 ### A Rankean Elizabeth, with a nod to the past ###
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="40%"
   caption="A Portrait of Queen Elizabeth in her later Years."
-  image-url="51s9wX+19PL._SX385_.jpg"
-  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+  image-url="elizabethi-medallion.jpg"
+  source-url="https://www.rct.uk/collection/search#/33/collection/403451/elizabeth-i-1533-1603"
 %}
 
 The second source, written in 1896, is simply titled *Queen Elizabeth*, by J.E. Neale. This era places it firmly after the introduction of [Ranke's philosophy of history](https://unm-historiography.github.io/intro-guide/essays/thematic/professionalization), which emphasized objectivity, peer review, and a standardized methodology still recognizable to modern readers.
@@ -74,11 +74,11 @@ This book takes that interest to heart. It does not tell an overall account of E
 The book has several other elements more recognizable to the modern (or post-modern) reader. The first is simply 
 
 {% include figure.html
-  class="img-right"
-  width="40%"
+  class="img-center"
+  width="100%"
   caption="Elizabeth I, surveying three goddesses, finding them all below her standards."
-  image-url="51s9wX+19PL._SX385_.jpg"
-  source-url="https://www.amazon.com/CATE-BLANCHETT-Elizabeth-Golden-AUTOGRAPH/dp/B00QR4ZETK"
+  image-url="elizabethi-gloves.jpg"
+  source-url="https://www.rct.uk/collection/themes/exhibitions/in-fine-style/the-queens-gallery-palace-of-holyroodhouse/elizabeth-i-and-the-three-goddesses"
 %}
 
 >“The attentiveness and proximity to the Queen of Robert Dudley, partly from his duties as Master of the Horse, led to scandalmongering about the real purpose of Elizabeth’s frequent progresses. In Ipswich, a citizen claimed that Elizabeth ‘looked like one lately come out of childbed’; about her progress in 1564, ‘Some say that she is pregnant and is going away to lie in.’ Another rumor asserted that ‘Lord Robert hath had fyve children by the Quene, and she never goeth in progress but to be delivered.’ Such rumors present an unsurprising slander of a Queen who loved travel, men, and power” (42-43).
