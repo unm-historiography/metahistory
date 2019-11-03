@@ -15,17 +15,17 @@ date: 2019-10-21
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall "
-  image-url="322px-Thucydides_pushkin02.jpg"
+  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall. "
+  image-url="322px-declining-linegraph.jpg"
   source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
 %}
 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Thucydides"
-  image-url="322px-Thucydides_pushkin02.jpg"
-  source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
+  caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
+  image-url="upcline-linegraph.jpg"
+  source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
 %}
 
 
