@@ -60,7 +60,26 @@ date: 2019-10-20
   source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
 %}
 
+## The Life of Fernand Braudel
 
+### Early Years
+
+### Algiers and Brazil
+
+### Febvre and the Annales School
+
+### As a Prisoner of War
+
+### Professional Life
+reference wife and her significance
+
+## The Legacy of Fernand Braudel
+
+### The Mediterranean
+
+### Capitalism
+
+### Methodology and Writing
 
 ## Abstract
 
