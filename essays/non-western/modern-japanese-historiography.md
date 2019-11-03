@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modern Japanese Historiography
+title: The Meiji Restoration and Japanese Historiography
 author: Matthew Nelson
 date: 2019-11-04 00:00:00
 ---
