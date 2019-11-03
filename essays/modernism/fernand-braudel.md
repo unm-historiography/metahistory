@@ -70,21 +70,21 @@ reference wife and her significance
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="Braudel wrote this 1100 page masterpiece largely from memory."
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
 %}
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="Braudel's perspectives on Capitalism blah blah blah."
   image-url="civ-cap-book.jpg"
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="Braudel's last major work..."
   image-url="identity-of-france.jpg"
   source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
