@@ -4,6 +4,9 @@ author: Karli Montoya
 date: 2019-09-20
 ---
 ********
+Through this essay we will compare how oral history was perceived in the past and how attitudes toward the subject has changed because of the progress we have had in technology and the practice of writing oral history itself.  
+********
+
 {% include figure.html
   class="img-right"
   width="33%"
