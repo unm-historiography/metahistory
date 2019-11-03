@@ -12,7 +12,7 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
 {% include figure.html
   class="img-center"
   width="56%"
-  caption="Europe is so much more than just a continent. To _be_ European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as _European_. This has greatly influenced who has been included in depictions of historical Europe."
+  caption="Europe is so much more than just a continent. To **be** European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as 'European'. This has greatly influenced who has been included in depictions of historical Europe."
   image-url="worldmap.jpg"
   source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
@@ -31,7 +31,7 @@ Many authors of Eurocentrism trace its origins as far back as ancient Greece, lo
 
 In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of Hippo wrote a document titled _City of God_. This document's intention was to explain the reasons for Roman defeat and attempt to understand human history, as well as predict the future fate of humanity (Fortin, 324). However, as historians, we can examine this document for much more than its _intended_ purpose. Augustine redefined history as not only a Western one, but as a Christian one. This is a belief that will become the basis for contemporary Eurocentrism, much more permeating than the Greeks ever employed. With the addition of Christianity to Western, European identity, the concept of paternalism, or Europe viewing itself as a 'father' to the rest of the world, soon intertwined with this identity. Stemming from paternalistic views already well-developed in the Roman-Catholic church, think of the male-dominated clergy, such as the Pope, archbishop, bishops, etc., roles which can only be held by males and the view of the Christian god himself as a man and father, this new understanding of Europeanism would not only provincialize all non-European countries, but would also position them as children needing to be cared for by their European 'father'.
 
-> _Pro.vin.cial, adj.: of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded._ **Provincialism** refers to the biproduct of Eurocentrism. While Europe positioned itself as the center of the world, all other countries were 'provincialized', or seen as on the "outskirts" of history, rather than as active participants. Additionally this view strengthened European ideas of non-Europeans as 'children', who were uneducated, pagan, 'backward', and in need of assistance, or being 'saved'.
+> Pro.vin.cial, adj.: of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded. **Provincialism** refers to the biproduct of Eurocentrism. While Europe positioned itself as the center of the world, all other countries were 'provincialized', or seen as on the "outskirts" of history, rather than as active participants. Additionally this view strengthened European ideas of non-Europeans as 'children', who were uneducated, pagan, 'backward', and in need of assistance, or being 'saved'.
 
 Historians today are able to study events in the past and understand them as Eurocentric, but why did it take so long for this to become a part of historiographical and social discussion? In the late twentieth century, a movement began known as 'Postmodernism', in response to 'Modernism' which believed in universalities and metanarratives as useful techniques for understanding cultures around the world. On the other side, Postmodernism sought to 'break down' all of the ideas of Modernism and establish that all people had different views of 'reality' and no one reality could be seen as the only 'true' version of events (Popkin, 146). Today, this is now a much more common understanding of history, but it is still a relatively recent view and application by historians.
 
@@ -45,7 +45,7 @@ source-url="https://marketbusinessnews.com/financial-glossary/developing-country
 
 {% include figure.html
 class="img-left"
-width="53%"
+width="51%"
 caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism and capitalism (and exploitation), Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
 image-url="resourcecapitalism.jpg"
 source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
@@ -63,7 +63,7 @@ By now you are probably well aware that the term "Indian" to refer to an indigen
 
 {% include figure.html
   class="img-left"
-  width="56%"
+  width="63%"
   caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the 'source' link for an informative video on Eurocentrism's development."
   image-url="carvingeuro.jpg"
   source-url="https://youtu.be/GI8k9_jiINM"
@@ -78,7 +78,7 @@ One of the most overriding Eurocentric concepts which has impacted not only our 
 
 {% include figure.html
   class="img-right"
-  width="56%"
+  width="54%"
   caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
   image-url="scrambleforafrica.jpg"
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
@@ -99,7 +99,7 @@ For some examples, view these articles on _Black Panther_ (Note the authors):
 
 ## So, Now What?
 
-While Eurocentrism can feel like a weight of centuries of history you had no control over, it is important to recognize the that impact your voice can have today. As a historiographer, or historian, it is not your job to 'correct' the past, but rather to attempt to understand it and explain it to others. By placing an emphasis on the voices of those "othered" by European history, historians are working to collect a more diverse, less Eurocentric contemporary history. This is as much an effort for today's readers as a hope that future historians will not have the same constraints when conducting research. There is no cure or quick-fix for Eurocentrism and no way to undo the effects it has had on all societies over time, but through historiography there are ways to analyze and critique its usage and influence its direction in the future.
+While Eurocentrism can feel like a weight of centuries of history you had no control over, it is important to recognize the impact that your voice can have today. As a historiographer, or historian, it is not your job to 'correct' the past, but rather to attempt to understand it and explain it to others. By placing an emphasis on the voices of those "othered" by European history, historians are working to collect a more diverse, less Eurocentric contemporary history. This is as much an effort for today's readers as a hope that future historians will not have the same constraints when conducting research. There is no cure or quick-fix for Eurocentrism and no way to undo the effects it has had on all societies over time, but through historiography there are ways to analyze and critique its usage and influence its direction in the future.
 
 
 
