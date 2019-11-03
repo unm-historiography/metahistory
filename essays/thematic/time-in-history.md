@@ -4,6 +4,8 @@ author: Kate Reynolds
 date: 2019-10-21
 ---
 
+I am going to take you on an adventure through time where you and I will look at the concept itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied, but you would not know it since, in historical practice today, there is an all-consuming linear view of history when that is not the only type of hisotry. There is also cyclical and unilinear. For the purpose of this paper, however, we will be focusing on linear and cyclical views of historical progress and why it is important in historiography.  
+
 There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture and everyday life. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being. Time, however, was dualistic, there being two perceptions of time that were simultaneous with one another. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 
@@ -21,14 +23,14 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="49%"
   caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
   image-url="declining-linegraph.jpg"
   source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
 %}
 {% include figure.html
   class="img-left"
-  width="40"
+  width="49%"
   caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
   image-url="upcline-lingraph.jpg"
   source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
@@ -55,7 +57,7 @@ How is it important to the understanding of the philosophy of history?
 What is Linear view of History? 
 What is a cyclical View of History? 
 How has it changed? 
-I am going to take you on an adventure through time.During this adventure we are going to look at time and how perceptions of time have been influenced by outside factor and then how those perceptions of time changed and finally how it afects the study histroy. 
+
 
 Everything i have written does not matter because in ther end time is subjective. 
 
