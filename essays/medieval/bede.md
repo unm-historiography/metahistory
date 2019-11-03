@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bede
+title: Bede
 subtitle: The Venerable Bede, and his contributions to medieval and modern historiography
 date: 2019-11-03
 author: Eamon Bisbee
