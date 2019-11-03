@@ -11,7 +11,7 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
 
 {% include figure.html
   class="img-center"
-  width="45%"
+  width="56%"
   caption="Europe is so much more than just a continent. To _be_ European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be seen as _European_. This has greatly influenced who has been included in depictions of historical Europe."
   image-url="worldmap.jpg"
   source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
