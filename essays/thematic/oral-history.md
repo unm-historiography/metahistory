@@ -5,6 +5,7 @@ date: 2019-09-20
 ---
 ********
 Through this essay we will compare how oral history was perceived in the past and how attitudes toward the subject has changed because of the progress we have had in technology and the practice of writing oral history itself.  
+
 ********
 
 {% include figure.html
@@ -30,8 +31,16 @@ For centuries philosophers and historians have argued why oral history is not a 
 >“The issue of oral history is not the ‘stuff’ that comes out of the interviews, but how the interview is the inherent problem of the process from the beginning. ‘Taking notes on an interview,’ according to Tuchman, ‘is a crystallizing process…distinguishing the significant from the insignificant as you go along.’ The problem with the interview then is the interviewer’s tendency to not write down specifically what is said because the interview (recorder) does not see the significance of what the narrator (speaker) is saying.  Such conscious omission affects the historical process in such a way that it questions the legitimacy of the endeavor at its very base.  Not only can the interview omit what is not important as he/she sees it, but the interviewer also has the ability to create, from the narrator, a significance that was not intended.  Tuchman states that the interview ‘has the power to create, with words, an image that was once not there in the mind of the reader.’ That is to say, the interviewer, with sole access to the interviews transcription, can pick and chose the spoken word to fit an argument that may not have been the narrator’s intended purpose for such comments” (Mariner,61).
 
 What Mariner says is that the notes taken during an interview can be wrong based on the fact we, as interviewers, get to pick and choose what we think is insignificant, and what we may think as insignificant may not be insignificant to the person we are interviewing, and that makes the interview unreliable. The questions the interviewer asks could be worded in a way that makes the interviewee answer in swayed direction, and that makes the interview as a whole unreliable. Though, not only the interviewer could be bias, but the interviewee could be answering in ways that serve an alternative purpose as well. There is also the case of misremembrance. People telling their history will often forget or add to it making the whole truth unknown.
+{% include figure.html
+  class="img-center"
+  width="55%"
+  caption="Oral Tradition: Haudenosaunee Creation Story of Turtle Island"
+  image-url="creationstory.jpg"
+  source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
+  %}
 
- ### Oral History vs Oral Tradition
+
+### Oral History vs Oral Tradition
 
 {% include figure.html
   class="img-center"
