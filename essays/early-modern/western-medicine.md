@@ -8,10 +8,9 @@ date: 2019-11-04
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="rod of asclepius"
+  caption= "rod of asclepius"
   image-url="rod_of_asclepius.jpg"
-  source-url="https://gnosticwarrior.com/rod-of-asclepius.html"
-%}
+  source-url=https://gnosticwarrior.com/rod-of-asclepius.html%}
 
 ### Western Medicine and its’ Place in History ###
    
