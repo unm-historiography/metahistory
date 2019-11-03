@@ -12,14 +12,6 @@ date: 2019-10-20
   source-url="https://https://www.historytoday.com/archive/portrait-author-historian-fernand-braudel"
 %}
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Braudel's last major work..."
-  image-url="identity-of-france.jpg"
-  source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
-%}
-
 ## HIS LIFE
 
 ### Early Years
@@ -72,6 +64,10 @@ reference wife and her significance
 
 ### The Mediterranean
 
+### Capitalism
+
+### Methodology and Writing
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -79,9 +75,6 @@ reference wife and her significance
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
 %}
-
-### Capitalism
-
 {% include figure.html
   class="img-right"
   width="33%"
@@ -89,8 +82,13 @@ reference wife and her significance
   image-url="civ-cap-book.jpg"
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
-
-### Methodology and Writing
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Braudel's last major work..."
+  image-url="identity-of-france.jpg"
+  source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
+%}
 
 ## Abstract
 
