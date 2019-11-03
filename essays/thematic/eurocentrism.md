@@ -45,11 +45,12 @@ source-url="https://marketbusinessnews.com/financial-glossary/developing-country
 
 {% include figure.html
 class="img-left"
-width="52%"
+width="51%"
 caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism and capitalism (and exploitation), Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
 image-url="resourcecapitalism.jpg"
 source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
 %}
+
 
 One theory of why this view at last took hold in the twentieth century is due to what Chinese historian, Robert B. Marks, refers to as "the Gap" (Marks, 5). By the twentieth century, the economic gap between "first" and "third" world countries had become so severe and obvious that the direct and indirect effects of colonialism could no longer be denied or hidden. While countries with the highest populations, such as India and most African countries, had the lowest annual incomes and revenue, countries with much smaller populations, such as England or United States of America, earned the highest annual incomes and revenues. These distinct differences in quality of life caused many historians to retrace the past in order to understand why these gaps had occurred. As a result, terms like hegemony, anti-colonialism, and Eurocentrism made their way into mainstream discussions. Eurocentrism has expanded to include North America, today, and can also be called "Americentrism".
 
@@ -62,7 +63,7 @@ How did you learn about the history of Mexico and South America in your high sch
 By now you are probably well aware that the term "Indian" to refer to an indigenous American is not only inaccurate, but also inappropriate, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts. It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences.
 
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="63%"
   caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the 'source' link for an informative video on Eurocentrism's development."
   image-url="carvingeuro.jpg"
@@ -77,8 +78,8 @@ Finally, let's discuss Christopher Columbus. It is more popular of a discussion 
 One of the most overriding Eurocentric concepts which has impacted not only our views of "other" regions, but has actually impacted their real-world ability to participate in valued (meaning Western) economics, academia, and politics, is Progress. Western ideas of progression, meaning a _continuous_ improvement of building ideas and inventions over time, has effected countless regions and Eurocentric views of them as 'stagnant', 'immobile', or 'unproductive'. Essentially, when it comes to the 'progress' the West has made, it entirely rejects any historical contribution by non-European regions (Demir, 79). Have you taken the _required_ course "Western Civilization" yet? What does 'civilization' even mean? It's a European concept to describe aspects of European culture. So, any culture which defines progress differently, or not at all, is viewed as 'uncivilized' and, therefore, not part of European history.
 
 {% include figure.html
-  class="img-right"
-  width="51%"
+  class="img-center"
+  width="55%"
   caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
   image-url="scrambleforafrica.jpg"
   source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
