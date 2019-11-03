@@ -60,7 +60,7 @@ date: 2019-10-20
   source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
 %}
 
-## The Life of Fernand Braudel
+## HIS LIFE
 
 ### Early Years
 
@@ -73,7 +73,7 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 ### Professional Life
 reference wife and her significance
 
-## The Legacy of Fernand Braudel
+## HIS LEGACY
 
 ### The Mediterranean
 
