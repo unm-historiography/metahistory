@@ -21,7 +21,7 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
   image-url="declining-linegraph.jpg"
   source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
@@ -29,7 +29,7 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="50"
   caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
   image-url="upcline-lingraph.jpg"
   source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
