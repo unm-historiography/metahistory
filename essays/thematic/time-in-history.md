@@ -35,6 +35,9 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
   source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
 %}
 
+In a different perception of time, humans at the beginning were primitive beast but are on the incline as they acquire more knowledge through time. This can be seen especially in that of Judaism and Christianity. While man did start in a type of Golden Age in the Garden of Eden, humans since the fall are working their ways towards salvation. 
+
+
 
 
 
