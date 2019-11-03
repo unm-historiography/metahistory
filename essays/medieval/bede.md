@@ -25,7 +25,7 @@ However, this is not strictly the case. There were many medieval historians whos
 
 
 
-## Bede's popularization of the *Anno Domini* system of dating years
+## Bede's popularization of the *Anno Domini* system of dating
 
 
 ## Conclusion
