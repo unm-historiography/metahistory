@@ -4,7 +4,7 @@ author: Kate Reynolds
 date: 2019-10-21
 ---
 
-### Abstract
+#### Abstract
 
 I am going to take you on an adventure through time where you and I will look at the concept itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied, but you would not know it since, in historical practice today, there is an all-consuming linear view of history when that is not the only type of hisotry. There is also cyclical and unilinear. For the purpose of this paper, however, we will be focusing on linear and cyclical views of historical progress and why it is important in historiography.  
 
@@ -56,6 +56,11 @@ Cyclical history requires a dualism or polytheistic view or heavy importance on 
 
 Time tells us a lot about a culture and or civilization. Looking at polytheistic groups like that of the Egyptians, we can descreen they had a more cyclical view of time. Those who were monotheistic, therefore, had a linear view of time. Understanding what time says about a culture or society is important to histography. It can be used as a method to uncover some biased or inclination of one's view of themselves in time. Cycles may work for one type of history like that of political or economic while it may not work with things like religion, Cairns, puts this into perspective saying "there are cyclical patterns he admits in the rise and fall of great civilizations; nevertheless there has been linear progress on the whole in religion "(Cairns 279). 
 
+### Time of the Scholar vs. Time of the Ordinary Man  
+Historical the overall written account of histroy has come from the upper class like that of philosopher, scholars, and religiosu insitiutions. For the majority of acdemic scholarship history has been written by very few. This is important espically when it comes to perceptions of time and historical prgress. For acdemic scholarship time is linear becase of the non repeating of evidence. For the ordinanry man however he may feel that it is cyclica becase of the life that he or she lives. 
+
+
+“In ordinary oral or written communication, the reference either to past or to the future can be left to the understanding or imagination of the recipient” (Momigliano 6).  
 
 
 
