@@ -5,13 +5,13 @@ author: Matthew Nelson
 date: 2019-11-04 00:00:00
 ---
 
-#### The Black Ships
+### The Black Ships
 
-#### History in the Tokugawa Period
+### History in the Tokugawa Period
 
-#### The Restoration
+### The Restoration
 
-#### Fukuzawa Yuichi and Japanese Civilization
+### Fukuzawa Yuichi and Japanese Civilization
 {% include figure.html
   class="img-right"
   width="50%"
@@ -19,14 +19,14 @@ date: 2019-11-04 00:00:00
   image-url="fukuzawayukichi.jpg"
   source-url="https://en.wikipedia.org/wiki/Fukuzawa_Yukichi#/media/File:FukuzawaYukichi.jpg"
 %} 
-#### Continuity and Disruption
+### Continuity and Disruption
 
-#### The Founding of Historiographical Bureau
+### The Founding of Historiographical Bureau
 
-#### History and the State
+### History and the State
 
-#### Heroes of the Past
+### Heroes of the Past
 
-#### Japan on the World's Stage
+### Japan on the World's Stage
 
-#### A New Era
+### A New Era
