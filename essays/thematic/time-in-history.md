@@ -38,6 +38,20 @@ There are multiple perceptions of time throughout different cultures in history.
 
 According to Arnaldo Momigliano, Thucydides is whom we should attribute the cyclical view of history "(Momigliano 11). __Thucydides__ (460-400) was a Greek historian who wrote about the Peloponnesian war. Thucydides was under the belief that "there will be future events either identical or similar" to the ones he narrated (Momigliano 11). Nemesius, Bishop of Emesa, was under the belief that people would live the same life with the same friends. Stating the both Socrates and Plato would be once again (Whitrow 43). It is important to realize that not every Greek intellectual was under the belief that history was cyclical. Some believed that only politics or changing of political climate was cyclical, not history as a whole. The __Roman empire__ was one that believed they were timeless, believing that their empire was the peak of perfection. This changed with __Constantine__, making Christianity the main religion of the Roman empire. With there was a shift from cyclical history to linear history as Christianity took over. 
 
+The Greeks, Romans, and Egyptians were all under the belief that time began with a Golden age. The __Golden age__ was when God or Gods and man were close to one another. Until a time where something happened and disrupted the relationship between the two, and they were separated. In this form or perception of time, humans are on a __decline__ have started from the bottom but falling into a more primitive state of mind and society.
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
+  image-url="declining-linegraph.jpg"
+  source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
+%}
+
+
+
+
+
 
 
 Why __does__ this matter? 
