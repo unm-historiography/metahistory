@@ -62,11 +62,14 @@ Historically, the overall written account of history has come from the upper cla
 
 ### Past, Present, Furture
 
+The Greeks, Romans, and Jews put different emphasis on the the past, present, and future. 
+In *Essay in Ancient and Modern Historiography* Arnoldo M
+There was more concern with the future among Roman historians, and it expressed   itself in anxiety about the Roman empire." (Momigliano Essay in Historiography 193)
+
 
 ### Cyclical and Linear? Are they still in style
 
 Today the linear view of history is taught in school. There is an overall incline view of the direction in which history is moving, not one of dissension. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not be create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__. 
-
 {% include figure.html
   class="img-left"
   width="43%"
