@@ -99,8 +99,10 @@ Paul Kagame was indeniably involved in the delegation of military command connec
 The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website, for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all the victims. The main title states, "WE REMEMBER THE VICTIMS OF THE GENOCIDE AGAINST THE TUTSI AND WE TEACH ABOUT PEACE" 
 This example of partiality shows a direct pattern to historiagraphy of how history is studied, as well as how history and reality are not always the same. 
 
-### Genocide Denial
+### Genocide Denial 
 
+Genocide Denial in Rwanda is not the denial that genocide ever occurred, rather, it is the "assertion that the Rwandan genocide did not occur in the manner or to the extent described by scholarship." In an attempt to cover up the knowledge of secret information and criminal actions by government offcials involved in the genocide, the Rwandan government actively suppresses all public speech that contradicts what their official story is. Any person(s) caught speaking outside what is believed to be the true "history" is considered to be a genocide denier and is subject to incarceration. The article, "Denying Genocide or Denying Free Speech? A Case Study of the Application of Rwanda’s Genocide Denial Laws" examines the country's laws and attempts to "address a specific aspect of Rwanda’s oppressive political climate: the use of criminal prosecutions under the country’s genocide denial laws to restrict free expression." it is was determined after examination of the federal genocide denial laws that "Rwanda’s genocide denial laws
+fail to meet the requisite standard of precision under international law". I
 
 
 {% include figure.html
