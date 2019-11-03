@@ -14,14 +14,6 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-right"
-  width="66%"
-  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
-  image-url="lucien-febvre.png"
-  source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
-%}
-
-{% include figure.html
-  class="img-right"
   width="33%"
   caption="Braudel's reception in France and abroad..."
   image-url="braudel-reinventedhistory.jpg"
@@ -75,7 +67,17 @@ date: 2019-10-20
 ### Algiers and Brazil
 
 ### Febvre and the Annales School
+
+{% include figure.html
+  class="img-right"
+  width="66%"
+  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
+  image-url="lucien-febvre.png"
+  source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
+%}
+
 The Annales School  [archives](http://annales.ehess.fr/index.php?220)
+
 ### As a Prisoner of War
 
 ### Professional Life
