@@ -8,9 +8,27 @@ date: 2019-10-21
   class="img-right"
   width="33%"
   caption="Thucydides"
-  image-url=""
+  image-url="322px-Thucydides_pushkin02.jpg"
   source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
 %}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall "
+  image-url="322px-Thucydides_pushkin02.jpg"
+  source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Thucydides"
+  image-url="322px-Thucydides_pushkin02.jpg"
+  source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
+%}
+
+
 
 Abstract
 
@@ -20,7 +38,7 @@ Why does this matter?
 How is it important to the understanding of the philosophy of history? 
 What is Linear view of History? 
 What is a cyclical View of History? 
-
+How has it changed? 
 I am going to take you on an adventure through time.During this adventure we are going to look at time and how perceptions of time have been influenced by outside factor and then how those perceptions of time changed and finally how it afects the study histroy. 
 
 Everything i have written does not matter because in ther end time is subjective. 
