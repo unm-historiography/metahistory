@@ -14,7 +14,7 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="66%"
   caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
   image-url="lucien-febvre.png"
   source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
