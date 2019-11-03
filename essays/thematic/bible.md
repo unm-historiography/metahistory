@@ -1,5 +1,5 @@
 ---
-title: The Bible
+title: The Bible vs Science
 author: Ben Yocco
 date: 2019-10-20
 ---
