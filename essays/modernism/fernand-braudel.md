@@ -24,6 +24,14 @@ date: 2019-10-20
   class="img-right"
   width="33%"
   caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
+  image-url="braudel-reinvented.jpg"
+  source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
 %}
