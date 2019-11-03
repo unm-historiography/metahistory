@@ -44,7 +44,7 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
   image-url="maison-homme.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
