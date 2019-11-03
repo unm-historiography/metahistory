@@ -16,7 +16,7 @@ When we think about history we often think of folklore, and the stories that are
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="This is a reel to reel by Magnetophon, from a German radio station, who was the first to invent the reel to reel during World War II."
+  caption="This is a reel to reel by Magnetophon, from a German radio station, who was the first to invent the reel to reel during World War Two"
   image-url="1930reeltoreel.jpg"
   source-url="https://en.wikipedia.org/wiki/Magnetophon#/media/File:Ton_S.b,_tape_unit.jpg"
 
