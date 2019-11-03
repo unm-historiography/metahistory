@@ -16,7 +16,7 @@ During his time at Columbia, Dunning studied politics and philosophy under the d
 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="42%"
   caption="The term 'Jim Crow' orginated from black-faced minstrels who preformed various songs and acts for the amusment of white audiences. This image is a racist protrayal of black Americans that has been deliberately exaggerated for comedic appeal."
   image-url="Jimcrow.jpg"
@@ -27,7 +27,7 @@ Dunning was the first scholar to write down the narrative that Reconstruction wa
 
 {% include figure.html
   class="img-left"
-  width="42%"
+  width="52%"
   caption="Instances of segregation were common throughout America. The infamous ruling of Plessy v. Ferguson argued that segreation should be allowed only in instances that were 'seperate but equal'."
   image-url="1200px-_Colored__drinking_fountain_from_mid-20th_century_with_african-american_drinking.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/4/4a/%22Colored%22_drinking_fountain_from_mid-20th_century_with_african-american_drinking.jpg"
@@ -36,6 +36,14 @@ Dunning was the first scholar to write down the narrative that Reconstruction wa
 Throughout the many essays Dunning would publish till his death in 1922, Dunning was applauded for his incorporation of abundant primary source references as well as commended for the educational value and topical subject during a heightened time of race conflict. Considering the ruling of Plessy V. Ferguson had shaken race-based politics in 1896, Dunning’s writings worked to justify white supremacy and support Jim Crow practices of segregation. Dunning claimed that slavery was the only way the two races would live in harmony and that with the abolition of slavery, the nation was now in a state of confusion that could only be remedied by returning to a system that produced the same racial inequality as with slavery. Research Fellow at the University of Columbia, Tommy Song states, “ When discussing black Americans, Dunning’s scientific method lost relevance, or rather, lost necessity; the professor, now in his forties, believed racial inequality as natural, unworthy of supporting evidence since it was- and should be accepted as- an innate truism.”  
 
 What is unique about the case of William Archibald Dunning, was not his blatant racist views, but rather his “credibility” and large sphere of influence he emitted throughout his life. Unlike other racist scholars of the time, Dunning worked himself into a position of celebrity-like status through the combination of societal timing, topical subjects, hard work, writing skill, and charisma. He used the latest historical methods to provide validity to his work and thus, an air of credibility to himself and his thinking. The contextual timing of Dunning’s work was pertinent to his success as well: the south was arguably still recovering from their loss in the war and societal changes such as the 13th, 14th, and 15th Amendments brought massive strife to the country nationwide as America struggled to adjust to its new reality. Jim Crow culture shaped many white Americans attitudes towards their black counterparts, and black Americans struggled for basic rights under the ever-present threat of the KKK. 
+
+{% include figure.html
+  class="img-right"
+  width="42%"
+  caption="The cover page of Charles Darwin's 'On the Origins of Species'. A revolutionary work that fundamentally changed scientific perspectives. The ideas were also used to justfiy racism by providing supporters of scientific racism a level of 'credibility'."
+  image-url="800px-Origin_of_Species_1859_title_page.jpg"
+  source-url="https://upload.wikimedia.org/wikipedia/commons/b/b1/Origin_of_Species_1859_title_page.jpg"
+%}
 
 One of the leading rationalizations of Jim Crow and other discriminatory practices towards black Americans was the long-standing idea of Social Darwinism. Published in 1859, Charles Darwin’s book, On the Origins of Species, would come to destroy previous notions of transmutation and creationism science while also, foundationally setting precedent for evolutionary studies thereafter. Darwin used the animal kingdom to reach his important conclusions, but other scientists took Darwin’s concept and applied the same line of thinking towards human societies. The idea of science being able to prove racial inferiority did not originate from Darwin’s Origins, as scientific racism had long been an ongoing discussion but, Origins did provide a credible source of evidence for those looking to back up their racist claims. To many, there was undeniable proof of racial inferiority and through extension, an understanding that those with darker skin were to be enslaved. Backed by misinterpreting Darwin’s ideas of natural selection which, social scientists argued, favored white skin as desirable. Social Darwinism was particularly popular in the United States and England “because it supported policies and practices that both countries justified as congruent with their national interests.”
 
@@ -54,8 +62,8 @@ Dunning affected much of the historical community with his wide sphere of influe
 The Dunning school of thought can as such be classified as a predominant ideology that widely sweep through American historical scholarship between the 1890’s to 1950’s. It advocated for white supremacy, southern victimhood, and the “white” experience of slavery, the Civil War, and Reconstruction. Such a legacy would affect more than just its immediate audience: racist histories would influence public perception and media interpretation. No better of an example is D.W Griffith’s A Birth of a Nation which portrayed black Americans as rapists and monsters, and in turn, glorified the KKK as heroes against such horrors. A culture of racism and discrimination would also leak into interview responses as seen directly in the WPA narratives during the Great Depression. Such racism would skew the statistical results of the WPA narratives leading to the infamous account of Fogel and Engerman’s, Time on the Cross, whereby Fogel and Engerman would falsely conclude that slavery “must not be as iniquitous and brutal as formerly portrayed.”  At its core, the Dunning school of thought is a period of racist history which affected historical interpretation and methodologies. It backed social inequality by providing “scientific”, “sound”, and “empirical” research that supported segregation and discrimination. Furthermore, framework and methodologies found in the Dunning school of thought was far-reaching: influencing hundreds of historians in one form or another and receiving positive reviews from the public. When reflecting upon Reconstruction historiography, Revisionist historians label this era of historical scholarship: The Dunning Era.
 
 {% include figure.html
-  class="img-right"
-  width="42%"
+  class="img-left"
+  width="52%"
   caption="The March on Washington, 1963. The Civil Rights era worked towards un-doing much of the wrongs that had been commited against black Americans. They demanded equal rights on both a cultural and legal level. Rhetoric during this era influenced many Americans and that influence can be seen through the formation of historical Revisonists.  "
   image-url="March_on_washington_Aug_28_1963.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/7/7f/March_on_washington_Aug_28_1963.jpg"
