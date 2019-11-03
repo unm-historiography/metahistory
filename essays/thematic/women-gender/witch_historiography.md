@@ -16,3 +16,9 @@ date: 2019-11-03
 Over time witch hunts have been used to assimilate many social movements. This psycological phenomenon has provided understanding of how humans could use the judicial and overall governmental system for their own personal revenge. They also provide a deeper understanding into how religiously cetnered each country was. Those based less in intellect and more in faith saw more growth in the affects of the witch craze providing specific documents for later scholars to understand how each society was based.
 
 The questions I would like to answer are _why witches? how did their language and idealization change overtime? and why are they important to a current society?_ In american schools we cover the Salem witch trials glossing over other countries own witch hunts and the affect that the European front had on the world at large. 
+
+witches_baldung.jpg
+https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1
+
+witches_baldung_paper.jpg
+https://museumofwitchcraftandmagic.co.uk/object/witch-picture-57/
