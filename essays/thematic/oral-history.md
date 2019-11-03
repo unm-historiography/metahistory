@@ -11,6 +11,7 @@ date: 2019-09-20
   image-url="tedbundyposter.jpg"
   source-url="https://www.rottentomatoes.com/tv/conversations_with_a_killer_the_ted_bundy_tapes/s01//"
 %}
+
 When we think about history we often think of folklore, and the stories that are told are often ways people share their traditions and histories. In the past oral history has only been spoken and never really recorded until the technology developed. Today, Oral History has been made into new mediums for all people to have knowledge and access to, like the "*Ted Bundy Tapes*" on Netflix. Netflix has turned these tapes that only certain people had access to because of the technology they had available during the 70's and 80's. Today those tapes have been made into a documentary where people like us can listen to what the infamous serial killer, Ted Bundy, had to say. When we listened to these tapes and heard what Ted Bundy had to say we didn’t question if Bundy was lying or telling the truth in those interviews, but what we did know is that we were hearing Bundy tell his story the way he wanted to tell it. Are there problems with this and the fact we only heard his story the way he wanted us to remember it?
 
 {% include figure.html
@@ -28,6 +29,8 @@ In earlier debates historians and philosophers argued weather oral history could
 
 What Mariner says is that the notes taken during an interview can be wrong based on the fact we, as interviewers, get to pick and choose what we think is insignificant, and what we may think as insignificant may not be insignificant to the person we are interviewing, and that makes the interview unreliable. The questions the interviewer asks could be worded in a way that makes the interviewee answer in swayed direction, and that makes the interview as a whole unreliable. Though, not only the interviewer could be bias, but the interviewee could be answering in ways that serve an alternative purpose as well. There is also the case of misremembrance. People telling their history will often forget or add to it making the whole truth unknown.
 
+ ### Oral History vs. Oral Tradition
+
 {% include figure.html
   class="img-center"
   width="55%"
@@ -35,6 +38,6 @@ What Mariner says is that the notes taken during an interview can be wrong based
   image-url="creationstory.jpg"
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
   %}
- ### Oral History vs. Oral Tradition
+
 Past Philosophers and Historians thought of oral history as oral tradition. Now, there is a difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
 
