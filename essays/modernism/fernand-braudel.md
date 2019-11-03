@@ -26,6 +26,14 @@ date: 2019-10-20
 
 ### Algiers and Brazil
 
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Braudel got a position teaching in Algiers in the 1920s"
+  image-url="algiers-1920s.jpg"
+  source-url="https://www.hippostcard.com/listing/boulevard-de-la-republique-alger-algeria-africa-1910-1920s/17289145"
+%}
+
 ### Febvre and the Annales School
 
 {% include figure.html
