@@ -112,15 +112,17 @@ On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and preident of 
 
 #### 100 Day Massacre
 
-Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Any one who was confimred to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the countries cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100 day massacre, Tutsi civilian were indiscrimately targeted including men, women, and children.
-
 {% include figure.html
   class="img-right"
   width="50%"
   caption="Rwanda"
-  image-url="RWANDAGENOCIDE12.jpg"
+  image-url="RWANDAGENOCIDE4.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
+
+Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Any one who was confimred to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the countries cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100 day massacre, Tutsi civilian were indiscrimately targeted including men, women, and children.
+
+
 
 #### RPF Control
 
@@ -159,12 +161,11 @@ population of seven million, over half had been directly affected." -United Nati
 
 In November, 1994, the United Nations establsihed the International Criminal Tribunal for Rwanda. It's sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighbouring States, between 1 January 1994 and 31 December 1994". It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targetted criminals and made a direct effort to incarcerate the individuals that were responsible. 
 
-
 {% include figure.html
   class="img-right"
   width="50%"
   caption="Rwanda"
-  image-url="RWANDAGENOCIDE4.jpg"
+  image-url="RWANDAGENOCIDE12.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
