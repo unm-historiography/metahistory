@@ -6,7 +6,7 @@ date: 2019-10-21
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE14.jpg"
   source-url="https://fridaymagazine.ae/travel/destinations/in-rwanda-a-new-dawn-for-the-land-of-a-thousand-hills-1.2300540"
@@ -24,7 +24,7 @@ This essay will examine the official historical account of the genocide that occ
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE18.jpg"
   source-url="https://www.google.com/search?q=rwanda&rlz=1C1CHZL_enUS759US759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip4v2cq7LlAhUJbKwKHZMSDTEQ_AUIFCgD&biw=1536&bih=678#imgrc=FuEqgiJpnnuBcM:"
@@ -41,7 +41,7 @@ History often provides people with the perception of a true story, a story all t
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE15.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -56,7 +56,7 @@ The country of Rwanda is a beautiful place full of attractive landscapes, abunda
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -69,7 +69,7 @@ An estimation of approximately 1,000,000 casualties and 5,000,000 refugees have 
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE8.jpg"
   source-url="https://www.globalresearch.ca/commemorating-rwandan-genocide-senate-resolution-praise-blood/5675702"
@@ -83,7 +83,7 @@ In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to r
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE3.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -97,7 +97,7 @@ In 1988, a counter political party was formed called the **Rwandan Patriotic Fro
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE13.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -114,7 +114,7 @@ Following the assassination, the **National Republican Movement for Democracy an
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE12.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -147,7 +147,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE4.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -156,7 +156,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE5.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -165,7 +165,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE6.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -174,7 +174,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE7.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -183,7 +183,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE9.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -192,7 +192,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE10.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -201,7 +201,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE11.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -211,7 +211,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE16.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
@@ -220,7 +220,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE17.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
