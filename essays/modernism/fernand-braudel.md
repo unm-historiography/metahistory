@@ -15,14 +15,6 @@ date: 2019-10-20
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Braudel's reception in France and abroad..."
-  image-url="braudel-reinventedhistory.jpg"
-  source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
-%}
-
-{% include figure.html
-  class="img-right"
-  width="33%"
   caption="Braudel's last major work..."
   image-url="identity-of-france.jpg"
   source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
@@ -69,6 +61,14 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 reference wife and her significance
 
 ## HIS LEGACY
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Braudel's reception in France and abroad..."
+  image-url="braudel-reinventedhistory.jpg"
+  source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
+%}
 
 ### The Mediterranean
 
