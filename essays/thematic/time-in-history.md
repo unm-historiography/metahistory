@@ -27,7 +27,7 @@ date: 2019-10-21
   class="img-left"
   width="33%"
   caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
-  image-url="upcline-linegraph.jpg"
+  image-url="upcline-lingraph.jpg"
   source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
 %}
 
