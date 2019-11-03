@@ -60,12 +60,20 @@ Time tells us a lot about a culture and or civilization. Looking at polytheistic
 
 Historically, the overall written account of history has come from the upper class like that of philosophers, scholars, and from institutions like that of the church. For the majority of academic scholarship, history has been written by very few. This is important, especially when it comes to perceptions of time and historical progress. For academic scholarship, time is linear because of non-repeating events in the overall historical narrative. For the ordinary man, however, he may feel that it is cyclical because of the life that he or she live People who worked the lands were often under a cyclical view of time. Momigliano gives us a good perspective when talking about Plato; he states, " there is no reason to consider Plato's thoughts about time as typical of the ordinary Greek man" (8). When studying history, it is for this reason that we need to be aware of the different types of time that people are writing history. While some are writing under the impression that there is a repetition, others are writing under the impression that there is not. 
 
-Past, Present, Furture
+### Past, Present, Furture
 
 
 ### Cyclical and Linear? Are they still in style
 
 Today the linear view of history is taught in school. There is an overall incline view of the direction in which history is moving, not one of dissension. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not be create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__. 
+
+{% include figure.html
+  class="img-left"
+  width="43%"
+  caption="Rome Eternal"
+  image-url="rome-eternal.jpg"
+  source-url="https://www.youtube.com/watch?v=ADVZhVtXpsg"
+%}
 
 “In ordinary oral or written communication, the reference either to past or to the future can be left to the understanding or imagination of the recipient” (Momigliano 6).  
 
