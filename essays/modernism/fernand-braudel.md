@@ -33,6 +33,9 @@ Fernand Paul Braudel was born on August 24, 1902 in [Lumeville](https://www.goog
 
 ### Algeria and Brazil
 
+
+> “I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history.” (Braudel, 450)
+
 {% include figure.html
   class="img-right"
   width="49%"
@@ -49,7 +52,6 @@ Fernand Paul Braudel was born on August 24, 1902 in [Lumeville](https://www.goog
   source-url="https://pixels.com/featured/the-praca-da-se-in-sao-paulo-underwood-archives.html"
 %}
 
-> “I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history.” (Braudel, 450)
 
 Upon graduation, Braudel was assigned a position teaching history in Constantine, Algeria. As a man in his early twenties, Braudel delighted in the city, the Sahara, and in teaching, despite the fact that he was instructing his students “a superficial history of events…of happenings, of politics, of great men” (Braudel, 450). In the summers, when school was not in session, Braudel spent countless hours at the archives working on a thesis surrounding King Phillip II of Spain. Using an old film camera he purchased from an American cameraman, Braudel took upwards of 2,000 photos a day of documents in the archives, inadvertently becoming “the first user of microfilms” (Braudel, 452). This methodology alone changed the way professionals and novices alike do history, but that was only the beginning. His time in Algeria challenged his Eurocentric view of world and opened his eyes to influences on the other side of the Mediterranean. 
 
