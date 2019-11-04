@@ -12,6 +12,29 @@ image-url="stele_des_polybios.jpg"
 source-url="https://en.wikipedia.org/wiki/Polybius#/media/File:Stele_des_Polybios.jpg"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Question Mark with map of the world behind it symbolizing how confusing historiography is"
+  image-url="question-mark.jpg.svg"
+  source-url="https://commons.wikimedia.org/wiki/Question_mark#/media/File:Sin_mapa.svg"
+%}
+
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Ruins of the once great and powerful nation of Rome."
+  image-url="Foro_romano.jpg"
+  source-url="https://commons.wikimedia.org/wiki/Roma#/media/File:Foro_romano.jpg"
+  %}
+  
+  {% include figure.html
+class="img-left"
+width="50%"
+caption="Modern day copy of the Histories and what is left of it."
+image-url="Histories by Polybius.jpg"
+source-url="https://en.wikipedia.org/wiki/The_Histories_(Polybius)#/media/File:Polybius_1548.jpg"
+%}
 ## What is Historiography
 
 The study of history is essential in understanding how to interact with what is being taught. **Historiography** can be quite a daunting word, especially when professors and historians define it as " the critical assessment of how historians try to reconstruct past events from the statements they make about the past."  Though this explanation is used to found fancy and knowledgeable, it does not clear up any confusion. The more natural way of thinking about historiography is that it is the study of how people thought, wrote and perceived history. Through historiography is vastly different than a standard account, events don't matter but instead how people have received the knowledge. It's important to understand that *there is no right or wrong way* of thinking about history. This becomes more prevalent in the overall study of Historiography as new ideas about the study of history and 
