@@ -11,7 +11,15 @@ Throughout history there have been many philosophers who have taken their time t
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Niccolo Machiavelli (1469-1527)
+  caption="Niccolo Machiavelli (1469-1527)"
+  image-url="Machiavelli.jpg"
+  source-url="https://www.britannica.com/biography/Niccolo-Machiavelli"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption=""
   image-url="Machiavelli.jpg"
   source-url="https://www.britannica.com/biography/Niccolo-Machiavelli"
 %}
