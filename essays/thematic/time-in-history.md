@@ -10,7 +10,7 @@ I am going to take you on an adventure through time where you and I will look at
 
 ### History
 
-There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture and everyday life. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being. Time, however, was dualistic, there being two perceptions of time that were simultaneous with one another. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
+There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.The thw two perceptions of time wre simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 
 {% include figure.html
@@ -96,17 +96,6 @@ Do you think in academia, perceptions of history have changed, especially with t
 
 ### Bibliography
 
-Cairns, Grace E. Philosophies of History; Meeting of East and West in Cycle-Pattern Theories of History. New York, Philosophical Library [1962], 1962.
-
-Lemon, M. C. Philosophy of History: A Guide for Students. Routledge, 2003.
-
-Momigliano, Arnaldo. Essays in Ancient and Modern Historiography. Middletown, Conn. : Wesleyan University Press, 1977., 1977.
-
-Momigliano, Arnaldo. “Time in Ancient Historiography.” History and Theory 6 (1966): 1–23. https://doi.org/10.2307/2504249.
-
-Olsen, Glenn W. Supper at Emmaus. Washington, D.C.: Catholic University of America Press, 2016. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1429297&site=eds-live&scope=site.
-
-Whitrow, G. J. Time in History : The Evolution of Our General Awareness of Time and Temporal Perspective. Oxford [Oxfordshire] ; New York : Oxford University Press, 1988., 1988.
 
 
 
