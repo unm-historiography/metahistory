@@ -68,26 +68,23 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 
 ### Professional Life
 
-## Febvre and the Annales School
-
 {% include figure.html
   class="img-right"
-  width="66%"
+  width="48%"
   caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
   image-url="lucien-febvre.png"
   source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
 %}
 
-The Annales School  [archives](http://annales.ehess.fr/index.php?220)
-
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="48%"
   caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
   image-url="maison-homme.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
 %}
 
+The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 reference wife and her significance
 
 ## HIS LEGACY
