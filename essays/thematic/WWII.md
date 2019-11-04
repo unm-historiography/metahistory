@@ -8,7 +8,7 @@ date: 2019-10-16
   class="img-center"
   width="50"
   caption="Warsaw German Troops Parading"
-  image-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-001-0251-14,_Warschau,_Parade_deutscher_Truppen.jpg"
+  image-url="_Warschau,_Parade_deutscher_Truppen.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-001-0251-14,_Warschau,_Parade_deutscher_Truppen.jpg#metadata"
 %}
 
@@ -19,8 +19,8 @@ The purpose of this paper is to look at the various authors and source that disc
   class="img-center"
   width="100%"
   caption="MacArthur, Philippine President Sergio Osmena, Jr, and MacArthur's staff waded ashore on Leyte, October 20th, 1944, fulfilling MacArthur's promise to return to the Phillippines."
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  image-url="Douglas_MacArthur_Lands_Leeyte1.jpg"
+  source-url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Douglas_MacArthur_lands_Leyte1.jpg"
 %}
 
 Another book written by Chun is __LUZON 1945__.  The book is about the final liberation of the Philippines following the successfull capture of Leyte in November, 1944.  The forces used by the US during the Allied invasion and subsequent Luzon campaign was laregly an all-American Army show.  The US Sixth Army was the primary US force on Luzon with 5 infantry divisions (6th, 43rd, 25th, 37th, and 40th), three Regimental Combat Teams (63rd, 158th, and 108th), the 13th Armored Group, the 68th Antiaircraft Artillery Brigade, the 6th Ranger Battalion, and support elements.  The Japanese had 262 thousand men defending Luzon, but the Americans had the edge with superior equipment, training, tactics, and firepower.  An unsung Allied force that provided significant combat, reconnaissance, intelligence, scouting, and other support was the Filipino guerrilla movement.  One of General MacArthur's justifications for invading Luzon, instead of Formosa, was to rescue the many American and Filipino prisoners languishing in Japanese camps.  Since the fall of the Philippines in 1942, most American POWs had been shipped out of the Philippines and sent to labor camps in Japan, but large numbers remained.  The Allied planners feared that the Japanese would kill the prisoners rather than release them if American troops got close.  This was true on the Island of Palawan where 150 American POWs were herded into air raid shelters and burnt alive upon the news of MacArthur's invasion of the Philippines.  The POW camp at Cabanatuan was the first POW camp rescue during the campaign.  The raid was done by the 6th Ranger Battalion, and 286 Filipino guerrillas and they rescued 512 POWs for the loss of two rangers killed and one wounded.  It is considered to be one of the greatest rescue missions ever conduct in the history of the US military.
@@ -28,16 +28,16 @@ Another book written by Chun is __LUZON 1945__.  The book is about the final lib
   class="img-right"
   width="50%"
   caption="POWs on Carts"
-  image-url="https://commons.wikimedia.org/wiki/File:POWs_on_Carts.jpg"
+  image-url="POWs_on_Carts.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/a/a7/POWs_on_Carts.jpg"
 %}
 
-One major wrier in Osprey Publishing is Steven Zaloga.  Steven J. Zaloga received his BA in History from Union College and his MA from Columbia University. He is the author of numerous books on military technology and military history, with an accent on the US Army in WWII as well as Russia and the former Soviet Union.  6 of the 13 books discussed in this essay are written by him.  The first book discussed in this essay is __CHERBOURG 1944__.  It was the first Allied victory in Normandy following D-Day.  The US VII Crops was tasked with securing the Cotentin Peninsula and the port city of Cherbourg.  The German units were mainly coastal defense troops with a wide assortment of equipment.  The division at the center of Cherbourg's defense was the 709th Infantry Division, a static division used for occupational duties and coastal defense.  There were only two German Panzer (tank) units on the Cotentin Peninsula on D-Day, both replacement and training battalions (__Panzer-Ersatz-und-Ausbildung-Abteilungen), equipped mainly with war-booty French tanks of the 1940 campaign.  Panzer Replacement and Training Battalion 100 was equipped with 17 Renault R-35 light tanks, 8 Hotchkiss H-39 light tanks, one Somua S-35 medium tank, one Char B1 bis heavy tank, and one Panzer III J medium tank. Panzer Replacement and Training Battalion 206 was equipped with 20 Hotchkiss H-39s, ten Somua S-35s, two Renault R-35s, and six Char B1 Bis.  These French tanks had good armor protection by 1940 standards but were vulnerable to all typically US Army anti-tank weapons of the 1944 period.  There was also plenty of Russian Artillery guns but the fighting power of the Wehrmacht on the peninsula was hampered by lingering shortages of good quality troops.  General Marcks summed up his opinion during the Cherbourg maneuvers in 1944: "Emplacements without guns, ammunition depots without ammunition, minefields without mines, and a large number of men in uniform with hardly a soldier among them."
+One major wrier in Osprey Publishing is Steven Zaloga.  Steven J. Zaloga received his BA in History from Union College and his MA from Columbia University. He is the author of numerous books on military technology and military history, with an accent on the US Army in WWII as well as Russia and the former Soviet Union.  6 of the 13 books discussed in this essay are written by him.  The first book discussed in this essay is __CHERBOURG 1944__.  It was the first Allied victory in Normandy following D-Day.  The US VII Crops was tasked with securing the Cotentin Peninsula and the port city of Cherbourg.  The German units were mainly coastal defense troops with a wide assortment of equipment.  The division at the center of Cherbourg's defense was the 709th Infantry Division, a static division used for occupational duties and coastal defense.  There were only two German Panzer (tank) units on the Cotentin Peninsula on D-Day, both replacement and training battalions (__Panzer-Ersatz-und-Ausbildung-Abteilungen__), equipped mainly with war-booty French tanks of the 1940 campaign.  Panzer Replacement and Training Battalion 100 was equipped with 17 Renault R-35 light tanks, 8 Hotchkiss H-39 light tanks, one Somua S-35 medium tank, one Char B1 bis heavy tank, and one Panzer III J medium tank. Panzer Replacement and Training Battalion 206 was equipped with 20 Hotchkiss H-39s, ten Somua S-35s, two Renault R-35s, and six Char B1 Bis.  These French tanks had good armor protection by 1940 standards but were vulnerable to all typically US Army anti-tank weapons of the 1944 period.  There was also plenty of Russian Artillery guns but the fighting power of the Wehrmacht on the peninsula was hampered by lingering shortages of good quality troops.  General Marcks summed up his opinion during the Cherbourg maneuvers in 1944: "Emplacements without guns, ammunition depots without ammunition, minefields without mines, and a large number of men in uniform with hardly a soldier among them."
 {% include figure.html
   class="img-center"
   width="75%"
   caption="Map of German positions on Cotentin Peninsula, D-Day, 6 June 1944"
-  image-url="https://commons.wikimedia.org/wiki/File:Map10.jpg"
+  image-url="Map10.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map10.jpg"
 %}
 
