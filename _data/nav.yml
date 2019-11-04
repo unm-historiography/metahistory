@@ -5,8 +5,10 @@ nav:
         url: /loading-images.html
       - title: Code Samples
         url: /code.html
-      - title: New Page
-        url: /essays/new-folder/new-page
+      - title: Writing Guide
+        url: /writing-guide
+      - title: Site status
+        url: https://travis-ci.com/unm-historiography/intro-guide
 
   - section: Introductions
     subnav:
@@ -14,8 +16,6 @@ nav:
         url: /essays/introduction/introduction.html
       - title: What is this site?
         url: /index.html
-      - title: Site status
-        url: https://travis-ci.com/unm-historiography/intro-guide
 
   - section: Antiquity
     subnav:
