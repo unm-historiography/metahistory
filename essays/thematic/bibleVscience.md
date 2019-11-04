@@ -136,3 +136,20 @@ With all of that said there is no way that on earth science or the Bible can pro
 With everything that has transpired between Science and the Bible it is fair that think that they trust issues with each other, but moving forward it seems best to put the past behind them. To get the most out of this relationship it seems there to be a middle ground moving forward and the first step involves each side understanding their roles. “Of course, in their search for the truth science and religion are exploring different dimensions of the human encounter with reality. Science is concerned with impersonal encounter. This is a realm in which experience can be manipulated and repeated as often as desired…. The attempt to manipulate God and put God to the test is the sinful error of magic. It is in this rich and profound realm of personal and transpersonal experience that religion pursues its quest for truth.” (Polkinghorne, pg 158)
 
 In the end there seems to be grey area where both science and the Bible can not only coexist but thrive. “It shows that faith enables a deeper experience of reality, beyond the materialism of the modern worldview to a view that owns and reckons with all of the knowledge with which we have been endowed by both science and religious faith. It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
+
+### _BIBLIOGRAPHY_
+
+Ayala, Francisco J. “Evolution vs. Creationism.” Edited by Eugenie C. Scott. History and Philosophy of the Life Sciences 28, no. 1 (2006): 71–82.
+
+Goldberg, Steven. Seduced by Science: How American Religion Has Lost Its Way. New York, UNITED STATES: New York University Press, 1998. http://ebookcentral.proquest.com/lib/unm/detail.action?docID=865478.
+
+Harrison, Peter. The Bible, Protestantism, and the Rise of Natural Science. Cambridge; New York: Cambridge University Press, 1998. http://site.ebrary.com/id/10451801.
+
+Krattenmaker, Tom. “The Bible vs. science.” USA Today, 2007.
+
+
+Re Manning, Russell, and Michael Byrne. Science and Religion in the Twenty-First Century: The Boyle Lectures, 2013.
+
+Smiles, Vincent M. The Bible and Science: Longing for God in a Science-Dominated World. Collegeville, Minn.: Liturgical Press, 2011.
+
+Stump, J. B. Science and Christianity: An Introduction to the Issues, 2017.
