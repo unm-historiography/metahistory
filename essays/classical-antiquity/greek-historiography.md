@@ -3,6 +3,7 @@ layout: default
 title: Greek Historiography
 subtitle: The Foundation of Modern Historical Methodology
 author: Alex Nocella
+editor: Hannah Ibbotson
 date: 2016-11-08 00:00:00
 ---
 The interest in the study of history can be traced back to the Greeks as bards and poets traveled around the Mediterranean before knowledge was recorded.  Historical tradition in the ancient Greek world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons, mainly because most people were illiterate. Since there is so little left, it is hard to determine how people thought about their history. To determine how the early Greeks through about history, us historians must look at their concepts of **historiography**, or the history of history. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean (commonly referred to as Greeks) recorded “history” assumes the form of what we call today “epic poetry.”
