@@ -37,7 +37,7 @@ The Tokugawa's weak response to the aggresive trade demands of the United States
 
 ### The Founding of Historiographical Bureau
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="A 1888 portrait of the Meiji Emperor.  His full embrace of Western national identity are made clear not only by his wardrobe, but by his commissioning a European artist, Edoardo Chiossone, for the work. "
   image-url="meiji.jpg"
