@@ -16,7 +16,7 @@ Literary writing spans a broad spectrum ranging from Fiction (imaginative and/or
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="50%"
   caption=""
   image-url="fiction-narrative.png"
 %}
