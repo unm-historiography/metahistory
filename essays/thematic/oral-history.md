@@ -3,7 +3,8 @@ title: Oral History
 author: Karli Montoya
 date: 2019-09-20
 ---
->  Through this essay we will compare how the value of oral history has changed over time and how attitudes toward the subject has reformed because of the progress we have had in technology and how that has made oral history be more accessible to common people making oral history important to have so people can connect with history itself. 
+{:.abstract} 
+Through this essay we will compare how the value of oral history has changed over time and how attitudes toward the subject has reformed because of the progress we have had in technology and how that has made oral history be more accessible to common people making oral history important to have so people can connect with history itself. 
 
 ********
 >**Oral history plays an increasingly important role, for it bridges the gap between the media and academic communities. Its challenge is to augment the store of source materials with the voices of those who make our history, while maintaining the quality of excellence and historical integrity of our pro fession" (Perlis,619).** 
