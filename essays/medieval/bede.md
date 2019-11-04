@@ -9,7 +9,7 @@ author: Eamon Bisbee
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="The Venerable Bede, from The Last Chapter by James Doyle Penrose"
+  caption="The Venerable Bede, from The Last Chapter, c. 1902, by James Doyle Penrose. As can be seen in the vast diffrences between this and the other depictions of Bede, thre are no surviving, contemporary images of bede, and all depictions of him are thus figments of various artists' imaginations."
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}
@@ -28,6 +28,14 @@ Bede’s most well-known work was the [*Ecclesiastical History of the English Pe
 As a work of history, *Bede’s Ecclesiastical History of the English People* can be considered among the best examples of a medieval history, while displaying amny of the flaws inherent to the style, such as “regional bias, [Bede’s] academic partisanship, and the paucity of his sources” (Farmer, 23). Bede, who died before the unification of Anglo-Saxon England, was biased towards his own kingdom of Northumbria, and emphasizes events there at the expense of some of the other realms in Britain. That said, it is clearly written and, and was both widely admired and widely copied at the time of its writing. Some 150 years after it was written, the *Ecclesiastical History* was translated from its original Latin into Old English, in support of the educational efforts of King Alfred the Great. 
 
 The best examples of Bede’s historiographical contributions come from his Preface to the *Ecclesiastical History*. Here, he clearly states his sources, explicitly “in order to avoid any doubts in the mind… of any who may listen to or read this history, as to the accuracy of what I have written” (Ecclesiastical History, 41). Though he is not as critical as some later historiographer, such as Ranke, might have insisted on, by showing where he drew his information from, Bede allows later historians to do the work that he likely did not think to do, of analyzing those sources and determining whether the information they related was accurate. Some of Bede’s sources were narrative in form, and these are the least reliable. On the other hand, in the early chapters, Bede relies almost entirely on primary sources, letters to and from [Pope Gregory I]( https://en.wikipedia.org/wiki/Pope_Gregory_I) acquired from the papal archives in Rome by an associate of Bede’s, [Nothelm]( https://en.wikipedia.org/wiki/Nothhelm). The last major type of source Bede had access to were eyewitness accounts, at most secondhand, of some of the later events he described. These events, more recent in Bede’s own time, such as the Synod of Whitby, would have been described to Bede, either by fellow monks who had witnessed them, or who themselves had known the participants. In this sense, then they can almost be viewed as oral histories. 
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="The Venerable Bede, from the Nuremberg Chronicle, 1493. The fact that the Ebglish Bede is depicted in a German chronicle shows how widespread his works and influence was, even more than 750 years after his death "
+  image-url="Nuremberg_Chronicle_Venerable_Bede.jpg"
+  source-url="https://en.wikipedia.org/wiki/File:Nuremberg_Chronicle_Venerable_Bede.jpg"
+%}
 
 ## Bede's popularization of the *Anno Domini* system of dating
 
