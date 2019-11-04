@@ -32,7 +32,7 @@ The best examples of Bede’s historiographical contributions come from his Pref
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="The Venerable Bede, from the Nuremberg Chronicle, 1493. The fact that the Ebglish Bede is depicted in a German chronicle shows how widespread his works and influence was, even more than 750 years after his death "
+  caption="The Venerable Bede, from the Nuremberg Chronicle, 1493. The fact that the Ebglish Bede is depicted in a German chronicle shows how widespread his works and influence was, even more than 750 years after his death."
   image-url="Nuremberg_Chronicle_Venerable_Bede.jpg"
   source-url="https://en.wikipedia.org/wiki/File:Nuremberg_Chronicle_Venerable_Bede.jpg"
 %}
