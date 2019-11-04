@@ -68,6 +68,9 @@ In recent years, the attitudes toward oral history has changed because of the de
   Oral history has helped shape the way we look at history, so we now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today. With the development of oral history we reccognize the difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
 With the acceptance of Oral History as a type of history we can see historians having more value in it. We can see this with the inclusion of oral histories in museums have become more common. It wasn’t that oral histories were never used in museums before, but oral histories were more looked as part of the exhibit than the main event. It wasn’t till later that oral histories were recognized to give people more personal encounters with the exhibit. When historians are incorporating oral histories into an exhibit it must have the full oral testimony, encourage visitors to remember their own past, and also allow visitors give their own memories and responses (Green,59).
 
-## Why should you want to be a Oral Historian?
+## Your Job as a Oral Historian
+
+As an oral historian you will preserve History for new generations and allow the future generation to hear what stories people have to tell in their own words and their knowledge of what happened. As you preserve these people who had a voice long before their own death their voice will continue to be heard in the future. As a future Oral historian it is your job to fill in the gaps of history and make sure the truth is told to the best of your ability without complicating the story with bias. 
+
 
 
