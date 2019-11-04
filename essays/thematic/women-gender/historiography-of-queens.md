@@ -23,7 +23,17 @@ Each has a structure representative of the historical methodologies and philosop
 ### A Post-Renaissance, Pre-Enlightenment Elizabeth ###
 The first source, also the oldest, is *Observations and remarks upon the lives and reigns of King Henry VIII. King Edward VI. Queen Mary I. Queen Elizabeth, and King James I.*, written in 1712 at the latest by an unnamed author. This work is part of a larger history of England, potentially intended for the use of King Charles II. It was written just before, or at most during the very beginning of, the Enlightenment Era. This era was significant to historiography because of its emphasis towards progress and idealism, described in more detail [here](https://unm-historiography.github.io/intro-guide/essays/enlightenment/enlightenment-historiography.html). However, Renaissance historians were more influenced by religion than their Enlightenment counterparts, but did subscribe to the idea that [tangible human causes](https://unm-historiography.github.io/intro-guide/essays/early-modern/renaissance-historiography.html) were at work in the story of history.
 
-The structure of this work is certainly not recognizable to modern historians. Firstly, there are no sources cited, merely a mention of their existence at the beginning: (picture here of the cover, which reads "Collected from Publick HISTORIES and Private MEMOIRS"). Elizabeth's chapter begins with her heritage, her childhood, and her claim to the throne, all in short order. It then describes her conflict with her sister and predecessor, Queen Mary, culminating in her coronation at the age of 26. It is here that we can again see the difference with which historians approached their histories:
+The structure of this work is certainly not recognizable to modern historians. Firstly, there are no sources cited, merely a mention of their existence at the beginning: 
+
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="A segment of the book *Observations and remarks upon the lives and reigns of King Henry VIII. King Edward VI. Queen Mary I. Queen Elizabeth, and King James I.*, written in 1712. The description reads 'with particular characters, after the earl of *Clarendon*'s method, of all their FAVOURITES; and the most *Eminent* and *Illustrious* persons both in Church and State, that flourish'd in *England* during those Reigns. Collected from Pulick HISTORIES and private MEMOIRS."
+  image-url="Screen Shot 2019-11-04 at 9.23.40 AM.png"
+  source-url="https://gdc.gale.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?displayGroupName=DVI-Monographs&disableHighlighting=&dviSelectedPage=&query=&prodId=&docIndex=&search_within_results=&p=ECCO&catId=&limiter=&display-query=&displayGroups=&contentModules=&action=2&documentId=GALE%7CCB0129806110&sortBy=&activityType=BasicSearch&commentary=&source=Bookmark&u=albu78484&jsid=9d46a36c5048a0bf432800989b1ae106"
+%}
+
+Elizabeth's chapter begins with her heritage, her childhood, and her claim to the throne, all in short order. It then describes her conflict with her sister and predecessor, Queen Mary, culminating in her coronation at the age of 26. It is here that we can again see the difference with which historians approached their histories:
 
 > ...*Fortune* finding, that her time  of Servitude Expir'd  at her *Sister*'s death, she put a *Scepter* in her Hand, and a *Crown* upon her Head, as a Reward of her Patience. This happen'd in the 26th year of her Age, a time in which with respect to her External Endowments she was full Blown, and for *Internal* Qualifications, she was grown Ripe, and  *Season'd* with *Adversity*...
 
