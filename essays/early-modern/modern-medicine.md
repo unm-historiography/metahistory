@@ -6,7 +6,7 @@ date: 2019-11-04
   
   ## Abstract ##
 
-  This essay will cover the historiographical elements of Westernized Medicine. From its origins and what constituted medicine, to how medicine and medical practices have evolved into today’s standards of Western Medical practices. This essay will cover how our working definition of medicine and its’ applications came about, as well as how we have preserved those practices through historical evidence. It will explore what types of historical evidence are used today and what has been used in the past as well as explore who were/are the dominant figures and contributors to the historiography of Western medicine. Finally, this essay will focus on **how has the way that we talk about the history of Western medicine changed? Why is studying the history of Western Medicine important? and, What has having the knowledge that we have acquired about medicine helped shape our society?** 
+This essay will cover the historiographical elements of Westernized Medicine. From its origins and what constituted medicine, to how medicine and medical practices have evolved into today’s standards of Western Medical practices. This essay will cover how our working definition of medicine and its’ applications came about, as well as how we have preserved those practices through historical evidence. It will explore what types of historical evidence are used today and what has been used in the past as well as explore who were/are the dominant figures and contributors to the historiography of Western medicine. Finally, this essay will focus on **how has the way that we talk about the history of Western medicine changed? Why is studying the history of Western Medicine important? and, What has having the knowledge that we have acquired about medicine helped shape our society?** 
 
 {% include figure.html
   class="img-right"
@@ -50,5 +50,24 @@ There is one specific name that almost universally gets associated with medicine
 ## Why Does all of This Matter? ##
 
 In the beginning, we talked about the various forms of medicine that existed before the concept of medicine and how it is recorded within the realms of how we record history itself even existed. We then got to see how our origins in medicine began with the intersectionality of the **natural world** and the **supernatural world**. How we interpreted what was happening within our bodies and what practices were engaged to heal our bodies. Finally, we looked at the **Egyptians** and the **Greeks** and their contributions to what we see as **modern Western views of Medicine**. Although both made great strides in this field, it is important what we take away from these views of History. Yes, the Greek and Egyptian civilizations are important to look at when we view history through an **Analytical** lens, i.e. the **sources** they produced and **methodologies** they upheld. But what we must keep in mind is this is not the only view we can have when considering medical practices on a global scale. As we touched on briefly, healers such as **medicine men**, **curanderos**, **shaman**, etc. are still very much in existence today and even though they are greatly outnumbered by medical doctors and physicians, practice medicine in the same way, and that is whatever is in the best interest of the people that they are trying to help or heal. Adding further to this point, just because ‘**holistic**’ medical practices such as the aforementioned healers are not considered as being a part of modern medical practices and instead categorized as **alternative medicine**, does that make them any less relevant or practical? And who gets to decide what is considered to be universally practical medicine? What we take away from history and what it has to show us both in evidence and methodologies is always up for interpretation, and medical historiography is no exception to that. 
+
+**Sources**
+
+Brazier, Yvette. “Prehistoric Medicine: Research, Disease Prevention, and Medications.” Edited by Daniel Murrell, Medical News Today, MediLexicon International, 1 Nov. 2018, https://www.medicalnewstoday.com/articles/323556.php.
+
+
+Smith, Wesley D. “Hippocrates.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., 24 May 2019, https://www.britannica.com/biography/Hippocrates.
+
+The Editors of Encyclopaedia Britannica, and Grace Young. “Edwin Smith Papyrus.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., 17 Mar. 2016, https://www.britannica.com/topic/Edwin-Smith-papyrus.
+
+
+Cartwright, Mark. “Ancient Greek Medicine.” Ancient History Encyclopedia, Ancient History Encyclopedia, 11 Apr. 2018, https://www.ancient.eu/Greek_Medicine/.
+
+
+Mark, Joshua J. “Imhotep.” Ancient History Encyclopedia, Ancient History Encyclopedia, 16 Feb. 2016, https://www.ancient.eu/imhotep/.
+
+Jouanna, Jacques, et al. Greek Medicine from Hippocrates to Galen. [Electronic Resource] : Selected Papers. Brill, 2012. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=cat06111a&AN=unm.EBC999437&site=eds-live&scope=site.
+
+
 
 
