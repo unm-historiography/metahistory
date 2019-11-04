@@ -12,6 +12,8 @@ date: 2019-10-20
   source-url="https://https://www.historytoday.com/archive/portrait-author-historian-fernand-braudel"
 %}
 
+Fernand Paul Braudel was many things. One of them was a historian who rejected the significance of individual people and events. He worked for more than fifty years advocating history “based on a consideration of physical and material constraints, one in which the individual was subsumed by the environment” (Hufton, 209). What would he think of someone writing his story, searching for meaning in the course of his years instead of in the landscapes he inhabited? How should I honor his life and remember his work in the face of such irony? Here goes—honestly, self-reflexively, and with a wry nod to the absurdity of this conundrum.   
+
 ## HIS LIFE
 
 ### Early Years
