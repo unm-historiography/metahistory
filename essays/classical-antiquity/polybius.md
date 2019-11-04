@@ -5,15 +5,6 @@ date: 2019-10-19
 ---
 
 {% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Mesa Vista Hall"
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
-%}
-
-
-{% include figure.html
 class="img-left"
 width="50%"
 caption="Stella of Polybious made out of stone."
@@ -34,4 +25,41 @@ While Polybius was held captive in Rome, he wrote his book *Histories*, which en
 ## Rome: The Champion of the Cycle
 With Rome rising on top as the main power of the Mediterranian, many philosophers tried to explain their success and how others failed. The concept of a cycliclar thought through political means had not been a new concept by the time Polybius stepped forward with his versions of it. Though their other historians only stuck to a **three-part cycle,** Polybius instead expanded on other ideas leading to his **six-part cycle.** These cycles were social, political while also following a biological period in which a civilization went through the cycles of birth, flowing, degeneration, death, and renewal. However, Polybius’s ideas there unique as each part of the period had *both a pristine and corrupt version.* He believes that every city-state experience the cycle in which one state begins eventually becomes corrupt, and then is over the throne by the next one. His sequence goes as follows: *Monarchy, Tyranny, Aristocracy, Oligarchy, Democracy, Ochlocracy.* It is then that Monarchy takes over control once again, and then the cycle starts itself over again. Though Polybius himself said that is was nearly impossible that any city-state was able to get out of this trend, Rome was able to do it. 
 
+## The Champion of Cycles
+
+Many Hellenistic philosophers played with the idea of a natural cyclical tend the encompassed the Mediterranean powers allowing them to explain the rise and fall of empires throughout history. Yet it was Polybius who suggested that Rome had managed to get knocked out of the cycle and become the supreme power of the time. Polybius attributes this success **to two main characteristics; their political and military achievements.** From the military results, he believed that by conquering other city-states in various stages of the cycle, they were able to find the faults and strengths within each political system and adapt accordingly. Polybius attributes most of Romes success to their unique form of government and their constitution
+
+## Mixed Constitution
+
+Polybius explains that the Roman Republic’s political system was a c*ombination of Monarchic, Aristocratic, and democratic* and that it was this mixed political system that saved them from the fate of the political cycle. Other philosophers came to this same conclusion during Polybius’s lifetime; however, he believed that is because of the juridical capabilities within this political system and not the mixture of the system itself. 
+
+## Who Gets to Write History
+
+Through the *Histories*, Polybius voices his opinion on who he believes should be writing about history as well as how it should be written for later audiences. He believes that anyone who writes history should have political education and first-hand experience about the topic. His opinion corresponds with the type of writings of the period, which was heavily militarized. Thus the reasons for political education. He also believes that history should be just the facts which would then come from one’s personal experience or eyewitnesses though this essay goes into further details about this later. Polybius, during his reviews of other historians, often criticize them for lack of political and military knowledge. 
+
+> “the soundest education and training for a life of active politics is
+> the study of history, and that the most vivid, indeed only, teacher of
+> how to bear the vicissitudes of fortune bravely is the recollection of
+> other people’s calami-ties.”
+
+ This opinion corresponds to the rising belief of this time about the benefits of pragmatic history. Though Polybius never defines practical history within his book, other philosophers had used the concept. Through the collective works at the time, a simple definition would entail the telling of the tale through political and military events as praxeis meant deeds. This mode of writing would make sense as the audience for these works would be reserved for privileged and powerful citizens who were often ended up within political or military roles. 
+
+## Universal History
+
+With Rome now conquering every power it can reach, Polybius suggested that it was now possible to write a universal history. He expresses his view by saying: “ anyone who thinks that they can understand the whole of history by reading monographs on individual subjects is like the person who thinks he can appreci-ate the beauty and grace of a live animal from looking at the differ-ent parts of its dissected corpse” He believed that partial history or case studies did not contribute at all to the learning of history as these did not help to explain the rest of the world further. “
+
+>   It is only by the interweaving and comparison of all the parts with
+> each other that noting their resemblances and differences, we reach a
+> stage where we are able to do a general review and thus derive both
+> benefit and pleasure from history.”
+
+Throughout the *Histories*, Polybius expresses his hatred for monographs, the detailed study of a single subject or event. This is because he believes that the historian would never be able to understand the world as a whole through these means. Through these universal histories, he explained political entities, events, and the geography and used this to explain how actions within one city-state would affect others. This new theory of history might have been thought about as Greek City-states were declining under the power of Rome as they were spreading their influence across the world. It was through his work of universal histories that he hoped to achieve a way to explain how the land was conquered by the Romans by describing the events that lead to the weakening of the city-state.
+
+>  “In earlier times the world’s history had consisted, so to speak, of
+> a series of unrelated episodes, the origins and results of each being
+> as widely separated as their localities, but from this point [the
+> 140th Olympiad: 220–216 BC] onwards, history becomes an organic whole
+> [somatoeides]: the affairs of Italy and Africa are connected with
+> [inter-linked with – symplekesthai] those of Asia and Greece, and all
+> events bear a relationship and contribute to a single end.”
 
