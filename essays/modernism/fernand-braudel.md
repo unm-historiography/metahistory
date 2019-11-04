@@ -111,6 +111,8 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
 
 ### The Mediterranean
 
+What began as a thesis on the life of King Phillip II of Spain ultimately became a thousand plus page discussion on the history of the Mediterranean using a “tripartite notion on which common time was set on one side” (Hufton, 112) so that the long duration effects of geography, climate, and sociology came to the forefront. The Braudelian perspective of time centered around the idea that all historical events could be examined in distinct time scales: the longue duree, the moyenne duree, and the courte duree. “The longue duree, virtually boundless time, perhaps extending over centuries of common time during which the parameters of human existence were unchanged” (Hufton, 112) was the most influential scale according to Braudel. The moyenne duree relates to “anything in common time perhaps from fifty years to a century” (Hufton, 112) where shifts in trade cycles or urban development are witnessed, for example. Finally, the courte duree refers to “phenomena such as abnormal harvests or short industrial slumps or temporary dislocation which might…be the product of war, occupation, etc.” (Hufton, 112). In the case of *The Mediterranean*, Braudel tells the story of life during the era of King Phillip from all of these time scales to “teach how, in the lands around the ever-changing and never-changing sea, time and space, history and geography together shaped one coherent past, present, and future” (Marino, 649). His emphasis on the longue duree devalued individual people and events, drawing some criticism from his contemporaries who focused largely on political history and biography. 
+
 ### Capitalism
 
 ### Methodology and Writing
