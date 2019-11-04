@@ -95,7 +95,7 @@ But what does a book of this nature, written mostly by women and very little abo
 
 >“The attentiveness and proximity to the Queen of Robert Dudley, partly from his duties as Master of the Horse, led to scandalmongering about the real purpose of Elizabeth’s frequent progresses. In Ipswich, a citizen claimed that Elizabeth ‘looked like one lately come out of childbed’; about her progress in 1564, ‘Some say that she is pregnant and is going away to lie in.’ Another rumor asserted that ‘Lord Robert hath had fyve children by the Quene, and she never goeth in progress but to be delivered.’ Such rumors present an unsurprising slander of a Queen who loved travel, men, and power” (42-43).
 
-So much of this book avoids the more scandalous side of writing history, but to be fair, it's hard to avoid such a juicy topic. However, this piece at least takes a less condescending approach: rather than comparing Elizabeth to a young, impressionable woman, these authors compare her to Kings.
+So much of this book avoids the more scandalous side of writing history, but to be fair, it's hard to avoid such a juicy topic. However, this piece at least takes a less condescending approach: rather than comparing Elizabeth to a young, impressionable woman, these authors compare her to Kings. 
 
 
 ### So what does this all mean?  ###
