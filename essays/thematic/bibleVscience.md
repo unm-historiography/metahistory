@@ -50,3 +50,6 @@ It was this strong connection to the natural world and the emphasis on God’s c
 
 ### The never ending war
 
+The developments of science led to advances and a wealth of knowledge about the world that we live in. This was highlighted by the **Darwin’s theory of evolution**. Darwin’s theory was the start of science’s direct challenge to the Bible’s account of God being the ultimate creator of the world. The challenge sparked a war between an unmovable object and an unstoppable force. Science and the Bible go head to head in a battle that is still being fought to this very day. 
+
+When we talk about **Darwin’s theory of evolution** it is key to know that there are plenty on both sides of the fence that have problems with the part that humans evolved from monkeys, so that doesn’t factor in this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans and many species of animals have changed/evolved over time, there is no possible way anyone can dispute that. The challenge that has the Bible and science at each others throat is the _big bang against creation_. 
