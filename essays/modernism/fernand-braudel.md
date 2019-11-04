@@ -56,6 +56,7 @@ Another significant result of Braudel’s time in Brazil was his introduction to
   source-url="https://pixels.com/featured/the-praca-da-se-in-sao-paulo-underwood-archives.html"
 %}
 
+
 ### As a Prisoner of War
 
 > “Had it not been for my imprisonment, I would surely have written quite a different book. For prison can be a good school. It teaches patience, tolerance.” (Braudel, 453)
