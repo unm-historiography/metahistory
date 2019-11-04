@@ -23,7 +23,9 @@ However, this is not strictly the case. There were many medieval historians whos
 
 ## *The Ecclesiastical History of the English People* and its methodology and influences
 
-Bede’s most well-known work was the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People). This seminal work, completed just around 731, just a few years before Bede’s death, displays the advanced methodology that Bede is renowned for. 
+Bede’s most well-known work was the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People). This seminal work, completed just around 731, just a few years before Bede’s death, displays the advanced methodology that Bede is renowned for. It is admittedly flawed by modern standards, and it is not as groundbreaking as later author's and their works would be, but for its time, it remarkable.
+
+As a work of history, *Bede’s Ecclesiastical History of the English People* can be considered among the best examples of a medieval history, while displaying amny of the flaws inherent to the style, such as “regional bias, [Bede’s] academic partisanship, and the paucity of his sources” (Farmer, 23). That said, it is easily read, and was both widely admired and widely copied at the time of its writing. Some 150 years after it was written, the *Ecclesiastical History* was translated from its original Latin into Old English, in support of the educational efforts of King Alfred the Great. 
 
 ## Bede's popularization of the *Anno Domini* system of dating
 
