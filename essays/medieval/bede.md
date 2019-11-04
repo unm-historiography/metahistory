@@ -57,6 +57,13 @@ It’s worth noting here that the *anno Domini* system itself is just as reliant
 
 It is difficult for modern readers to understand how important Bede’s championing of *anno Domini* and its ensuing well-nigh universal adoption is to the study of history, let alone to the pragmatic concerns of everyday life in the modern world. Prior to Bede, most countries and chronicles used their own systems of dating, counting years from the founding of a dynasty or else according to how long the current ruler had reigned. Thus, different accounts of the same events would place them in different years according to where each document was written, leading to dizzying confusion for modern readers. Indeed, for many historical events in the early modern period, precise dates are scarce. The historical profession cannot overstate its gratitude to Bede for expanding the use of a universal system of numbering years, first in the Christian world, and later used across the globe.   
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="A page from a manuscript of Bede's treatise *De natura rerum* (On the nature of Things). Originally written in 703, this page is from a copy made in the 12th century."
+  image-url="De_natura_rerum_Beda.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:De_natura_rerum_Beda.jpg"
+%}
 
 ## Conclusion
 
