@@ -101,6 +101,8 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
 
 ## HIS LEGACY
 
+> "In his very person he became a living legend, the incarnation of the historical energies of two, if not three, generations of historians, and a dynamic creative force." -Olwen Hufton
+
 {% include figure.html
   class="img-right"
   width="33%"
