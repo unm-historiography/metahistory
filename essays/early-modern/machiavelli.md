@@ -60,15 +60,13 @@ Machiavelli’s final and most important philosophy is the concept of fortune. D
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}
 
+To many people they believe that fortune controls everything, and if that’s the case we as people would have no need to apply action to change the outcome. But what Machiavelli is stating with this analogy is that the other half is controlled by free will. The rivers may rise and destroy everything in their way but when their calm we can prevent and control the river by building dams and dikes. Every person has that ability to disrupt fortune and create a better future. McRoberts gives a great sum up of The Prince by saying, “While Machiavelli restricts himself to the praise of princes through his writing, he opens the door to making each person’s life meaningful through a healthy perspective of trials and the encouragement to be brave against anything that Fortune may bring. For not all men can prepare to conquer the world, but no one need be deprived of the ability to conquer opportunity.” (p. 11, McRoberts)
 
 
 
 
 
-
-“While Machiavelli restricts himself to the praise of princes through his writing, he opens the door to making each person’s life meaningful through a healthy perspective of trials and the encouragement to be brave against anything that Fortune may bring. For not all men can prepare to conquer the world, but no one need be deprived of the ability to conquer opportunity.” (p. 11, McRoberts)  
-
- “I conclude, therefore, that as fortune is changeable whereas men are obstinate in their ways, men prosper so long as fortune and policy are in accord, and when there is a clash they fail. I hold strongly to this : that it is better to be impetuous then circumspect; because fortune is a woman and if she is to be submissive it is necessary to beat and coerce her.” (p.133, The Prince) 
+ 
 
 
 
