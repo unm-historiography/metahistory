@@ -4,7 +4,7 @@ author: Nicholas Arellano
 date: 2019-11-4
 ---
 
-# Machiavelli – The Truth and Importance of his Philosophy  
+## Machiavelli – The Truth and Importance of his Philosophy  
 
 Throughout history there have been many philosophers who have taken their time to shape and question the regular normality of the world around them, and the ways we as humans record and create history. Historiography, or the “history of history”, grows as a subject due to the great writers, philosophers, leaders, politicians, and thinkers throughout history. Niccolò Machiavelli, (1469-1527) is known to have an enormous influence on many writers following him, such as Descartes, Hobbes, Locke, Rousseau, Hume, Smith, Montesquieu, Hegel, and Marx. Much of his words echo in their writings but for even the few who disagree with his philosophy, they still acknowledge we must engage in his works to challenge and build from. Machiavelli, “was a mediating figure in Florentine historiography, a native Florentine and republican, he was also a secretary, commissioned historian, and man of letters.” (p. 95, Phillips), some of his greatest works titled The Prince (1532) and Discourses on Livy (1531) which were published after his death, Intel most of his deep thoughts and opinions on the way we must view history. In his writings “Torture, cruelty, calculated inflicted, assassinations, lying, the breaking of promises, utter ruthlessness, and moral hypocrisy are all legitimate instruments of statecraft for Machiavelli.” (p.93, Lemon) When reviewing his work from others there is not one person who fully accepted his philosophy as the one truth. Many philosophers question his intentions, the context of his teaching and works, his sincerity, and piety. But none say his impact on historiography and philosophy are unnecessary to telling the history of history. 
 
@@ -37,10 +37,10 @@ As stated before one of Machiavelli’s greatest works which was published after
 
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="50%"
   caption="Machiavelli's The Prince (1532)"
-  image-url="The Prince Machiavelli.png"
-  source-url="https://komarketing.com/blog/8-things-competitors-twitter-profiles/"
+  image-url="prince.jpg"
+  source-url="https://www.amazon.com/dp/B07VMZ5FYG"
   %}
 
 ## Human Nature 
