@@ -24,7 +24,7 @@ date: 2019-10-20
   source-url="https://gw.geneanet.org/jpbov55?lang=en&n=braudel&oc=0&p=fernand+paul+achille"
 %}
 
-### Algiers and Brazil
+### Algeria and Brazil
 
 {% include figure.html
   class="img-right"
@@ -35,23 +35,11 @@ date: 2019-10-20
 %}
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="49%"
   caption="Brazil inspired a new perspective of the influence of the Mediterranean from the other side of the Atlantic."
   image-url="brazil-1920s.jpg"
   source-url="https://pixels.com/featured/the-praca-da-se-in-sao-paulo-underwood-archives.html"
 %}
-
-### Febvre and the Annales School
-
-{% include figure.html
-  class="img-right"
-  width="66%"
-  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
-  image-url="lucien-febvre.png"
-  source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
-%}
-
-The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 
 ### As a Prisoner of War
 
@@ -64,6 +52,18 @@ The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 %}
 
 ### Professional Life
+
+## Febvre and the Annales School
+
+{% include figure.html
+  class="img-right"
+  width="66%"
+  caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
+  image-url="lucien-febvre.png"
+  source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
+%}
+
+The Annales School  [archives](http://annales.ehess.fr/index.php?220)
 
 {% include figure.html
   class="img-right"
