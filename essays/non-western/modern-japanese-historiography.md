@@ -34,12 +34,14 @@ The writing of history was no exception.  While the output may have increased, t
   source-url="https://en.wikipedia.org/wiki/Fukuzawa_Yukichi#/media/File:FukuzawaYukichi.jpg"
 %} 
 
-### Continuity and Disruption
-
-
-
-
 ### The Founding of Historiographical Bureau
+In 1869, at the beginning of the Restoration, the following Imperial rescript was posted:
+
+>Historiography is a for ever immortal state ritual (taiten) and a wonderful act of our ancestors. But after the Six National Histories it was interrupted and no longer continued.  It is not a great lack! Now the evil of misrule by the warriors since the Kamakura period has been overcome and imperial government has been restored. Therefore we wish that an office of historiography (shikyoku) be established, that the good custom of our ancestors be resumed and that the knowledge and education be spread throughout the land and so we appoint a president.  Let us set right the relations between monarch and subject, distinguish clearly between the alien and proper (ka'i naigai) and implant virtue throughout our land. (Mehl 227)
+
+This declaration of the importance of historiography so early in the reign of an new government, reveals the value of history, or more specifically the control of historical narrative, to the legitimacy of rule.
+
+### Continuity and Disruption
 
 ### History and the State
 Kunitake's elevated status at the Imperial University was short-lived.  In 1892, he wrote an article that would immediately cast him out of favor with Imperial authorities.  _Shinto Is an Outdated Custom of Heaven Worship_ was a take down of the very state-sponsered religion that the Imperial Household was using to maintain its legitimacy, calling into question their historical descendence from **Amaterasu**, the sun goddess, and most important figure in Shinto mythology.  While Kunitake was able to able to continue writing, and eventually found work a private university, he was finished at the Historiographical Bureau.  That none of his colleagues stood up for him was a sign of things to come, as **State Shinto** and Japanese militarism grew in the 20th century.
@@ -52,7 +54,7 @@ Kunitake's elevated status at the Imperial University was short-lived.  In 1892,
   image-url="hideyoshi.jpg"
   source-url="https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi#/media/File:YoshiClimber.jpg"
  %} 
-Historians such as Yamaji Aizan worked outside the influence of the Historiographical Bureau.  Yamaji's populistic beliefs led him to promote the idea of invidual agency, and the powerful role of the _hero_ in nation building.  These ideas were inspired by the work of **Thomas Carlyle**, a 19th century Scottish philosopher and historian, who was an early advocate of the **Great Man Theory** of history.  His work, *On Heroes, Hero-Worship, and the Heroic in History*, was one of many western texts translated into Japanese during the later half of the 19th century.  Yamaji embraced these heroic ideals, and wrote embellished biographies of "great men" throughout Japanese history.  Powerful shoguns, such as Minamoto Yoritomo, Ashikaga Takauji, and even the founder of the so recently deposed Tokugawa Shogunate, were represented as civilizing heroes.  The inclusion of Saigō Takamori, one of the founders of the Restoration, who eventually rejected the westernization of the military, and led the failed **Satsuma Rebellion** of 1877, reveals how rapidly the mythologizing process was taking place.  Yamaji's advocacy of Japan's Imperial ambitions led to a unifying of all Japanese heroes, though none had ever fought for the nation state that had emerged from the Restoration.  
+Historians such as Yamaji Aizan worked outside the influence of the Historiographical Bureau, embracing the mythology men like Shigeno sought to debunk.  Yamaji's populistic beliefs led him to promote the idea of invidual agency, and the powerful role of the _hero_ in nation building.  These ideas were inspired by the work of **Thomas Carlyle**, a 19th century Scottish philosopher and historian, who was an early advocate of the **Great Man Theory** of history.  His work, *On Heroes, Hero-Worship, and the Heroic in History*, was one of many western texts translated into Japanese during the later half of the 19th century.  Yamaji embraced these heroic ideals, and wrote embellished biographies of "great men" throughout Japanese history.  Powerful shoguns, such as Minamoto Yoritomo, Ashikaga Takauji, and even the founder of the so recently deposed Tokugawa Shogunate, were represented as civilizing heroes.  The inclusion of Saigō Takamori, one of the founders of the Restoration, who eventually rejected the westernization of the military, and led the failed **Satsuma Rebellion** of 1877, reveals how rapidly the mythologizing process was taking place.  Yamaji's advocacy of Japan's Imperial ambitions led to a unifying of all Japanese heroes, though none had ever fought for the nation state that had emerged from the Restoration.  
 
 
 
