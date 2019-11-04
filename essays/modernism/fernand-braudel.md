@@ -63,7 +63,7 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time."
   image-url="pow-camp.jpg"
   source-url="https://wikimili.com/en/Oflag_X-C"
