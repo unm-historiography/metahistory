@@ -31,7 +31,7 @@ And on it goes in this style. There are two things here to note. The first is th
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="50%"
   caption="Elizabeth I, still a princess, at age 13."
   image-url="elizabethi-princess.jpg"
   source-url="https://www.rct.uk/collection/404444/elizabeth-i-when-a-princess"
@@ -49,7 +49,7 @@ They go on to describe that Dudley must not have had any particular control over
 
 {% include figure.html
   class="img-left"
-  width="40%"
+  width="50%"
   caption="A Portrait of Queen Elizabeth in her later Years."
   image-url="elizabethi-medallion.jpg"
   source-url="https://www.rct.uk/collection/search#/33/collection/403451/elizabeth-i-1533-1603"
