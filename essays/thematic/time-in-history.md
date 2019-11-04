@@ -8,7 +8,7 @@ date: 2019-10-21
 
 I am going to take you on an adventure through time where you and I will look at the concept of time itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied in historical practice today, there is an all-consuming linear view of history when that is not the only type of history. There is also the direction in which history follows, whether that is a decline or incline is based on the interpretation of that particular history. Then there is the topic of the past, present, and future and how different civilizations perceived each one and the value in which they held that term.  
 
-### History
+### History:Zorastrian, Greek, Roman, Jewish
 
 There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. 
 {% include figure.html
