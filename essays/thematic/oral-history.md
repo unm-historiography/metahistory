@@ -52,19 +52,20 @@ What Mariner says is that the notes taken during an interview can be wrong based
 
 In recent years, the attitudes toward oral history has changed because of the development in technology. Today, we use different types of technology readily available to us to record oral history. When recording people, we have always used a device and microphone and that hasn’t changed. What has changed is the way the recorded information has been passed to reach larger audiences that it wasn’t able to reach before. “*Research use multiplied exponentially, reaching new audiences of teachers and students, genealogists and local historians, and casual Web browsers*” (Ritchie). Before recorded audio was only for a select few and couldn’t really be passed to masses of people.  We also don’t record on cassettes anymore which could be lost and destroyed. As historians gain more access to oral history in archives It helps in Oral history helps in “*providing information about everyday life and insights into the mentalities of what are sometimes termed ‘ordinary people’ that are simply unavailable from more traditional sources” (Shopes)*. With the advancement of technology, we have recognized other types of oral history like music. Folk music has always been a form of oral history, but it wasn’t taken seriously by historians of the past because it was viewed as storytelling and often the songs were changed for the reasons we have mentioned above and not a reliable source to use until folk songs would be able to be recorded. Now we have more advanced technology to hear the music written by people that are telling their own story, for example Tupac, who is a famous rapper, creates music about how he lived and often told stories about the African American community. His music could be traced back and related to past documents that had the events that were going on during that time period.  
 
+#### Oral History is "History-shaping"
+ 
  Oral history has helped shape history because oral history allows us to fill in gaps in the historical record and sometimes even contradict it. “ *Inevitably, future generations will view—and judge—today’s generation through the lens of their own experiences in their own time. The story of the past is continually revised in the light of new interpretations. Oral history enables people to share their stories in their own words, with their own voices, through their own understanding of what happened and why*”(Baylor,2).
-“*The promotion of oral history as a beneficial endeavor for specific historical subfields marks the transition for oral ‘fact finding’ to the regard of oral history as a ‘history-shaping’ process*” (Mariner,64). Oral history has helped shape the way we look at history, so we now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today.  
-With the acceptance of Oral History as a type of history we can see historians having more value in it.
-
-#### Oral History vs Oral Tradition
+“*The promotion of oral history as a beneficial endeavor for specific historical subfields marks the transition for oral ‘fact finding’ to the regard of oral history as a ‘history-shaping’ process*” (Mariner,64).
 
 {% include figure.html
-  class="img-center"
-  width="55%"
+  class="img-left"
+  width="40%"
   caption="Oral Tradition: Haudenosaunee Creation Story of Turtle Island"
   image-url="creationstory.jpg"
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
   %}
+  Oral history has helped shape the way we look at history, so we now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today. With the development of oral we reccognize the difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
+With the acceptance of Oral History as a type of history we can see historians having more value in it.We can see this with the inclusion of oral histories in museums have become more common. It wasn’t that oral histories were never used in museums before, but oral histories were more looked as part of the exhibit than the main event. It wasn’t till later that oral histories were recognized to give people more personal encounters with the exhibit. 
 
-Past Philosophers and Historians thought of oral history as oral tradition. Now, there is a difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
+
 
