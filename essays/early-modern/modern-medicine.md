@@ -10,9 +10,10 @@ date: 2019-11-04
 {% include figure.html
   class="img-right"
   width="33%"
-  caption= 'rod of the greek god asclepius. the god of healing and medicine and the symbol that universally represnets medicine'
-  image-url='rod_of_asclepius.jpg'
-  source-url=https://gnosticwarrior.com/rod-of-asclepius.html%}  
+  caption="rod of greek god asclepius, god of healing and medicine and the most universally recognized symbol of medicine."
+  image-url="Rod_of_asclepius.jpg"
+  source-url="https://mythologian.net/staff-rod-asclepius-medical-symbol-symbol-medicine-meaning/"
+%}
 
 # Western Medicine and its’ Place in History #
    
