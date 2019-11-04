@@ -1,5 +1,5 @@
 ---
-title: Time as a Methodolgy 
+title: Time in History
 author: Kate Reynolds
 date: 2019-10-21
 ---
