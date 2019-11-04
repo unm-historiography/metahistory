@@ -1,5 +1,5 @@
 ---
-title: History of Western Medicine
+title: History of Modern Medicine
 author: Marcellina Padilla
 date: 2019-11-04
 ---
@@ -8,8 +8,8 @@ date: 2019-11-04
 {% include figure.html
   class="img-right"
   width="33%"
-  caption= "rod of asclepius"
-  image-url="rod_of_asclepius.jpg"
+  caption= 'rod of the greek god asclepius. the god of healing and medicine and the symbol that universally represnets medicine'
+  image-url='rod_of_asclepius.jpg'
   source-url=https://gnosticwarrior.com/rod-of-asclepius.html%}
 
 ### Western Medicine and its’ Place in History ###
