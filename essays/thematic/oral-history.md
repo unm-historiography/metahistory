@@ -8,7 +8,7 @@ date: 2019-09-20
  
 
 ********
-## Oral History and the Change From the Past to Present
+## **Oral History and the Change From the Past to Present**
 
 {% include figure.html
   class="img-right"
@@ -20,7 +20,7 @@ date: 2019-09-20
 
 When we think about oral history we often think of folklore, and the stories that are told are often ways people share their traditions and histories. In the past oral history has only been spoken and never really recorded until the technology developed. Today, Oral History has been made into new mediums for all people to have knowledge and access to, like the "*Ted Bundy Tapes*" on Netflix. Netflix has turned these tapes that only certain people had access to because of the technology they had available during the 70's and 80's. Today those tapes have been made into a documentary where people like us can listen to what the infamous serial killer, Ted Bundy, had to say. When we listened to these tapes and heard what Ted Bundy had to say we didn’t question if Bundy was lying or telling the truth in those interviews, but what we did know is that we were hearing Bundy tell his story the way he wanted to tell it. Are there problems with this and the fact we only heard his story the way he wanted us to remember it?
 
-### The Past
+### **The Past**
 
 
 {% include figure.html
@@ -38,7 +38,7 @@ For centuries philosophers and historians have argued why oral history is not a 
 What Mariner says is that the notes taken during an interview can be wrong based on the fact we, as interviewers, get to pick and choose what we think is insignificant, and what we may think as insignificant may not be insignificant to the person we are interviewing, and that makes the interview unreliable. The questions the interviewer asks could be worded in a way that makes the interviewee answer in swayed direction, and that makes the interview as a whole unreliable. Though, not only the interviewer could be bias, but the interviewee could be answering in ways that serve an alternative purpose as well. There is also the case of misremembrance. People telling their history will often forget or add to it making the whole truth unknown.
 
 
-### The Present
+### **The Present**
 
 
 >For the field of oral history, the true digital revolution has only just begun, and it entails more than the economic or technological changes that make recorders cheaper, smaller, and faster with better resultant sound. The real revolution will be a change in consciousness about how oral history, as a historical resource, can be engaged and discovered more easily, more widely and effectively distributed, and ultimately, more responsibly preserved (Ritchie).
