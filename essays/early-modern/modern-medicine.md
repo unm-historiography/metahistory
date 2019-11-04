@@ -4,7 +4,7 @@ author: Marcellina Padilla
 date: 2019-11-04
 ---
   
-  ## Abstract
+## Abstract
 
   This essay will cover the historiographical elements of Westernized Medicine. From its origins and what constituted medicine, to how medicine and medical practices have evolved into today’s standards of Western Medical practices. This essay will cover how our working definition of medicine and its’ applications came about, as well as how we have preserved those practices through historical evidence. It will explore what types of historical evidence are used today and what has been used in the past as well as explore who were/are the dominant figures and contributors to the historiography of Western medicine. Finally, this essay will focus on **how has the way that we talk about the history of Western medicine changed? Why is studying the history of Western Medicine important? and, What has having the knowledge that we have acquired about medicine helped shape our society?** 
 
