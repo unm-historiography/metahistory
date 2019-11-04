@@ -182,14 +182,6 @@ fail to meet the requisite standard of precision under international law". I
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE6.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
-
 
 {% include figure.html
   class="img-right"
@@ -226,15 +218,6 @@ fail to meet the requisite standard of precision under international law". I
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE6.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
 
 
 {% include figure.html
