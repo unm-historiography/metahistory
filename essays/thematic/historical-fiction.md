@@ -91,8 +91,8 @@ Increasing the personal involvement in these historical works, though interspers
 
 ### In Closing
 
-The study of history can be quite dry or very engrossing.  Looking back on the past not only tells us about where we came from, but can inform us about where we are going.  It helps to understand ourselves and those around us. It builds skills that serve us in virtually every field of endeavor.  Through research, organization, language, and argumentative writing we are better prepared to face the challenges of the ‘real world.’ But is something missing?
+The study of history can be quite dry or very engrossing.  Looking back on the past not only tells us about where we came from, but can inform us about where we are going.  It helps us to understand ourselves and those around us. It builds skills that serve us in virtually every field of endeavor.  Through research, organization, language, and argumentative writing we are better prepared to face the challenges of the ‘real world.’ But is something missing?
 
-With the addition of well-researched creative history and historical fiction to the study of history we are adding a creative spark that may well be lacking on the field.  Creativity manifests itself in a variety of ways such as invention and expression.  Creativity nourishes, expanding our visions and drawing us closer to who we are.  Should we now deny the very essence of creativity in the study of history?  How can we deny our nature as imaginative and resourceful people?
+With the addition of well-researched historical fiction to the study of history we are adding a creative spark that may well be lacking in the field.  Creativity manifests itself in a variety of ways such as invention and expression.  Creativity nourishes, expanding our visions and drawing us closer to who we are.  Should we now deny the very essence of creativity in the study of history?  How can we deny our nature as imaginative and resourceful people?
 
 
