@@ -3,9 +3,10 @@ title: Oral History
 author: Karli Montoya
 date: 2019-09-20
 ---
+>  Through this essay we will compare how the value of oral history has changed over time and how attitudes toward the subject has reformed because of the progress we have had in technology and how that has made oral history be more accessible to common people making oral history important to have so people can connect with history itself. 
+
 ********
 >**Oral history plays an increasingly important role, for it bridges the gap between the media and academic communities. Its challenge is to augment the store of source materials with the voices of those who make our history, while maintaining the quality of excellence and historical integrity of our pro fession" (Perlis,619).** 
- 
 
 ********
 ## **Oral History and the Change From the Past to Present**
@@ -63,8 +64,9 @@ In recent years, the attitudes toward oral history has changed because of the de
   image-url="creationstory.jpg"
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
   %}
-  Oral history has helped shape the way we look at history, so we now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today. With the development of oral we reccognize the difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
+  Oral history has helped shape the way we look at history, so we now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today. With the development of oral history we reccognize the difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
 With the acceptance of Oral History as a type of history we can see historians having more value in it. We can see this with the inclusion of oral histories in museums have become more common. It wasn’t that oral histories were never used in museums before, but oral histories were more looked as part of the exhibit than the main event. It wasn’t till later that oral histories were recognized to give people more personal encounters with the exhibit. When historians are incorporating oral histories into an exhibit it must have the full oral testimony, encourage visitors to remember their own past, and also allow visitors give their own memories and responses (Green,59).
 
+## Why should you want to be a Oral Historian?
 
 
