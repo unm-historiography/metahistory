@@ -73,7 +73,7 @@ In terms of its approach to Robert Dudley, the book has a different perspective 
 
 >“It is not strange that a lively young woman of twenty-five, unmarried, and living, so to speak, as the hostess of an exclusive men’s club- the Court- should delight in the company of one of its most fascinating members. Nor is it strange that she felt an emotional response to his manhood” (77).
 
-Here we can, again, see two phenomena at play: that of historical thinking and of the view of women historically.
+Here we can, again, see two phenomena at play: that of historical thinking and of the view of women historically. The former is a clearly biased statement, one of opinion which wouldn't be allowed in a more conventional historical account. The latter is the undermining of a queen, based primarily on the fact that she is a woman. Rather than compare her to other regents in her family, known especially well for their sexual appetites, she is instead illustrated here as a frivolous young woman of the author's imagining.
 
 ### A Postmodern Elizabeth ###
 
