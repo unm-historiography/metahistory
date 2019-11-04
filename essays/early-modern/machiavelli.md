@@ -37,7 +37,7 @@ As stated before one of Machiavelli’s greatest works which was published after
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="achiavelli's The Prince (1532)"
+  caption="Machiavelli's The Prince (1532)"
   image-url="The Prince Machiavelli.jpg"
   source-url="https://komarketing.com/blog/8-things-competitors-twitter-profiles/"
   %}
