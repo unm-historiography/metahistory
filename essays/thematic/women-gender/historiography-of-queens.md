@@ -42,7 +42,7 @@ And on it goes in this style. There are two things here to note. The first is th
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Elizabeth I, still a princess, at age 13."
+  caption="Elizabeth I when a Princess c.1546, attributed to William Scrots. Most likely painted for her father, King Henry VIII, it was also owned by her brother, King Edward VI. The quality of her fabric is a political statement, indicating that she has been reestablished in the line of royal succession by her father. It is possibly a pair to a portait of her brother."
   image-url="elizabethi-princess.jpg"
   source-url="https://www.rct.uk/collection/404444/elizabeth-i-when-a-princess"
 %}
@@ -60,7 +60,7 @@ They go on to describe that Dudley must not have had any particular control over
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="A Portrait of Queen Elizabeth in her later Years."
+  caption="Elizabeth I (1533-1603) c. 1580-1603. Attributed to the British School. This is a contemporary portrait of Queen Elizabeth I near the end of her life, and is possibly based off of another portrait. In her hand, she holds the badge of the Order of the Garter, meant to establish her high level of chivalry."
   image-url="elizabethi-medallion.jpg"
   source-url="https://www.rct.uk/collection/search#/33/collection/403451/elizabeth-i-1533-1603"
 %}
@@ -86,7 +86,7 @@ The book has several other elements more recognizable to the modern (or post-mod
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Elizabeth I, surveying three goddesses, finding them all below her standards."
+  caption="Elizabeth I and the Three Goddesses 1569. Painted by Hans Eworth. The only known portrait of Elizabeth wearing gloves, she takes on the role of Paris from 'the Judgement of Paris'. She is surveying three goddesses, and choosing to keep the golden apple for herself. In the original story, paris chooses Venus, at far right, as the winner. This painting belonged to Elizabeth herself. On the frame, an incription: 'Pallas was keen of brain, Juno was queen of might, / The rosy face of Venus was in beauty shining bright, / Elizabeth then came, And, overwhelmed, Queen Juno took flight: / Pallas was silenced: Venus blushed for shame'."
   image-url="elizabethi-gloves.jpg"
   source-url="https://www.rct.uk/collection/themes/exhibitions/in-fine-style/the-queens-gallery-palace-of-holyroodhouse/elizabeth-i-and-the-three-goddesses"
 %}
