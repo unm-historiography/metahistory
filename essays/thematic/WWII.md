@@ -19,7 +19,7 @@ The purpose of this paper is to look at the various authors and source that disc
   class="img-center"
   width="100%"
   caption="MacArthur, Philippine President Sergio Osmena, Jr, and MacArthur's staff waded ashore on Leyte, October 20th, 1944, fulfilling MacArthur's promise to return to the Phillippines."
-  image-url="Douglas_MacArthur_Lands_Leeyte1.jpg"
+  image-url="1024px-Douglas_MacArthur_lands_Leyte1.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Douglas_MacArthur_lands_Leyte1.jpg"
 %}
 
