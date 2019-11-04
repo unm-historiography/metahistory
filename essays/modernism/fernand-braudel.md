@@ -20,7 +20,7 @@ Fernand Paul Braudel was many things. One of them was a historian who rejected t
 
 {% include figure.html
   class="img-right"
-  width="60%"
+  width="50%"
   caption="young-braudel"
   image-url="young-braudel.jpg"
   source-url="https://gw.geneanet.org/jpbov55?lang=en&n=braudel&oc=0&p=fernand+paul+achille"
@@ -78,7 +78,7 @@ From 1940 to 1945, Braudel was a prisoner of war in Nazi Germany. He served at t
 
 {% include figure.html
   class="img-right"
-  width="48%"
+  width="65%"
   caption="Lucient Febvre was very much a father figure to Braudel, get quote about laughter on boat ride."
   image-url="lucien-febvre.png"
   source-url="http://actu.univ-fcomte.fr/article/lhistoire-selon-lucien-febvre-004499#.Xb9MOuhKg2w"
@@ -86,7 +86,7 @@ From 1940 to 1945, Braudel was a prisoner of war in Nazi Germany. He served at t
 
 {% include figure.html
   class="img-right"
-  width="48%"
+  width="34%"
   caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
   image-url="maison-homme.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
