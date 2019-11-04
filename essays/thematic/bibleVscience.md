@@ -6,10 +6,10 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-center"
-  width="33%"
-  caption="Mesa Vista Hall"
-  image-url="how-it-came-to-be-a-brief-history-of-the-bible.jpg"
-  source-url="https://www.cru.org/us/en/train-and-grow/bible-studies/how-it-came-to-be-a-brief-history-of-the-bible.html"
+  width="75%"
+  caption="The battle of bible vs science is one that still rages on today."
+  image-url="BvS1.jpg"
+  source-url="https://www.youtube.com/watch?v=AO1XnnOzJlg"
 %}
 
 One of the biggest battles in the history of mankind is one that traces its origins all the way back to _Ancient Rome_ and is still going strong today. The epic battle that is being referenced is the **Bible vs Science**. This heated battle might be described as having a _David vs Goliath_ feel, with each side taking turns playing the role of underdog. This essay won’t go into the actual debates, with each side trying to plead their case and dismiss the other, but will focus more on how the philosophies, or thought process, shifted throughout the years. 
