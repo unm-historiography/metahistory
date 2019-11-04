@@ -1,13 +1,9 @@
 ---
-layout: syllabus
-title: Historiography
-number: HIST 491-001
-term: Fall 2019
-header: historiography
-section: links-guides
+title: Writing Guide
+layout: default
+date: 2019-11-04
 ---
 
-# Writing Guide
 
 ## So What?
 Make sure the essay very near both the beginning and the end makes it very clear what the reader is to take away as the main points. In other words, the essay needs to very obviously answer the SO WHAT question.
