@@ -8,7 +8,7 @@ date: 2019-10-16
   class="img-center"
   width="50"
   caption="Warsaw German Troops Parading"
-  image-url="_Warschau,_Parade_deutscher_Truppen.jpg"
+  image-url="Warsaw_German_Troops_Parading_1939.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-001-0251-14,_Warschau,_Parade_deutscher_Truppen.jpg#metadata"
 %}
 
@@ -37,7 +37,7 @@ One major wrier in Osprey Publishing is Steven Zaloga.  Steven J. Zaloga receive
   class="img-center"
   width="75%"
   caption="Map of German positions on Cotentin Peninsula, D-Day, 6 June 1944"
-  image-url="Map10.jpg"
+  image-url="Map_of_German_positions-on_Cotentin_Peninsula_D-Day_6_June 1944.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map10.jpg"
 %}
 
