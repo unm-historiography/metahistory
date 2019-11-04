@@ -20,7 +20,7 @@ date: 2019-09-20
 
 When we think about oral history we often think of folklore, and the stories that are told are often ways people share their traditions and histories. In the past oral history has only been spoken and never really recorded until the technology developed. Today, Oral History has been made into new mediums for all people to have knowledge and access to, like the "*Ted Bundy Tapes*" on Netflix. Netflix has turned these tapes that only certain people had access to because of the technology they had available during the 70's and 80's. Today those tapes have been made into a documentary where people like us can listen to what the infamous serial killer, Ted Bundy, had to say. When we listened to these tapes and heard what Ted Bundy had to say we didn’t question if Bundy was lying or telling the truth in those interviews, but what we did know is that we were hearing Bundy tell his story the way he wanted to tell it. Are there problems with this and the fact we only heard his story the way he wanted us to remember it?
 
-#### The Past
+### The Past
 
 
 {% include figure.html
@@ -38,7 +38,7 @@ For centuries philosophers and historians have argued why oral history is not a 
 What Mariner says is that the notes taken during an interview can be wrong based on the fact we, as interviewers, get to pick and choose what we think is insignificant, and what we may think as insignificant may not be insignificant to the person we are interviewing, and that makes the interview unreliable. The questions the interviewer asks could be worded in a way that makes the interviewee answer in swayed direction, and that makes the interview as a whole unreliable. Though, not only the interviewer could be bias, but the interviewee could be answering in ways that serve an alternative purpose as well. There is also the case of misremembrance. People telling their history will often forget or add to it making the whole truth unknown.
 
 
-#### The Present
+### The Present
 
 
 >For the field of oral history, the true digital revolution has only just begun, and it entails more than the economic or technological changes that make recorders cheaper, smaller, and faster with better resultant sound. The real revolution will be a change in consciousness about how oral history, as a historical resource, can be engaged and discovered more easily, more widely and effectively distributed, and ultimately, more responsibly preserved (Ritchie).
@@ -56,8 +56,9 @@ In recent years, the attitudes toward oral history has changed because of the de
 Folk music has always been a form of oral history, but it wasn’t taken seriously by historians of the past because it was viewed as storytelling and often the songs were changed for the reasons we have mentioned above and not a reliable source to use until folk songs would be able to be recorded. Now we have more advanced technology to hear the music written by people that are telling their own story, for example Tupac, who is a famous rapper, creates music about how he lived and often told stories about the African American community. His music could be traced back and related to past documents that had the events that were going on during that time period.  
 
 #### Oral History is “History-shaping”
-*“The promotion of oral history as a beneficial endeavor for specific historical subfields marks the transition for oral ‘fact finding’ to the regard of oral history as a ‘history-shaping’ process” (Mariner,64)*. Oral history has helped shape the way we look at history. We now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today.  
-Past Philosophers and Historians thought of oral history as oral tradition. Now, there is a difference between oral tradition and oral history is that oral tradition is the telling of knowledge using folklore, legends, myths, prayers, songs or chants through time over a groups and generations of people. There is also a lack of authority, whereas oral history is the study of historical information using audio tapes, video tapes, or the transcriptions of eye-witness accounts (Hobbs, Prezi).  
+
+Oral history has helped shape history because oral history allows us to fill in gaps in the historical record and sometimes even contradict it. “ *Inevitably, future generations will view—and judge—today’s generation through the lens of their own experiences in their own time. The story of the past is continually revised in the light of new interpretations. Oral history enables people to share their stories in their own words, with their own voices, through their own understanding of what happened and why*”(Baylor,2).
+“*The promotion of oral history as a beneficial endeavor for specific historical subfields marks the transition for oral ‘fact finding’ to the regard of oral history as a ‘history-shaping’ process*” (Mariner,64). Oral history has helped shape the way we look at history. We now have organizations like Oral History Association who promotes the use of oral history, and provide young researchers the tools on how to conduct it. The association also gives more experienced researches a chance to challenge “problems” with history that are still debated today.  
 
 
 
