@@ -60,7 +60,7 @@ It is difficult for modern readers to understand how important Bede’s champion
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="A page from a manuscript of Bede's treatise *De natura rerum* (On the nature of Things). Originally written in 703, this page is from a copy made in the 12th century."
+  caption="A page from a manuscript of Bede's treatise De natura rerum (On the nature of Things). Originally written in 703, this page is from a copy made in the 12th century."
   image-url="De_natura_rerum_Beda.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:De_natura_rerum_Beda.jpg"
 %}
