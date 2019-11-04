@@ -19,7 +19,6 @@ Literary writing spans a broad spectrum ranging from Fiction (imaginative and/or
   width="33%"
   caption=""
   image-url="fiction-narrative.png"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}
 
  - [Narrative History](https://en.wikipedia.org/wiki/Narrative_history) - This form of historical writing is the one we are most familiar with.  Narrative History is ‘fact-based,’ minimizing creative license in the narrative—adding elements that cannot be supported by historical source or the embellishing of fact to enhance the reader’s emotional investment in the narrative.  This genre includes biographies and memoirs.
