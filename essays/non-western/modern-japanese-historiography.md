@@ -36,6 +36,14 @@ The Tokugawa's weak response to the aggresive trade demands of the United States
 **Fukuzawa Yuichi** was perhaps Japan's most famous 19th century philospher, so much so that his face currently resides on the 10,000 yen note.  Fukuzawa's work, which crossed over from the Tokugawa to the Meiji Period, focused on Western learning, and how it could be used to benefit Japan.  While much of his focus was on education, he eventually founded the first university in Japan to use western methods, he did engage in the philosphy of history.  His work *An Outline of a Theory of Civilization**, influenced by the work of British historian **Henry Thomas Buckle**, would similarly focus on history as the story of civilizations (Fukuzawa xix).  The final chapters of the book contrast the origins of Western and Japanese civilzations, finding the later presently at a disadvantage.  This acceptence of the West's current "superior" civilization was a prime motivator for Fukuzawa, and the Meiji era as a whole.  The West was to be emulated, but only for the advancement of Japanese "civilization."
 
 ### The Founding of Historiographical Bureau
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="A 1888 portrait of the Meiji Emperor.  His full embrace of Western national identity are made clear not only by his wardrobe, but by his commissioning a European artist, Edoardo Chiossone, for the work. "
+  image-url="meiji.jpg"
+  source-url="https://en.wikipedia.org/wiki/Emperor_Meiji#/media/File:Meiji_emperor_ukr.jpg"
+%}
+
 In 1869, at the beginning of the Restoration, the following Imperial rescript was posted:
 
 >Historiography is a for ever immortal state ritual (taiten) and a wonderful act of our ancestors. But after the Six National Histories it was interrupted and no longer continued.  It is not a great lack! Now the evil of misrule by the warriors since the Kamakura period has been overcome and imperial government has been restored. Therefore we wish that an office of historiography (shikyoku) be established, that the good custom of our ancestors be resumed and that the knowledge and education be spread throughout the land and so we appoint a president.  Let us set right the relations between monarch and subject, distinguish clearly between the alien and proper (ka'i naigai) and implant virtue throughout our land. (Mehl 227)
