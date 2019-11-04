@@ -71,7 +71,7 @@ The third source, *The Progresses, Pageants, and Entertainments of Queen Elizabe
 
 This book takes that interest to heart. It does not tell an overall account of Elizabeth I's reign, in whatever style was more popular at the moment. Instead, this work sits comfortably in the realm of microhistory, explaining an often-overlooked facet of the Queen's life.
 
-The book has several other elements more recognizable to the modern (or post-modern) reader. The first is simply 
+The book has several other elements more recognizable to the modern (or post-modern) reader. The first is simply that sources are consistently, rigorously listed in Chicago Style footnote format. Other things also stand out, like an extensive list of contributors made up mostly of women, three female editors, and substantial use of images make a book most conventional historians would consider 'good' history. Here is where we can see the typical balance found between the extreme ideas of the postmodern era and the rigidity of the Rankean: a book that follows every 'rule' of Rankean history, while investigating a highly postmodern subject.
 
 {% include figure.html
   class="img-center"
@@ -81,4 +81,8 @@ The book has several other elements more recognizable to the modern (or post-mod
   source-url="https://www.rct.uk/collection/themes/exhibitions/in-fine-style/the-queens-gallery-palace-of-holyroodhouse/elizabeth-i-and-the-three-goddesses"
 %}
 
+But what does a book of this nature, written mostly by women and very little about the conventional Elizabeth, have to say about her most popular love interest? **Almost** the same thing as everyone else:
+
 >“The attentiveness and proximity to the Queen of Robert Dudley, partly from his duties as Master of the Horse, led to scandalmongering about the real purpose of Elizabeth’s frequent progresses. In Ipswich, a citizen claimed that Elizabeth ‘looked like one lately come out of childbed’; about her progress in 1564, ‘Some say that she is pregnant and is going away to lie in.’ Another rumor asserted that ‘Lord Robert hath had fyve children by the Quene, and she never goeth in progress but to be delivered.’ Such rumors present an unsurprising slander of a Queen who loved travel, men, and power” (42-43).
+
+So much of this book avoids the more scandalous side of writing history, but to be fair, it's hard to avoid such a juicy topic. However, this piece at least takes a less condescending approach: rather than comparing Elizabeth to a young, impressionable woman, these authors compare her to Kings.
