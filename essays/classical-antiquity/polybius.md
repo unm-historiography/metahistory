@@ -65,12 +65,19 @@ Throughout the *Histories*, Polybius expresses his hatred for monographs, the de
 ## Bibliography
 “Achaean League.” In Wikipedia, October 13, 2019. https://en.wikipedia.org/w/index.php?title=Achaean_League&oldid=921103277.
 Classics of Strategy and Diplomacy. “Currently Featured Classics.” Accessed November 4, 2019. https://www.classicsofstrategy.com/featured-classic.html.
+
 Eckstein, Arthur M. “Polybius, Phylarchus, and Historiographical Criticism.” Classical Philology 108, no. 4 (October 1, 2013): 314–38. https://doi.org/10.1086/671786.
+
 Ingls, David, and Roland Robertson. “From Republican Virtue to Global Imaginary: Changing Visions of the Historian Polybius.” The University of Chicago Press 108, no. 4 (October 2013): 314–38.
+
 Lemon, M. C. Philosophy of History: A Guide for Students. 1 edition. Routledge, 2003.
+
 McGing, B. C. Polybius’ Histories. [Electronic Resource]. Oxford Approaches to Classical Literature. Oxford University Press, 2010. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat06111a&AN=unm.EBC497620&site=eds-live&scope=site.
+
 “Polybius.” In Wikipedia, November 3, 2019. https://en.wikipedia.org/w/index.php?title=Polybius&oldid=924338030.
+
 Popkin, Jeremy D. “What Is Historiography?” In From Herodotus to H-Net : The Story of Historiography. New York ; Oxford : Oxford University Press, [2016], 2016.
+
 “Roman Republic.” In Wikipedia, November 4, 2019. https://en.wikipedia.org/w/index.php?title=Roman_Republic&oldid=924516406.
 “The Histories (Polybius).” In Wikipedia, August 6, 2019. https://en.wikipedia.org/w/index.php?title=The_Histories_(Polybius)&oldid=909589581.
 
