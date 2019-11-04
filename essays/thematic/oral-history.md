@@ -4,7 +4,8 @@ author: Karli Montoya
 date: 2019-09-20
 ---
 ********
-Through this essay we will compare how oral history was perceived in the past and how attitudes toward the subject has changed because of the progress we have had in technology and the practice of writing oral history itself.  
+>**Oral history plays an increasingly important role, for it bridges the gap between the media and academic communities. Its challenge is to augment the store of source materials with the voices of those who make our history, while maintaining the quality of excellence and historical integrity of our pro fession" (Perlis,619).** 
+ 
 
 ********
 ## Oral History and the Change From the Past to Present
