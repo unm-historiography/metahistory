@@ -18,7 +18,6 @@ There are multiple perceptions of time throughout different cultures in history.
   image-url="zor.svg"
   source-url="https://en.wikipedia.org/wiki/Zoroastrianism#/media/File:Faravahar.svg"
 %}
-
 Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.The two perceptions of time were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 {% include figure.html
