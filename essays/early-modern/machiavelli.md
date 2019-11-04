@@ -11,9 +11,9 @@ Throughout history there have been many philosophers who have taken their time t
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall"
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  caption="Niccolo Machiavelli (1469-1527)
+  image-url="Machiavelli.jpg"
+  source-url="https://www.britannica.com/biography/Niccolo-Machiavelli"
 %}
 
 ## Learning From History
@@ -23,9 +23,9 @@ Machiavelli’s “primary passion was for the maintained of an orderly governed
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Mesa Vista Hall"
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  caption="Renaissance period, known for its Art, Philosophy, and Science"
+  image-url="Renaissance Mahiavelli.jpg"
+  source-url="https://en.wikipedia.org/wiki/Renaissance'
 %}
 
 Machiavelli introduces this idea in his Discourses that were written to show his many thoughts on history and politics. He sees that history at that particular time in the 16th century, must me used and viewed in a different way. And to build his arguments he reviews the policies and procedures from ancient kingdoms and republics and the ways kings, legislators, soldiers, and basic citizens displayed wisdom and sacrificed themselves for the greatness of the country. Some examples would include maintaining the state, organizing an army, or to dispense justice. But none of this could be possible if antiquity (the ancient past before the Middle Ages) was out of the picture. During the 16th century Machiavelli is accusing his contemporaries of a political complacency and inefficacy born of historical ignorance. Yet the ignorance he means is not so much historical fact but ignorance of ‘the true sense’ or ‘the spirit’ of the history they read.” (p. 95, Lemon) This true sense being that we don’t use are imaginations when we look at historical figures to see their importance due to their actions in getting things done during their times. “Machiavelli thinks people are wrongly overawed by the historico-cultrual gap between their own times and antiquity, such that, out of their failure to understand ‘the new sense’ or ‘spirit’ of history, it appears to them impossible to learn from it.” (p. 96, Lemon) “In pointing to the historical and cultural gap between ‘Antiquity’ and the Middle Ages, and between both and the present, it was correct and beneficial. But left at that, it was not only incomplete; it was damaging – because if history is viewed solely as a succession of different ‘times’, it can lead to the idea that they are so different that history is no more than an entertaining read.” (p. 96, Lemon) Machiavelli wants his readers to understand that history is not just a meaningful story that is taking place, but a guideline for men to find lessons, and principles that can be applied to benefit mankind. 
@@ -37,9 +37,9 @@ As stated before one of Machiavelli’s greatest works which was published after
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="Cleve-van_construction-tower-babel.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
+  caption="achiavelli's The Prince (1532)"
+  image-url="The Prince Machiavelli.jpg"
+  source-url="https://komarketing.com/blog/8-things-competitors-twitter-profiles/"
   %}
 
 ## Human Nature 
@@ -55,9 +55,9 @@ Machiavelli’s final and most important philosophy is the concept of fortune. D
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall"
-  image-url="default.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  caption="Fortune is like a River, The rivers may rise and destroy everything in their way but when their calm we can prevent and control the river by building dams and dikes. Every person has that ability to disrupt fortune and create a better future. "
+  image-url="Machiavelli River quote.jpg"
+  source-url="https://www.bbc.co.uk/newsround/49771759"
 %}
 
 To many people they believe that fortune controls everything, and if that’s the case we as people would have no need to apply action to change the outcome. But what Machiavelli is stating with this analogy is that the other half is controlled by free will. The rivers may rise and destroy everything in their way but when their calm we can prevent and control the river by building dams and dikes. Every person has that ability to disrupt fortune and create a better future. McRoberts gives a great sum up of The Prince by saying, “While Machiavelli restricts himself to the praise of princes through his writing, he opens the door to making each person’s life meaningful through a healthy perspective of trials and the encouragement to be brave against anything that Fortune may bring. For not all men can prepare to conquer the world, but no one need be deprived of the ability to conquer opportunity.” (p. 11, McRoberts)
