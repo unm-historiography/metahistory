@@ -27,7 +27,7 @@ The structure of this work is certainly not recognizable to modern historians. F
 
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="80%"
   caption="A segment of the book *Observations and remarks upon the lives and reigns of King Henry VIII. King Edward VI. Queen Mary I. Queen Elizabeth, and King James I.*, written in 1712. The description reads 'with particular characters, after the earl of *Clarendon*'s method, of all their FAVOURITES; and the most *Eminent* and *Illustrious* persons both in Church and State, that flourish'd in *England* during those Reigns. Collected from Pulick HISTORIES and private MEMOIRS."
   image-url="Screen Shot 2019-11-04 at 9.23.40 AM.png"
   source-url="https://gdc.gale.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?displayGroupName=DVI-Monographs&disableHighlighting=&dviSelectedPage=&query=&prodId=&docIndex=&search_within_results=&p=ECCO&catId=&limiter=&display-query=&displayGroups=&contentModules=&action=2&documentId=GALE%7CCB0129806110&sortBy=&activityType=BasicSearch&commentary=&source=Bookmark&u=albu78484&jsid=9d46a36c5048a0bf432800989b1ae106"
