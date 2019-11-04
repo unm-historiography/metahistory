@@ -50,6 +50,7 @@ Another significant result of Braudel’s time in Brazil was his introduction to
   image-url="algiers-1920s.jpg"
   source-url="https://www.hippostcard.com/listing/boulevard-de-la-republique-alger-algeria-africa-1910-1920s/17289145"
 %}
+
 {% include figure.html
   class="img-right"
   width="49%"
@@ -119,6 +120,7 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
 %}
+
 {% include figure.html
   class="img-right"
   width="32%"
@@ -126,6 +128,7 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
   image-url="civ-cap-book.jpg"
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
+
 {% include figure.html
   class="img-right"
   width="32%"
