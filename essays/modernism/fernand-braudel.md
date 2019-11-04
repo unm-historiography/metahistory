@@ -34,6 +34,7 @@ Fernand Paul Braudel was born on August 24, 1902 in [Lumeville](https://www.goog
 ### Algeria and Brazil
 
 
+
 > “I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history.” (Braudel, 450)
 
 {% include figure.html
@@ -87,10 +88,12 @@ From 1940 to 1945, Braudel was a prisoner of war in Nazi Germany. He served at t
 {% include figure.html
   class="img-right"
   width="34%"
-  caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
+  caption="Braudel founded the Maison des Sciences des l'Homme, an interdisciplenary reasearch center in Paris"
   image-url="maison-homme.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
 %}
+
+
 
 The companion article on this site titled “The Annales School” details the influence and implications of these French thinkers; however, the Annales deserves additional attention here for Braudel’s role in its second wave. Braudel worked under Lucien Febvre and [Marc Bloch](https://en.wikipedia.org/wiki/Marc_Bloch), the original founders of the *Annales* [journal](http://annales.ehess.fr/index.php?220) that would inspire the movement, upon returning from Brazil. His association with Febvre continued even during his time as a prisoner of war as Braudel sent draft after draft of The Mediterranean to Febvre for safekeeping and review. With the publishing of that work in 1949, Braudel gained widespread notoriety and became the preeminent historian in post-war Europe. Following the death of Febvre in 1956, Braudel took over as director of The Annales. In 1968, “he entrusted his editorial responsibilities to a younger generation of historians…but maintained officially up to his own death the direction” (Aymard, 14) of the Annales.  
 
