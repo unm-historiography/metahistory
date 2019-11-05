@@ -11,6 +11,9 @@ nav:
         url: https://travis-ci.com/unm-historiography/intro-guide
       - title: New link from my fork
         url: /
+      - title: New link in master
+        url: /
+
 
 
   - section: Introductions
