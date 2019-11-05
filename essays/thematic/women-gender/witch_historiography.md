@@ -13,9 +13,15 @@ date: 2019-11-03
 %}
 
 ## Why Witches?
-Over time witch hunts have been used to assimilate many social movements. This psycological phenomenon has provided understanding of how humans could use the judicial and overall governmental system for their own personal revenge. They also provide a deeper understanding into how religiously cetnered each country was. Those based less in intellect and more in faith saw more growth in the affects of the witch craze providing specific documents for later scholars to understand how each society was based.
 
-The questions I would like to answer are _why witches? how did their language and idealization change overtime? and why are they important to a current society?_ In american schools we cover the Salem witch trials glossing over other countries own witch hunts and the affect that the European front had on the world at large. 
+In this essay, I will be looking into the **study of witches** _starting at the turn of the 20th century to the present_. I will be looking at specific historians and the viewpoints most groups took while approaching the subject of the trials. As well I am limiting myself to **Northern European and US historians** who _look at sources from the 16th and 17th centuries_ as a way to understand a specific set of mindsets towards witches. As most of our history falls into a western frame, I believed it would be easiest to understand the difference in the economic and gendered viewpoints of witch historiography in the regions of France, England, Germany, Spain, the US, and some surrounding regions as they arise within this framework.
+
+# Introduction
+
+Witches have been a mainstream halloween costume depicting anything from an old hag to a young and promiscuous women.  These stereotypes are not separated in an academic setting, rather further defined and reasoned with. Raising questions among historians and other philosophers as to why witches are important to a society in the first place? The witch craze of the 16th and 17th centuries stigmatized being unmarried, a sole heirace, an old Hag, essentially any women who could feel powerful for any reason. There are other aspects of society that are affected by the mass amount of executions and trails and general accustasations. These aspects are what historians seek to understand and give further reason towards. The Salem witch trials were just one of many places heavily corrupted by the ease of accusing a woman of tempering with livestock, human life, and other forms of wealth and virtue. The trials that took place in England and Germany were horrific in the amount of women who died merely because someone had a grudge or reason for executing their neighbor. 
+
+The sources acquired are riddled with inherent biases on women and their place in society, serving less of a purpose in a gendered study than in a more economic study. As general historiography begins to shift from a rigid economic viewpoint to a more individualistic viewpoint so does the narrative of the witch.
+
 
 
 
