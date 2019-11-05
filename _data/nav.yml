@@ -10,6 +10,7 @@ nav:
       - title: Site status
         url: https://travis-ci.com/unm-historiography/intro-guide
 
+
   - section: Introductions
     subnav:
       - title: Why Historiography?
@@ -30,6 +31,10 @@ nav:
       - title: Roman Historians and Rhetoric
         url: /essays/classical-antiquity/roman-historians-rhetoric.html
 
+  - section: Medieval
+    subnav:
+      - title: The Venerable Bede
+        url: /essays/medieval/bede.html
 
   - section: Early Modern
     subnav:
@@ -51,6 +56,8 @@ nav:
     subnav:
       - title: Annales School
         url: /essays/modernism/annales-school.html
+      - title: Fernand Braudel
+        url: /essays/modernism/fernand-braudel.html
       - title: Anthropology
         url: /essays/modernism/anthropology.html
 
