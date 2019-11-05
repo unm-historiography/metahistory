@@ -6,7 +6,7 @@ author: Alex Nocella
 editor: Hannah Ibbotson
 date: 2016-11-08 00:00:00
 ---
-The interest in the study of history can be traced back to the Greeks as bards and poets traveled around the Mediterranean before knowledge was recorded.  Historical tradition in the ancient Greek world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons, mainly because most people were illiterate. Since there is so little left, it is hard to determine how people thought about their history. To determine how the early Greeks through about history, us historians must look at their concepts of **historiography**, or the history of history. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean (commonly referred to as Greeks) recorded “history” assumes the form of what we call today “epic poetry.”
+The interest in the study of history can be traced back to the Greeks as bards and poets traveled widely around the Mediterranean before knowledge was recorded.  Historical tradition in the ancient Greek world consisted of firsthand accounts that were retold across generations. While these nomadic proto-historians were perhaps innumerable, very little of their product survives for obvious reasons, mainly because most people were illiterate. Since there is so little left, it is hard to determine how people thought about their history. To determine how the early Greeks through about history, us historians must look at their concepts of **historiography**, or the history of history. It was not until approximately the middle of the 5th century BCE that anyone began to record and codify their histories. Some of the earliest pre-Herodotean (commonly referred to as Greeks) recorded “history” assumes the form of what we call today “epic poetry.”
 
 **Homer, the First Greek Historian**
 {% include figure.html
@@ -67,14 +67,14 @@ Polybius must have seen the writing on the wall in his practice of using **archa
 Although Herodotus and Thucydides contributed significantly to historiographical practice in general, they did very little to develop the practice in theoretical terms. Their methodologies are based on the ideas of history over space and time rather than an overt desire to create paradigms about how to practice historiography, though their ideas and practices themselves would hold significant value in the later development of historiography as a scientific discipline of its own. Their ideas concluded, in part, that history is ultimately inclusive of a host of other human-centric sciences like political philosophy, geography, theology, etc. As historiography and historical inquiry continued to develop as a historical discipline with its own intrinsic value, historians like Polybius and others that later ‘practiced’ in his method began to lend the makings of theoretical and scientific validity to history and historiography as academic disciplines. All the while within the practice of history itself, literary style, political influence and analysis, and religious and moral inclinations and implications developed as concerns with in the methodology of historical inquiry. These narratives all seemed to lay a foundation on which later Roman historians would build a nationalist vision of history that incorporated the practices of the Greek world and set Rome apart as a [“city on a hill.”](http://www.ushistory.org/us/3c.asp)
 
 
-## Conciser This 
+## Conciser This
 
  - What information can be lost from switching from Oral traditions to writing?
  - Can mythology and history work side by side and still be accurate? Explain.
  - What do historians loose when we choose to just write the facts?
 
 ## Further Reading
-- Victor Castellani "_Beginnings of Ancient Greek History and Historiography_" 
+- Victor Castellani "_Beginnings of Ancient Greek History and Historiography_"
 - Thomas F. Scanlon "_Greek Historiography_"
 
 -[ Myth and History ](https://unm-historiography.github.io/intro-guide/essays/antiquity/myth-and-history)
