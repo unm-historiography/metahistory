@@ -30,6 +30,10 @@ nav:
       - title: Roman Historians and Rhetoric
         url: /essays/classical-antiquity/roman-historians-rhetoric.html
 
+  - section: Medieval
+    subnav:
+      - title: The Venerable Bede
+        url: /essays/medieval/bede.html
 
   - section: Early Modern
     subnav:
