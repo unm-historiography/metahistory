@@ -4,7 +4,7 @@ author: Marcellina Padilla
 date: 2019-11-04
 ---
   
-## Abstract
+  # Abstract
 
   This essay will cover the historiographical elements of Westernized Medicine. From its origins and what constituted medicine, to how medicine and medical practices have evolved into today’s standards of Western Medical practices. This essay will cover how our working definition of medicine and its’ applications came about, as well as how we have preserved those practices through historical evidence. It will explore what types of historical evidence are used today and what has been used in the past as well as explore who were/are the dominant figures and contributors to the historiography of Western medicine. Finally, this essay will focus on **how has the way that we talk about the history of Western medicine changed? Why is studying the history of Western Medicine important? and, What has having the knowledge that we have acquired about medicine helped shape our society?** 
 
@@ -34,6 +34,16 @@ As long as humans have inhabited the earth, medicine and the practice of it in v
 
 Another practice of prehistoric medicine that adds an element of the supernatural with healing, is the use of **Shamans** or **Medicine Men**. According to Anthropology Professor Francis X. Grolling, in his work entitled *Medical Anthropology*, when referring to this type of healers in prehistoric medical context he writes, “Ethnographic evidence indicates that the usual person to call to the aid of an injured or sick  person has been the shaman or ‘witch doctor.’ In most cultures, there is a specialist who treats illness, injury, and disease and quite frequently, this person corresponds to the leader of religious practices, whatever he or she may be called.” (**Grolling, pg. 6**). These *medicine men* who because of the religious component of the culture would also be considered a person who practices magic and witchcraft, would maintain the health of their tribes through the use of herbs and other remedies necessary to treat the disease and inherently, “…treat the individual by special magical processes and concoctions that are supposed to bring back the spirit of the sick person.” (**Grollin, pg.6**). Although, in modern medical practices we no longer hold the view that patients need to be treated to heal a person’s spirit but rather by their symptoms, the practices of healers such as *Medicine men*, *Shaman*, or even **Curanderos**, still exist today in some **primitive societies** and their methods are still observed by anthropologists, their techniques as they pertain to medicine are considered to be part of the **holistic** view of medicine. However, despite how these practices are viewed today, they proved to be a tipping off point and inherently laid the foundations for the practice of medicine before the term or historiographical concept of it was even applied. This is best summed up by Grollig when he writes about the relationship between humans and medicine, 
 >*The factors of time and are crucial variables in man’s struggle to overcome the selective pressures exerted by the pathology of his environment. This point cannot be over-emphasized when one realizes that human knowledge on the whole is acquired by the process of trial and error. In other words, so long as people living in a particular territory are selected out by ‘mystical forces’ (variously known as demons, diseases, spirits, germs, parasites, and viruses) it would seem most nonhuman not to discover some remedies to ward off these challenges to existence and the perpetuation of the species (Grollig, pg.11).* 
+
+{% include figure.html
+  class="img-left"
+  width="45%"
+  caption="Example of prehistoric medical practices found on a human skull called,Trepanning. The only evidence we have without written sources are anthropological through human remains."
+  image-url="Trepanning.jpg"
+  source-url="https://en.wikipedia.org/wiki/Trepanning"
+%}
+
+
 
 ## A Time Before the Greeks: The Ancient Egyptians ##
 
