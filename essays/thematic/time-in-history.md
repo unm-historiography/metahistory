@@ -38,18 +38,18 @@ The __Roman empire__ was one that believed they were timeless, believing that th
 The Greeks, Romans, and Egyptians were all under the belief that time began with a Golden age. The __Golden age__ was when God or Gods and man were close to one another. Until a time where something happened and disrupted the relationship between the two, and they were separated. In this form or perception of time, humans are on a __decline__ having started from the top and now falling into a more primitive state of mind and society.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="49%"
   caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
   image-url="decay.jpg"
   source-url="https://www.widewalls.ch/decay-art-artists-photographers/"
 %}
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="49%"
   caption="Began as primitive beast but with knwoledge continue to get better until we reach a sort of Golden Age once again."
-  image-url="upcline-lingraph.jpg"
-  source-url="https://www.stockunlimited.com/vector-illustration/?word=incline%20graph&category=vectors"
+  image-url="newdecay.jpg"
+  source-url="https://www.sutori.com/story/the-postclassical-period-600-1450-new-faith-and-new-commerce--PDiVp7o9aNuEV52f6Xcf8Ht6"
 %}
 
 In a different perception of time, humans at the beginning were primitive beast but are on the incline as they acquire more knowledge through time. This can be seen especially in that of Judaism and Christianity. While man did start in a type of Golden Age in the ,Garden of Eden, humans since the fall are working their ways towards salvation. A famous advocate of linear history was St. Augustine. __St. Augustine__ (354-430) was a Christian thinker who wrote many famous works one of them being the *City of God*. In his writings, "he rejected the idea of cosmic and historical cycles endlessly recurring" (Lemon 91). 
