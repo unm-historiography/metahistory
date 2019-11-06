@@ -41,8 +41,8 @@ The Greeks, Romans, and Egyptians were all under the belief that time began with
   class="img-right"
   width="49%"
   caption="Golden Age: Human lived with the Gods at the beginning then due to a disruption began to fall and continue to fall."
-  image-url="declining-linegraph.jpg"
-  source-url="https://www.vectorstock.com/royalty-free-vector/declining-line-graph-vector-9892120"
+  image-url="decay.jpg"
+  source-url="https://www.widewalls.ch/decay-art-artists-photographers/"
 %}
 {% include figure.html
   class="img-left"
