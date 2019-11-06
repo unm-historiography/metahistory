@@ -8,9 +8,9 @@ date: 2019-10-21
 
 I am going to take you on an adventure through time where you and I will look at the concept of time itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied in historical practice today, there is an all-consuming linear view of history when that is not the only type of history. There is also the direction in which history follows, whether that is a decline or incline is based on the interpretation of that particular history. Then there is the topic of the past, present, and future and how different civilizations perceived each one and the value in which they held each term.  
 
-### History:Zorastrian, Greek, Roman, Jewish
+### History:Zoroastrian, Greek, Roman, Jewish
 
-There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. 
+There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. __Cyclical history is the notion that history or historical events repeat.__ The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,__ Zoroastrianism__ emerged. 
 {% include figure.html
   class="img-left"
   width="40%"
@@ -18,12 +18,12 @@ There are multiple perceptions of time throughout different cultures in history.
   image-url="zor.svg"
   source-url="https://en.wikipedia.org/wiki/Zoroastrianism#/media/File:Faravahar.svg"
 %}
-Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.There were two perceptions of time and they were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
+Zoroastrianism was the first religion to be monotheistic. __Monotheism__, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.There were two perceptions of time and they were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Thucydides"
+  caption="Thucydides(460-400): Greek historiran who was a proponent of cyclical history."
   image-url="322px-Thucydides_pushkin02.jpg"
   source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
 %}
@@ -31,7 +31,7 @@ Zoroastrianism was the first religion to be monotheistic. Monotheism, as we will
 According to Arnaldo Momigliano in *Time in Ancient Historiography*, Thucydides is whom we should attribute the cyclical view of history "(Momigliano 11). __Thucydides__ (460-400) was a Greek historian who wrote about the Peloponnesian war. Thucydides was under the belief that "there will be future events either identical or similar" to the ones he narrated (Momigliano 11). Nemesius, Bishop of Emesa, was under the belief that people would live the same life with the same friends. Stating the both Socrates and Plato would be once again (Whitrow 43). It is essential to realize that not every Greek intellectual was under the belief that history was cyclical. Some believed that only politics or changing of political climate was cyclical, not history as a whole. Grace Cairns in *Philosophies of Histories* states that Toynbee believed that 
 > "there are cyclical patterns he admits in the rise and fall of great civilizations; nevertheless there has been linear progress on the whole in religion "(279).
 
-The __Roman empire__ was one that believed they were timeless, believing that their empire was the peak of perfection. The Romans had a cyclical view of history; however, they felt that they were at the end of the cycle since they were perfect.  This changed with __Constantine__, making Christianity the main religion of the Roman empire. There was a shift from cyclical history to linear history as Christianity took over. The linear view of hisotry permeated all scholarship in the western world. 
+The __Roman empire__ was one that believed they were timeless, believing that their empire was the peak of perfection. The Romans had a cyclical view of history; however, they felt that they were at the end of the cycle since they were perfect.  This changed with the Roman emperor __Constantine__ (272-337), making Christianity the main religion of the Roman empire. There was a shift from cyclical history to linear history as Christianity took over. __Linear history is history that follows a linear path and does not repeat; it has a beginning and an end.__ The linear view of history permeated all scholarship in the western world. 
 
 ### Decline and Incline
 
