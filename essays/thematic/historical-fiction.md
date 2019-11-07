@@ -1,10 +1,10 @@
 ---
-title: The Role of Historical Fiction and the Study of History: What is it and what can we learn from it?
+title: Historical Fiction and History: What can we learn from it?
 author: Rick Rockett
 date: 2019-11-02
 ---
 
-# Historical Fiction and the Study of History: What is it and what can we learn from it?
+# Historical Fiction and History: What can we learn from it?
  
 ### Introduction
 
@@ -128,6 +128,8 @@ With the addition of well-researched historical fiction to the study of history,
 
 “Fiction.” Wikipedia, October 1, 2019. Accessed November 4, 2019. https://en.wikipedia.org/w/index.php?title=Fiction&oldid=919021848.
 
+“Fictional History and Historical Fiction.” Unbound. Accessed November 5, 2019. https://unbound.com/books/agrippina/updates/fictional-history-and-historical-fiction.
+
 “Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
 
 “Historical Fiction vs. History.” Cindy Vallar. Accessed October 23, 2019. http://www.cindyvallar.com/histfic.html.
@@ -155,7 +157,9 @@ Huskinson, Janet. “Looking for Culture, Identity and Power,” n.d., 25. https
 Lemon, M. C. _Philosophy of History: A Guide for Students_. London; New York: Routledge, 2003.
 
 McCullough, Colleen. _Caesar_. London : Head of Zeus, 2014.
+
 ———. _The First Man in Rome_. New York : Morrow, 1990.
+
 ———. _The Grass Crown_. New York : W. Morrow, 1991.
 
 O’Grady, Megan. “Why Are We Living in a Golden Age of Historical Fiction?” The New York Times, May 7, 2019, sec. T Magazine. https://www.nytimes.com/2019/05/07/t-magazine/historical-fiction-books.html.
@@ -163,7 +167,5 @@ O’Grady, Megan. “Why Are We Living in a Golden Age of Historical Fiction?”
 Sanger, Thomas. “Historical Fiction vs Narrative Nonfiction: What’s in a Genre?” Thomas Sanger. Accessed October 23, 2019. http://thomascsanger.com/thomas-c-sanger/historical-fiction-vs-narrative-non-fiction-whats-genre/.
 
 Tolstoy, Leo. _War and Peace_. Oxford ; Oxford University Press, 2010.
-
-“Fictional History and Historical Fiction.” Unbound. Accessed November 5, 2019. https://unbound.com/books/agrippina/updates/fictional-history-and-historical-fiction.
 
 Vocabulary.com. “Fiction - Dictionary Definition.” Accessed November 5, 2019. https://www.vocabulary.com/dictionary/fiction.
