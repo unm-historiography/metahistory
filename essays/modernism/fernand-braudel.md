@@ -96,6 +96,7 @@ From 1940 to 1945, Braudel was a prisoner of war in Nazi Germany. He served at t
 
 ### Professional Life
 
+
 {% include figure.html
   class="img-right"
   width="65%"
@@ -118,7 +119,7 @@ The companion article on this site titled “The Annales School” details the i
 
 Outside of his time with the Annales, Braudel worked as a professor at the College de France, served as president of the VI section of the Ecole Pratique de Hautes Etudes, and director of the Masion de Sciences de l’Homme (Hufton, 208).  All the while he continued work on a 1966 revision of *The Mediterranean* as well as a massive new history on Capitalism which he would publish in 1967 under the title *Civilization and Capitalism*. *The Identity of France*, published posthumously in 1986, examines the history of Braudel’s motherland and is our final glimpse into the mind of “the greatest and most influential historian of our time” (Hufton, 208). 
 
-## HIS LEGACY
+### **HIS LEGACY:** HOW HIS WORK CHANGED HISTORICAL DISCOURSE AND PRODUCTION
 
 {% include figure.html
   class="img-right"
@@ -129,6 +130,8 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
 %}
 
 ### The Mediterranean
+
+What began as a thesis on the life of King Phillip II of Spain ultimately became a thousand plus page discussion on the history of the Mediterranean using a three part notion of time in which common time was set on one side so that the long duration effects of geography, climate, and sociology came to the forefront (Hufton, 112). **The Braudelian perspective of time centers around the idea that all historical events could be examined in distinct time scales: the *longue duree*, the *moyenne duree*, and the *courte duree*.** “The longue duree, virtually boundless time, perhaps extending over centuries of common time during which the parameters of human existence were unchanged” (Hufton, 112) was the most influential scale according to Braudel. The moyenne duree relates to “anything in common time perhaps from fifty years to a century” (Hufton, 112) where shifts in trade cycles or urban development are witnessed, for example. Finally, the courte duree refers to “phenomena such as abnormal harvests or short industrial slumps or temporary dislocation which might…be the product of war, occupation, etc.” (112). In the case of The Mediterranean, Braudel tells the story of life during the era of King Phillip from all of these time scales to “teach how, in the lands around the ever-changing and never-changing sea, time and space, history and geography together shaped one coherent past, present, and future” (Marino, 649). **His emphasis on the longue duree devalued individual people and events thus conflicting with contemporary historiographical approaches that focused largely on political history and biography.**  
 
 ### Capitalism
 
