@@ -22,6 +22,7 @@ Fernand Braudel was many things: a teacher, writer, prisoner, husband, and histo
 
 ##### EARLY YEARS
 
+
 {% include figure.html
   class="img-right"
   width="50%"
@@ -30,10 +31,12 @@ Fernand Braudel was many things: a teacher, writer, prisoner, husband, and histo
   source-url="https://gw.geneanet.org/jpbov55?lang=en&n=braudel&oc=0&p=fernand+paul+achille"
 %}
 
+
 {% include aside.html
   class="pullquote"
-  text="I was in the beginning and I remain now a historian of peasant stock.(Braudel, 449)"
+  text="I was in the beginning and I remain now a historian of peasant stock.  (Braudel, 449)"
   %}
+
 
 Fernand Paul Braudel was born on August 24, 1902 in Lumeville, a humble village of two hundred people in north eastern France. Raised from an early age by his paternal grandmother, Braudel moved to the outskirts of Paris in 1908. While his father taught in the city, Braudel attended first the Lycee Voltaire and then the Sorbonne, where he got a degree in history “without difficulty, but also without much enjoyment” (Braudel, 449). Braudel noted the instruction of French economic historian Henri Hauser as “his one agreeable memory” (449) at the Sorbonne. Braudel’s upbringing in the countryside—where he experienced first hand the influence of things like crop cycles and weather patterns on the history of his village—provided the foundation for much of his geographical historical perspectives later in life. 
 
