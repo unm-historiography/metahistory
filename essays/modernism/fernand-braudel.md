@@ -53,7 +53,8 @@ Fernand Paul Braudel was born on August 24, 1902 in Lumeville, a humble village 
 
 {% include aside.html
   class="pullquote"
-  text="I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history. (Braudel, 450)"
+  text="I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history. 
+  (Braudel, 450)"
   %}
 
 
@@ -85,7 +86,8 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 
 {% include aside.html
   class="pullquote"
-  text="Had it not been for my imprisonment, I would surely have written quite a different book. For prison can be a good school. It teaches patience, tolerance. (Braudel, 453)"
+  text="Had it not been for my imprisonment, I would surely have written quite a different book. For prison can be a good school. It teaches patience, tolerance. 
+  (Braudel, 453)"
   %}
 
 
