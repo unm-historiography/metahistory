@@ -82,7 +82,11 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 %}
 
 
-> “Had it not been for my imprisonment, I would surely have written quite a different book. For prison can be a good school. It teaches patience, tolerance.” (Braudel, 453)
+{% include aside.html
+  class="pullquote"
+  text="Had it not been for my imprisonment, I would surely have written quite a different book. For prison can be a good school. It teaches patience, tolerance. (Braudel, 453)"
+  %}
+
 
 From 1940 to 1945, Braudel was a prisoner of war in Nazi Germany. He served at two separate camps—Mainz and Lubeck—finding solace in his writing and in lecturing to fellow prisoners. In his *Personal Testimony*, Braudel writes of the impact that the burden of time and the times had on his historiographical approach. “My vision of history took on its definitive form without my being entirely aware of it…partly as a direct existential response to the tragic times I was passing through” (Braudel, 454). He was able to survive the horrors of the world around him by denying the importance of individual occurrences in favor of histories written around longer time scales. During this period, Braudel wrote “600,000 words of text from memory” (Hufton, 208) on school notebooks he sent out to Febvre. These would become the draft of his magnum opus, *The Mediterranean and the Mediterranean World in the Time of Phillip II*, the book that would define not only the rest of his life but also a shift in 20th century historiography.  
 
