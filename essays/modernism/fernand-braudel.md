@@ -79,7 +79,7 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time. Years later he would write that in prison'that nervous energy makes me more lucid, allows me to meditate for a long time over an argument.'"
+  caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time. Years later he would write that in prison 'that nervous energy makes me more lucid, allows me to meditate for a long time over an argument.'"
   image-url="pow-camp.jpg"
   source-url="https://wikimili.com/en/Oflag_X-C"
 %}
@@ -107,12 +107,12 @@ From 1940 to 1945, Braudel was a prisoner of war in Nazi Germany. He served at t
 {% include figure.html
   class="img-right"
   width="34%"
-  caption="Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris"
+  caption="In 1963 Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris where new  interdisciplinary approaches to history were put to work."
   image-url="maison-homme.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
 %}
 
-The companion article on this site titled “The Annales School” details the influence and implications of these French thinkers; however, the Annales deserves additional attention here for Braudel’s role in its second wave. Braudel worked under Lucien Febvre and Marc Bloch, the original founders of the *Annales* [journal](http://annales.ehess.fr/index.php?220) that would inspire the movement, upon returning from Brazil. His association with Febvre continued even during his time as a prisoner of war as Braudel sent draft after draft of The Mediterranean to Febvre for safekeeping and review. With the publishing of that work in 1949, Braudel gained widespread notoriety and became the preeminent historian in post-war Europe. Following the death of Febvre in 1956, Braudel took over as director of The Annales. In 1968, “he entrusted his editorial responsibilities to a younger generation of historians…but maintained officially up to his own death the direction” (Aymard, 14) of the Annales.  
+The companion article on this site titled “The Annales School” details the influence and implications of these French thinkers; however, the Annales deserves additional attention here for Braudel’s role in its second wave. Braudel worked under Lucien Febvre and [Marc Bloch](https://en.wikipedia.org/wiki/Marc_Bloch), the original founders of the *Annales* [journal](http://annales.ehess.fr/index.php?220) that would inspire the movement, upon returning from Brazil. His association with Febvre continued even during his time as a prisoner of war as Braudel sent draft after draft of *The Mediterranean* to Febvre for safekeeping and review. With the publishing of that work in 1949, Braudel gained widespread notoriety and became the preeminent historian in post-war Europe. Following the death of Febvre in 1956, Braudel took over as director of The Annales. In 1968, “he entrusted his editorial responsibilities to a younger generation of historians…but maintained officially up to his own death the direction” (Aymard, 14) of the Annales.  
 
 Outside of his time with the Annales, Braudel worked as a professor at the College de France, served as “president of the VI section of the Ecole Pratique de Hautes Etudes, and director of the Masion de Sciences de l’Homme” (Hufton, 208).  All the while he continued work on a 1966 revision of The Mediterranean as well as a massive new history on Capitalism which he would publish in 1967 under the title *Civilization and Capitalism*. *The Identity of France*, published posthumously in 1986, examines the history of Braudel’s motherland and is our final glimpse into the mind of “the greatest and most influential historian of our time” (Hufton, 208). 
 
