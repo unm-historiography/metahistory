@@ -17,8 +17,7 @@ Have you ever wondered how *where* you live has influenced *who* you are? Are yo
 Fernand Braudel was many things: a teacher, writer, prisoner, husband, and historian. He was also a man who rejected the significance of individual people and events. For more than fifty years he advocated a history “based on a consideration of physical and material constraints, one in which the individual was subsumed by the environment” (Hufton, 209). What would he think of someone writing his story, searching for meaning in the course of his years instead of in the landscapes he inhabited? Many scholars have argued that Braudel was the most significant historian of the 20th century, but how should he be remembered considering his personal opposition to the histories of ‘great men’? This essay examines the influence he had on historiography in the face of that ironic paradox and argues that **Braudel’s work galvanized a new geographical, quantitative, and long duration study of history.** 
 
 
-### **HIS LIFE**
-#### HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
+### **HIS LIFE:** #### HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
 
 ##### EARLY YEARS
 
@@ -26,7 +25,7 @@ Fernand Braudel was many things: a teacher, writer, prisoner, husband, and histo
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="young-braudel"
+  caption="Young Braudel left the French countryside of his birth to attend better schools in Paris beginning in 1908."
   image-url="young-braudel.jpg"
   source-url="https://gw.geneanet.org/jpbov55?lang=en&n=braudel&oc=0&p=fernand+paul+achille"
 %}
@@ -43,7 +42,11 @@ Fernand Paul Braudel was born on August 24, 1902 in Lumeville, a humble village 
 ### Algeria and Brazil
 
 
-> “I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history.” (Braudel, 450)
+>{% include aside.html
+  class="pullquote"
+  text="I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history. (Braudel, 450)"
+  %}
+
 
 Upon graduation, Braudel was assigned a position teaching history in Constantine, Algeria. As a man in his early twenties, Braudel delighted in the city, the Sahara, and in teaching, despite the fact that he was instructing his students “a superficial history of events…of happenings, of politics, of great men” (Braudel, 450). In the summers, when school was not in session, Braudel spent countless hours at the archives working on a thesis surrounding King Phillip II of Spain. Using an old film camera he purchased from an American cameraman, Braudel took upwards of 2,000 photos a day of documents in the archives, inadvertently becoming “the first user of microfilms” (Braudel, 452). This methodology alone changed the way professionals and novices alike do history, but that was only the beginning. His time in Algeria challenged his Eurocentric view of world and opened his eyes to influences on the other side of the Mediterranean. 
 
