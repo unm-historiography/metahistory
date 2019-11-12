@@ -62,7 +62,7 @@ Upon graduation, Braudel was assigned a position teaching history in Constantine
 {% include figure.html
   class="img-right"
   width="100%"
-  caption="Brazil inspired a new perspective of the influence of the Mediterranean from the other side of the Atlantic."
+  caption="Braudel's time in Brazil inspired a new perspective on the influence of the Mediterranean from the other side of the Atlantic."
   image-url="brazil-1920s.jpg"
   source-url="https://pixels.com/featured/the-praca-da-se-in-sao-paulo-underwood-archives.html"
 %}
