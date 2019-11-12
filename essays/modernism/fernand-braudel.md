@@ -79,7 +79,7 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time."
+  caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time. Years later he would write that in prison'that nervous energy makes me more lucid, allows me to meditate for a long time over an argument.'"
   image-url="pow-camp.jpg"
   source-url="https://wikimili.com/en/Oflag_X-C"
 %}
