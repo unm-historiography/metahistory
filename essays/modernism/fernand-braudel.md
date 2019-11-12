@@ -153,6 +153,12 @@ In the case of The Mediterranean, Braudel tells the story of life during the era
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
 
+{% include aside.html
+  class="pullquote"
+  text="The history of capitalism goes from Hammurabi to Rockefeller.  
+  (Braudel)"
+  %}
+
 ### Methodology and Writing
 
 {% include figure.html
