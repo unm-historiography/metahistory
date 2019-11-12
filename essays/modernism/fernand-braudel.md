@@ -124,7 +124,7 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
 
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="50%"
   caption="Braudel drafted this 1100+ page masterpiece largely from memory."
   image-url="mediterranean-book.jpg"
   source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
