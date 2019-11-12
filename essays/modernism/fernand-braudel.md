@@ -147,7 +147,7 @@ In the case of The Mediterranean, Braudel tells the story of life during the era
 
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="40%"
   caption="Braudel's perspectives on Capitalism blah blah blah."
   image-url="civ-cap-book.jpg"
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
