@@ -10,7 +10,7 @@ date: 2019-10-18
   caption="How the passing of time changes our views on mental disorders"
   image-url="Mental_Disorder_Silhouette.png"
   source-url="https://www.google.com/search?q=mental+disorders&client=firefox-b-1-d&sxsrf=ACYBGNQ2CAOEYDbhmWa2pcDvZAC7HRSc5Q:1571411575549&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjSqIamjKblAhVOoZ4KHcXnCeAQ_AUIESgB&biw=1366&bih=632#imgrc=vfaNvDsSr3ilIM:"
-  %}
+  %} (8)
 
 **Abstract**:
 
