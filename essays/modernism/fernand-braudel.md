@@ -58,17 +58,17 @@ Fernand Paul Braudel was born on August 24, 1902 in Lumeville, a humble village 
 
 Upon graduation, Braudel was assigned a position teaching history in Constantine, Algeria. As a man in his early twenties, Braudel delighted in the city, the Sahara, and in teaching, despite the fact that he was instructing his students “a superficial history of events…of happenings, of politics, of great men” (Braudel, 450). In the summers, when school was not in session, Braudel spent countless hours at the archives working on a thesis surrounding King Phillip II of Spain. Using an old film camera he purchased from an American cameraman, Braudel took upwards of 2,000 photos a day of documents in the archives, inadvertently becoming “the first user of microfilms” (Braudel, 452). This methodology alone changed the way professionals and novices alike do history, but that was only the beginning. His time in Algeria challenged his Eurocentric view of world and opened his eyes to influences on the other side of the Mediterranean. 
 
-In 1935 Braudel accepted a teaching position in Sao Paulo, Brazil. For three years he taught a course on the history of civilization and continued his work in the archives. Braudel claimed that from Brazil “he could see the Mediterranean from outside as a whole” while also getting a glimpse into the past by observing the “still surviving forms of social control and modes of exploitation of the land and of the labor force” reminiscent of Medieval Europe (Aymard, 18). 
-
-Another significant result of Braudel’s time in Brazil was his introduction to the renowned French historian Lucien Febvre in October of 1937. Both men were on board a ship heading back to Europe, Braudel after teaching in Sao Paulo and Febvre after lecturing in Buenos Aires. After twenty days on the water together, Braudel had become “more than a companion to Lucien Febvre…a little like a son (Braudel, 452). By 1939, after more than a decade in the archives, Braudel was ready to start writing his book on the Mediterranean. That same year he but was called to serve in the French army.  
-
 {% include figure.html
   class="img-right"
-  width="49%"
+  width="100%"
   caption="Brazil inspired a new perspective of the influence of the Mediterranean from the other side of the Atlantic."
   image-url="brazil-1920s.jpg"
   source-url="https://pixels.com/featured/the-praca-da-se-in-sao-paulo-underwood-archives.html"
 %}
+
+In 1935 Braudel accepted a teaching position in Sao Paulo, Brazil. For three years he taught a course on the history of civilization and continued his work in the archives. Braudel claimed that from Brazil “he could see the Mediterranean from outside as a whole” while also getting a glimpse into the past by observing the “still surviving forms of social control and modes of exploitation of the land and of the labor force” reminiscent of Medieval Europe (Aymard, 18). 
+
+Another significant result of Braudel’s time in Brazil was his introduction to the renowned French historian Lucien Febvre in October of 1937. Both men were on board a ship heading back to Europe, Braudel after teaching in Sao Paulo and Febvre after lecturing in Buenos Aires. After twenty days on the water together, Braudel had become “more than a companion to Lucien Febvre…a little like a son (Braudel, 452). By 1939, after more than a decade in the archives, Braudel was ready to start writing his book on the Mediterranean. That same year he but was called to serve in the French army.  
 
 
 ### As a Prisoner of War
