@@ -119,7 +119,7 @@ The companion article on this site titled “The Annales School” details the i
 
 Outside of his time with the Annales, Braudel worked as a professor at the College de France, served as president of the VI section of the Ecole Pratique de Hautes Etudes, and director of the Masion de Sciences de l’Homme (Hufton, 208).  All the while he continued work on a 1966 revision of *The Mediterranean* as well as a massive new history on Capitalism which he would publish in 1967 under the title *Civilization and Capitalism*. *The Identity of France*, published posthumously in 1986, examines the history of Braudel’s motherland and is our final glimpse into the mind of “the greatest and most influential historian of our time” (Hufton, 208). 
 
-### **HIS LEGACY:** HOW HIS WORK CHANGED HISTORICAL DISCOURSE AND PRODUCTION
+### **HIS LEGACY:** HOW HIS WORK REPRESENTS A SHIFT IN HISTORIOGRAPHICAL DISCOURSE AND PRODUCTION
 
 
 {% include figure.html
