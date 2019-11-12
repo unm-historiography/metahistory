@@ -157,7 +157,7 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
 
 {% include aside.html
   class="pullquote"
-  text="The history of capitalism goes from Hammurabi to Rockefeller.  
+  text="Capitalism, a certain capitalism, has always existed, as early as ancient Babylon who knew bankers, merchants engaged in distant affairs, and all the instruments of credit: bill of exchange, promissory note, check. In this sense, the history of capitalism goes from Hammurabi to Rockefeller.  
   (Braudel)"
   %}
 
