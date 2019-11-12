@@ -70,6 +70,8 @@ In the 1950’s mental hospitals began to incorporate the practice of *electric 
 
 The International Statistical Institute adopted the first **International Classification of Diseases (ICD)** in 1893. In 1952 the first edition of the **Diagnostic and Statistical Manual (DSM-1)** is published in the United States. As the years progressed, both have revised, and continue to expand their classifications through multiple editions. The ICD-10 is the most current globally, while the DSM-5 is used primarily in the United States. 
 
+The studies in mental disorders today, discuss whether these disorders are innate, or learned, essentially using the primitive nature of this topics founding beliefs, ‘biological or physiological’ causation. One of the most studied areas in the field of mental disorders currently is *psychopathy*. Those most concentrated on are criminal offenders. With them in mind, treatment programs have been developed, as well as professionally accepted ways f diagnosis. This only adds to the fire of confusion when it comes to mental disorders, being that those who have received ‘treatment’, for *psychopathy* prove more likely to reoffend. Current psychologists predict that *microchips* will be developed and installed in specific locations of the brain in those diagnosed with *psychopathy*. This would allow them to function ‘normally’, but changing the neural-wiring of these individuals. This then bringing into question, the moralistic, or ethical speculation of this hypothetical practice. Everything stated in this paragraph can be cited to (6).
+
 Mental disorders throughout history, and into the present, continue to be researched and developed in vastly different ways, however, “the history of psychiatry teaches us to doubt it, by emphasizing the infinitely variable and fluctuating character of psychiatric entities” (2). It is much like the rest of the categories studied by historians, paradoxical and dizzyingly contradicting. We as future historians must be aware of these aspects in order for *progress* to ensue. “The idea that emotional reactions occur reflexively and involuntarily in response to internal and external stimuli persists in the present and continues to make possible and plausible the concept of **mood disorders**” (3). 
 
 {% include figure.html
@@ -93,15 +95,17 @@ Mental disorders throughout history, and into the present, continue to be resear
 (5)Spanos, Nicholas P. 1978. “Witchcraft in Histories of Psychiatry: A Critical Analysis and an Alternative Conceptualization.”
 Psychological Bulletin 85 (2): 417–39. doi:10.1037/0033-2909.85.2.417.
 
-(6)https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/
+(6)Hare, Robert D. 2016. “Psychopathy, the PCL-R, and Criminal Justice: Some New Findings and Current Issues.” Canadian Psychology. https://search.ebscohost.com/login.aspx?direct=true&db=edsbl&AN=RN605837062&site=eds-live&scope=site. 
 
-(7)https://en.wikipedia.org/wiki/Mental_disorder
+(7)https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/
 
-(8)https://www.nytimes.com/2016/10/31/opinion/witchcraft-on-the-campaign-trail.html
+(8)https://en.wikipedia.org/wiki/Mental_disorder
 
-(9)https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy
+(9)https://www.nytimes.com/2016/10/31/opinion/witchcraft-on-the-campaign-trail.html
 
-(10)https://balancedachievement.com/psychology/influential-psychologists/
+(10)https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy
+
+(11)https://balancedachievement.com/psychology/influential-psychologists/
 
 
 
