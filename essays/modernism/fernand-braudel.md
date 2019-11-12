@@ -11,7 +11,10 @@ date: 2019-10-20
   image-url="braudel-main.jpg"
   source-url="https://https://www.historytoday.com/archive/portrait-author-historian-fernand-braudel"
 %}
+
+
 ##### **AN INTRODUCTION TO THE LIFE AND LEGACY OF ONE OF THE 20TH CENTURY'S MOST IMPORTANT HISTORIANS**
+
 
 Have you ever wondered how *where* you live has influenced *who* you are? Are you a person of the desert, the mountains, the sea? Have you ever questioned the relativity of time or thought of time in terms of its relationship to space? I know I have, and that is why I was so drawn to the famed [Annales School](https://unm-historiography.github.io/intro-guide/essays/modernism/annales-school.html) historian **Fernand Paul Braudel (1902-1985)**. That and the fact that he is a wonderful storyteller who writes like a poet. I hope that his life and legacy inspire you as they have me. 
 
@@ -136,6 +139,7 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
   text="Social science virtually abhors the event. Not without good reason; the short term is the most capricious and deceptive form of time.
   (Braudel, 1244)"
   %}
+
 
 ### The Mediterranean
 
