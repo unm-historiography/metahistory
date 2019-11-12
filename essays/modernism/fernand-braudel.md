@@ -121,29 +121,26 @@ Outside of his time with the Annales, Braudel worked as a professor at the Colle
 
 ### **HIS LEGACY:** HOW HIS WORK CHANGED HISTORICAL DISCOURSE AND PRODUCTION
 
+
 {% include figure.html
   class="img-right"
-  width="33%"
-  caption="Braudel's reception in France and abroad..."
-  image-url="braudel-reinventedhistory.jpg"
-  source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
+  width="32%"
+  caption="Braudel drafted this 1100+ page masterpiece largely from memory."
+  image-url="mediterranean-book.jpg"
+  source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
 %}
+
+{% include aside.html
+  class="pullquote"
+  text="Social science virtually abhors the event. Not without good reason; the short term is the most capricious and deceptive form of time.
+  (Braudel, 1244)"
+  %}
 
 ### The Mediterranean
 
 What began as a thesis on the life of King Phillip II of Spain ultimately became a thousand plus page discussion on the history of the Mediterranean using a three part notion of time in which common time was set on one side so that the long duration effects of geography, climate, and sociology came to the forefront (Hufton, 112). **The Braudelian perspective of time centers around the idea that all historical events could be examined in distinct time scales: the *longue duree*, the *moyenne duree*, and the *courte duree*.** “The longue duree, virtually boundless time, perhaps extending over centuries of common time during which the parameters of human existence were unchanged” (Hufton, 112) was the most influential scale according to Braudel. The moyenne duree relates to “anything in common time perhaps from fifty years to a century” (Hufton, 112) where shifts in trade cycles or urban development are witnessed, for example. Finally, the courte duree refers to “phenomena such as abnormal harvests or short industrial slumps or temporary dislocation which might…be the product of war, occupation, etc.” (112). In the case of The Mediterranean, Braudel tells the story of life during the era of King Phillip from all of these time scales to “teach how, in the lands around the ever-changing and never-changing sea, time and space, history and geography together shaped one coherent past, present, and future” (Marino, 649). **His emphasis on the longue duree devalued individual people and events thus conflicting with contemporary historiographical approaches that focused largely on political history and biography.**  
 
 ### Capitalism
-
-### Methodology and Writing
-
-{% include figure.html
-  class="img-right"
-  width="32%"
-  caption="Braudel wrote this 1100 page masterpiece largely from memory."
-  image-url="mediterranean-book.jpg"
-  source-url="https://www.goodreads.com/book/show/171362.The_Mediterranean_and_the_Mediterranean_World_in_the_Age_of_Philip_II_Volume_I"
-%}
 
 {% include figure.html
   class="img-right"
@@ -153,12 +150,23 @@ What began as a thesis on the life of King Phillip II of Spain ultimately became
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
 %}
 
+### Methodology and Writing
+
+
 {% include figure.html
   class="img-right"
   width="32%"
   caption="Braudel's last major work..."
   image-url="identity-of-france.jpg"
   source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Braudel's reception in France and abroad..."
+  image-url="braudel-reinventedhistory.jpg"
+  source-url="https://tv-programme.com/fernand-braudel-l-homme-qui-a-reinvente-l-histoire_documentaire/"
 %}
 
 
