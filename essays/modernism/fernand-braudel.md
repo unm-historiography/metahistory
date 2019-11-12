@@ -7,7 +7,7 @@ date: 2019-10-20
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="From peasant roots in the countryside of eastern France to one of the most preemminent historians of the 20th century, Braudel's life story gives context for the evolution of historical thought based on his work."
+  caption="From peasant roots in the countryside of eastern France to one of the most preeminent historians of the 20th century, Braudel's life story gives context for the evolution of historical thought based on his work."
   image-url="braudel-main.jpg"
   source-url="https://https://www.historytoday.com/archive/portrait-author-historian-fernand-braudel"
 %}
