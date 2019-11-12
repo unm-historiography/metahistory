@@ -17,7 +17,7 @@ Have you ever wondered how *where* you live has influenced *who* you are? Are yo
 Fernand Braudel was many things: a teacher, writer, prisoner, husband, and historian. He was also a man who rejected the significance of individual people and events. For more than fifty years he advocated a history “based on a consideration of physical and material constraints, one in which the individual was subsumed by the environment” (Hufton, 209). What would he think of someone writing his story, searching for meaning in the course of his years instead of in the landscapes he inhabited? Many scholars have argued that Braudel was the most significant historian of the 20th century, but how should he be remembered considering his personal opposition to the histories of ‘great men’? This essay examines the influence he had on historiography in the face of that ironic paradox and argues that **Braudel’s work galvanized a new geographical, quantitative, and long duration study of history.** 
 
 
-### **HIS LIFE:** #### HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
+### **HIS LIFE**: HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
 
 ##### EARLY YEARS
 
@@ -42,7 +42,7 @@ Fernand Paul Braudel was born on August 24, 1902 in Lumeville, a humble village 
 ### Algeria and Brazil
 
 
->{% include aside.html
+{% include aside.html
   class="pullquote"
   text="I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history. (Braudel, 450)"
   %}
