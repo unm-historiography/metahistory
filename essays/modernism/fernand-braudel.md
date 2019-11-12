@@ -20,7 +20,7 @@ Fernand Braudel was many things: a teacher, writer, prisoner, husband, and histo
 
 ### **HIS LIFE**: HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
 
-#### EARLY YEARS
+### EARLY YEARS
 
 
 {% include figure.html
