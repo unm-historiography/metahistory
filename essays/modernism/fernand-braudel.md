@@ -47,7 +47,7 @@ Fernand Paul Braudel was born on August 24, 1902 in Lumeville, a humble village 
 {% include figure.html
   class="img-right"
   width="49%"
-  caption="Braudel got a position teaching in Algeria in the 1920s, a profession that he would maintain for the next sixty or so years."
+  caption="Braudel got a position teaching in Algeria in the 1920s, a profession that he would maintain for momre than sixty years."
   image-url="algiers-1920s.jpg"
   source-url="https://www.hippostcard.com/listing/boulevard-de-la-republique-alger-algeria-africa-1910-1920s/17289145"
 %}
