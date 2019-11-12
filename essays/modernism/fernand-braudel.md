@@ -33,7 +33,8 @@ Fernand Braudel was many things: a teacher, writer, prisoner, husband, and histo
 
 {% include aside.html
   class="pullquote"
-  text="I was in the beginning and I remain now a historian of peasant stock.  (Braudel, 449)"
+  text="I was in the beginning and I remain now a historian of peasant stock.  
+  (Braudel, 449)"
   %}
 
 
