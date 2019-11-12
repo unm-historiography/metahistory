@@ -155,7 +155,7 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="40%"
   caption="Braudel's perspectives on Capitalism blah blah blah."
   image-url="civ-cap-book.jpg"
   source-url="https://www.amazon.com/Perspective-World-Civilization-Capitalism-15Th-18th/dp/0520081161"
