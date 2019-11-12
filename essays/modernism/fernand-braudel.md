@@ -172,14 +172,23 @@ In the case of The Mediterranean, Braudel tells the story of life during the era
 ### Bibliography
 
 Braudel, Fernand. “Personal Testimony.” The Journal of Modern History 44, no. 4 (1972): 448–67.
+
 Caygill, Howard. “Braudel’s Prison Notebooks.” History Workshop Journal, no. 57 (2004): 151–60.
+
 Hanson, Robert C. “Fernand Braudel, The Perspective of the World, Vol. III of Civilization and Capitalism, 15th-18th Century,” 2005.
+
 Harris, Olivia. “Braudel: Historical Time and the Horror of Discontinuity.” History Workshop Journal, no. 57 (2004): 161–74.
+
 Marino, John A. “The Exile and His Kingdom: The Reception of Braudel’s Mediterranean.” The Journal of Modern History 76, no. 3 (2004): 622–52. https://doi.org/10.1086/425442.
+
 McNeill, William H. “Fernand Braudel, Historian.” The Journal of Modern History 73, no. 1 (2001): 133–46. https://doi.org/10.1086/319882.
+
 “The ‘Annales Movement’ and Its Historiography: A Selective Bibliography.” French Historical Studies 18, no. 1 (1993): 346–55.
+
 Vansina, Jan. “For Oral Tradition (But Not against Braudel).” History in Africa 5 (1978): 351–56. https://doi.org/10.2307/3171497.
+
 Wallerstein, Immanuel. “Braudel on Capitalism, or Everything Upside Down.” The Journal of Modern History 63, no. 2 (1991): 354–61.
+
 Willis, F. Roy. “The Contribution of the ‘Annales’ School to Agrarian History: A Review Essay.” Agricultural History 52, no. 4 (1978): 538–48.
 
 
