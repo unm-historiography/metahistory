@@ -155,15 +155,6 @@ In the case of The Mediterranean, Braudel tells the story of life during the era
 
 ### Methodology and Writing
 
-
-{% include figure.html
-  class="img-right"
-  width="32%"
-  caption="Braudel's last major work..."
-  image-url="identity-of-france.jpg"
-  source-url="https://www.amazon.com/Identity-France-One-History-Environment/dp/0060160217"
-%}
-
 {% include figure.html
   class="img-right"
   width="33%"
