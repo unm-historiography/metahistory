@@ -16,7 +16,7 @@ date: 2019-10-21
 
 > "The most dangerous histories are those which are believed wholly and without hesitation" - Prof. Fred Gibbs
 
-### HISTORIOGRAPHY
+### Abstract
 
 This essay will examine the official historical account of the genocide that occurred in Rwanda, 1994, and aim to compare the similarities and differences of how the history of the genocide was written, portrayed, understood, and perceived today. The reality of ‘what really happened’ and the country’s national history of ‘what really happened’ are far from the same. As history is often written and remembered by the victors, a closer examination of the Rwandan genocide reveals a story of government coverups, secrecy, and the suppression of voice by many. Historiography is the study of how history is written, understood, perceived, and interpreted. I will attempt to show how the history of a nation was intentionally manipulated, by the method of partiality, to restore the practical necessity of order within the country. 
 
@@ -65,7 +65,6 @@ On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and preident of 
 Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Any one who was confimred to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the countries cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100 day massacre, Tutsi civilian were indiscrimately targeted including men, women, and children.
 
 
-
 #### RPF Control
 
 In 1990, the RPF led a military coalition against the MRND to retake control of the country. After months of fighting, the RPF began to successfully capture the Rwandan cities. By July 4th, 1994, the RPF captured capital Kigali and on July 18th, 1994, sucessfully gained control of the entire country. The elected president, Paul Kagame, rose to power as the national president of Rwanda and remains president today, 25 years later.
@@ -96,13 +95,17 @@ Paul Kagame was indeniably involved in the delegation of military command connec
 
 ### Partiality - Remembrance, Memorials, and History 
 
-The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website, for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all the victims. The main title states, "WE REMEMBER THE VICTIMS OF THE GENOCIDE AGAINST THE TUTSI AND WE TEACH ABOUT PEACE" 
-This example of partiality shows a direct pattern to historiagraphy of how history is studied, as well as how history and reality are not always the same. 
+The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website, for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all victims. The main title states, "WE REMEMBER THE VICTIMS OF THE GENOCIDE AGAINST THE TUTSI AND WE TEACH ABOUT PEACE" 
+This example goes to show that the rememberance of victims is to focus solely on the Tutsi but neglects to remember the Hutu victims as well. This partiality of how the country remembers its history is a historiographical alteration that reflects a change from history and the past.
 
 ### Genocide Denial 
 
 Genocide Denial in Rwanda is not the denial that genocide ever occurred, rather, it is the "assertion that the Rwandan genocide did not occur in the manner or to the extent described by scholarship." In an attempt to cover up the knowledge of secret information and criminal actions by government offcials involved in the genocide, the Rwandan government actively suppresses all public speech that contradicts what their official story is. Any person(s) caught speaking outside what is believed to be the true "history" is considered to be a genocide denier and is subject to incarceration. The article, "Denying Genocide or Denying Free Speech? A Case Study of the Application of Rwanda’s Genocide Denial Laws" examines the country's laws and attempts to "address a specific aspect of Rwanda’s oppressive political climate: the use of criminal prosecutions under the country’s genocide denial laws to restrict free expression." it is was determined after examination of the federal genocide denial laws that "Rwanda’s genocide denial laws
-fail to meet the requisite standard of precision under international law". I
+fail to meet the requisite standard of precision under international law". The legal and political oppression of speech to discuss the history of the genocide is a historiographical distortion between the reality of the past, the history of the pasy, and the ability for one to study it. Because the study of history as an academic disipline is largely collaborative, the oppression of such inquiry inhibits the ability for open and collaborate understanding of such history to exist. Those that oppose the legal and political authority and seek to find 'truth' are at risk of persecution, which establishes such 'truth' as the story told exclusively by the Rwandan government. 
+
+### Conclusion
+
+Historiography the method used by historians to study the way history is written, viewed, intrepreted, and understood. The story of Rwanda tells a story of country that underwent a tragedy of war crimes. The stories of the people and the histories they experienced often differ from a singular government entity that tells of it national history often different from those of the people. In this instance, the historiography of an altered and distorted history allowed for the cover ups of government atrocites, immunity of criminal prosecution, and the oppresion of free inquiry and investigation to seek 'truth'. It is also an example of how partiality of history can be intentionally manipulated to fit a national narrative and how such historiographical consequences can still exist today.  
 
 
 {% include figure.html
