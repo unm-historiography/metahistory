@@ -71,6 +71,23 @@ On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and preident of 
 #### 100 Day Massacre
 
 
+
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Rwanda"
+  image-url="RWANDAGENOCIDE15.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
+%}
+
+
+Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Any one who was confimred to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the countries cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100 day massacre, Tutsi civilian were indiscrimately targeted including men, women, and children.
+
+
+#### RPF Control
+
+
 {% include figure.html
   class="img-right"
   width="50%"
@@ -79,10 +96,6 @@ On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and preident of 
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Any one who was confimred to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the countries cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100 day massacre, Tutsi civilian were indiscrimately targeted including men, women, and children.
-
-
-#### RPF Control
 
 In 1990, the RPF led a military coalition against the MRND to retake control of the country. After months of fighting, the RPF began to successfully capture the Rwandan cities. By July 4th, 1994, the RPF captured capital Kigali and on July 18th, 1994, sucessfully gained control of the entire country. The elected president, Paul Kagame, rose to power as the national president of Rwanda and remains president today, 25 years later.
 
@@ -151,15 +164,6 @@ Historiography is the method used by historians to study the way history is writ
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE15.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
 
 
 
