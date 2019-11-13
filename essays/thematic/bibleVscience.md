@@ -7,7 +7,7 @@ date: 2019-10-20
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="The battle of bible vs science is one that still rages on today."
+  caption="The battle between bible and science is one that still rages on today."
   image-url="BvS1.jpg"
   source-url="https://www.youtube.com/watch?v=AO1XnnOzJlg"
 %}
@@ -21,7 +21,7 @@ As we stated above, this battle first shows itself in _Ancient Rome_. Christiani
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Model of Geocentrism."
+  caption="Model of Geocentrism that was influence by taking the Bible literally."
   image-url="bvs2.png"
   source-url="https://simple.wikipedia.org/wiki/Geocentrism"
 %}
@@ -32,7 +32,7 @@ This belief went unchallenged for a while because it was written in the scriptur
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Galileo Galilei."
+  caption="Galileo Galilei was one of the first to challenge the church in the name of science."
   image-url="bvs3.jpg"
   source-url="https://en.wikipedia.org/wiki/Galileo_Galilei"
 %}
@@ -41,7 +41,7 @@ Galileo made some observations of the moon's shape, and the craters or valleys l
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Model of Heliocentrism."
+  caption="The model of Heliocentrism was the fisrt of instances where science changed the way the world worked from what the Churh claimed."
   image-url="bvs4.gif"
   source-url="https://people.highline.edu/iglozman/classes/astronotes/history.htm"
 %}
@@ -50,7 +50,7 @@ _Galileo_ knew that this new thought process would ruffle some feathers, so he k
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Famous letter from Galileo."
+  caption="Galileo tried to not upset the Church too much with his findings by sending of letters to get a sense of how well it would be recieved."
   image-url="bvs5.jpg"
   source-url="https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina"
 %}
@@ -66,7 +66,7 @@ Galileo’s discovery and claims against the literal interpretation of the Bible
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Bishop Basil the Great"
+  caption="Bishop, Basil the Great, fought hard against those who challenged the Church customs and beliefs."
   image-url="bvs6.jpg"
   source-url="https://www.monasteryicons.com/product/st-basil-the-great-icon-704/icons-of-saints"
 %}
@@ -80,20 +80,20 @@ Along with this era of **independence**, there was also a major shift in how the
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Great Christian mind, Origen of Alexandria"
+  caption="Great Christian mind, Origen of Alexandria, worked to get churchs on the same doctrinal page."
   image-url="bvs7.jpg"
   source-url="https://www.iep.utm.edu/origen-of-alexandria/"
 %}
 
-**Origen of Alexandria** was one of the great Christian theologians of his time and he was also on the side of getting away from a literal interpretation. Origen had argued that both the world and scripture have embedded within them potent symbols. “The relationship (between the invisible and the visibly) does not obtain only with creatures, the Divine Scripture itself is written with wisdom of a rather similar sort.” (Harrison, pg 19) Origen made a claim that certain passages of scripture have no literal sense at all, and that others, when taken literally, could reasonably be dismissed as ‘absurd and impossible.’ (Harrison, pg 19)
+[**Origen of Alexandria**](https://www.iep.utm.edu/origen-of-alexandria/) was one of the great Christian theologians of his time and he was also on the side of getting away from a literal interpretation. Origen had argued that both the world and scripture have embedded within them potent symbols. “The relationship (between the invisible and the visibly) does not obtain only with creatures, the Divine Scripture itself is written with wisdom of a rather similar sort.” (Harrison, pg 19) Origen made a claim that certain passages of scripture have no literal sense at all, and that others, when taken literally, could reasonably be dismissed as ‘absurd and impossible.’ (Harrison, pg 19)
 
 The step away from the literal interpretation left a gap in the Bible and its relationship to the natural world. This gap was quickly filled in by the **Two Books** metaphor. This metaphor states that God gave mankind information, or revelation, through different, but coordinated sources. The first source is the Bible, while the other one is the world (God’s creation). This metaphor appealed to the masses because not everyone knew how to read, or had the scriptures available to them, however one does not need to know how to read to observe the beauty of God’s creation.
 
-Multiple Christian theologians and scholars supported this metaphor. **John Chrysostom** was the Archbishop of Constantinople and was one of the main figures to support this idea. “If God had given instruction by means of books, and of letter, he who knew letters would have learnt what was written, but the illiterate man would have gone away without receiving any benefit… This however cannot be said with respect to the heavens and every man that walks upon the earth, shall hear this voice; for not by means of the ears, but through the sight, it reaches our understanding.” (Blackwell, pg 12
+Multiple Christian theologians and scholars supported this metaphor. **John Chrysostom** was the Archbishop of Constantinople and was one of the main figures to support this idea. “If God had given instruction by means of books, and of letter, he who knew letters would have learnt what was written, but the illiterate man would have gone away without receiving any benefit… This however cannot be said with respect to the heavens and every man that walks upon the earth, shall hear this voice; for not by means of the ears, but through the sight, it reaches our understanding.” (Blackwell, pg 12)
 
-It was this strong connection to the natural world and the emphasis on God’s creation that led to the biggest battle science or the Bible has ever seen.
+All of these paradigm shifts or changing of philosphies of looking at the Bible was spurned on by the advancement of knowledge in the pursuit of science. The more that was understood about the world the more the persception of the Bible changed. It was this strong connection to the natural world and the emphasis on God’s creation that led to the biggest battle science or the Bible has ever seen.
 
-### The never ending war
+### Evolution 
 
 {% include figure.html
   class="img-right"
@@ -101,33 +101,37 @@ It was this strong connection to the natural world and the emphasis on God’s c
   caption="Darwin and his theory of evolution shook things up."
   image-url="bvs8.jpg"
   source-url="https://www.biography.com/scientist/charles-darwin"
-%}
+%}  
 
 The developments of science led to advances and a wealth of knowledge about the world that we live in. This was highlighted by the **Darwin’s theory of evolution**. Darwin’s theory was the start of science’s direct challenge to the Bible’s account of God being the ultimate creator of the world. The challenge sparked a war between an unmovable object and an unstoppable force. Science and the Bible go head to head in a battle that is still being fought to this very day. 
 
-When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have changed/evolved over time; there is no possible way anyone can dispute that. The challenge that has the Bible and science at each others throat is the _big bang against creation_. 
+When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have adapted over time; there is no possible way anyone can dispute that. The challenge that has the Bible and science at each others throat is the _big bang against creation_. 
 
-This battle hit the headlines in America in 1925, when a Tennessee school teacher, **John Scopes**, taught evolution. The trial of John Scopes made national news, and pushed this battle into the minds of the public. 
+This battle hit the headlines in America in 1925, when a Tennessee school teacher, [**John Scopes**](https://www.history.com/topics/roaring-twenties/scopes-trial), taught evolution. The trial of John Scopes made national news, and pushed this battle into the minds of the public. 
 
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="Teacher John Scopes turns world upside down by teaching evolution."
+  caption="Teacher John Scopes turns world upside down by teaching evolution in American classroom."
   image-url="bvs10.jpg"
   source-url="https://flchistory281groupc.wordpress.com/2018/03/05/the-scopes-trial/"
 %}
 
-Without going into too much detail, the **big bang theory** is based on a sudden appearance of organisms that, over long periods of time, have evolved into life forms which resulted in mankind. Those on the Bible side of things would counter that the big bang event, science claims occurred, was actually God creating the earth and everything on it; the evolution that we have seen over the years is part of His **intelligent design**. Science would then counter, by pointing out flaws in the proposed intelligent design; such as the jaw seemingly not designed to adequately fit all of the human adult teeth, and hence requires the removal of ones wisdom teeth. 
+Without going into too much detail, the **big bang theory** is based on a sudden appearance of organisms that, over long periods of time, have evolved into life forms which resulted in mankind. Those on the Bible side of things would counter that the event science claims the big bang, was actually God creating the earth from nothing. The adaptation that we have seen over the years is part of His **intelligent design**. Science would then counter, by pointing out flaws in the proposed intelligent design; such as the jaw seemingly not designed to adequately fit all of the human adult teeth, and hence requires the removal of ones wisdom teeth. 
 
-Another point of conflict is the age of the earth. For the earth to fit into the **big bang theory**, the earth would have required millions of years to have evolved from nothing into life as we know it today. For **creation theorists**, they paint the earth in a much younger time span. Even those in the Christian community argue over taking the story of creation literally; as God created the earth in six, 24 hour, days.  The **Gap theory**, which ages the earth a little more by placing a sizable gap between the first and second day in the story of creation********************.   
+### AGE IS MORE THAN JUST A NUMBER
 
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="Creation vs big bang"
+  caption="The age of the Earth is crutial to both arguments."
   image-url="bvs9.jpg"
   source-url="https://creation.com/can-christians-add-big-bang-to-bible"
 %}
+
+Another point of conflict is the age of the earth. For the earth to fit into the **big bang theory**, the earth would have required millions of years to have evolved from nothing into life as we know it today. For **creation theorists**, they paint the earth in a much younger time span. Even those in the Christian community argue over taking the story of creation literally; as God created the earth in six, 24 hour, days. In this scenario the first book of the Bible, Gensis========= documentary, is looked at as a histrocal source of how the world came about.   
+
+The [**Gap theory**](https://biblicalscienceinstitute.com/uncategorized/the-gap-theory/), came about in response to the huge disparity of the earth's age between evolution, science, and creation, the Bible. In an attempt to bridge this major gap some in the Christian community theorized that there was a significant amount of time between Gensis 1:1 (God creating the heavens and earth) and Gensis 1:2 (the Earth being formless, empty, and covered in darkness). This theory has minimal supporters in the Christian community, but it is interesting to see how science has once again influenced the lens through which the Bible is trying to be viewed.     
 
 With all of that said, there is no way on earth that science, or the Bible, can prove their own theories without a shadow of doubt; this battle will continue until the end of time. Some have voiced their opinions that the Bible, and Christianity, may have bitten off more than they can chew by trying to validate the _Bible using scientific means_. As the evangelical writer and religion professor **Randall Balmer** points out, confronting the public with objective evidence, attempting to show proff, of the Bible as literal truth is a mistake. “Paradoxically, when the Religious Right asserts intelligent design is science, it implies that faith in God is… inadequate, that it needs the imprimatur of the scientific method.” (Krattenmaker) “I rather see that religious beliefs should seek justification on the solid rocks of faith and revelation, not on scientific knowledge, which by its very nature is never definitive or forever valid. (Ayala, pg 76)
 
@@ -135,7 +139,7 @@ With all of that said, there is no way on earth that science, or the Bible, can 
 
 With everything that has transpired between Science and the Bible, it is fair that think that they have trust issues with each other; but moving forward, it seems best to put the past behind them. To get the most out of this relationship, it seems there to be a middle ground moving forward, and the first step involves each side understanding their roles. “Of course, in their search for the truth science and religion are exploring different dimensions of the human encounter with reality. Science is concerned with impersonal encounter. This is a realm in which experience can be manipulated and repeated as often as desired…. The attempt to manipulate God and put God to the test is the sinful error of magic. It is in this rich and profound realm of personal and transpersonal experience that religion pursues its quest for truth.” (Polkinghorne, pg 158)
 
-In the end, there seems to be grey area where both science and the Bible can not only coexist but thrive. “It shows that faith enables a deeper experience of reality, beyond the materialism of the modern worldview to a view that owns and reckons with all of the knowledge with which we have been endowed by both science and religious faith. It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
+There seems to be grey area where both science and the Bible can not only coexist but thrive. “It shows that faith enables a deeper experience of reality, beyond the materialism of the modern worldview to a view that owns and reckons with all of the knowledge with which we have been endowed by both science and religious faith. It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
 
 ### _BIBLIOGRAPHY_
 
