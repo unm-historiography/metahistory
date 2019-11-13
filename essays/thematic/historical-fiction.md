@@ -16,6 +16,18 @@ Literary writing spans a broad spectrum ranging from fiction (imaginative and/or
 
 It might be better to ask, “Can any of these genres not only entertain us but better inform us about history?" In exploring the question, let’s look at some examples to examine several of these genres as a means of gaining a greater understanding and appreciation of the academic discipline of history.
 
+### Narrative and the ‘Rosenberg Paradox’
+
+Before we dig deep into the question at hand—the utility of historical fiction in the study of history—we must first take a brief look at a primary tool used in history and every other field of endeavor: **Narrative**.  Human history, even our lives today, is wrought with narrative.  But what is narrative?  Can history or anything else, for that matter, be communicated without it?
+
+[Narrative](https://www.vocabulary.com/dictionary/narrative) is that process of conveying information through a story.  With the exception of numerical data, everything we say and write is part of a narrative.  We are story tellers at heart, and it is through stories that we add meaning to events, and data.  Though argued by many—including [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault), [Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard), and [Munslow](https://en.wikipedia.org/wiki/Alun_Munslow)— it is [Alex Rosenberg](https://en.wikipedia.org/wiki/Alexander_Rosenberg) who makes the most direct assault on narrative’s utility painting a bold target on historians use of the tool.  
+
+Rosenberg states that narrative clouds our understanding—tainting—the information presented [Rosenberg].  Though deeply ingrained in who we are as human beings , narrative is something that we must excise from how history is told, adopting the more sterile [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to communicate history.   
+
+Ironically, the very vehicle they wish to cast aside is precisely the tool they use communicate information to  enhance our understanding.  Rosenberg admits that he, as much as anyone, is a “victim of narrative.”  Like historians, philosophers, doctors, accountants, and scientists are dependent on narrative.  Without it narrative, in some form, information loses meaning and falls on deaf ears.  
+
+Here is the paradox of Rosenberg’s argument: with narrative information (history) is tainted; without it there is no meaning, it devolves to datapoint.
+
 ### What the Genres?
 
 {% include figure.html class="img-left" width=“33%” caption="" image-url="fiction-narrative.png" %}
