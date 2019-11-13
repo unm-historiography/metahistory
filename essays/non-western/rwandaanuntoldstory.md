@@ -136,11 +136,6 @@ population of seven million, over half had been directly affected." -United Nati
 
 #### International Criminal Tribunal
 
-In November, 1994, the United Nations establsihed the International Criminal Tribunal for Rwanda. It's sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighbouring States, between 1 January 1994 and 31 December 1994" (5). It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targetted criminals and made a direct effort to incarcerate the individuals that were responsible. 
-
-
-#### Presidential Immunity 
-
 
 {% include figure.html
   class="img-right"
@@ -149,6 +144,24 @@ In November, 1994, the United Nations establsihed the International Criminal Tri
   image-url="RWANDAGENOCIDE8.jpg"
   source-url="https://www.globalresearch.ca/commemorating-rwandan-genocide-senate-resolution-praise-blood/5675702"
 %}
+
+
+In November, 1994, the United Nations establsihed the International Criminal Tribunal for Rwanda. It's sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighbouring States, between 1 January 1994 and 31 December 1994" (5). It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targetted criminals and made a direct effort to incarcerate the individuals that were responsible. 
+
+
+#### Presidential Immunity 
+
+
+
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Rwanda"
+  image-url="RWANDAGENOCIDE17.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
+%}
+
 
 Paul Kagame was indeniably involved in the delegation of military command connected to the murders that occurred by the RPF in the 1994 invasion to retake Rwanda. He has been accused by many for the assasination of President Juvenal Habyarimana which ended the Arusha Peace Accords and erupted violence and ended the cease-fire. He was also in command of the RPF during the Kibeho massacre. Kagame has denied all accusations agaoinst him and these accusations cannot lead to criminal prosecution against him because of the legal immunity has as president. In 2017, President Paul Kagame won his third seven-year election by a landslide victory recieving over 98.79% of the vote. One of the Kagames political rivals, Diana Rwigara, an outspoken critic of Kagame, was arrested shortly after the election for alleged offenses against state security. Also, Syridio Dusabumuremyi, a political outspoken critic of Kagame from the United Democratic Forces, was suspiciously found dead with his throat cut and stab wounds to his body. No supspect was connected to the murder, but fowl play and political intidation from Kagame has been speculated by many. The cumulation of presidential immunity, fear of persecution on opposing political rivals, and accreditation order restoration to supporters, all help President Paul Kagame establish himself as one who evades justice from genocidal reality due to his power and position. The history that is written and will be remembered of Paul Kagame by those who support him will often be skewed by the reality of his actions and the ability to "play his cards" so that he is remebered as a hero rather than a villain. 
 
@@ -197,16 +210,6 @@ Historiography is the method used by historians to study the way history is writ
 
 
 
-
-
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE17.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
 
 
 {% include figure.html
