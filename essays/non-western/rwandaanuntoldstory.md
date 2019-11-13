@@ -154,18 +154,6 @@ Paul Kagame was indeniably involved in the delegation of military command connec
 
 ### Partiality - Victims, Memorials, and History 
 
-The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website (6), for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all victims. The main page states, "We remember the victims of the genocide **against the Tutsi** and we teach about peace." 
-The memorial website also states, "The Kigali Genocide Memorial is the final resting place for more than 250,000 victims of the Genocide **against the Tutsi.**" These examples of the memorial website goes to show that the rememberance of victims is to focus solely on the Tutsi victims but neglects to remember or commemoratr the Hutu victims as well. The reality of the past reveals that atrocities were committed on both sides and victims should be remembered by both sides as well. This partiality of how the country remembers its history is a historiographical alteration that reflects a change from history and the past.
-
-### Genocide Denial 
-
-Genocide Denial in Rwanda is not the denial that genocide ever occurred, rather, it is the "assertion that the Rwandan genocide did not occur in the manner or to the extent described by scholarship." In an attempt to cover up the knowledge of secret information and criminal actions by government offcials involved in the genocide, the Rwandan government actively suppresses all public speech that contradicts what their official story is. Any person(s) caught speaking outside what is believed to be the true "history" is considered to be a genocide denier and is subject to incarceration. The article, "Denying Genocide or Denying Free Speech? A Case Study of the Application of Rwanda’s Genocide Denial Laws" examines the country's laws and attempts to "address a specific aspect of Rwanda’s oppressive political climate: the use of criminal prosecutions under the country’s genocide denial laws to restrict free expression." it is was determined after examination of the federal genocide denial laws that "Rwanda’s genocide denial laws
-fail to meet the requisite standard of precision under international law". The legal and political oppression of speech to discuss the history of the genocide is a historiographical distortion between the reality of the past, the history of the pasy, and the ability for one to study it. Because the study of history as an academic disipline is largely collaborative, the oppression of such inquiry inhibits the ability for open and collaborate understanding of such history to exist. Those that oppose the legal and political authority and seek to find 'truth' are at risk of persecution, which establishes such 'truth' as the story told exclusively by the Rwandan government. 
-
-### Conclusion
-
-Historiography is the method used by historians to study the way history is written, viewed, intrepreted, and understood. The story of Rwanda tells a story of country that underwent a tragedy of war crimes. The stories of the people and the histories they experienced often differ from a singular government entity that tells of it national history often different from those of the people. In this instance, the historiography of an altered and distorted history allowed for the cover ups of government atrocites, immunity of criminal prosecution, and the oppresion of free inquiry and investigation to seek 'truth'. It is also an example of how partiality of history can be intentionally manipulated to fit a national narrative and how such historiographical consequences can still exist today.  
-
 
 {% include figure.html
   class="img-right"
@@ -184,6 +172,31 @@ Historiography is the method used by historians to study the way history is writ
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
+The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website (6), for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all victims. The main page states, "We remember the victims of the genocide **against the Tutsi** and we teach about peace." 
+The memorial website also states, "The Kigali Genocide Memorial is the final resting place for more than 250,000 victims of the Genocide **against the Tutsi.**" These examples of the memorial website goes to show that the rememberance of victims is to focus solely on the Tutsi victims but neglects to remember or commemoratr the Hutu victims as well. The reality of the past reveals that atrocities were committed on both sides and victims should be remembered by both sides as well. This partiality of how the country remembers its history is a historiographical alteration that reflects a change from history and the past.
+
+### Genocide Denial 
+
+Genocide Denial in Rwanda is not the denial that genocide ever occurred, rather, it is the "assertion that the Rwandan genocide did not occur in the manner or to the extent described by scholarship." In an attempt to cover up the knowledge of secret information and criminal actions by government offcials involved in the genocide, the Rwandan government actively suppresses all public speech that contradicts what their official story is. Any person(s) caught speaking outside what is believed to be the true "history" is considered to be a genocide denier and is subject to incarceration. The article, "Denying Genocide or Denying Free Speech? A Case Study of the Application of Rwanda’s Genocide Denial Laws" examines the country's laws and attempts to "address a specific aspect of Rwanda’s oppressive political climate: the use of criminal prosecutions under the country’s genocide denial laws to restrict free expression." it is was determined after examination of the federal genocide denial laws that "Rwanda’s genocide denial laws
+fail to meet the requisite standard of precision under international law". The legal and political oppression of speech to discuss the history of the genocide is a historiographical distortion between the reality of the past, the history of the pasy, and the ability for one to study it. Because the study of history as an academic disipline is largely collaborative, the oppression of such inquiry inhibits the ability for open and collaborate understanding of such history to exist. Those that oppose the legal and political authority and seek to find 'truth' are at risk of persecution, which establishes such 'truth' as the story told exclusively by the Rwandan government. 
+
+### Conclusion
+
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Rwanda"
+  image-url="RWANDAGENOCIDE.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
+%}
+
+
+
+Historiography is the method used by historians to study the way history is written, viewed, intrepreted, and understood. The story of Rwanda tells a story of country that underwent a tragedy of war crimes. The stories of the people and the histories they experienced often differ from a singular government entity that tells of it national history often different from those of the people. In this instance, the historiography of an altered and distorted history allowed for the cover ups of government atrocites, immunity of criminal prosecution, and the oppresion of free inquiry and investigation to seek 'truth'. It is also an example of how partiality of history can be intentionally manipulated to fit a national narrative and how such historiographical consequences can still exist today.  
+
+
+
 
 
 
@@ -194,15 +207,6 @@ Historiography is the method used by historians to study the way history is writ
   image-url="RWANDAGENOCIDE17.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
-
 
 
 {% include figure.html
