@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bede
-subtitle: The Venerable Bede, and his contributions to medieval and modern historiography
+subtitle: A Case Study in Medieval Historiography
 date: 2019-11-03
 author: Eamon Bisbee
 ---
