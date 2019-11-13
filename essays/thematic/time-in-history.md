@@ -87,7 +87,12 @@ For the Jews as well as the Christians, time was about the present and the futur
  
 ### Teaching Linear History 
 
-Today a linear view of history is taught in schools. In school, there is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilization. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__.  Time can be used as a method to write history in a particular way or to teach history in a certain way. When talking about the Mayans or the ancient Greeks, there are different conceptualizations of time that need to be accounted for in order to understand their history and the importance that they placed in history. The multiple times at work in historical narrative teach about the beliefs of culutres. The growth of civilization can be cyclical, while religion is linear. 
+Today a linear view of history is taught in schools. In school, there is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilization. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__.  Time can be used as a method to write history in a particular way or to teach history in a certain way. When talking about the Mayans or the ancient Greeks, there are different conceptualizations of time that need to be accounted for in order to understand their history and the importance that they placed in history. The multiple times at work in historical narrative teach about the beliefs of culutres. 
+
+
+### Questions we need to Answer
+There are questions and answer that need to be considered when thinking about time in history in general. First, 
+The growth of civilization can be cyclical, while religion is linear. 
 
 
 Everything i have written does not matter because in the end time is subjective. 
