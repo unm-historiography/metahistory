@@ -23,7 +23,7 @@ I am currently a history major, and a psychology minor at the University of New 
   caption="Seems a bit Screwy, this act of 'TREPHINATION'."
   image-url="trephination.jpg"
   source-url="https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/"
-  %}
+  %} (7)
   
 The documented history of mental disorders dates back over the last “10,000 years, with the timeline holding evident through evidence of *Trephination* throughout Europe” (4). With more than “200 skulls being found from Scandinavia to the Balkans” (4). This ancient technique was the first surgical operation and served numerous purposes. It’s evolution through the periods advanced the technical means, knowledge, and therapeutic needs as time elapsed. “Hippocrates was the one to classify for the first time the kinds of cranial fractures and define the conditions and circumstances for carrying out trepanning” (4). 
 
@@ -39,7 +39,7 @@ In 200 A.D. **Galen**, a Roman physician adopted and incorporating Hippocrates i
   caption="Evil or Misunderstood ? "
   image-url="witchcraft.jpg"
   source-url="https://www.nytimes.com/2016/10/31/opinion/witchcraft-on-the-campaign-trail.html"
-  %}
+  %} (9)
 
 The documented history of mental disorders seems to have taken about a nine-hundred year hiatus, as the timeline did not pick up again until the 1300’s. Due to the lack of focus from historians, the majority of the information within these works is derived from those within the medical and psychologic fields, as they were the only people documenting on this topic. Mental disorders in this period are blamed on demons and witches. **Superstition** was widespread, with exorcisms being performed to rid victims of ‘evil spirits’. In the “late Middle Ages mental illness was not recognized as such. Instead, the mentally disturbed were accused of witchcraft” (5). In the late 14th century, religious powers in charge began supporting these superstitions due to their rising popularity amongst European society. 
 
@@ -68,7 +68,7 @@ Behaviorism would be coined by John B. Watson, an American psychologist who esta
   caption="A Shocking treatmnet."
   image-url="electric%20shock%20therapy.jpg"
   source-url="https://en.wikipedia.org/wiki/List_of_people_who_have_undergone_electroconvulsive_therapy"
-  %}
+  %} (10)
   
 
 Going slightly back in time to 1930, **electric shock treatments** as well as **brain surgery** began to be used to treat psychopathology. Other than *psychosurgery* such as *trephination*, *ECT* is the most controversial treatment for mental disorders. The ideas for this go back even further, but so as to not have disrupted the continuity of *Behaviorism* I jumped around in my chronology. Benjamin Franklin “accidentally discovered, and then confirmed experimentally in the 1750’s, that a mild electric shock produced a brief convulsion and memory loss, but otherwise did little harm. Soon then after, a friend of Franklin, a Dutch physician proposed that this shock may serve as a treatment for depression. Going from drilling holes in people’s heads through the act of Trephination, to shocking people in order to ‘cure’ them from their mental disorder *only took two millennia*. Although, the later would eventually gain traction. 
@@ -89,7 +89,7 @@ Mental disorders throughout history, and into the present, continue to be resear
   caption="The Historiography of thought in Psychology."
   image-url="Influential-Psychologists.jpg"
   source-url="https://balancedachievement.com/psychology/influential-psychologists/"
-  %}
+  %} (11)
 
                                                       Bibliography
 
