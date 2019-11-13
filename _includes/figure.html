@@ -1,19 +1,30 @@
+{% if include.abs-image-url %}
+  {% capture img-url %}
+    {{ site.baseurl }}{{ include.image-url }}
+    {% endcapture %}
+{% else %}
+  {% capture img-url %}
+    {{ site.baseurl }}{{site.essay-images}}/{{ include.image-url }}
+  {% endcapture %}
+{% endif %}
+
+
+{% if include.source-url %}
+
+{% capture full-caption %}
+  {{ include.caption | markdownify | remove: '<p>' | remove: '</p>'}} [<a href="{{ include.source-url }}">source</a>]
+{% endcapture %}
+
+{% else %}
+
+{% capture full-caption %}
+  {{ include.caption | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endcapture %}
+
+{% endif %}
+
 <figure class="{{ include.class }}" style="width:{{include.width | default: '40%'}}">
-  <a class="image" href="{{ site.baseurl }}/essays/images/{{ include.image-url }}"><img src="{{ site.baseurl }}/essays/images/{{ include.image-url }}" alt="{{ include.caption }}" width="100%"></a>
-
-  {% if include.source-url %}
-
-  {% capture full-caption %}
-    {{ include.caption }} [<a href="{{ include.source-url }}">source</a>]
-  {% endcapture %}
-
-  {% else %}
-
-  {% capture full-caption %}
-    {{ include.caption }}
-  {% endcapture %}
-
-  {% endif %}
+  <a class="image" href="{{ img-url }}"><img src="{{ img-url }}" alt="{{ include.caption }}" width="100%"></a>
 
 <figcaption class="{{ include.class }}">
   {{ full-caption }}
