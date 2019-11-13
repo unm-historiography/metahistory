@@ -1,3 +1,4 @@
+
 ---
 title: The Dunning School of Thought
 author: Morgan York
