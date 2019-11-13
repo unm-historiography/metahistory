@@ -93,4 +93,3 @@ Rutledge M. Dennis, *Social Darwinism, Scientific Racism, and the Metaphysics of
 Samuel L. Banks, *Review: Time on the Cross: The Economics of American Negro Slavery.*
 
 Tommy Song, “William Archibald Dunning: Father of Historiographic Racism Columbia’s Legacy of Academic Jim Crow”.
-
