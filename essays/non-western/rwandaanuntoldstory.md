@@ -152,10 +152,10 @@ In November, 1994, the United Nations establsihed the International Criminal Tri
 
 Paul Kagame was indeniably involved in the delegation of military command connected to the murders that occurred by the RPF in the 1994 invasion to retake Rwanda. He has been accused by many for the assasination of President Juvenal Habyarimana which ended the Arusha Peace Accords and erupted violence and ended the cease-fire. He was also in command of the RPF during the Kibeho massacre. Kagame has denied all accusations agaoinst him and these accusations cannot lead to criminal prosecution against him because of the legal immunity has as president. In 2017, President Paul Kagame won his third seven-year election by a landslide victory recieving over 98.79% of the vote. One of the Kagames political rivals, Diana Rwigara, an outspoken critic of Kagame, was arrested shortly after the election for alleged offenses against state security. Also, Syridio Dusabumuremyi, a political outspoken critic of Kagame from the United Democratic Forces, was suspiciously found dead with his throat cut and stab wounds to his body. No supspect was connected to the murder, but fowl play and political intidation from Kagame has been speculated by many. The cumulation of presidential immunity, fear of persecution on opposing political rivals, and accreditation order restoration to supporters, all help President Paul Kagame establish himself as one who evades justice from genocidal reality due to his power and position. The history that is written and will be remembered of Paul Kagame by those who support him will often be skewed by the reality of his actions and the ability to "play his cards" so that he is remebered as a hero rather than a villain. 
 
-### Partiality - Remembrance, Memorials, and History 
+### Partiality - Victims, Memorials, and History 
 
-The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website, for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all victims. The main title states, "WE REMEMBER THE VICTIMS OF THE GENOCIDE **AGAINST THE TUTSI** AND WE TEACH ABOUT PEACE" 
-This example goes to show that the rememberance of victims is to focus solely on the Tutsi but neglects to remember the Hutu victims as well. This partiality of how the country remembers its history is a historiographical alteration that reflects a change from history and the past.
+The civil war and human rights violations from both the Tutsi and the Hutu are part of the history of Rwanda in its entirety. Both sides were responsible for war crimes, yet in the country, the genocide is only remembered from a one-sided Tutsi perspective. The Kigali Genocide Memorial website (6), for instance, expresses clearly the desire to commemorate the victims who suffered, however, it clearly excludes all victims. The main page states, "We remember the victims of the genocide **against the Tutsi** and we teach about peace." 
+The memorial website also states, "The Kigali Genocide Memorial is the final resting place for more than 250,000 victims of the Genocide **against the Tutsi.**" These examples of the memorial website goes to show that the rememberance of victims is to focus solely on the Tutsi victims but neglects to remember or commemoratr the Hutu victims as well. The reality of the past reveals that atrocities were committed on both sides and victims should be remembered by both sides as well. This partiality of how the country remembers its history is a historiographical alteration that reflects a change from history and the past.
 
 ### Genocide Denial 
 
@@ -252,14 +252,14 @@ and its aftermath. 2000. https://www.unhcr.org/publ/PUBL/3ebf9bb60.pdf
 
 (3) Outreach Programme on the Rwanda Genocide and the United Nations.https://www.un.org/en/preventgenocide/rwanda/historical-background.shtml
 
-(4) Arusha Accord - 4 August 1993. Peace Accords Matrix (Date of retrieval: (11/13/2019), Kroc Institute for International Peace Studies, University of Notre Dame. 2015.
+(4) Arusha Accord - 4 August 1993. Peace Accords Matrix (Date of retrieval: (11/10/2019), Kroc Institute for International Peace Studies, University of Notre Dame. 2015.
 https://peaceaccords.nd.edu/accord/arusha-accord-4-august-1993
 
 (5) Statute of the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible
 for Genocide and Other Such Violations Committed in the Territory of Neighbouring States,
 between 1 January 1994 and 31 December 1994. United Nations Human Rights Office of the High Commissioner. https://www.ohchr.org/en/professionalinterest/pages/statuteinternationalcriminaltribunalforrwanda.aspx
 
-
+(6) Kigali Genocide Memorial: Rememberance and Learning. (Date of Retrieval: 11/10/19) https://www.kgm.rw/
 
 
 
