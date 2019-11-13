@@ -1,11 +1,12 @@
 ---
-title: Historical Fiction and History: What can we learn from it?
+Title: Historical Fiction and History
+subtitle: What can we learn?
 author: Rick Rockett
 date: 2019-11-02
 ---
 
 # Historical Fiction and History: What can we learn from it?
- 
+
 ### Introduction
 
 Novels—fictions of various styles and sub-genres—are quite entertaining and help us escape from the world for a time. They expand our concepts of what is and what can be. They untether us from reality and thrust us into an expanse of diverse and fantastic worlds with engrossing characters. Can they do more?
@@ -33,7 +34,7 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
 {% include figure.html class="img-left" width=“33%” caption="" image-url="fiction-narrative.png" %}
 
  - [Narrative History](https://en.wikipedia.org/wiki/Narrative_history) or [Academic History](https://en.wikipedia.org/wiki/Academic_writing) - This form of historical writing is the one we are most familiar with. Narrative History is ‘fact-based,’ minimizing creative license in the narrative—adding elements that cannot be supported by historical sources or the embellishing of fact to enhance the reader’s emotional investment in the narrative. This genre can include biographies and memoirs.
- 
+
     - [Frederick Jakson Turner](https://en.wikipedia.org/wiki/Frederick_Jackson_Turner)’s ["Frontier Thesis"](https://en.wikipedia.org/wiki/Frontier_Thesis) (book)
     - [History Channel](https://en.wikipedia.org/wiki/History_(American_TV_channel))’s [_Modern Marvels_](https://en.wikipedia.org/wiki/Modern_Marvels) (television)
     - [L. Jay Oliva](https://en.wikipedia.org/wiki/L._Jay_Oliva)’s [_Peter the Great_](https://en.wikipedia.org/wiki/Peter_the_Great) (book)
