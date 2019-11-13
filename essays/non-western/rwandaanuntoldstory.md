@@ -73,13 +73,15 @@ In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to r
 
 
 
+
 {% include figure.html
   class="img-right"
   width="50%"
   caption="Rwanda"
-  image-url="RWANDAGENOCIDE7.jpg"
+  image-url="RWANDAGENOCIDE4.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
+
 
 
 In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. (4) The peace accords established a cease-fire between Hutu and Tutsi tribes in hopes of coming to diplomatic political negotiations. 
@@ -165,11 +167,12 @@ In November, 1994, the United Nations establsihed the International Criminal Tri
 
 
 
+
 {% include figure.html
   class="img-right"
   width="50%"
   caption="Rwanda"
-  image-url="RWANDAGENOCIDE4.jpg"
+  image-url="RWANDAGENOCIDE7.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
