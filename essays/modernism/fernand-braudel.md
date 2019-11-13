@@ -114,7 +114,7 @@ The [companion article](https://unm-historiography.github.io/intro-guide/essays/
 {% include figure.html
   class="img-right"
   width="39%"
-  caption="In 1963 Braudel founded the Maison des sciences des l'Homme, an interdisciplenary reasearch center in Paris where new  interdisciplinary approaches to history were put to work."
+  caption="In 1963 Braudel founded the Maison des sciences des l'Homme, a reasearch center in Paris where new interdisciplinary approaches to history were put to work."
   image-url="maison-homme.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Maison_des_sciences_de_l%27homme,_54_boulevard_Raspail,_Paris_6e_1.jpg"
 %}
