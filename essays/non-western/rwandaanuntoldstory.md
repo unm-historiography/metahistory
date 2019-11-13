@@ -7,7 +7,7 @@ date: 2019-10-21
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Rwanda"
+  caption="Rwanda is a beautiful country rich with great agriculture, landscapes, people, and culture."
   image-url="RWANDAGENOCIDE14.jpg"
   source-url="https://fridaymagazine.ae/travel/destinations/in-rwanda-a-new-dawn-for-the-land-of-a-thousand-hills-1.2300540"
 %}
