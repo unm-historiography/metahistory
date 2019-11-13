@@ -265,6 +265,7 @@ Rosenberg, Alex. “Why Most Narrative History Is Wrong.” Salon, October 7, 20
 Sanger, Thomas. “Historical Fiction vs Narrative Nonfiction: What’s in a Genre?” Thomas Sanger. Accessed October 23, 2019. http://thomascsanger.com/thomas-c-sanger/historical-fiction-vs-narrative-non-fiction-whats-genre/.
 
 Tod, M. K. “7 Elements of Historical Fiction.” A Writer of History, March 24, 2015. https://awriterofhistory.com/2015/03/24/7-elements-of-historical-fiction/.
+
 ———. “10 Thoughts on the Purpose of Historical Fiction.” A Writer of History, April 14, 2015. https://awriterofhistory.com/2015/04/14/10-thoughts-on-the-purpose-of-historical-fiction/.
 
 Tolstoy, Leo. _War and Peace_. Oxford ; Oxford University Press, 2010.
