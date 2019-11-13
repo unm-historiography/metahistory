@@ -21,7 +21,7 @@ Have you ever wondered how *where* you live has influenced *who* you are? Are yo
 Fernand Braudel was many things: a teacher, writer, prisoner, husband, and historian. He was also a man who rejected the significance of individual people and events. For more than fifty years he advocated a history “based on a consideration of physical and material constraints, one in which the individual was subsumed by the environment” (Hufton, 209). What would he think of someone writing his story, searching for meaning in the course of his years instead of in the landscapes he inhabited? Many scholars have argued that Braudel was the most significant historian of the 20th century, but how should he be remembered considering his personal opposition to the histories of ‘great men’? This essay examines the influence he had on historiography in the face of that ironic paradox and argues that **Braudel’s work galvanized a new geographical, quantitative, and long duration study of history.** 
 
 
-### **HIS LIFE**: HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
+### **BRAUDEL'S LIFE**: HOW A RURAL UPBRINGING, TEACHING, AND WAR INFLUENCED BRAUDELIAN THOUGHT
 
 ### EARLY YEARS
 
@@ -122,7 +122,7 @@ The companion article on this site titled “The Annales School” details the i
 
 Outside of his time with the Annales, Braudel worked as a professor at the College de France, served as president of the VI section of the Ecole Pratique de Hautes Etudes, and director of the Masion de Sciences de l’Homme (Hufton, 208).  All the while he continued work on a 1966 revision of *The Mediterranean* as well as a massive new history on Capitalism which he would publish in 1967 under the title *Civilization and Capitalism*. *The Identity of France*, published posthumously in 1986, examines the history of Braudel’s motherland and is our final glimpse into the mind of “the greatest and most influential historian of our time” (Hufton, 208). 
 
-### **HIS LEGACY:** HOW HIS WORK REPRESENTS A SHIFT IN HISTORIOGRAPHICAL DISCOURSE AND PRODUCTION
+### **BRAUDEL'S LEGACY:** HOW HIS WORK REPRESENTS A SHIFT IN HISTORIOGRAPHICAL DISCOURSE AND PRODUCTION
 
 
 {% include figure.html
