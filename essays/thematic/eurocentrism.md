@@ -12,7 +12,7 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
 {% include figure.html
   class="img-center"
   width="56%"
-  caption="Europe is so much more than just a continent. To be European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be considered 'European'. This perspective has greatly influenced who has been included in depictions of historical Europe."
+  caption="Europe is so much more than just a continent. To _be_ European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be considered 'European'. This perspective has greatly influenced who has been included in depictions of historical Europe."
   image-url="worldmap.jpg"
   source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
@@ -46,7 +46,7 @@ source-url="https://marketbusinessnews.com/financial-glossary/developing-country
 {% include figure.html
 class="img-left"
 width="51%"
-caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism,capitalism, and exploitation, Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
+caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism, capitalism, and exploitation, Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
 image-url="resourcecapitalism.jpg"
 source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
 %}
@@ -67,7 +67,7 @@ By now, you may be aware that the term "Indian" to refer to some indigenous Amer
 {% include figure.html
   class="img-center"
   width="63%"
-  caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the 'source' link for an informative video on Eurocentrism's development."
+  caption="England and France 'carve' pieces of the globe to serve themselves. These types of cartoons depict a clear image of Eurocentric behavior in history. **Click the 'source' link for an informative video on Eurocentrism's development**."
   image-url="carvingeuro.jpg"
   source-url="https://youtu.be/GI8k9_jiINM"
 %}
