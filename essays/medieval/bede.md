@@ -75,11 +75,19 @@ Bede’s work, and his influence among the scholarly circles which were at his t
 ## Bibliography
 
 Bede, the Venerable, Saint, David Hugh Farmer, R. E. Latham, Saint Egbert, the Venerable Bede Saint, and Abbot of Wearmouth Cuthbert. Ecclesiastical History of the English People : With Bede’s Letter to Egbert. Penguin Classics. London, England ; New York, New York, USA : Penguin, 1990., 1990.
+
 Bede, the Venerable, Saint, Calvin B. Kendall, Faith Wallis, and the Venerable Bede Saint. On the Nature of Things and, On Times. Translated Texts for Historians: V. 56. Liverpool : Liverpool University Press, 2010., 2010.
+
 Bede, and Faith Wallis. Bede, the Reckoning of Time. Translated Texts for Historians. Liverpool: Liverpool University Press, 1999. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=242361&site=eds-live&scope=site.
+
 Biggs, Fred, George Hardin Brown, Frederick M. Biggs, and Charles Wright. Bede Part 1. Sources of Anglo-Saxon Literary Culture. Amsterdam: Amsterdam University Press, 2017. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1516904&site=eds-live&scope=site.
+
 Brown, George, and Frederick Biggs. Bede Part 2. Bede. Amsterdam: Amsterdam University Press, 2017. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1832508&site=eds-live&scope=site.
+
 Brown, George H. Bede the Venerable. Twayne’s English Authors Series  443. Boston: Twayne Pub, 1987.
+
 Hunter Blair, Peter. The World of Bede. Cambridge [England] ; New York : Cambridge University Press, 1990., 1990.
+
 Killion, Steven B. “Bedan Historiography in the Irish Annals.” Medieval Perspectives 6 (January 1991): 20–36. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=hlh&AN=53550490&site=eds-live&scope=site.
+
 Wormald, Patrick, and Stephen David Baxter. The Times of Bede : Studies in Early English Christian Society and Its Historian. Malden, MA : Blackwell Pub., 2006., 2006.
