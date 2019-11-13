@@ -277,5 +277,13 @@ between 1 January 1994 and 31 December 1994. United Nations Human Rights Office 
 
 
 
+Link to Metahistory page
+
+
+
+csparks13.github.io/intro-guide/essays/non-western/rwandaanuntoldstory
+
+
+
 
 
