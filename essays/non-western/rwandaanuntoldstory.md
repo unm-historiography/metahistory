@@ -20,7 +20,7 @@ date: 2019-10-21
 
 This essay will examine the official historical account of the genocide that occurred in Rwanda, 1994, and aim to compare the similarities and differences of how the history of the genocide was written, portrayed, understood, and perceived today. The reality of ‘what really happened’ and the country’s national history of ‘what really happened’ are far from the same. As history is often written and remembered by the victors, a closer examination of the Rwandan genocide reveals a story of government coverups, secrecy, and the suppression of voice by many. Historiography is the study of how history is written, understood, perceived, and interpreted. I will attempt to show how the history of a nation was intentionally manipulated, by the method of partiality, to restore the practical necessity of order within the country. 
 
-> "Thus, a practically motivated study of something is partial both in the sense that it does not study its material fully but only those 'parts' relevant to its objective - and in the sense that the thinking involved demonstrates a 'partiality' towards lines of thinking and conclusions appropriate or 'convenient' to one's purposes. Although this does not mean the understandings achieved will necessarily be false (although such a danger threatens), it does mean the study, as angled towards the ends sought, will be 'distorted” (287). -Lemon 
+> "Thus, a practically motivated study of something is partial both in the sense that it does not study its material fully but only those 'parts' relevant to its objective - and in the sense that the thinking involved demonstrates a 'partiality' towards lines of thinking and conclusions appropriate or 'convenient' to one's purposes. Although this does not mean the understandings achieved will necessarily be false (although such a danger threatens), it does mean the study, as angled towards the ends sought, will be 'distorted” (287). -Lemon (1)
 
 {% include figure.html
   class="img-right"
@@ -51,17 +51,17 @@ The country of Rwanda is a beautiful place full of attractive landscapes, abunda
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
-According to the United Nations High Commissioner for Refugees, between August and July 1994, an estimated 800,000 people were killed and 2,000,000 refugees fled and have since been displaced from their homes as a result of civil war between two opposing tribes, the Hutu and the Tutsi. Tensions and disputes between the two tribes has long withstood, but following the first World War, under the Treaty of Versailles, the League of Nations permitted Belgian occupation of formerly German occupied Rwanda. Belgium, supposedly favoring the Tutsi minority over the Hutu majority, gave the tribe special privileges such as western-style education and authority to govern and rule over Rwanda, including governance of the Hutu. This colonial influence of power to the Tutsi tribe largely contributed to the escalation of conflict from dispute to total war between the Hutu and the Tutsi tribes.
+According to the United Nations High Commissioner for Refugees, between August and July 1994, an estimated 800,000 people were killed and 2,000,000 refugees fled and have since been displaced from their homes as a result of civil war between two opposing tribes, the Hutu and the Tutsi. (1) Tensions and disputes between the two tribes has long withstood, but following the first World War, under the Treaty of Versailles, the League of Nations permitted Belgian occupation of formerly German occupied Rwanda. Belgium, supposedly favoring the Tutsi minority over the Hutu majority, gave the tribe special privileges such as western-style education and authority to govern and rule over Rwanda, including governance of the Hutu. This colonial influence of power to the Tutsi tribe largely contributed to the escalation of conflict from dispute to total war between the Hutu and the Tutsi tribes.
 
 
 #### Hutu Revolution 
 
-In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against the Tutsi monarchy and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the “social revolution”, forced evacuation of approximately 150,000 Tutsi people into refugee camps in nearby Burundi and Uganda. The Hutu remained in control of Rwanda for the next 35 years, elected official Juvénal Habyarimana as president.
+In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against the Tutsi monarchy and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the “social revolution”, forced evacuation of an estimated 120,000 Tutsi people (3) into refugee camps in nearby Burundi and Uganda. The Hutu remained in control of Rwanda for the next 35 years, elected official Juvénal Habyarimana as president.
 
 
 #### Rwandan Patriotic Front 
 
-In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. The peace accords established a cease-fire between Hutu and Tutsi tribes in hopes of coming to diplomatic political negotiations. 
+In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. (4) The peace accords established a cease-fire between Hutu and Tutsi tribes in hopes of coming to diplomatic political negotiations. 
 
 
 #### Presidential Assasination 
@@ -126,7 +126,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 #### International Criminal Tribunal
 
-In November, 1994, the United Nations establsihed the International Criminal Tribunal for Rwanda. It's sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighbouring States, between 1 January 1994 and 31 December 1994". It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targetted criminals and made a direct effort to incarcerate the individuals that were responsible. 
+In November, 1994, the United Nations establsihed the International Criminal Tribunal for Rwanda. It's sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighbouring States, between 1 January 1994 and 31 December 1994" (5). It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targetted criminals and made a direct effort to incarcerate the individuals that were responsible. 
 
 
 #### Presidential Immunity 
@@ -241,12 +241,21 @@ Historiography is the method used by historians to study the way history is writ
 %}
 
 
+Sources
 
+(1) Lemon, M.C. The Philosophy of History : A Guide for Students. 2003.  
 
+(2) United Nations High Commissioner for Refugees. The State of the World's Refugees: The Rwandan genocide
+and its aftermath. 2000. https://www.unhcr.org/publ/PUBL/3ebf9bb60.pdf
 
+(3) Outreach Programme on the Rwanda Genocide and the United Nations.https://www.un.org/en/preventgenocide/rwanda/historical-background.shtml
 
+(4) Arusha Accord - 4 August 1993. Peace Accords Matrix (Date of retrieval: (11/13/2019), Kroc Institute for International Peace Studies, University of Notre Dame. 2015.
+https://peaceaccords.nd.edu/accord/arusha-accord-4-august-1993
 
-
+(5) Statute of the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible
+for Genocide and Other Such Violations Committed in the Territory of Neighbouring States,
+between 1 January 1994 and 31 December 1994. United Nations Human Rights Office of the High Commissioner. https://www.ohchr.org/en/professionalinterest/pages/statuteinternationalcriminaltribunalforrwanda.aspx
 
 
 
