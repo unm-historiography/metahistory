@@ -56,6 +56,16 @@ According to the United Nations High Commissioner for Refugees, between August a
 
 #### Hutu Revolution 
 
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Rwanda"
+  image-url="RWANDAGENOCIDE13.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
+%}
+
+
 In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against the Tutsi monarchy and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the “social revolution”, forced evacuation of an estimated 120,000 Tutsi people (3) into refugee camps in nearby Burundi and Uganda. The Hutu remained in control of Rwanda for the next 35 years, elected official Juvénal Habyarimana as president.
 
 
@@ -207,16 +217,6 @@ Historiography is the method used by historians to study the way history is writ
   width="50%"
   caption="Rwanda"
   image-url="RWANDAGENOCIDE4.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
-
-
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE13.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
