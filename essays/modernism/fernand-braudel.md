@@ -141,7 +141,7 @@ Outside of his time with The Annales, Braudel worked as a professor at the Colle
   %}
 
 
-### The Mediterranean
+### *The Mediterranean*
 
 What began as a thesis on the life of King Phillip II of Spain ultimately became a thousand plus page discussion on the history of the Mediterranean. Braudel introduces a three part notion of time in which common time was set on one side so that the long duration effects of geography, climate, and sociology came to the forefront (Hufton, 112).
 
@@ -151,7 +151,7 @@ What began as a thesis on the life of King Phillip II of Spain ultimately became
 
 The fact that *The Mediterranean* has been translated into languages as diverse as Chinese, Greek, Hungarian, Dutch, Japanese, and others, is evidence of the widespread interest and appreciation of Braudel's innovative historiographical approach. A quick search in the library database revealed a diverse variety of scholarship employing his three part temporal approach to history. If you are curious about this type of research and want to know more, check out these publications on [Asia](https://www-jstor-org.libproxy.unm.edu/stable/20072472?Search=yes&resultItemClick=true&searchText=Braudel&searchText=Asia&searchUri=%2Faction%2FdoAdvancedSearch%3Fq0%3DBraudel%26amp%3Bf0%3Dall%26amp%3Bc1%3DAND%26amp%3Bq1%3DAsia%26amp%3Bf1%3Dall%26amp%3Bc2%3DAND%26amp%3Bq2%3D%26amp%3Bf2%3Dall%26amp%3Bc3%3DAND%26amp%3Bq3%3D%26amp%3Bf3%3Dall%26amp%3Bc4%3DAND%26amp%3Bq4%3D%26amp%3Bf4%3Dall%26amp%3Bc5%3DAND%26amp%3Bq5%3D%26amp%3Bf5%3Dall%26amp%3Bc6%3DAND%26amp%3Bq6%3D%26amp%3Bf6%3Dall%26amp%3Bacc%3Don%26amp%3Bla%3D%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3Bpt%3D%26amp%3Bisbn%3D%26amp%3Bgroup%3Dnone&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3Abdad710ffcf1f7b8692f6ab47c527cbc&seq=1#metadata_info_tab_contents), and [Africa](https://www-jstor-org.libproxy.unm.edu/stable/3171588?Search=yes&resultItemClick=true&searchText=Braudel&searchText=Africa&searchUri=%2Faction%2FdoAdvancedSearch%3FsearchType%3DfacetSearch%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3Bq0%3DBraudel%26amp%3Bf0%3Dall%26amp%3Bc1%3DAND%26amp%3Bq1%3DAfrica%26amp%3Bf1%3Dall%26amp%3Bc2%3DAND%26amp%3Bf2%3Dall%26amp%3Bc3%3DAND%26amp%3Bf3%3Dall%26amp%3Bc4%3DAND%26amp%3Bf4%3Dall%26amp%3Bc5%3DAND%26amp%3Bf5%3Dall%26amp%3Bc6%3DAND%26amp%3Bf6%3Dall%26amp%3Bacc%3Don%26amp%3Bgroup%3Dnone%26amp%3Bpagemark%3DcGFnZU1hcms9Mg%253D%253D&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&seq=1#metadata_info_tab_contents).   
 
-### Capitalism
+### *Civilization and Capitalism*
 
 {% include figure.html
   class="img-right"
