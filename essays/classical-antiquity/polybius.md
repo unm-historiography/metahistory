@@ -7,7 +7,7 @@ date: 2019-10-19
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Question Mark with map of the world behind it symbolizing how confusing historiography is"
+  caption="Historiography is often taught at a senior level for its confusing concepts, can be explained simply as A history about history. It is how history has been thought about and written about over time. Since it is an expansive range of history, many theories about its methodologies have been created over time. "
   image-url="question-mark.jpg.svg"
   source-url="https://commons.wikimedia.org/wiki/Question_mark#/media/File:Sin_mapa.svg"
 %}
