@@ -125,6 +125,8 @@ Outside of his time with The Annales, Braudel worked as a professor at the Colle
 ### **BRAUDEL'S LEGACY:** HOW HIS WORK REPRESENTS A SHIFT IN HISTORIOGRAPHICAL DISCOURSE AND PRODUCTION
 
 
+### *The Mediterranean*
+
 {% include figure.html
   class="img-right"
   width="40%"
@@ -140,8 +142,6 @@ Outside of his time with The Annales, Braudel worked as a professor at the Colle
   (Braudel, 1244)"
   %}
 
-
-### *The Mediterranean*
 
 What began as a thesis on the life of King Phillip II of Spain ultimately became a thousand plus page discussion on the history of the Mediterranean. Braudel introduces a three part notion of time in which common time was set on one side so that the long duration effects of geography, climate, and sociology came to the forefront (Hufton, 112).
 
