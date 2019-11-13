@@ -25,7 +25,7 @@ This essay will examine the official historical account of the genocide that occ
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Rwanda"
+  caption="Rwanda Countryside"
   image-url="RWANDAGENOCIDE18.jpg"
   source-url="https://www.google.com/search?q=rwanda&rlz=1C1CHZL_enUS759US759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip4v2cq7LlAhUJbKwKHZMSDTEQ_AUIFCgD&biw=1536&bih=678#imgrc=FuEqgiJpnnuBcM:"
 %}
