@@ -5,6 +5,11 @@ nav:
         url: /loading-images.html
       - title: Code Samples
         url: /code.html
+      - title: Writing Guide
+        url: /writing-guide
+      - title: Site status
+        url: https://travis-ci.com/unm-historiography/intro-guide
+
 
   - section: Introductions
     subnav:
@@ -12,8 +17,6 @@ nav:
         url: /essays/introduction/introduction.html
       - title: What is this site?
         url: /index.html
-      - title: Site status
-        url: https://travis-ci.com/unm-historiography/intro-guide
 
   - section: Antiquity
     subnav:
@@ -28,6 +31,10 @@ nav:
       - title: Roman Historians and Rhetoric
         url: /essays/classical-antiquity/roman-historians-rhetoric.html
 
+  - section: Medieval
+    subnav:
+      - title: The Venerable Bede
+        url: /essays/medieval/bede.html
 
   - section: Early Modern
     subnav:
@@ -60,6 +67,8 @@ nav:
         url: /essays/thematic/film.html
       - title: Truth
         url: /essays/thematic/historical-truth.html
+      - title: Historical Fiction
+        url: /essays/thematic/historical-fiction.html
       - title: History Wars
         url: /essays/thematic/history-wars.html
       - title: In Defense of Madness
