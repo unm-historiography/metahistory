@@ -71,6 +71,17 @@ In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to r
 
 #### Rwandan Patriotic Front 
 
+
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Rwanda"
+  image-url="RWANDAGENOCIDE7.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
+%}
+
+
 In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. (4) The peace accords established a cease-fire between Hutu and Tutsi tribes in hopes of coming to diplomatic political negotiations. 
 
 
@@ -158,7 +169,7 @@ In November, 1994, the United Nations establsihed the International Criminal Tri
   class="img-right"
   width="50%"
   caption="Rwanda"
-  image-url="RWANDAGENOCIDE17.jpg"
+  image-url="RWANDAGENOCIDE4.jpg"
   source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
 %}
 
@@ -190,6 +201,18 @@ The memorial website also states, "The Kigali Genocide Memorial is the final res
 
 ### Genocide Denial 
 
+
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Rwanda"
+  image-url="RWANDAGENOCIDE17.jpg"
+  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
+%}
+
+
+
 Genocide Denial in Rwanda is not the denial that genocide ever occurred, rather, it is the "assertion that the Rwandan genocide did not occur in the manner or to the extent described by scholarship." In an attempt to cover up the knowledge of secret information and criminal actions by government offcials involved in the genocide, the Rwandan government actively suppresses all public speech that contradicts what their official story is. Any person(s) caught speaking outside what is believed to be the true "history" is considered to be a genocide denier and is subject to incarceration. The article, "Denying Genocide or Denying Free Speech? A Case Study of the Application of Rwanda’s Genocide Denial Laws" examines the country's laws and attempts to "address a specific aspect of Rwanda’s oppressive political climate: the use of criminal prosecutions under the country’s genocide denial laws to restrict free expression." it is was determined after examination of the federal genocide denial laws that "Rwanda’s genocide denial laws
 fail to meet the requisite standard of precision under international law". The legal and political oppression of speech to discuss the history of the genocide is a historiographical distortion between the reality of the past, the history of the pasy, and the ability for one to study it. Because the study of history as an academic disipline is largely collaborative, the oppression of such inquiry inhibits the ability for open and collaborate understanding of such history to exist. Those that oppose the legal and political authority and seek to find 'truth' are at risk of persecution, which establishes such 'truth' as the story told exclusively by the Rwandan government. 
 
@@ -209,25 +232,6 @@ fail to meet the requisite standard of precision under international law". The l
 Historiography is the method used by historians to study the way history is written, viewed, intrepreted, and understood. The story of Rwanda tells a story of country that underwent a tragedy of war crimes. The stories of the people and the histories they experienced often differ from a singular government entity that tells of it national history often different from those of the people. In this instance, the historiography of an altered and distorted history allowed for the cover ups of government atrocites, immunity of criminal prosecution, and the oppresion of free inquiry and investigation to seek 'truth'. It is also an example of how partiality of history can be intentionally manipulated to fit a national narrative and how such historiographical consequences can still exist today.  
 
 
-
-
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE7.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
-
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="Rwanda"
-  image-url="RWANDAGENOCIDE4.jpg"
-  source-url="https://globalnews.ca/news/5137073/rwanda-genocide-photos-facts/"
-%}
 
 
 
