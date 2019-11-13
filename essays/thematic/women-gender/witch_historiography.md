@@ -36,3 +36,48 @@ People who studied witches were interested in understanding the economic impact 
 > “first, the weakest members of the community, including beggars, cripples, widows, the very old and orphans, and second, ‘those who had rejected the moral order of society: fawning, envious, thieving, aggressive, spiteful, promiscuous and odd people; in fact, all who were in any way unattractive,’” (“she/”he” 79)
 
 Not using directly femine pronouns or language to assert the bias of the trials in his description, Heningsen looked at a more religious and economical standpoint. 
+# The Historians of Witches
+-Joseph Hansen
+-Wallace Notestein
+-Christina Larner
+-Gustave Henningsen
+-Julio Caro Barjo
+-Carol Karlsen
+-Hugh Trevor-Roper
+-Keith Thomas and Alan Macfarlane
+-Erik Midelfort and G. R. Quaife
+-Stuart Clarke and Robin briggs 
+-Marianne Hester and Anne Barlow
+-L’Estrange Ewen
+-E. William Monter
+
+
+Beyond just understanding what makes a witch, many go into the study of witchcraft as a way to understand the modern nation-state.
+
+Joseph Hansen, first major witchcraft researcher. Published at the turn of the century (on studying witchcraft pg. 9)
+
+
+Christina Larner came up in both articles read so far
+One of the prime architects of the view that witch-hunting was intimately linked to the rise of the modern nation-state (“she”/“he”)
+“Was witch hunting also women hunting?” (“She”/“he” pg.81 & on studying witchcraft pg. 9)
+Viewpoints come from an economical, classist, and religious standpoint over a radical feminist standpoint.
+Gender excluded for the most part
+A newer question is why? Why are we excluding this?
+
+Carol Karlsen
+New England focus
+“Fear of economically and psychologically independent women”
+
+Julio Caro Barjo
+“a women usually becomes a witch after the initial failure of her life as a woman, after frustrated or illegitimate love affairs have left her with a sense of impotence or disgrace” (“she”/“he” pg. 78/ on studying witchcraft pg. 11)
+
+Famous artist documenting witches was Hans Baldung
+Used to interpret misogyny inherent in society
+Malleus Maleficarum
+
+Focus on how gender has come across in the writing of histories of witches
+How history has changed
+Read intro and conclusion
+
+
+The study of witchcraft during the sixteenth and seventeenth century did truly begin until the turn of the twentieth century, when Joseph Hansen published his works. The recognition that these trials were conducted mostly for women or men and children who were associated with an already condemned women would have led many to believe the study of witches to bring a female narrative in a more general sense to the overall narrative. As women studies was not something envisioned in curriculum for several more decades, this idea would be too radical for most continuing to look into witches. Most focused on the idea that witches were accused for economical reasons, the people who had something to gain in comparison
