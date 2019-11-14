@@ -7,7 +7,7 @@ date: 2019-11-04 00:00:00
 
 ### Introduction
 
-The colonial ambitions of the West changed the face of Asia.  European and American desire for economic dominance of the region would not only shape the course of Modern Asian History, but of Modern Asian Historiography.  Japan was not the first to first Asian nation to feel these effects, but they would be the first to take this stimulus, and harness its power.  Japan, unlike many of its neighbors, would never be colonized.  Instead, it would embrace the mentality and methodolgy of the colonizer.  Historiography would play a key role in this process.  Understanding how Japan embraced and enacted 19th Century European historical theory and practice, allows us to see Western Historiography in a new light.  It is also a powerful expression of how the expression of history can shape the future.   
+The colonial ambitions of the West changed the face of Asia.  European and American desire for economic dominance of the region would not only shape the course of Modern Asian History, but of Modern Asian Historiography.  Japan was not the first to first Asian nation to feel these effects, but they would be the first to take this stimulus, and harness its power.  Japan, unlike many of its neighbors, would never be colonized.  Instead, it would embrace the mentality and methodolgy of the colonizer.  Historiography would play a key role in this process.  Understanding how Japan embraced and enacted 19th Century European historical theory and practice, allows us to see Western Historiography in a new light.  It is also a powerful example of how the expression of history can shape the future.   
 
 ### The Black Ships
 
