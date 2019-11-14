@@ -28,6 +28,14 @@ This perfectly shows the difference between the two periods. The middle ages wer
 The individual present in the Renaissance is someone who is calling for us to understand them. With the focus of historians over the years only on the broad subject matter within history we have not been fully able and competent to understand the depth and the motive of the individualistic person. 
 > “Another feature of Renaissance culture in general which helped clear the ground for new perspectives on the ‘meaning’ of history was the growth of ‘individualism’, a term used by Burkhardt to capture not only the emergence of certain people remarkable for the variety of their talents and interests -the famed ‘Renaissance man’ such as Leonardo Da Vinci -but also a more widespread individualistic spirit amongst people in general. Increasingly those in the developing commercial cities of Europe, loosened from a previously church-dominated rural way of life, began to think for themselves” (Lemon, 82). 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Mesa Vista Hall is **awesome**"
+  image-url="Leonardo-da-vinci-posible-autorretrato-del-artista-galeria-de-los-uffizi-florencia_1c92d9d7_2.png"
+  source-url="https://commons.wikimedia.org/wiki/Leonardo_da_Vinci#/media/File:Leonardo-da-vinci-posible-autorretrato-del-artista-galeria-de-los-uffizi-florencia_1c92d9d7_2.png"
+%}
+
 For the people in Europe during the Renaissance the ability to move away from the church and from ideals that were forced upon them to new unhindered ways to think was incredibly liberating. Individualism not only was a facet of Renaissance humanism but also seems to be the main product of the time. The Renaissance is defined by the rise of the individual in society and the fall of institutionalization. 
 ## So What? 
 The Renaissance will always be known as a time of revival in the arts and in academia in general. But how does this all relate to historiography? How can we see a change in historiography before and after the Renaissance? One of the main ways that we might see this change is within the rise of the individual. Moving even slightly from large meta-histories that talk on huge institutions and huge events to the individuals that made these events happen within the **microhistories**. We are able to see for perhaps the first time how individuals are the coal to the huge fire of history. 
