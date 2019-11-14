@@ -27,7 +27,7 @@ As long as humans have inhabited the earth, medicine and the practice of it in v
   class="img-right"
   width="33%"
   caption="evidence of the prehistoric medical practice of trepanning on a human skull remain"
-  image-url="trepanning.jpg"
+  image-url="Trepanning.jpg"
   source-url="https://en.wikipedia.org/wiki/Trepanning"
 %}
 
