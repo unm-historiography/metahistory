@@ -18,7 +18,7 @@ There are multiple perceptions of time throughout different cultures in history.
   image-url="zor.svg"
   source-url="https://en.wikipedia.org/wiki/Zoroastrianism#/media/File:Faravahar.svg"
 %}
-Zoroastrianism was the first religion to be monotheistic. __Monotheism__, as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.There were two perceptions of time and they were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
+Zoroastrianism was the first religion to be monotheistic. [__Monotheism__](https://en.wikipedia.org/wiki/Monotheism), as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.There were two perceptions of time and they were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
 
 {% include figure.html
   class="img-center"
@@ -87,23 +87,15 @@ For the Jews as well as the Christians, time was about the present and the futur
 
 ### Teaching Linear History
 
-Today a linear view of history is taught in schools. In school, there is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilization. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__.  Time can be used as a method to write history in a particular way or to teach history in a certain way. When talking about the Mayans or the ancient Greeks, there are different conceptualizations of time that need to be accounted for in order to understand their history and the importance that they placed in history. The multiple times at work in historical narrative teach about the beliefs of culutres.
+Today a linear view of history is taught in schools. In school, there is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilization. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__.  Time can be used as a method to write history in a particular way or to teach history in a certain way. When talking about the Mayans or the ancient Greeks, there are different conceptualizations of time that need to be accounted for in order to understand their history and the importance that they placed in history. The multiple times at work in historical narrative teach about the beliefs of cultures.
 
 
 ### Questions we need to Answer
-There are questions and answer that need to be considered when thinking about time in history in general. First, __how do we reconcile multiple perceptions of time when writing about history?__ When studying history especially Greek, Roman, or Jewish we need to recognize that multiple different ways of thinking about history are at play. Being aware of these different aspects of time can be a way in which we reconcile the cyclical and linear History.The second question we need to ask is __are conceptions of time an integral part of a culture's history?__ Yes they are. Cyclical history is influenced typically by a
-The growth of civilization can be cyclical, while religion is linear.
+There are questions and answers that need to be considered when thinking about time in history in general. First, __how do we reconcile multiple perceptions of time when writing about history?__ When studying history, especially Greek, Roman, or Jewish, we need to recognize that multiple different ways of thinking about history are at play. Being aware of these different aspects of time can be one way in which we reconcile cyclical and linear history. The second question we need to ask is __are conceptions of time an integral part of a culture's history?__ Yes, they are. Looking at the way one culture looks at time can tell us important aspects of what they believe regarding religion. Both the Greeks and Romans were polytheistic, and there cyclical view of history reflects this. The third questions is __have perceptions of history changed especially with the advancement of technology?__ Indeed, the advancement of technology has changed perceptions of time. Having thousands of years of historical information in one place has allowed historians to view the linear path of history and some of its cyclical patterns.
+
 
 
 Everything i have written does not matter because in the end time is subjective.
-
-### Questions
-
- Are conceptions of time an integral part of a culture's history?
-
-Do you think in academia, perceptions of history have changed, especially with the advancement of technology?
-
-
 
 ### Bibliography
 Cairns, Grace E. Philosophies of History; Meeting of East and West in Cycle-Pattern Theories of History. New York, Philosophical Library [1962], 1962.
@@ -116,4 +108,4 @@ Momigliano, Arnaldo. “Time in Ancient Historiography.” History and Theory 6 
 
 Olsen, Glenn W. Supper at Emmaus. Washington, D.C.: Catholic University of America Press, 2016. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1429297&site=eds-live&scope=site.
 
-Whitrow, G. J. Time in History : The Evolution of Our General Awareness of Time and Temporal Perspective. Oxford [Oxfordshire] ; New York : Oxford University Press, 1988., 1988. 
+Whitrow, G. J. Time in History : The Evolution of Our General Awareness of Time and Temporal Perspective. Oxford [Oxfordshire] ; New York : Oxford University Press, 1988., 1988.
