@@ -117,3 +117,20 @@ _In an effort to support the expansion of perspectives, the majority of sources 
 
 
 https://keenahays.github.io/intro-guide/essays/thematic/eurocentrism
+
+
+
+### Bibliography
+
+Araújo, Marta, and Silvia Maeso. Eurocentrism, Racism and Knowledge : Debates on History and Power in Europe and the Americas and the Americas. Basingstoke : Palgrave Macmillan, 2014., 2014.
+Bonfil Batalla, Guillermo, and Philip Adams Dennis. México Profundo : Reclaiming a Civilization. Translations from Latin America Series. Austin : University of Texas Press, 1996., 1996.
+De La Peña, Guillermo. “A New Mexican Nationalism? Indigenous Rights, Constitutional Reform and the Conflicting Meanings of Multiculturalism.” Nations & Nationalism 12, no. 2 (April 2006): 279.
+Fortin, Ernest L. “Augustine’s ‘City of God’ and the Modern Historical Consciousness.” The Review of Politics 41, no. 3 (1979): 323–43.
+Hamnett, Brian R. A Concise History of Mexico. Cambridge Concise Histories. Cambridge [England] ; New York : Cambridge University Press, 2006., 2006. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat05987a&AN=unm.64313027&site=eds-live&scope=site.
+Jean E. Jackson, and Kay B. Warren. “Indigenous Movements in Latin America, 1992-2004: Controversies, Ironies, New Directions.” Annual Review of Anthropology 34 (2005): 549.
+Lambropoulos, Vassilis. The Rise of Eurocentrism : Anatomy of Interpretation. Princeton, N.J. : Princeton University Press, ©1993., 1993.
+Marks, Robert B. “The Origins of the Modern World: A Global and Environmental Narrative from the Fifteenth to the Twenty-First Century (World Social Change) (9781538127032): Robert B. Marks: Books.” Accessed October 27, 2019. https://www.amazon.com/gp/product/1538127032/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1.
+Popkin, Jeremy D. “Glorious Confusion.” In From Herodotus to H-Net : The Story of Historiography. New York ; Oxford : Oxford University Press, [2016], 2016. file:///C:/Users/OWNER/Documents/UNM/Fall%20'19/Hst%20491%20Historiography/Eurocentrism/Glorious%20Confusion.pdf.
+Overmyer-Velázquez, Rebecca. “The Anti-Quincentenary Campaign in Guerrero, Mexico: Indigenous Identity and the Dismantling of the Myth of the Revolution.” Berkeley Journal of Sociology 46 (2002): 79.
+Shohat, Ella, and Robert Stam. Unthinking Eurocentrism : Multiculturalism and the Media. Sightlines. London ; New York : Routledge, Taylor & Francis Group, 2014., 2014.
+
