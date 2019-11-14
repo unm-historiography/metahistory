@@ -5,8 +5,6 @@ author: Rick Rockett
 date: 2019-11-02
 ---
 
-# Historical Fiction and History: What can we learn from it?
-
 ### Introduction
 
 Novels—fictions of various styles and sub-genres—are quite entertaining and help us escape from the world for a time. They expand our concepts of what is and what can be. They untether us from reality and thrust us into an expanse of diverse and fantastic worlds with engrossing characters. Can they do more?
