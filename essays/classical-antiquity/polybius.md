@@ -82,16 +82,7 @@ Throughout the *Histories*, Polybius expresses his hatred for monographs, the de
 > [inter-linked with – symplekesthai] those of Asia and Greece, and all
 > events bear a relationship and contribute to a single end.”
 
-## Notes to future me
-- so why does it matter?
-- continue reconnecting historiography throughout ( assume the reader didn't read the historiography paper ( pretend this is how i was as a freshman))
-- make it skimmable, you know not everyone is actually going to read this
-- go throughout your notes and outline, was there something you forgot to add?
-- how important is the backstory? would this essay benifit more to Polybius's ideas instead of history
-- add more structure, where is the sub headings?
-- more pictures and better captions. a reader should get the idea from the pictures ( looking to you past me in freshman year)
-- add diagrams. can i explain the 6 part cycle in a single diagram. you sure bet i can.
-- for the love of everything STOP GETTING SICK. there is no reason for getting sick all the time besides pushing yourself too hard.
+
 ## Bibliography
 “Achaean League.” In Wikipedia, October 13, 2019. https://en.wikipedia.org/w/index.php?title=Achaean_League&oldid=921103277.
 Classics of Strategy and Diplomacy. “Currently Featured Classics.” Accessed November 4, 2019. https://www.classicsofstrategy.com/featured-classic.html.
