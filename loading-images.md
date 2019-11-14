@@ -67,7 +67,9 @@ If you've waited more than 5 minutes and your image is still not appearing, you 
 
 
 ### Standard Usage
-{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" image-url="../../assets/images/default.jpg" %}
+{% include figure.html class="img-right" width="33%"
+caption="Mesa Vista Hall is **awesome**" 
+image-url="../../assets/images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -77,7 +79,7 @@ To embed the image above, we use:
 {%raw%}{% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall"
+  caption="Mesa Vista Hall is **awesome**"
   image-url="default.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}{%endraw%}
