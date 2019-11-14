@@ -37,20 +37,11 @@ Historians today are able to study events in the past and understand them as Eur
 
 {% include figure.html
 class="img-left"
-width="45%"
+width="52%"
 caption="This image depicts a map of the world and basic definitions of what it means to be a 'developed' vs. 'developing' country. These terms recently replaced 'First', 'Second' and 'Third' world classifications. Note how 'development' is still defined by Eurocentric ideals, such as economy type, industrialization, and systemized education."
 image-url="developingcountry.jpg"
 source-url="https://marketbusinessnews.com/financial-glossary/developing-country/"
 %}
-
-{% include figure.html
-class="img-left"
-width="51%"
-caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism, capitalism, and exploitation, Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
-image-url="resourcecapitalism.jpg"
-source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
-%}
-
 
 One theory of why this view at last took hold in the twentieth century is due to what Chinese historian, Robert B. Marks, refers to as "the Gap" (Marks, 5). By the twentieth century, the economic gap between "first" and "third" world countries had become so severe and obvious that the direct and indirect effects of colonialism could no longer be denied or hidden. While countries with the highest populations, such as India and most African countries, had the lowest annual incomes and revenue, countries with much smaller populations, such as England or United States of America, earned the highest annual incomes and revenues. These distinct differences in quality of life caused many historians to retrace the past in order to understand why these gaps had occurred. As a result, terms like hegemony, anti-colonialism, and Eurocentrism made their way into mainstream discussions. Eurocentrism has expanded to include North America, today, and can also be called "Americentrism".
 
