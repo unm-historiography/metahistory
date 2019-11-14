@@ -95,6 +95,7 @@ Jansen, Marius B.  _The Making of Modern Japan_. Cambridge: Belknap Press, 2000.
 
 Karlin, Jason G. _Gender and Nation in Meiji Japan: Modernity, Loss, and the Doing of History._ Honolulu: University of Hawaii Press, 2014.
 
+Popkin, Jeremy D. “The 19th Century and the Rise of Academic Scholarship.” In _From Herodotus to H-Net: The Story of Historiography._ New York: Oxford University Press, 2016.
 
 
 
