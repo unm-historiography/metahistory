@@ -56,6 +56,7 @@ One theory of why this view at last took hold in the twentieth century is due to
 
 ## Examples of Historiographical Eurocentrism
 
+
 #### Eurocentrism in Textbooks and the "Discovery" of the "New" World
 
 _How did you learn about the history of Mexico and South America in your high school history class or early college courses? Were Europeans portrayed as heroes, or saviors? How highlighted were the genocides which decimated over ninety percent of the indigenous populations? (Hamnett, 82) Was any indigenous context or point of view discussed?_
