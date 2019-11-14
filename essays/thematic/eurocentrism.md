@@ -2,117 +2,112 @@
 layout: default
 title: Eurocentrism
 author: Keena Hays
-date: 2019-10-15 00:00:00
+date: 2019-11-04 00:00:00
 ---
 
-This essay will explain to a novice historian what Eurocentrism is, how/where/when it began, how it has effected historical writings and continues to today. I will provide examples to demonstrate how this has been done and the dangers that come with this practice. I will further explain why, as historians, it is important to recognize these types of biases in both historical and our own writings. Depending on scope, I may also explain provincialism and its birth as a result of Eurocentrism. This topic will also, naturally, discuss the (recent) changes in historical practice which are shifting away from a western-dominated, male-centric, white, upper-class perspective and perceived legitimacy to a broadening acceptance of a variety of stories and perspectives from previously 'provincialized' sectors.
+The exact extent of Eurocentrism in contemporary culture, academia, politics, and many other facets of daily life is impossible to determine. While not solidified as a concept until the Postmodern revolution in the late twentieth century, the traces of Eurocentrism throughout history and the deep-seated effects they have had on all human life today are more discussed than ever. Eurocentrism, as a concept, can be applied to any person, place, or thing throughout history; there is truly nothing untouched by Western imperialism and influence. For the purposes of this essay, eurocentrism will focus strictly on historiography, or how history has been written, with a Eurocentric perspective and the repercussions of such views. With this in mind, my examination of Eurocentrism is going to begin with one of the first men considered to be a 'historian', Augustine of Hippo. But first, let's understand exactly what is Eurocentrism.
 
-
-
-{% include figure.html
-  class="img-center"
-  width="121%"
-  caption="Click on this image and zoom for a detailed timeline of influential anthropological discoveries and publications."
-  image-url="anthro-timeline.png"
-  source-url="https://savageminds.org/2010/04/17/i-see-your-timeline-and-raise-you-a-timeline/"
-%}
-
-This essay demonstrates how historiographical work has changed over time, alongside the development and emergence of anthropology. In order to understand how anthropology has influenced the methodological practice and perspective of contemporary historians, we first need to understand anthropology as its own discipline.
-
-In its broadest definition, **_anthropology_ is the study of human societies and cultures**. Anthropologists study human development through the analysis of biological evolution, environmental factors, communicative practices, social interaction, and material culture. Prior to World War I, the terms anthropology and sociology were used interchangeably. However, sociologists focused on the study of social relations and their influence on societal development and progression; whereas, anthropologists studied a larger scope of society. Historians, more so, distinguished truth in the _origin_, _development_, and _functionality_ of human society. In other words, sociologists studied _how?_, anthropologists studied _what?_, and historians studied _why?_, but, collectively, all focused on human history.
-
-{% include figure.html
-  class="img-left"
-  width="45%"
-  caption="Herodotus (left), Thucydides (right). Considered the 'Fathers of History'."
-  image-url="Thucydides-Versus-Herodotus.jpg"
-  source-url="https://www.ancient-origins.net/history-famous-people/thucydides-herodotus-history-0010439"
-%}
-
-Roots of anthropological and sociological studies are found in Greek antiquity. Early historians Herodotus and Thucydides sought to preserve the truth of the human past through a method of inquiry and analysis of evidence. This practice stood out as different from earlier intellectuals in "their attempt to define history as a distinct method of telling the story of the past” (Popkin, 2016, 27). For this reason, we can consider Herodotus’ _Histories_ and Thucydides’ _History of the Peloponnesian War_, as **the start of historiography in the Western world**.
-
-However, the collapse of Rome and the political establishment of Christianity in the fifth century shifted the historiography of human history. After which, historical works focused on divine origin and “the purpose of the historian [was] to show the working out of God’s plan for humanity” (Popkin,2016, 37). The Catholic Church positioned itself as the authority over historical scholarship and therefore, “medieval historians often began their works with a summary of world history, drawn from the Bible and Roman sources” (Popkin, 2016, 40).
-
-Yet, at the same time in Asia, historians utilized scientific theories to understand society. In China “rulers of the Tang dynasty created an official **History Bureau**, charged with recording the events of the region” and Chinese historian Sima Guang "argued for the importance of evidence from **archaeology as a way of verifying claims made in written sources**” (Popkin, 2016, 42). In the Arab world Ibn Khaldun’s _Muqaddima_ “develop[ed] one of the first non-religious social theories, and anticipated Emile Durkheim’s ideas (discussed below) about social solidarity, which are today considered a cornerstone of sociology and anthropology” (Ericksen and Nielsen, 2001, 5).
-
-It was not until the Enlightenment of the 17th and 18th centuries that **historians adopted secularized views of social history in union with scientific critique**. An era defined as a “society [which] had emerged as an object to be continuously ‘improved’ and reshaped into more ‘advanced’ forms [in which] the independent, rational individual [can] change into someone new and different, and even truer to its nature” (Eriksen and Nielson, 2001, 11). Inspired works, such as Giambattista Vico’s _La Scienza Nuova_, Immanual Kant’s _Critique of Pure Reason_ and John Locke’s _Essay Concerning Human Understanding_, became some of the most influential histories to mediate concepts of individualism, class, property, and progression of human civilization.
-
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption="Karl Marx (left), Max Weber (right). While they did not consider themselves to be anthropologists, Marx and Weber greatly influenced how societies and their function are viewed and understood. Influence of their ideas are still prominent to this day."
-  image-url="Marx v Weber.jpg"
-  source-url="http://julianarevalob.blogspot.com/2010/10/when-values-clash-with-economy.html"
-%}
-
-Social changes during the 19th century caused the divergence of anthropology and sociology into two distinct sciences (Green and Troup, 1999, 172). The French philosopher Auguste Comte first coined the term ‘sociologie’, but economists like Karl Marx and Max Weber expanded on Comte’s social theories as capitalism and political modernity engrossed Europe (Green and Troup, 1999, 110). Additionally, Emile Durkheim’s _Les Règles de la Méthode Sociologique_ legitimized sociology as a science and laid the foundation for Functionalism, a theory stating “that all aspects of society were interrelated and therefore society should be studied as a whole" (Green and Troup, 1999, 174). So, **“while historians charted the rise of nations, anthropologists traced the cultural and social evolutions of mankind”** (Green and Troup, 1999, 172). Thus, as biologists Charles Darwin and Herbert Spencer formulated evolutionary theories of human history, sociologists Lewis Henry Morgan and Edward Burnett Tylor developed the concept of culture. As defined by Tylor, “[culture] includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society” (Green and Troup, 1999, 172). 
-
-In 1929 Marc Bloch and Lucien Febvre established the foundation for the _Annales School_. This new institution promoted **'_La Longue Durée_', long term histories and total-histories which implemented anthropology, geography, history, and sociological theories**. The practice of anthropology as a science in union with humanities transcended historic anthropology from a social phenomenon to a cultural one. Anthropology therefore, “redirected historians attention away from the public, political sphere of human action towards private, daily life, by rediscovering old sources, including oral history and tradition” (Houses, p. 174). These new methodological practices focused on quantitative analysis by way of fieldwork, participant observation, and examination of material culture.
-
-German anthropologist, Franz Boas, “Father of American Cultural Anthropology”, expanded the development of culture based on his observations of indigenous Native American cultures. In his publications _The Mind of Primitive Man_, Boas applied ethnographic analysis to his framework, stating, “each people, each nation, each tribe had its fate, its irreplaceable character, and it was **the task of the anthropologist to document and defend it**” (Eriksen and Nielsen, 2001, 49). Not until the end of World War II was an equilibrium between  social and cultural analysis formulated into Functionalism.
-
-Some of the most influential works in historiography came in the 20th century, as Bronisław Malinowski’s _Argonauts of the Western Pacific_ influenced anthropological methods of participant observation and fieldwork. These were key approaches to understanding history as it gave “all around vision” of man and culture. Alfred Radcliffe-Brown's and E.E. Evans-Pritchard’s methods in social anthropology gave new insight to behavior as “social institutions and relationships were perceived as mechanisms which ensured the survival and stability of the social system as a whole” (Green and Troup, 1999, 173). Moreover, **Intrepretive Archaeology and Narrative** was developed and implemented into Clifford Geertz’s _The Interpretation of Cultures_. Geertz’s approach to history used ‘thick descriptions’ to “get beneath surface behavior to reach an emic (insiders’) understanding” (Green and Troup, 1999, 177). Geertz deduced
-
-> “the conjoining of History and Anthropology is not a matter of fusing two academic fields into a new Something-or-Other, but of redefining them in terms of one another by managing their relations within the bounds of a particular study: textual tactics. **That sorting things into what moves and what moves it, what victimizes and what is victimized, or what happened and what we can say about what happened**” (Geertz, History and Anthropology, 329). 
+## Eurocentrism: What is it?
 
 {% include figure.html
   class="img-center"
-  width="70%"
-  caption="Image of the Kula, studied by Malinowski in _Argonauts of the Western Pacific_. Malinowski was the first anthropologist to study a culture by living with the people, rather than simply reading about them from other literature. These new methods helped transform and legitimize anthropology as an independent discipline today."
-  image-url="Malinowski.jpg"
-  source-url="http://www.bohol.ph/books/Argonauts/Argonauts.html"
+  width="56%"
+  caption="Europe is so much more than just a continent. To be European includes having a certain cultural, spiritual, and even economic background. Being born in Europe is not always enough to be considered 'European'. This perspective has greatly influenced who has been included in depictions of historical Europe."
+  image-url="worldmap.jpg"
+  source-url="https://it.wikipedia.org/wiki/File:Europe_in_the_world_(red)_(W3).svg"
 %}
 
-By the middle of the 20th century the culmination of both disciplines, history and anthropology, consolidated.
+In order to understand eurocentrism, we must first understand a different question: What is Europe? That might seem like an obvious question, Europe is a continent east of the Atlantic Ocean. Geologically, yes, Europe is a continent, but let's dive into the previous sentence a bit more. "Europe is a continent _east_ of the Atlantic," why _east_? How was that orientation determined? Who decided what was _east_ and what was _west_ and from what point? This simple view of our contemporary map is a remnant of a Eurocentric past, drawing Europe as the original focus of the globe.
 
-Thus, _Ethnohistory_ emerged as, “the study of the history of the peoples normally studied by anthropologist[s]” (Green and Troup, 1999, 175). W. C. Sturtevant explained “ethnohistorians add another criterion for estimating reliability and bias” (Sturtevant, 2002, 13). Further, historian James Axtell states, “ethnohistory encompasses archaeology, ethnology, history and linguistics, and the source materials available to the ethnohistorian which include **folklore, oral tradition, maps, paintings, and artefacts, as well as written sources**” (Green and Troup, 1999, 175). As Postmodernism emerged in the late 20th century historians were able to access new technologies, resources, and accepted multiple perspectives on history. This included histories previously ignored, such as gendered and indigenous perspectives, which have been dominated by a male, Eurocentric narrative. 
+Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centric' is center. Simply, it is that Europe is viewed and has historically viewed itself as the center of the world, or the focus (more so than the geographical center), and the only 'west' before encountering the Americas, naturally designating all other sectors as 'north', 'south', 'east', or 'west' from that focal point. But, there is much more to Eurocentrism than locality. Europe is also a concept itself. Much like Eurocentrism, Europe is an idea that a group of people collectively came to understand and agree upon. This idea formed into a culture, with certain values and practices which differentiated it from other cultures, until eventually coinciding with a specific image in our heads of what it means to _be 'European'_.
 
-Nevertheless, we do not know how anthropology will influence historians of the future. Natalie Zemon Davis, Canadian and American historian of the early modern period, states that historians can still learn from anthropology through “**close observation of living process[es] of social interaction; interesting ways of interpreting symbolic behaviour; suggestions about how the parts of a social system fit together; and material from cultures very different from those which historians are used to studying**” (Green and Troup, 1999, 177).
+Eurocentrism encompasses many Western concepts (and their very real effects), including colonialism, capitalism, monotheism, racism, patriarchy, and countless other cultural and historical identifiers. However, Eurocentrism itself is not individually any of these concepts, but rather the amalgamation of the [hegemonic](https://www.dictionary.com/browse/hegemony?s=t) entity of European culture which through time has influenced the world to such a degree that perspectives have skewed to view Europe as "better", "more civilized", "more developed", or as a "First World" in comparison to non-European regions. Eurocentrism has acted as both the motivation for and the outcome of many of these listed concepts, giving it its complex, multilayered identity.
 
-Though historians will never completely know everything that has occurred in history, **anthropology has given historians the tools to better understand the past**. Allowing for the prediction to be made that anthropology will continue to contribute to historiography as new topics are explored and vice versa. 
+## Origins to Present
 
-##### References
+Many authors of Eurocentrism trace its origins as far back as ancient Greece, acting as a continental "crossroads" between Europe, Africa, and Asia, and an origin of textual historical documents. For centuries, the Mediterranean was seen as not only the origin of European culture, but as the origin of humans themselves, civilization, democracy, and philosophy. With a political system based on imperialism, that is, expanding of an empire, and colonialism, the control or occupancy of another government, it is clear that a foundation for Eurocentrism began in Greece. However, Eurocentrism today has a much more complicated interaction with the world which is more closely linked to the late Roman period, around the fifth century.
 
-Axtell, James. 1979. “Ethnohistory: An Historian’s Viewpoint.” Ethnohistory 26 (1): 1. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=hlh&AN=7680830&site=eds-live&scope=site.
+> **Fun Fact:** The term "Barbarian" is actually a Greek term used to describe anyone who did not speak Koine Greek, the common language in ancient Greece. 'ian' means "one who speaks" and 'bar' describes what Grecians thought non-Greek languages sounded like, "barbarbarbar".
 
-Bruce G. Trigger, author. 1982. “Ethnohistory: Problems and Prospects.” Ethnohistory, no. 1: 1. https://doi.org/10.2307/481006.
+In response to the Roman defeat by the Visigoths in 410CE, Bishop Augustine of Hippo wrote a document titled _City of God_. His intention was to explain the reasons for Roman defeat and attempt to understand human history, as well as predict the future fate of humanity (Fortin, 324). However, as historians, we can examine this document for much more than its _intended_ purpose. Augustine redefined history as not only a Western one, but as a Christian one. This is a belief that will become the basis for contemporary Eurocentrism, much more permeating than the Greeks ever employed. With the addition of Christianity to Western, European identity, the concept of paternalism, or Europe viewing itself as a 'father' to the rest of the world, soon intertwined with this identity. Already well-developed in the Roman-Catholic church (think of the male-dominated clergy, such as the Pope, archbishop, bishops, etc., roles which can only be held by males and the view of the Christian god himself as a man and father), [paternalism](https://www.dictionary.com/browse/paternalism?s=t) offered a new understanding of Europeanism that not only provincialized all non-European countries, but also positioned them as children needing to be cared for by their European 'father'.
 
-Dube, Saurabh. 2007. Historical Anthropology. Oxford : Oxford University Press, 2007.
+> Pro.vin.cial, adj.: of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded. **Provincialism** refers to the byproduct of Eurocentrism. While Europe positioned itself as the center of the world, all other countries were 'provincialized', or seen as on the "outskirts" of history, rather than as active participants. Additionally this view strengthened European ideas of non-Europeans as 'children', who were uneducated, pagan, 'backward', and in need of assistance, or being 'saved'.
 
-“Emile Durkheim: Selected Writings.” n.d. Accessed April 9, 2018. http://web.b.ebscohost.com.libproxy.unm.edu/ehost/ebookviewer/ebook/bmxlYmtfXzcxMTY3NV9fQU41?sid=e53a86d2-de1a-4d70-8080-0307b2132b75@sessionmgr120&vid=7&format=EB&rid=1.
+Historians today are able to study events in the past and understand them as Eurocentric, but why did it take so long for this to become a part of historiographical and social discussion? In the late twentieth century, a movement began known as 'Postmodernism', in response to ['Modernism'](http://what-when-how.com/social-and-cultural-anthropology/modernism-modernity-and-modernization-anthropology/) which believed in universalities and metanarratives as useful techniques for understanding cultures around the world. On the other side, Postmodernism sought to 'break down' all of the ideas of Modernism and establish that all people had different views of 'reality' and no one reality could be seen as the only 'true' version of events (Popkin, 146). Today, this is now a much more common understanding of history, but it is still a relatively recent view and application by historians.
 
-Eriksen, Thomas Hylland, and Finn Sivert Nielsen. 2013. History of Anthropology. Anthropology, Culture and Society. London : Pluto Press, 2013. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat06111a&AN=unm.EBC3386723&site=eds-live&scope=site.
+{% include figure.html
+class="img-left"
+width="45%"
+caption="This image depicts a map of the world and basic definitions of what it means to be a 'developed' vs. 'developing' country. These terms recently replaced 'First', 'Second' and 'Third' world classifications. Note how 'development' is still defined by Eurocentric ideals, such as economy type, industrialization, and systemized education."
+image-url="developingcountry.jpg"
+source-url="https://marketbusinessnews.com/financial-glossary/developing-country/"
+%}
 
-Franz Boas, author. 1904. “The History of Anthropology.” Science, no. 512: 513.
+{% include figure.html
+class="img-left"
+width="51%"
+caption="The world's poorest countries are those richest in resources. How did this happen? Through imperialism,capitalism, and exploitation, Western countries have used the resources of other countries in order to fund and continue the expansions of their own, while giving little or nothing in return."
+image-url="resourcecapitalism.jpg"
+source-url="https://knowyourmeme.com/photos/1314049-late-capitalism"
+%}
 
-“From Herodotus to H-Net: The Story of Historiography.” n.d. Accessed May 7, 2018. https://platform.virdocs.com/app/v5/doc/223267/pg/38/search.
 
-Geertz, Clifford. 1990. “History and Anthropology.” New Literary History, no. 2: 321.
+One theory of why this view at last took hold in the twentieth century is due to what Chinese historian, Robert B. Marks, refers to as "the Gap" (Marks, 5). By the twentieth century, the economic gap between "first" and "third" world countries had become so severe and obvious that the direct and indirect effects of colonialism could no longer be denied or hidden. While countries with the highest populations, such as India and most African countries, had the lowest annual incomes and revenue, countries with much smaller populations, such as England or United States of America, earned the highest annual incomes and revenues. These distinct differences in quality of life caused many historians to retrace the past in order to understand why these gaps had occurred. As a result, terms like hegemony, anti-colonialism, and Eurocentrism made their way into mainstream discussions. Eurocentrism has expanded to include North America, today, and can also be called "Americentrism".
 
-Green, Anna, and Kathleen Troup. 1999. The Houses of History : A Critical Reader in Twentieth-Century History and Theory. New York : New York University Press, 1999.
+## Examples of Historiographical Eurocentrism
 
-Harris, Marvin. 1991. Cultural Anthropology. New York, NY : HarperCollins, ©1991.
+#### Eurocentrism in Textbooks and the "Discovery" of the "New" World
 
-Jacobs, Brian, and Patrick Kain. 2003. Essays on Kant’s Anthropology. New York, UNITED STATES: Cambridge University Press. http://ebookcentral.proquest.com/lib/unm/detail.action?docID=217815.
+How did you learn about the history of Mexico and South America in your high school history class or early college courses? Were Europeans portrayed as heroes, or saviors? How highlighted were the genocides which decimated over ninety percent of the indigenous populations? (Hamnett, 82) Was any indigenous context or point of view discussed? These are the types of questions Historiographers have asked since Postmodernism. What was happening on the "other" side of history? But, also, how has the history of Europe and the "other" been portrayed and reinforced through Western education? History textbooks do not only lay a foundation for education and a basic understanding of history, but can also be used to propagate Eurocentric ideas (Paez, 211-217). These views of European history can further create a divide between Europe and the "other" by generating an "Us vs. Them" mentality (Shohat, 61).
 
-Libera, Zbigniew. 2011. “History and Culture: Problems of Cultural Anthropology and Historical Anthropology.” Anthropos 106 (2): 597–602. http://www.jstor.org/stable/23031633.
+By now you are probably well aware that the term "Indian" to refer to some indigenous Americans is not only inaccurate, but also inappropriate, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla, 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts. It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences. Today, some tribes have chosen to [reclaim](https://www.huffpost.com/entry/psychology-reclaiming-language_n_589c96bde4b04061313bf423) the use of the term "Indian" while others have renamed themselves, such as the _Pueblo Indigena_, "Original People", in Latin America (Jackson and Warren, 557).
 
-Michael E. Harkin. 2010. “Ethnohistory’s Ethnohistory: Creating a Discipline from the Ground Up.” Social Science History, no. 2: 113. https://doi.org/10.1215/01455532-2009-022.
+{% include figure.html
+  class="img-center"
+  width="63%"
+  caption="England and France 'carve' pieces of the globe to serve themselves. These type of cartoons depict a clear image of Eurocentric behavior in history. Click the 'source' link for an informative video on Eurocentrism's development."
+  image-url="carvingeuro.jpg"
+  source-url="https://youtu.be/GI8k9_jiINM"
+%}
 
-“Political Anthropology : Power And Paradigms.” n.d. Accessed April 24, 2018. http://web.b.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzIwMDY5NV9fQU41?nobk=y&sid=0ad9527b-6b01-44dc-9e75-fea8ef3bfbd1@sessionmgr103&vid=4&format=EK&lpid=p01&rid=0.
+Finally, let's discuss Christopher Columbus. It is a popular question, whether Columbus Day should be celebrated, but I want to focus more so on the specific language we use to talk about him at all. In 1992, the Mexican government changed the "Discovery of America" to "The Encounter of Two Worlds", an idea which still celebrated the meeting of European and indigenous cultures, but removed the implication that America was something waiting to be "discovered", rather than a whole, functioning region on its own (Pena, 286). Likewise, the Americas being referred to as the "new" world, aid Eurocentric sentiments that indigenous groups lack a substantial history of their own or that their presence was little recognized at all when colonists arrived. Indigenous American people have a history as long and complex as Europe, as can be said for all regions around the globe.
 
-Radcliffe-Brown, A. R., and Adam Kuper. 1977. The Social Anthropology of Radcliffe-Brown. London ; Boston : Routledge & Kegan Paul, 1977. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat05987a&AN=unm.3364444&site=eds-live&scope=site.
 
-Scutt, Cecily, and Julia Hobson. 2013. “The Stories We Need: Anthropology, Philosophy, Narrative and Higher Education Research.” Higher Education Research & Development 32 (1): 17–29. https://doi.org/10.1080/07294360.2012.751088.
+#### Eurocentric Ideology and the Imposition of Progress
 
-Smith, M. G. 1962. “History and Social Anthropology.” The Journal of the Royal Anthropological Institute of Great Britain and Ireland 92 (1): 73–85. https://doi.org/10.2307/2844322.
+Progress is one of the most overriding Eurocentric concepts which has impacted not only our views of "othered" regions, but has actually impacted their real-world ability to participate in valued (meaning Western) economics, academia, and politics. Western ideas of progression, meaning a _continuous_ improvement of building ideas and inventions over time, has effected countless regions and Eurocentric views of them as 'stagnant', 'immobile', or 'unproductive'. Essentially, when it comes to the 'progress' the West has made, it entirely rejects any historical contribution by non-European regions (Demir, 79). Have you taken the _required_ course "Western Civilization" yet? What does 'civilization' even mean? It's a European concept to describe aspects of European society. So, any culture which defines progress differently, or not at all, is viewed as 'uncivilized' and, therefore, not part of European history.
 
-Strenski, Ivan. 2014. Malinowski and the Work of Myth. Princeton, UNITED STATES: Princeton University Press. http://ebookcentral.proquest.com/lib/unm/detail.action?docID=1700296.
+{% include figure.html
+  class="img-center"
+  width="55%"
+  caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
+  image-url="scrambleforafrica.jpg"
+  source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
+%}
 
-Sturtevant, W C. 1966. “Anthropology, History, and Ethnohistory.” Ethnohistory 13 (1/2): 1–51. http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=ant&AN=XRAI1957-79-25479&site=eds-live&scope=site.
+So, what about cultures that do have ideas of progress, but they are the exact opposite of Western ideals. What about cultures that pride themselves on caring for the earth and not creating waste? Or cultures which value concepts of community sharing and reciprocity over individualism and mass economies? How can cultures like these ever make their way into the vision of a _world_ history rather than a Western history?
 
-Susan Kellogg, author. 1991. “Histories for Anthropology: Ten Years of Historical Research and Writing by Anthropologists, 1980-1990.” Social Science History, no. 4: 417. https://doi.org/10.2307/1171462.
 
-Thomas, Keith. 1963. “History and Anthropology.” Past & Present, no. 24 (April): 3–24.
+#### Eurocentrism in Multimedia
 
-Tylor, Edward Burnett. 1883. Primitive Culture :Researches into the Development of Mythology, Philosophy, Religion, Language, Art and Custom /. 3d American, From the 2d English ed. New York : http://hdl.handle.net/2027/h
+While you might not think of movies, television, or even music as a form of history, these portrayals of Western culture and history are just as, if not more so, important to the reinforcement of Eurocentric beliefs. Not only are these resources accessible to Westerners, but they are accessible around the world. Eurocentric idealizations not only reinforce western beliefs of superiority, but are also used to reinforce "other's" views of themselves as inferior. Can you name one film where America is portrayed as the 'villain', rather than the hero? Further, historical films are used to depict issues as only in the past, rather than continuous scenarios with long-lasting repercussions for all involved (Lambropoulos, 194). For example, a historical film which depicts slavery as "ending" does not really mean that the effects of slavery have ended, but can give that impression to a viewer who does not live with those historical impacts. This can create a conversational boundary between a European who views history and a non-European who lives _with_ history.
+
+For some examples, view these articles on _Black Panther_ (Note the authors):
+
+[Black Panther: does the Marvel epic solve Hollywood's Africa problem?](https://www.theguardian.com/film/2018/feb/03/marvel-black-panther-chadwick-boseman-michael-b-jordan)
+
+[Black Panther review – Marvel's thrilling vision of the afrofuture](https://www.theguardian.com/film/2018/feb/06/black-panther-review-marvel-wakanda-chadwick-boseman)
+
+## So, Now What?
+
+While Eurocentrism can feel like a weight of centuries of history you had no control over, it is important to recognize the impact that your voice can have today. As a historiographer, or historian, it is not your job to 'correct' the past, but rather to attempt to understand it and explain it to others. By placing an emphasis on the voices of those "othered" by European history, historians are working to collect a more diverse, less Eurocentric contemporary history. This is as much an effort for today's readers as a hope that future historians will not have the same constraints when conducting research. There is no cure or quick-fix for Eurocentrism and no way to undo the effects it has had on all societies over time, but through historiography there are ways to analyze and critique its usage and influence its direction in the future.
+
+
+
+
+_In an effort to support the expansion of perspectives, the majority of sources for this essay were written by non-Europeans, non-Christians, and/or women._
+
+
+
+
+https://keenahays.github.io/intro-guide/essays/thematic/eurocentrism
