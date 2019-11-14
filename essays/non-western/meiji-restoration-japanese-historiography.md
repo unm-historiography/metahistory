@@ -87,10 +87,13 @@ The close of the 19th century, and the dawn of the 20th, would be marked by a se
 
 ### Bibliography
 
+Borton, Hugh. "A Survey of Japanese Historiography." In _The American Historical Review_ Vol. 43, No. 3: 489-499. https://www.jstor.org/stable/1865611
+
 Fukuzawa, Yukichi. _An Outline of a Theory of Civilization_. Translated by David A. Dilworth and G. Cameron Hurst. Tokyo: Sophia University, 1973.
 
 Jansen, Marius B.  _The Making of Modern Japan_. Cambridge: Belknap Press, 2000.
 
+Karlin, Jason G. _Gender and Nation in Meiji Japan: Modernity, Loss, and the Doing of History._ Honolulu: University of Hawaii Press, 2014.
 
 
 
