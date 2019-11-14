@@ -11,7 +11,7 @@ Despite the importance of historiography for modern enthusiasts of history, it o
 
 
 ### What is Historiography?
-Even the very concept of historiography causes some confusion for most people. On one hand, it's a study of history itself, a history of history. On the other hand, in the more literal sense of the word, it's the act of writing history. While these are often different enterprises (perhaps the study of history should be called something like _historiology_, but it's not), they are both considered historiography.
+Even the very concept of historiography causes some confusion for most people. On one hand, it's a study of history itself, a history of history. On the other hand, in the more literal sense of the word, it's also the act of writing history. While these are often different enterprises (perhaps the study of history should be called something like _historiology_, but it's not), they are both considered historiography.
 
 While reading history often seems like an adventure into the past, it never fully leaves the present. Yet the ways in which existing power structures, political ideologies, personal interests, cultural criticism, and professional conventions impose on our narratives (and even the narrative form itself) and interpretations of the past are rarely obvious. Historiography, then, in the sense of a general considerations of the forces of production of historical writing, remains indispensible for any critical reading of history.
 

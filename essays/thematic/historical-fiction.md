@@ -31,6 +31,7 @@ Before we dig deep into the question at hand—the utility of historical fiction
 [Narrative](https://www.vocabulary.com/dictionary/narrative) is that process of conveying information through a story.  With the exception of numerical data, everything we say and write is part of a narrative.  We are story tellers at heart, and it is through stories that we add meaning to events, and data.  Though argued by many—including [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault), [Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard), and [Munslow](https://en.wikipedia.org/wiki/Alun_Munslow)— it is [Alex Rosenberg](https://en.wikipedia.org/wiki/Alexander_Rosenberg) who makes the most direct assault on narrative’s utility painting a bold target on historians use of the tool.  
 
 {% include figure.html
+
    class="img-right"
    width="33%"
    caption="Alex Rosenberg"
@@ -59,6 +60,7 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
     - [L. Jay Oliva](https://en.wikipedia.org/wiki/L._Jay_Oliva)’s [_Peter the Great_](https://en.wikipedia.org/wiki/Peter_the_Great) (book)
 
  - [Creative History or Nonfiction](https://www.creativenonfiction.org/online-reading/what-creative-nonfiction) - Creative History, or non-fiction, takes borrows from the academic narrative and interjects elements that may not be supported by historical sources, yet is consistent with the events and larger narrative (Creative; Gary).  The information in these books is as accurate and verifiable, but the language and narrative techniques provide readers with a more literary experience and presumably a greater emotional connection with the book’s content (Sanger;).
+
 
  {% include figure.html
     class="img-right"
