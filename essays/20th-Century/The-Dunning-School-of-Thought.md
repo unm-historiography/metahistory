@@ -3,7 +3,8 @@ title: The Dunning School of Thought
 author: Morgan York
 date: 2019-10-20
 ---
-
+## Racism, Revolutions, & Revisionists: How one historian's "credibilty" altered decades of historical scholarship and impared race relations along the way.
+----------------------------------------------------------------------------------------------------------------------------------------
 [William Archibald Dunning](https://en.wikipedia.org/wiki/William_Archibald_Dunning) was born on May 12th, 1857 in the small town of Plainfield New Jersey to Catherine Trelease and John Dunning. As a young man growing up through the Civil War, Reconstruction, and Jim Crow, Dunning was exposed firsthand to a rapidly changing political and social era of American history. Dunning attended Columbia University for the duration of his B.A, M.A, and Ph.D and he would continue to work at the university as a professor for the rest of his career.
 
 During his time at Columbia, Dunning studied politics and philosophy under the direct influence of [John Burgess](https://en.wikipedia.org/wiki/John_Burgess_(political_scientist)), a political science professor, whom Dunning had formed a close friendship with. Burgess was a racist and often taught his classes about “[germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_disease)” in connection to the biological superiority of the white founding fathers. Dunning and Burgess would work closely together over the years as Dunning completed his dissertation titled *“The Constitution of the United States in Civil War and Reconstruction 1860-1867”*. With the publication of *“The Constitution”* in the [Political Science Quarterly (PSQ)](https://www.psqonline.org/) in 1886, Dunning’s *infamous* role in social politics, Reconstruction interpretation, and historiography would begin. 
