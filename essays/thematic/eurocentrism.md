@@ -122,7 +122,7 @@ https://keenahays.github.io/intro-guide/essays/thematic/eurocentrism
 
 ### Bibliography
 
-Araújo, Marta, and Silvia Maeso. _Eurocentrism, Racism and Knowledge : Debates on History and Power in Europe and the Americas and the Americas_. Basingstoke : Palgrave Macmillan, 2014.
+Araújo, Marta, and Silvia Maeso. _Eurocentrism, Racism and Knowledge : Debates on History and Power in Europe and the Americas_. Basingstoke : Palgrave Macmillan, 2014.
 
 Bonfil Batalla, Guillermo, and Philip Adams Dennis. _México Profundo : Reclaiming a Civilization_. Translations from Latin America Series. Austin : University of Texas Press, 1996.
 
@@ -138,9 +138,9 @@ Lambropoulos, Vassilis. _The Rise of Eurocentrism : Anatomy of Interpretation_
 
 Marks, Robert B. _The Origins of the Modern World: A Global and Environmental Narrative from the Fifteenth to the Twenty-First Century._ United Kingdom: The Rowman & Littlefield Publishing Group, 2019. 
 
-Popkin, Jeremy D. “Glorious Confusion.” In From Herodotus to H-Net : The Story of Historiography. New York ; Oxford : Oxford University Press, 2016.
-
 Overmyer-Velázquez, Rebecca. “The Anti-Quincentenary Campaign in Guerrero, Mexico: Indigenous Identity and the Dismantling of the Myth of the Revolution.” Berkeley Journal of Sociology 46 (2002): 79.
+
+Popkin, Jeremy D. “Glorious Confusion.” In From Herodotus to H-Net : The Story of Historiography. New York ; Oxford : Oxford University Press, 2016.
 
 Shohat, Ella, and Robert Stam. _Unthinking Eurocentrism : Multiculturalism and the Media_. Sightlines. London ; New York : Routledge, Taylor & Francis Group, 2014.
 
