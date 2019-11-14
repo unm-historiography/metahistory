@@ -31,7 +31,7 @@ The individual present in the Renaissance is someone who is calling for us to un
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Mesa Vista Hall is **awesome**"
+  caption="Leonardo Da Vinci is known as the ideal Renaissance man."
   image-url="Leonardo-da-vinci-posible-autorretrato-del-artista-galeria-de-los-uffizi-florencia_1c92d9d7_2.png"
   source-url="https://commons.wikimedia.org/wiki/Leonardo_da_Vinci#/media/File:Leonardo-da-vinci-posible-autorretrato-del-artista-galeria-de-los-uffizi-florencia_1c92d9d7_2.png"
 %}
