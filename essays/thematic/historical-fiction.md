@@ -13,10 +13,10 @@ Novels—fictions of various styles and sub-genres—are quite entertaining and 
 
 {% include figure.html
    class="img-right"
-   width="33%"
+   width="20%"
    caption=""
-   image-url=""
-   source="" %}
+   image-url="writing.jpg"
+   source="https://www.scrippscollege.edu/departments/wp-content/uploads/sites/11/files/Writing-Program.jpg" %}
 
 All writing is, at its essence, an act of creation. Whether a factual narrative—biographies, memoirs, and narrative histories—or something more inventive—creative history, historical fiction, or alternate fiction—they all convey information and provide us some level of entertainment. That one group of writers adheres to one set of conventions, or another isn’t the issue.  Instead, how well they inform and draw us into the story is far more relevant and persuasive.
 
@@ -28,21 +28,14 @@ It might be better to ask, “Can any of these genres not only entertain us but 
 
 Before we dig deep into the question at hand—the utility of historical fiction in the study of history—we must first take a brief look at a primary tool used in history and every other field of endeavor: **Narrative**.  Human history, even our lives today, is wrought with narrative.  But what is narrative?  Can history or anything else, for that matter, be communicated without it?
 
-{% include figure.html
-   class="img-left"
-   width="33%"
-   caption="(Top to bottom) Foucault, Lyotard, and Munslow."
-   image-url="fiction-narrative.png"
-   source="" %}
-
 [Narrative](https://www.vocabulary.com/dictionary/narrative) is that process of conveying information through a story.  With the exception of numerical data, everything we say and write is part of a narrative.  We are story tellers at heart, and it is through stories that we add meaning to events, and data.  Though argued by many—including [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault), [Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard), and [Munslow](https://en.wikipedia.org/wiki/Alun_Munslow)— it is [Alex Rosenberg](https://en.wikipedia.org/wiki/Alexander_Rosenberg) who makes the most direct assault on narrative’s utility painting a bold target on historians use of the tool.  
 
 {% include figure.html
    class="img-right"
    width="33%"
-   caption="Alex Rosenberg."
-   image-url="fiction-narrative.png"
-   source="" %}
+   caption="Alex Rosenberg"
+   image-url="Rosenberg.jpg"
+   source="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F595537807.jpg%3Fmw%3D1920%26mh%3D1080%26q%3D70&imgrefurl=https%3A%2F%2Fvimeo.com%2F185704238&docid=RUp8PLar-AJ23M&tbnid=5xGYdz4N4E2gJM%3A&vet=10ahUKEwjhnrSn4OjlAhWMCTQIHYPOD44QMwhuKBswGw..i&w=1920&h=1080&itg=1&bih=880&biw=1711&q=alex%20rosenberg&ved=0ahUKEwjhnrSn4OjlAhWMCTQIHYPOD44QMwhuKBswGw&iact=mrc&uact=8" %}
 
 Rosenberg states that narrative clouds our understanding—tainting—the information presented [Rosenberg].  Though deeply ingrained in who we are as human beings , narrative is something that we must excise from how history is told, adopting the more sterile [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to communicate history.   
 
@@ -52,21 +45,14 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
 
 ### What the Genres?
 
-{% include figure.html
-   class="img-left"
-   width="33%"
-   caption=""
-   image-url="fiction-narrative.png"
-   source="" %}
-
  - [Narrative History](https://en.wikipedia.org/wiki/Narrative_history) or [Academic History](https://en.wikipedia.org/wiki/Academic_writing) - This form of historical writing is the one we are most familiar with. Narrative History is ‘fact-based,’ minimizing creative license in the narrative—adding elements that cannot be supported by historical sources or the embellishing of fact to enhance the reader’s emotional investment in the narrative. This genre can include biographies and memoirs.
 
  {% include figure.html
     class="img-left"
     width="33%"
-    caption="(Top to bottom) Turner, History Channel, and Oliva."
-    image-url=""
-    source="" %}
+    caption="_Modern Marvels_, produced by The History Channel, provides a narrative of technology that makes the mundane exciting."
+    image-url="Modern_Marvels.jpg"
+    source="https://en.wikipedia.org/wiki/Modern_Marvels#/media/File:Modern_Marvels_title_credits.jpg" %}
 
     - [Frederick Jakson Turner](https://en.wikipedia.org/wiki/Frederick_Jackson_Turner)’s ["Frontier Thesis"](https://en.wikipedia.org/wiki/Frontier_Thesis) (book)
     - [History Channel](https://en.wikipedia.org/wiki/History_(American_TV_channel))’s [_Modern Marvels_](https://en.wikipedia.org/wiki/Modern_Marvels) (television)
@@ -77,9 +63,9 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
  {% include figure.html
     class="img-right"
     width="33%"
-    caption="(Top to bottom) Haley, Durova, and _Butch Cassidy and the Sundance Kid_."
-    image-url="fiction-narrative.png"
-    source="" %}
+    caption="familiar to many, the film _Butch Cassidy and the Sundance Kid_ has been an invitation for many to read more deeply about the American West."
+    image-url="Cassidy-Sundance.jpg"
+    source="http://barkerhost.com/wp-content/uploads/sites/4/2019/07/nZy6tmGaL2xeWIho6ICoWwVfKSt-2.jpg" %}
 
     - [Alex Haley](https://en.wikipedia.org/wiki/Alex_Haley)’s [_Roots_](https://www.imdb.com/title/tt0075572/?ref_=fn_al_tt_1) (book and television)
     - [Nadezhda Durova](https://en.wikipedia.org/wiki/Nadezhda_Durova)’s [_The Cavalry Maiden_](https://www.historynet.com/nadezhda-durova-russian-cavalry-maiden-in-the-napoleonic-wars.htm) (book)
@@ -90,22 +76,22 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
  {% include figure.html
     class="img-left"
     width="33%"
-    caption=" (Top to bottom) HBO, Tolstoy, and Michner."
-    image-url=""
-    source="" %}
+    caption="An exciting and energetic HBO presentation, _Rome_ brings life to Caesar's Rome."
+    image-url="rome.jpg"
+    source="https://en.wikipedia.org/wiki/Rome_(TV_series)#/media/File:Rome_title_card.jpg" %}
 
     - [HBO](https://en.wikipedia.org/wiki/HBO) mini-series [_Rome_](https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1) (television)
     - [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy)’s  [_War and Peace_](https://en.wikipedia.org/wiki/War_and_Peace) (book)
-    - [James Michner](https://en.wikipedia.org/wiki/James_A._Michener)’s [_Centennial_](https://en.wikipedia.org/wiki/Centennial_(novel)) (book)
+    - [James Michener](https://en.wikipedia.org/wiki/James_A._Michener)’s [_Centennial_](https://en.wikipedia.org/wiki/Centennial_(novel)) (book)
 
  - [Alternate History](https://www.merriam-webster.com/dictionary/alternative%20history) - A storyline that has a point and time in history as a point of origin, but then diverges from the historical timeline to present a “what if” scenario to the reader, exploring a history that might have been (MerriamWebster; Wikipedia).
 
  {% include figure.html
     class="img-right"
     width="33%"
-    caption="(Top to bottom) Dick, Harris, and BBC."
-    image-url=""
-    source="" %}
+    caption="The BBC's _The Black Adder_ introduces audiences to an disfunctional character and his decendents passing through various epochs of British history."
+    image-url="The_Black_Adder.jpg"
+    source="https://en.wikipedia.org/wiki/The_Black_Adder#/media/File:The_Black_Adder.jpg" %}
 
     - [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)’s [_Man in the High Castle_](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle) (book and television)
     - [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))’ [_Fatherland_](https://en.wikipedia.org/wiki/Fatherland_(novel)) (book and movie)
@@ -116,7 +102,7 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
  {% include figure.html
     class="img-right"
     width="33%"
-    caption="(clockwise)Rowling, Austen, and Orwell."
+    caption="George Orwell's _1984_ presents a dystopian future where citizens are under constant scrutiny."
     image-url=""
     source="" %}
 
@@ -129,9 +115,9 @@ Here is the paradox of Rosenberg’s argument: with narrative information (histo
  {% include figure.html
     class="img-left"
     width="33%"
-    caption="(Top to Bottom) Herbert, Collins, Tolkein."
-    image-url=""
-    source="" %}
+    caption="In _Dune_, Frank Herbert created an engrossing and vibrant world far in the future of humanity."
+    image-url="frank-herbert.jpg"
+    source="https://en.wikipedia.org/wiki/Frank_Herbert#/media/File:Frank_Herbert_-_1984.jpg" %}
 
     - [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)’s [_Dune_](https://en.wikipedia.org/wiki/Dune_(novel)) (book, movie, television)
     - [Suzanne Collins](https://en.wikipedia.org/wiki/Suzanne_Collins)’ [_Hunger Games_](https://en.wikipedia.org/wiki/The_Hunger_Games) (book and movie)
@@ -166,10 +152,24 @@ Now, what if that the method and tools of teaching history were turned upside-do
 
 For centuries we have relied on the traditional ‘narrative’ to inform us in the academic world.  Whether [Greek](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html) ([Ptolemy]( https://en.wikipedia.org/wiki/Ptolemy_I_Soter), [Timaeus](https://en.wikipedia.org/wiki/Timaeus_(historian))), [Roman](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/roman-historiography.html) ([Tacitus](https://en.wikipedia.org/wiki/Tacitus), [Livy](https://en.wikipedia.org/wiki/Livy), [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder)), [Christian](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/providential-history.html) ([Augustine](https://www.iep.utm.edu/augustin/), [Eusabius Pamphili](https://en.wikipedia.org/wiki/Eusebius), [Socrates of Constantinople](https://en.wikipedia.org/wiki/Socrates_of_Constantinople), [Caesar Baronius](https://en.wikipedia.org/wiki/Caesar_Baronius)), or [modern] ([Leopold van Ranke](https://en.wikipedia.org/wiki/Leopold_von_Ranke), [Frederick Jackson Turner](https://en.wikipedia.org/wiki/Frederick_Jackson_Turner), [Voltaire](https://en.wikipedia.org/wiki/Voltaire)), historians have rejected the idea of anything other than the '**facts for fact's sake**_,' leaving us with the narrative style we have known throughout our schooling. While the 'facts' are central to the very nature of historical studies, there is a lack of emotion and investiture for us as the readers.
 
+ {% include figure.html
+    class="img-right"
+    width="33%"
+    caption="Michelangelo's _Creation of Adam_, on the ceiling of the Sistine Chapel, is a representation of the Christian creation myth."
+    image-url="genesis.jpg"
+    source="https://en.wikipedia.org/wiki/The_Creation_of_Adam#/media/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg" %}
+
 Historical fiction, a genre that **goes beyond the absolute historical record**, interpolating and intuiting the missing dialogues and minor events.  It adds a vibrancy—**excitement**—that has long been missing from the chronicle.
 Early civilizations—[Greeks](https://en.wikipedia.org/wiki/Ancient_Greece), [Romans](https://en.wikipedia.org/wiki/History_of_Rome), [Persians](https://en.wikipedia.org/wiki/History_of_Iran#Classical_antiquity), [Chinese](https://en.wikipedia.org/wiki/History_of_China#Ancient_China)—used [myths](https://en.wikipedia.org/wiki/Myth#Mythology) to inform and teach about their origins and place in the world. This was done to equal effect within Christendom, with the Old and New Testament stories of the Bible, beginning with the creation myth in the ["Book of Genesis"](https://en.wikipedia.org/wiki/Book_of_Genesis). Then, as now, these fictions informed readers (or listeners) of the very nature of who they were and where they came from. These works are, arguably, more fiction than fact, yet there is little debate as to their value to the study of history.
 
 Historical fiction is different. In fact, it is **more historically accurate**, by many accounts, than the [Greek](https://en.wikipedia.org/wiki/Greek_mythology), [Roman](https://en.wikipedia.org/wiki/Roman_mythology), or [Christian](https://en.wikipedia.org/wiki/Christian_mythology) mythologies. The bodes well for its utility to us as readers of history. We strive for accuracy and detail, which is at the heart of historical fiction.
+
+ {% include figure.html
+    class="img-left"
+    width="33%"
+    caption="(Top to Bottom) Colleen McCullough's _Masters of Rome series_ provides an informed and insightful look into ancient Rome."
+    image-url="masters-of-rome.jpg"
+    source="https://thumbs.worthpoint.com/zoom/images1/1/0311/15/lot-mccullough-masters-rome-caesar_1_d02084033a241c6eae14ca6518e31ee5.jpg" %}
 
 A great example of this is [Colleen McCullough]'s(https://en.wikipedia.org/wiki/Colleen_McCullough) [Masters of Rome](https://en.wikipedia.org/wiki/Colleen_McCullough#Masters_of_Rome_series) novels. These well-research works enliven the world of [pre-Christian Rome](https://en.wikipedia.org/wiki/Ancient_Rome#Empire_%E2%80%93_the_Principate) through the use of dialogue, personal interactions, and transitional events. While not drawn directly from the historical record, these contrived elements enhance the histories—stories—of the primary actors. She tells of the rise to power and rule of Roman men whose names are familiar to us: [Gauis Marius](https://en.wikipedia.org/wiki/Gaius_Marius) (_The First man in Rome_), [Lucius Cornelius Sulla](https://en.wikipedia.org/wiki/Sulla) (_The Grass Crown_), and [Gaius Julius Caesar](https://en.wikipedia.org/wiki/Gaius_Julius_Caesar_(proconsul)) (_Caesar_). While not academic narratives, these works instill life and vibrancy to the historical record that lures us into the world of these men and events: history.
 
@@ -195,7 +195,7 @@ Though interspersed with fictional elements, These works increase our _personal 
 
 The study of history can be quite dry or very engaging. Looking back on the past not only tells us about where we came from but can inform us about where we are going. It helps us to understand ourselves and those around us. **It builds skills** that serve us in virtually every field of endeavor. Through research, organization, language, and argumentative writing, we are better prepared to face the challenges of the ‘real world.’ But is something missing?
 
-With the addition of well-researched historical fiction to the study of history, we are adding a **creative spark** that may well be lacking in the field. Creativity manifests itself in many ways, such as invention and expression. Creativity nourishes, expanding our visions, and drawing us closer to who we are. Should we now deny the very essence of creativity in the study of history? How can we deny our nature as imaginative and resourceful people?
+With the addition of well-researched historical fiction to the study of history, we are adding a **creative spark** that may well be lacking in the field. Creativity manifests itself in many ways, such as invention and expression. Creativity nourishes, expanding our visions, and drawing us closer to who we are. Should we now deny the very essence of creativity in the study of history? How can we deny our nature as an imaginative and resourceful species?
 
 ### References
       
