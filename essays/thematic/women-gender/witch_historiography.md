@@ -37,19 +37,22 @@ People who studied witches were interested in understanding the economic impact 
 
 Not using directly femine pronouns or language to assert the bias of the trials in his description, Heningsen looked at a more religious and economical standpoint. 
 # The Historians of Witches
--Joseph Hansen
--Wallace Notestein
--Christina Larner
--Gustave Henningsen
--Julio Caro Barjo
--Carol Karlsen
--Hugh Trevor-Roper
--Keith Thomas and Alan Macfarlane
--Erik Midelfort and G. R. Quaife
--Stuart Clarke and Robin briggs 
--Marianne Hester and Anne Barlow
--L’Estrange Ewen
--E. William Monter
+The study of witchcraft was heavily influenced by the postmodern movement. Although the first histrorains to interpret this data came in the late 19th century, many ground breaking work that is used as a base for further research comes from the historians of the 1970's and 1980's. 
+The first witch historians being Joseph Hansen and Wallace Notestein, both acknowledge the fact that predominently women are tried and acused of being witches (On studying Witchcraft). THey are modern historians influenced by the academic norm established by **insert modern historian here, Ranke?, Marx? Will figure out later**
+- Joseph Hansen
+- Wallace Notestein
+- Christina Larner: Scottish witchcraft historian and a professor of Sociology at The University of Glasgow. She is credited with calling the “witch-hunts” “women hunts” in her research but not fully concluding the actual role of gender in the overall hunts. Her three books are _A Sourebok of Scottish Witchcraft (1977)_ , _Enemies of God (1981)_ , and _Witchcraft and Religion (1984)_. The influence the post modern idea of thought is exemplified in Larner’s work. She is an early female historian who dedicated her historical work to a sociological phenomenon, the witch hunts. Her findings followed the many trends of economics but was always aware of the potential impact being a women would have had on the people in her chosen timelines. As women 
+
+- Gustave Henningsen
+- Julio Caro Barjo
+- Carol Karlsen
+- Hugh Trevor-Roper
+- Keith Thomas and Alan Macfarlane
+- Erik Midelfort and G. R. Quaife
+- Stuart Clarke and Robin briggs 
+- Marianne Hester and Anne Barlow
+- L’Estrange Ewen
+- E. William Monter
 
 
 Beyond just understanding what makes a witch, many go into the study of witchcraft as a way to understand the modern nation-state.
