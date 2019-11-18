@@ -23,8 +23,21 @@ Witches have been a mainstream halloween costume depicting anything from an old 
 The sources acquired are riddled with inherent biases on women and their place in society, serving less of a purpose in a gendered study than in a more economic study. As general historiography begins to shift from a rigid economic viewpoint to a more individualistic viewpoint so does the narrative of the witch.
 
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption=""
+  image-url="witches_baldung.jpg"
+  source-url="https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1"
+%}
 
-
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption=""
+  image-url="witches_baldung_paper.jpg"
+  source-url="https://museumofwitchcraftandmagic.co.uk/object/witch-picture-57/"
+%}
 witches_baldung.jpg
 https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1
 
