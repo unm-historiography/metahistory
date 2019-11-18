@@ -54,7 +54,7 @@ nav:
       - title: Providential History
         url: /essays/enlightenment/enlightenment.html
 
-  - section: Modernism
+  - section: Modern
     subnav:
       - title: Annales School
         url: /essays/modernism/annales-school.html
@@ -62,6 +62,8 @@ nav:
         url: /essays/modernism/fernand-braudel.html
       - title: Anthropology
         url: /essays/modernism/anthropology.html
+      - title: Chinese Historiography
+        url: /essays/non-western/chinese-historiography.html
 
   - section: Thematic
     subnav:
@@ -91,8 +93,5 @@ nav:
       - title: 20th century women and postmodernism
         url: /essays/thematic/women-gender/early-feminist-history.html
 
-  - section: Non-Western
-    subnav:
-      - title: Chinese Historiography
-        url: /essays/non-western/chinese-historiography.html
+
 
