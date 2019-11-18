@@ -68,7 +68,7 @@ If you've waited more than 5 minutes and your image is still not appearing, you 
 
 ### Standard Usage
 {% include figure.html class="img-right" width="33%"
-caption="Mesa Vista Hall is **awesome**" 
+caption="Mesa Vista Hall is **awesome**"
 image-url="../../assets/images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
@@ -155,3 +155,27 @@ To achieve the above full-width image, use:
   %}
 ```
 {%endraw%}
+
+---
+### Carousel
+If you have a bunch of images that you think are interesting for your essay, but not sure exactly where they should go, you can use an image carousel. Note that these work best when images are roughly the same size. 
+
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+</div>
+
+```
+{%raw%}<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+</div>{%endraw%}
+```
