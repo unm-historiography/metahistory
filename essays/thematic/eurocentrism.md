@@ -74,7 +74,7 @@ Progress is one of the most overriding Eurocentric concepts which has impacted n
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="While in Kenya, I constantly encountered advertisements like this, encouraging westerners to come see the "real" Africa. This desire to prove themselves as a valuable, tourist-worthy destination is remnant of their understanding of how the world has been taught to view Africa, as well as how they have been told to view themselves. Most Kenyans will never go on a safari in their lifetime, despite boasting one of the most valuable environmental reservations on the planet."
+  caption="While in Kenya, I constantly encountered advertisements like this, encouraging westerners to come see the 'real' Africa. This desire to prove themselves as a valuable, tourist-worthy destination is remnant of their understanding of how the world has been taught to view Africa, as well as how they have been told to view themselves. Most Kenyans will never go on a safari in their lifetime, despite boasting one of the most valuable environmental reservations on the planet."
   image-url="kenyaad.jfif"
   source-url="https://magicalkenya.com/"
 %}
