@@ -5,7 +5,7 @@ author: Keena Hays
 date: 2019-11-14 00:00:00
 ---
 
-The exact extent of Eurocentrism in contemporary culture, academia, politics, and many other facets of daily life is impossible to determine. While not solidified as a concept until the Postmodern revolution in the late twentieth century, the traces of Eurocentrism throughout history and the deep-seated effects they have had on all human life today are more discussed than ever. Discussions about Eurocentrism can surround any person, place, or thing throughout history; there is truly nothing untouched by Western imperialism and influence. This essay explores Eurocentrism in historiography, or how history has been written with a Eurocentric perspective and the influence of those perspectives. But first, let's understand exactly what is Eurocentrism.
+Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centric' is center. Simply, it is that Europe is viewed and has historically viewed itself as the center of the world, or the focus (more so than the geographical center). Before encountering the Americas, Europe was the only 'west', naturally designating all other sectors as 'north', 'south', or 'east' from that focal point. But, there is much more to Eurocentrism than locality. Europe is also a concept itself. Much like Eurocentrism, Europe is an idea that a group of people collectively came to understand and agree upon. This idea formed into a culture, with certain values and practices which differentiated it from other cultures, until eventually coinciding with a specific image in our heads of what it means to _be_ 'European', 'Western', or 'civilized'.
 
 ## Eurocentrism: What is it?
 
@@ -19,9 +19,9 @@ The exact extent of Eurocentrism in contemporary culture, academia, politics, an
 
 In order to understand Eurocentrism, we must first understand a different question: What is Europe? That might seem like an obvious question; Europe is a continent east of the Atlantic Ocean. Geologically, yes, Europe is a continent, but let's dive into the previous sentence a bit more. "Europe is a continent _east_ of the Atlantic," why _east_? How was that orientation determined? Who decided what was _east_ and what was _west_ and from what point? This simple view of our contemporary map is a remnant of a Eurocentric past, drawing Europe as the original focus of the globe.
 
-Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centric' is center. Simply, it is that Europe is viewed and has historically viewed itself as the center of the world, or the focus (more so than the geographical center). Before encountering the Americas, Europe was the only 'west', naturally designating all other sectors as 'north', 'south', or 'east' from that focal point. But, there is much more to Eurocentrism than locality. Europe is also a concept itself. Much like Eurocentrism, Europe is an idea that a group of people collectively came to understand and agree upon. This idea formed into a culture, with certain values and practices which differentiated it from other cultures, until eventually coinciding with a specific image in our heads of what it means to _be_ 'European'.
-
 **Eurocentrism encompasses many Western concepts and their effects, including colonialism, capitalism, monotheism, racism, patriarchy, and countless other cultural and historical identifiers**. However, Eurocentrism itself is not individually any of these concepts, but rather the amalgamation of the [hegemonic](https://www.dictionary.com/browse/hegemony?s=t) entity of European culture. Through time these concepts have influenced the world to such a degree that perspectives have skewed to view Europe as "better", "more civilized", "more developed", or as a "First World" in comparison to non-European regions. Eurocentrism has acted as both the motivation for and the outcome of many of these listed concepts, giving it its complex, multilayered identity.
+
+The extent of Eurocentrism in contemporary culture, academia, politics, and many other facets of daily life is impossible to determine. While not solidified as a concept until the Postmodern revolution in the late twentieth century, the traces of Eurocentrism throughout history and the deep-seated effects they have had on all human life today are more discussed than ever. Discussions about Eurocentrism can surround any person, place, or thing throughout history; there is truly nothing untouched by Western imperialism and influence. This essay explores Eurocentrism in historiography, or how history has been written with a Eurocentric perspective and the influence of those perspectives.
 
 ## Origins to Present
 
@@ -72,11 +72,11 @@ Finally, let's briefly discuss Christopher Columbus. It is a popular question, w
 Progress is one of the most overriding Eurocentric concepts which has impacted not only our views of "othered" regions, but has actually impacted their real-world ability to participate in valued (meaning Western) economics, academia, and politics. Western ideas of progression, meaning a _continuous_ improvement of building ideas and inventions over time, has effected countless regions and Eurocentric views of them as 'stagnant', 'immobile', or 'unproductive'. Essentially, when it comes to the 'progress' the West has made, it entirely rejects any historical contribution by non-European regions (Demir, 79). _Have you taken the_ required _course "Western Civilization" yet? What does 'civilization' even mean?_ Civilization is a European concept to describe aspects of European society. So, any culture which defines progress differently, or not at all, is viewed as 'uncivilized' and, therefore, not part of European history.
 
 {% include figure.html
-  class="img-center"
-  width="55%"
-  caption="Slices of Africa are served to the French, during the _Scramble for Africa_ throughout the late nineteenth and early twentieth centuries. The concern in their faces is because they're worried they won't get a big enough slice. Most African countries (re)gained independence less than fifty years ago."
-  image-url="scrambleforafrica.jpg"
-  source-url="http://www.liberatingnarratives.com/2019/02/09/less-scrambling/"
+  class="img-right"
+  width="40%"
+  caption="While in Kenya, I constantly encountered advertisements like this, encouraging westerners to come see the "real" Africa. This desire to prove themselves as a valuable, tourist-worthy destination is remnant of their understanding of how the world has been taught to view Africa, as well as how they have been told to view themselves. Most Kenyans will never go on a safari in their lifetime, despite boasting one of the most valuable environmental reservations on the planet."
+  image-url="kenyaad.jfif"
+  source-url="https://magicalkenya.com/"
 %}
 
 > _So, what about cultures that do have ideas of progress, but they are the exact opposite of Western ideals. What about cultures that pride themselves on caring for the earth and not creating waste? Or cultures which value concepts of community sharing and reciprocity over individualism and mass economies? How can cultures like these ever make their way into the vision of a world history rather than a Western history?_
@@ -128,11 +128,10 @@ Jackson, Jean E. and Kay B. Warren. “Indigenous Movements in Latin America, 19
 
 Lambropoulos, Vassilis. _The Rise of Eurocentrism : Anatomy of Interpretation_. Princeton, N.J. : Princeton University Press, ©1993., 1993.
 
-Marks, Robert B. _The Origins of the Modern World: A Global and Environmental Narrative from the Fifteenth to the Twenty-First Century._ United Kingdom: The Rowman & Littlefield Publishing Group, 2019. 
+Marks, Robert B. _The Origins of the Modern World: A Global and Environmental Narrative from the Fifteenth to the Twenty-First Century._ United Kingdom: The Rowman & Littlefield Publishing Group, 2019.
 
 Overmyer-Velázquez, Rebecca. “The Anti-Quincentenary Campaign in Guerrero, Mexico: Indigenous Identity and the Dismantling of the Myth of the Revolution.” Berkeley Journal of Sociology 46 (2002): 79.
 
 Popkin, Jeremy D. “Glorious Confusion.” In From Herodotus to H-Net : The Story of Historiography. New York ; Oxford : Oxford University Press, 2016.
 
 Shohat, Ella, and Robert Stam. _Unthinking Eurocentrism : Multiculturalism and the Media_. Sightlines. London ; New York : Routledge, Taylor & Francis Group, 2014.
-
