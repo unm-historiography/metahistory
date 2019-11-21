@@ -74,6 +74,12 @@ population of seven million, over half had been directly affected." -United Nati
 
 In November, 1994, the United Nations establsihed the International Criminal Tribunal for Rwanda. It's sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighbouring States, between 1 January 1994 and 31 December 1994" (5). It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targetted criminals and made a direct effort to incarcerate the individuals that were responsible. 
 
+#### Truth and Reconcilliation Commissions
+
+Like many countries in Africa (and around the world), Truth Commissions (TC’s) and Truth and Reconciliation Commissions (TRC’s) are often formed by a national entity following conflict and internal violations of human rights. The general purpose of TC’s and TRC’s are to investigate the human rights violations that occurred by any internally armed government entity and to construct a final report of the incident. In the case of TRC’s, the goal, aside from an investigation and final report, is to establish reconciliation and reunification of the effected survivors/country people. In the case of Rwanda, the goal of the TRC was to mend the damaged relationship between the Hutu and Tutsi people and to prevent human rights violations from occurring again.  Following the Arusha Peace Accords of 1993,  the International Commission of Investigation on Human Rights Violations in Rwanda since October 1, 1990, was internationally sponsored by the United Nations to investigate the massacres and human rights violations which occurred prior to the peace agreement. In the final report, the United Nations committee concluded that the “FPR has been guilty of summary executions” and that “in all, the number of persons killed throughout the territory is to be numbered in the hundreds of thousands, estimates ranging from 200,000 to 500,000” (7). However, the commission could not advance due to the abrupt end of the cease-fire agreement following the presidential assassination. In 1999, after genocide and civil war seemed to have finally come to an end, another TRC, the National Unity and Reconciliation Commission, was established in Rwanda to continue reconciliation and unity. However, this time the focus on the TRC was not to investigate government officials responsible for human rights violations and war crime atrocities, but to focus rather just on reconciliation. Unlike most TC’s and TRC’s that focus primarily on conducting investigations and issuing a final report, the National Unity and Reconciliation Commission never conducted an official investigation, nor did they ever issue a final report. 
+
+Note: The National Unity and Reconciliation Commission was nationally sponsored (unlike the International Commission of Investigation on Human Rights Violations in Rwanda since October 1, 1990 which was internationally founded). One could reasonably assume this was primarily the purpose of avoiding investigation, conducting a final report, and causing self-incrimination.
+
 
 #### Presidential Immunity 
 
@@ -118,13 +124,9 @@ between 1 January 1994 and 31 December 1994. United Nations Human Rights Office 
 
 (6) Kigali Genocide Memorial: Rememberance and Learning. (Date of Retrieval: 11/10/19) https://www.kgm.rw/
 
+(7) Rwanda’s Untold Story BBC Documentary, 2014. https://vimeo.com/107867605
 
 
-Link to Metahistory page
-
-
-
-csparks13.github.io/intro-guide/essays/non-western/rwandaanuntoldstory
 
 
 
