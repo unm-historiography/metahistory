@@ -65,7 +65,7 @@ h4 {
 }
 
 h5 {
-  font-size:1rem !important;
+  font-size:1rem;
 }
 
 hr {
@@ -227,6 +227,33 @@ figcaption {
   line-height: .9rem;
   margin:0;
 }
+
+
+.carousel {
+  height: 600px;
+  overflow:hidden;
+}
+
+
+.carousel-caption h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-size:2.5rem;
+  text-transform:uppercase;
+  text-align:center;
+}
+
+.carousel-caption p {
+  font-family: 'Open Sans', sans-serif;
+  font-size:1rem;
+}
+
+.carousel-caption {
+  top:2rem;
+}
+
+/*****************************************************
+IMAGE CAROUSEL
+*****************************************************/
 
 
 } /* end media screen */

@@ -157,25 +157,86 @@ To achieve the above full-width image, use:
 {%endraw%}
 
 ---
-### Carousel
-If you have a bunch of images that you think are interesting for your essay, but not sure exactly where they should go, you can use an image carousel. Note that these work best when images are roughly the same size. 
 
-<div class="carousel">
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+### Slide carousel
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Mesa Vista Hall Construction</h5>
+      <p>This place was on the fringe!</p>
+    </div>
+      <img class="d-block w-100" src="essays/images/mvh-construction.jpg" alt="First slide">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="essays/images/mvh-floorplan.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>The original floorplan</h5>
+        <p>This floorplan is clearer than anything you can find in MVH now</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="essays/images/mvh-history-stays.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>History Stays</h5>
+        <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
+      </div>
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
+
+{%raw}
 ```
-{%raw%}<div class="carousel">
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
-</div>{%endraw%}
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Mesa Vista Hall Construction</h5>
+      <p>This place was on the fringe!</p>
+    </div>
+      <img class="d-block w-100" src="images/mvh-construction.jpg" alt="First slide">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/mvh-floorplan.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>The original floorplan</h5>
+        <p>This floorplan is clearer than anything you can find in MVH now</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/mvh-history-stays.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>History Stays</h5>
+        <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
+      </div>
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 ```
+{%endraw%}
