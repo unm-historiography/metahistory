@@ -5,13 +5,13 @@ author: Keena Hays
 date: 2019-11-14 00:00:00
 ---
 
-Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centric' is center. Simply, it is that Europe is viewed and has historically viewed itself as the center of the world, or the focus (more so than the geographical center). Before encountering the Americas, Europe was the only 'west', naturally designating all other sectors as 'north', 'south', or 'east' from that focal point. But, there is much more to Eurocentrism than locality. Europe is also a concept itself. Much like Eurocentrism, Europe is an idea that a group of people collectively came to understand and agree upon. This idea formed into a culture, with certain values and practices which differentiated it from other cultures, until eventually coinciding with a specific image in our heads of what it means to _be_ 'European', 'Western', or 'civilized'.
+Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centric' is center. Simply, it is that Europe is viewed and has historically viewed itself as the center of the world, or the focus (more so than the geographical center). Before encountering the Americas, Europe was the only 'west', naturally designating all other regions as 'north', 'south', or 'east' from that focal point. But, there is much more to Eurocentrism than locality. Europe is also a concept itself. Much like Eurocentrism, Europe is an idea that a group of people collectively came to understand and agree upon. This idea formed into a culture, with certain values and practices which differentiated it from other cultures, until eventually coinciding with a specific image in our heads of what it means to _be_ 'European', 'Western', or 'civilized'.
 
 ## Eurocentrism: What is it?
 
 {% include figure.html
   class="img-center"
-  width="56%"
+  width="70%"
   caption="Cartography is founded on two principles: abstraction and reductionism. But how have these principles been used to further instill a Euro-centered view and understanding of the world? Have you ever seen any maps like these?"
   image-url="viewsoftheworld.jpg"
   source-url="http://www.viewsoftheworld.net/?p=752"
