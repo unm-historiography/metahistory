@@ -11,7 +11,7 @@ Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centr
 
 {% include figure.html
   class="img-center"
-  width="70%"
+  width="85%"
   caption="Cartography is founded on two principles: abstraction and reductionism. But how have these principles been used to further instill a Euro-centered view and understanding of the world? Have you ever seen any maps like these?"
   image-url="viewsoftheworld.jpg"
   source-url="http://www.viewsoftheworld.net/?p=752"
