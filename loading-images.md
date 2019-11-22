@@ -199,7 +199,7 @@ To achieve the above full-width image, use:
 </div>
 
 
-{%raw}
+{%raw%}
 ```
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
