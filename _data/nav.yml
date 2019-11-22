@@ -17,8 +17,6 @@ nav:
         url: /essays/introduction/introduction.html
       - title: What is this site?
         url: /index.html
-      - title: What is this site?
-        url: /index.html
 
   - section: Antiquity
     subnav:
@@ -26,6 +24,8 @@ nav:
         url: /essays/antiquity/myth-and-history.html
       - title: Greek Historiography
         url: /essays/classical-antiquity/greek-historiography.html
+      - title: Polybius
+        url: /esssays/classical-antiquity/Polybius/html
       - title: Providential History
         url: /essays/classical-antiquity/providential-history.html
       - title: Roman Historiography
@@ -35,8 +35,8 @@ nav:
 
   - section: Medieval
     subnav:
-      - title: The Venerable Bede
-        url: /essays/medieval/bede.html
+      - title: Medieval Islamic Historiography
+        url: /essays/non-western/medieval-islamic-historiography.html
       - title: The Venerable Bede
         url: /essays/medieval/bede.html
 
@@ -56,7 +56,7 @@ nav:
       - title: Providential History
         url: /essays/enlightenment/enlightenment.html
 
-  - section: Modernism
+  - section: Modern
     subnav:
       - title: Annales School
         url: /essays/modernism/annales-school.html
@@ -64,6 +64,8 @@ nav:
         url: /essays/modernism/fernand-braudel.html
       - title: Anthropology
         url: /essays/modernism/anthropology.html
+      - title: Chinese Historiography
+        url: /essays/non-western/chinese-historiography.html
 
   - section: Thematic
     subnav:
@@ -93,9 +95,4 @@ nav:
       - title: 20th century women and postmodernism
         url: /essays/thematic/women-gender/early-feminist-history.html
 
-  - section: Non-Western
-    subnav:
-      - title: Chinese Historiography2
-        url: /essays/non-western/chinese-historiography.html
-      - title: Medieval Islamic Historiography
-        url: /essays/non-western/medieval-islamic-historiography.html
+
