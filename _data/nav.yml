@@ -37,6 +37,8 @@ nav:
     subnav:
       - title: The Venerable Bede
         url: /essays/medieval/bede.html
+      - title: The Venerable Bede
+        url: /essays/medieval/bede.html
 
   - section: Early Modern
     subnav:
@@ -93,7 +95,7 @@ nav:
 
   - section: Non-Western
     subnav:
-      - title: Chinese Historiography
+      - title: Chinese Historiography2
         url: /essays/non-western/chinese-historiography.html
       - title: Medieval Islamic Historiography
         url: /essays/non-western/medieval-islamic-historiography.html
