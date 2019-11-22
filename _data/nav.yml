@@ -17,6 +17,8 @@ nav:
         url: /essays/introduction/introduction.html
       - title: What is this site?
         url: /index.html
+      - title: What is this site?
+        url: /index.html
 
   - section: Antiquity
     subnav:
