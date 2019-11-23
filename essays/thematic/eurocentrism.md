@@ -41,7 +41,7 @@ In response to the Roman defeat by the Visigoths in 410CE, [Bishop Augustine of 
 
 Not until a millennia and several centuries later would the Eurocentric depiction of history be openly refuted in Western academia. Eighteenth century German philosopher, [Georg Hegel](https://plato.stanford.edu/entries/hegel/) acts as a prime example of explicit Eurocentrism in historiography. An active supporter of colonialism, Hegel believed that European 'progress' did not have any immediate impact on non-European regions and actually showed them the path to 'freedom'. Although highly rejected today, Hegel depicts a common and severe school of thought followed before the twentieth century. (Copilas, 28-32)  
 
-Historians today are able to study events in the past and understand them as Eurocentric, but why did it take so long for this to become a part of historiographical and social discussion? In the late twentieth century, a movement began known as ['Postmodernism'](https://www.britannica.com/topic/postmodernism-philosophy), which sought to establish that all people had different views of 'reality' and no one reality could be seen as the only 'true' version of events (Popkin, 146). Today, this is now a much more common understanding of history, but it is still a relatively recent view and application by historians.
+Historians today are able to study events in the past and understand them as Eurocentric, but why did it take so long for this to become a part of historiographical and social discussion? In the late twentieth century, a movement began known as [Postmodernism](https://www.britannica.com/topic/postmodernism-philosophy), which sought to establish that all people had different views of 'reality' and no one reality could be seen as the only 'true' version of events (Popkin, 146). Today, this is now a much more common understanding of history, but it is still a relatively recent view and application by historians.
 
 {% include figure.html
 class="img-left"
@@ -53,7 +53,7 @@ source-url="https://marketbusinessnews.com/financial-glossary/developing-country
 
 One theory of why this view at last took hold in the late twentieth century is due to what Chinese historian, Robert B. Marks, refers to as "the Gap" (Marks, 5). By the twentieth century, the economic gap between "first" and "third" world countries had become so severe and obvious that the direct and indirect effects of colonialism could no longer be denied or hidden. While countries with the highest populations, such as India and most African countries, had the _lowest_ annual incomes and revenue, countries with much smaller populations, such as England or United States of America, earned the _highest_ annual incomes and revenues. These distinct differences in quality of life inspired historians to retrace the past to understand why these gaps had occurred. As a result, terms like hegemony, anti-colonialism, and Eurocentrism made their way into mainstream discussions.
 
-_Eurocentrism has expanded to include North America, today, and can also be called "Americentrism"._
+> Eurocentrism has expanded to include North America, today, and can also be called "Americentrism".
 
 ## Examples of Historiographical Eurocentrism
 
