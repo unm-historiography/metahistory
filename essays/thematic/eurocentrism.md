@@ -72,8 +72,6 @@ These are the types of questions Historiographers have asked since Postmodernism
 
 By now, you may be aware that the term "Indian" to refer to some indigenous Americans is offensive, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla, 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts (Bonfil-Batalla 76-79). It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences. Today, some tribes have chosen to [reclaim](https://www.huffpost.com/entry/the-name-indian-and-polit_1_b_67593) the use of the term "Indian" while others have renamed themselves, such as the _Pueblo Indigena_, "Original People", in Latin America (Jackson and Warren, 557).
 
-Next, let's briefly discuss Christopher Columbus and the "discovery" of the "new" world. In 1992, unified Latin indigenous groups protested against the Mexican government to change the celebrated "Discovery of America" to "The Encounter of Two Worlds" as they celebrated "500 Years of Resistance" (Overmyer, 79). This idea still celebrated the meeting of European and indigenous cultures, but removed the implication that America was something waiting to be "discovered", rather than a whole, functioning region on its own (Pena, 286). Likewise, the Americas being referred to as the "new" world, aid Eurocentric sentiments that indigenous groups lack a substantial history of their own or that their presence was little recognized at all when colonists arrived. The Americas are still referred to as the "new world" across multiple academic disciplines, from which we can see that the historiography of a subject transcends the field of history and is applicable to all topics throughout time. This also exemplifies the importance of our use of language as historians when depicting history.
-
 {% include figure.html
   class="img-right"
   width="33%"
@@ -82,6 +80,8 @@ Next, let's briefly discuss Christopher Columbus and the "discovery" of the "new
   source-url="https://www.theatlantic.com/education/archive/2015/10/the-history-class-dilemma/411601/"
 %}
 
+Next, let's briefly discuss Christopher Columbus and the "discovery" of the "new" world. In 1992, unified Latin indigenous groups protested against the Mexican government to change the celebrated "Discovery of America" to "The Encounter of Two Worlds" as they celebrated "500 Years of Resistance" (Overmyer, 79). This idea still celebrated the meeting of European and indigenous cultures, but removed the implication that America was something waiting to be "discovered", rather than a whole, functioning region on its own (Pena, 286). Likewise, the Americas being referred to as the "new" world, aid Eurocentric sentiments that indigenous groups lack a substantial history of their own or that their presence was little recognized at all when colonists arrived. The Americas are still referred to as the "new world" across multiple academic disciplines, from which we can see that the historiography of a subject transcends the field of history and is applicable to all topics throughout time. This also exemplifies the importance of our use of language as historians when depicting history.
+
 #### Eurocentric Ideology and the Imposition of Progress
 
 _Have you taken the required course "Western Civilization" yet? What does 'civilization' even mean?_
@@ -89,14 +89,6 @@ _Have you taken the required course "Western Civilization" yet? What does 'civil
 Civilization is a European concept which describes aspects of European society. So, any culture which defines progress differently, or not at all, is viewed as 'uncivilized' and, therefore, not part of European history.
 
 Progress is one of the most overriding Eurocentric concepts which has impacted not only our views of "othered" regions, but has actually impacted their real-world ability to participate in valued (meaning Western) economics, academia, and politics. Western ideas of progress, meaning a _continuous_ improvement of building ideas and inventions over time, have depicted non-Western regions as 'stagnant', 'immobile', or 'unproductive'. Essentially, when it comes to the 'progress' the West has made, it entirely rejects any historical contribution by non-Western regions (Demir, 79).
-
-{% include figure.html
-  class="img-right"
-  width="40%"
-  caption="While in Kenya, I constantly encountered advertisements like this, encouraging Westerners to come see the 'real' Africa. This pressure to prove themselves as a valuable, tourist-worthy destination is remnant of their understanding of how the world has been taught to view Africa, as well as how they have been told to view themselves. Most Kenyans will never go on a safari in their lifetime, despite boasting one of the most valuable environmental reservations on the planet."
-  image-url="kenyaad.jfif"
-  source-url="https://magicalkenya.com/"
-%}
 
 _What about cultures that do have ideas of progress, but they are the exact opposite of Western ideals? What about cultures that pride themselves on caring for the earth and not creating waste? Or cultures which value concepts of community sharing and reciprocity over individualism and mass economies? How can cultures like these ever make their way into the vision of a world or human history rather than a Western history?_
 
