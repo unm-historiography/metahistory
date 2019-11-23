@@ -39,6 +39,8 @@ In response to the Roman defeat by the Visigoths in 410CE, [Bishop Augustine of 
 
 > Pro.vin.cial, adj.: of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded. **Provincialism refers to the byproduct of Eurocentrism**. While Europe positioned itself as the center of the world, all other countries were 'provincialized', or seen as on the "outskirts" of history, rather than as active participants. Additionally this view strengthened European ideas of non-Europeans as 'children', who were uneducated, pagan, 'backward', and in need of assistance, or being 'saved'.
 
+Not until a millennia and several centuries later would the Eurocentric depiction of history be openly refuted in Western academia. Eighteenth century German philosopher, [Georg Hegel](https://plato.stanford.edu/entries/hegel/) acts as a prime example of explicit Eurocentrism in historiography. An active supporter of colonialism, Hegel believed that European 'progress' did not have any immediate impact on non-European regions and actually showed them the path to 'freedom'. Although highly rejected today, Hegel depicts a common and severe school of thought followed before the twentieth century. (Copilas, 28-32)  
+
 Historians today are able to study events in the past and understand them as Eurocentric, but why did it take so long for this to become a part of historiographical and social discussion? In the late twentieth century, a movement began known as ['Postmodernism'](https://www.britannica.com/topic/postmodernism-philosophy), which sought to establish that all people had different views of 'reality' and no one reality could be seen as the only 'true' version of events (Popkin, 146). Today, this is now a much more common understanding of history, but it is still a relatively recent view and application by historians.
 
 {% include figure.html
@@ -128,6 +130,8 @@ _In an effort to support the expansion of perspectives, the majority of sources 
 Araújo, Marta, and Silvia Maeso. _Eurocentrism, Racism and Knowledge : Debates on History and Power in Europe and the Americas_. Basingstoke : Palgrave Macmillan, 2014.
 
 Bonfil Batalla, Guillermo, and Philip Adams Dennis. _México Profundo : Reclaiming a Civilization_. Translations from Latin America Series. Austin : University of Texas Press, 1996.
+
+Copilaș, Emanuel. “Hegel, Eurocentrism, Colonialism.” Romanian Journal of Political Science 18, no. 2 (Winter 2018): 27–57.
 
 De La Peña, Guillermo. “A New Mexican Nationalism? Indigenous Rights, Constitutional Reform and the Conflicting Meanings of Multiculturalism.” Nations & Nationalism 12, no. 2 (April 2006): 279.
 
