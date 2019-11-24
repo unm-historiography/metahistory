@@ -20,7 +20,7 @@ source-url="https://secondnexus.com/environment/maps-that-might-make-you-rethink
 {% include figure.html
 class="img-left"
 width="49%"
-caption="Have you ever seen any maps like these?"
+caption="Have you ever seen any maps like these? Note how small Europe and North America look relative to the rest of the world."
 image-url="Map02.jpg"
 source-url="https://secondnexus.com/environment/maps-that-might-make-you-rethink-how-you-see-the-world/"
 %}
@@ -76,8 +76,8 @@ By now, you may be aware that the term "Indian" to refer to some indigenous Amer
 
 {% include figure.html
   class="img-right"
-  width="33%"
-  caption="Language and how it is interpreted are crucial to how history is remembered. The words 'brought' and 'work' are easily misinterpreted to imply choice, desire, or free-will, none of which were offered to Africans during the slave-trade. These word choices also ignore the long-lasting affects this historical event still has on African-Americans today."
+  width="37%"
+  caption="Language and how it is interpreted are crucial to how history is remembered. The words 'brought' and 'work' are easily misinterpreted to imply free-will or payment, neither of which were offered to Africans during the slave-trade. Equally, the _avoidance_ of the word 'slave' depicts a certain version of history, in which Americans are portrayed as employers rather than owners."
   image-url="textbook.jpg"
   source-url="https://www.theatlantic.com/education/archive/2015/10/the-history-class-dilemma/411601/"
 %}
@@ -107,15 +107,11 @@ _Can you name one film where America is portrayed as the 'villain', rather than 
   source-url="https://www.reddit.com/r/funny/comments/dzs88u/saving_the_world_in_a_hollywood_movie/"
 %}
 
-While you might not think of movies, television, or even music as forms of history, these portrayals of Western culture and history are just as, if not more so, important to the reinforcement of Eurocentric beliefs. Not only are these resources accessible to Westerners, but they are accessible around the world.**Eurocentric idealizations not only reinforce western beliefs of superiority, but are also used to reinforce "other's" views of themselves as inferior.**
+While you might not think of movies, television, or even music as forms of history, these portrayals of Western culture and history are just as, if not more so, important to the reinforcement of Eurocentric beliefs. These resources are available to Westerners as well as the rest of the world.**Eurocentric idealizations not only reinforce western beliefs of superiority, but are also used to reinforce "other's" views of themselves as inferior.**
 
-Further, historical films are used to depict issues as _only_ in the past, rather than continuous scenarios with long-lasting repercussions for all involved (Lambropoulos, 194). For example, a historical film which depicts slavery as "ending" does not really mean that the effects of slavery have ended, but can give that impression to a viewer who does not live with those historical impacts. This can create a conversational boundary between a Westerner who views history and a non-European who lives _with_ history.
+Historical films potentially depict issues as _only_ in the past, rather than as continuous scenarios with long-lasting repercussions for all involved (Lambropoulos, 194). For example, a historical film which depicts slavery as "ending", such as 'Free State of Jones', does not really mean that the effects of slavery have ended, but can give that impression to a viewer who does not live with those historical impacts. This can create a conversational boundary between a Westerner who views history and a non-European who lives _with_ history.
 
-For some examples of how non-Westerners are depicted as existing _in relation_ to the West, view these articles on 'Black Panther' (Note the authors):
-
-[Black Panther: does the Marvel epic solve Hollywood's Africa problem?](https://www.theguardian.com/film/2018/feb/03/marvel-black-panther-chadwick-boseman-michael-b-jordan)
-
-[Black Panther review – Marvel's thrilling vision of the afrofuture](https://www.theguardian.com/film/2018/feb/06/black-panther-review-marvel-wakanda-chadwick-boseman)
+In music, German band, Rammstein's extremely controversial release of their song and music video ["Deutschland"](https://youtu.be/NeQM1c-XCDc) in early 2019 acts as an example. The [lyrics](https://genius.com/Genius-english-translations-rammstein-deutschland-english-translation-lyrics) depict a difficulty reconciling with a love for one's country and its colonialist past. Criticized for romanticizing and inaccurately portraying historical events, this video demonstrates how history is written about and interpreted in all aspects of society, not just by historians. However, the main backlash came from groups which have historically been victims of colonialism. This demonstrates how different groups can have polar opposite views of identical historical events.
 
 ## So, Now What?
 
