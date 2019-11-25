@@ -14,9 +14,11 @@ nav:
   - section: Introductions
     subnav:
       - title: What is Historiography?
-        url: /essays/introduction/introduction
+        url: /essays/introduction/what-is-historiography
+      - title: The Importance of historiography
+          url: /essays/introduction/introduction
       - title: Table of Contents
-        url: /index
+        url: /directory
 
 
   - section: Antiquity (to 300CE)
