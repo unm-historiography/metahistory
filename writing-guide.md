@@ -10,9 +10,16 @@ Make sure the essay very near both the beginning and the end makes it very clear
 
 
 ## History
-- Historical summary or historiographical claims must include parenthetical citations to reputable sources with precise and unambiguous citations (author, page)
-- Statements that are not common knowledge must have citations; you can can provide a single citation for a paragraph if you are paraphrasing 1 or 2 sources
-- Do not lose the thread of **HISTORIOGRAPHICAL SIGNIFICANCE**
+- Historical summary or historiographical claims must include parenthetical citations to reputable sources with precise and unambiguous citations (author, page).
+- Statements that are not common knowledge must have citations; you can can provide a single citation for a paragraph if you are paraphrasing 1 or 2 sources.
+- Do not lose the thread of **HISTORIOGRAPHICAL SIGNIFICANCE**!
+
+## General Writing Advice
+* Have a clear idea of where the reader will be in terms of understanding your topic, and decide what will be useful for them (and what you’re capable of doing), and plot the steps along the way. This helps with general essay structure.
+* Give specific examples to illustrate your broader claims.
+* Weed out the fluff! Target very broad claims that don't say anything interesting and specific detail that doesn't serve a direct purpose.
+* Bring in other course topics! USE THE REPOSITORY!!
+* Highlight continuities and discontinuities within historiography. Go beyond noting they exist, but give a sense of their impact.
 
 
 ## Paragraphs
@@ -40,10 +47,10 @@ Augustine's _City of God_ made history of human affairs seem less relevant becau
 
 
 ## Images and Captions
-- We all agreed that images make the essays WAY more interesting. Let's aim for 3-5 images per essay.
-- Images are related to nearby text
-- Images are provocative and engage the reader
-- Captions should be more than a simple label of what the image is, but how what the image is or what it represents is significant to historiography
+- We all agreed that images make the essays WAY more interesting. Let's aim for at least 3-5 images per essay. More is fine if they aren't getting in the way of the text.
+- Images should be related to nearby text. Don't spend time on precise alignment, since web layouts are screen specific.
+- Images should be provocative and engage the reader.
+- Captions should be more than a simple label of what the image is, but how what the image is or what it represents is significant to historiography.
 
 
 ## Standardized typography and links
