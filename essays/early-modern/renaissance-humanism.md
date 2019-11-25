@@ -3,7 +3,7 @@ title: Renaissance Humanism
 author: Jesse Pettinger
 date: 2019-09-13
 ---
-                                      
+### The Beginning                                      
 [The Renaissance](https://www.britannica.com/event/Renaissance) as a period of time between the 14th and 17th centuries that was marked by a sense of revival and “rebirth”. This period was captured by ancient texts and the recirculation of lost knowledge. The Renaissance moved Europe out of [“The Dark Ages”](https://www.thefinertimes.com/Middle-Ages/the-dark-ages.html) and into a period of progress and newfound wisdom. This period was marked by a desire to pursue the humanities and to learn from them in order to progress as a society. During this period the idea of humanism became popular. Humanism, in its most basic sense, is a system of thought that is moved from holding the divine as most important and instead views the individual or the human to be the epitome of value. 
 
 {% include figure.html
