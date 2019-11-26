@@ -68,7 +68,7 @@ If you've waited more than 5 minutes and your image is still not appearing, you 
 
 ### Standard Usage
 {% include figure.html class="img-right" width="33%"
-caption="Mesa Vista Hall is **awesome**" 
+caption="Mesa Vista Hall is **awesome**"
 image-url="../../assets/images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
@@ -153,5 +153,90 @@ To achieve the above full-width image, use:
   image-url="Cleve-van_construction-tower-babel.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
   %}
+```
+{%endraw%}
+
+---
+
+### Slide carousel
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Mesa Vista Hall Construction</h5>
+      <p>This place was on the fringe!</p>
+    </div>
+      <img class="d-block w-100" src="essays/images/mvh-construction.jpg" alt="First slide">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="essays/images/mvh-floorplan.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>The original floorplan</h5>
+        <p>This floorplan is clearer than anything you can find in MVH now</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="essays/images/mvh-history-stays.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>History Stays</h5>
+        <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
+      </div>
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+{%raw%}
+```
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Mesa Vista Hall Construction</h5>
+      <p>This place was on the fringe!</p>
+    </div>
+      <img class="d-block w-100" src="images/mvh-construction.jpg" alt="First slide">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/mvh-floorplan.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>The original floorplan</h5>
+        <p>This floorplan is clearer than anything you can find in MVH now</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/mvh-history-stays.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>History Stays</h5>
+        <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
+      </div>
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 ```
 {%endraw%}

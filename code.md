@@ -6,9 +6,12 @@ date: 2019-09-23
 
 *This page provides all the kinds of code snippets you might need, except for images, which are on the [loading images guide](loading-images). The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
-**• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
+In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
+
+**• DO NOT use curly quotes `“` (as opposed to `"`) anywhere, ever.** These often appear when preparing text in an app like Word. Make sure you convert any curly quotes to regular quotes. GitHub only uses regular quotes. (surprise!) This is why you should use a text editor like [atom](http://atom.io)
+
 
 **• Remember to use the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown syntax issues. And you can always double experiment with [Dillinger](http://dillinger.io).**
 
