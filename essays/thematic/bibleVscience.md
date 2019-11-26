@@ -177,14 +177,6 @@ There seems to be grey area where both science and the Bible can not only coexis
 
 Despite the thought of Science and the Bible sticking to their own corners and keeping intersection to a minimum there has been some scientific discoveries that may be evidence of the Bible. The biggest one for the Bible is the **Cambrian Explosion**. This talks about the  discovery of fossils of complex organisms in the Cambrian period. What makes this discovery interesting is the lack of evidence of fossils in the period before it showing any signs of evolution. Basically these complex organismed appeared at the same geological level all over the world. How can this be explained? The church points to the global flood described in the Bible (Genesis chapters 6-9). 
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Cambrian explosion shows complex fossils coming out of no where, hurting the case for evolution and possibly showing evidence of the flood."
-  image-url="bvs13.jpg"
-  source-url="http://www.njbiblescience.org/presentations/christian_atheist/img38.html"
-%}
-
 ### Conclusion
 
 If your looking for a winner in the battle between **Bible and Science** you are not going to find one. The best answer your going to get is that they agree to disagree. There is no way to completely discredit the one and call another the champion. We can look at their relationship and look at how they pushed each other to get better. Neither Science or the Bible could stand pat and not look for advancement. It is because of these two constantly battling that we all have enjoyed the fruits of their advancements. How it has shaped our society and given options for everyone to believe in what they so choose. 
