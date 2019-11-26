@@ -163,6 +163,7 @@ Despite the thought of Science and the Bible sticking to their own corners and k
 
 ### Conclusion
 
+If your looking for a winner in the battle between **Bible and Science** you are not going to find one. The best answer your going to get is that they agree to disagree. There is no way to completely discredit the one and call another the champion. We can look at their relationship and look at how they pushed each other to get better. Neither Science or the Bible could stand pat and not look for advancement. It is because of these two constantly battling that we all have enjoyed the fruits of their advancements. How it has shaped our society and given options for everyone to believe in what they so choose. 
 
 ### _BIBLIOGRAPHY_
 
@@ -173,7 +174,6 @@ Goldberg, Steven. Seduced by Science: How American Religion Has Lost Its Way. Ne
 Harrison, Peter. The Bible, Protestantism, and the Rise of Natural Science. Cambridge; New York: Cambridge University Press, 1998. http://site.ebrary.com/id/10451801.
 
 Krattenmaker, Tom. “The Bible vs. science.” USA Today, 2007.
-
 
 Re Manning, Russell, and Michael Byrne. Science and Religion in the Twenty-First Century: The Boyle Lectures, 2013.
 
