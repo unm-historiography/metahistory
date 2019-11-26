@@ -125,6 +125,14 @@ This battle hit the headlines in America in 1925, when a Tennessee school teache
 
 ### Big Bang Theory
 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="The Big Bang theory operates in billions of years for an random explosion to form the galaxy we call home."
+  image-url="bvs11.jpg"
+  source-url="https://www.collective-evolution.com/2017/08/27/if-the-big-bang-started-the-universe-what-or-who-started-the-big-bang-what-about-the-multi-verse/"
+%}
+
 While Darwin's Theory of Evolution tried to fill in blanks of where humans came from science needed a answer for the where the Earth and the galaxy came from, enter the **big bang theory**.  This theory is based on a random cosmic explosion of a subatomic ball that hurled matter and energy in different directions. Over long period of time, projected 10 billion years, the matter and energy evolved into stars, galaxies, and planets. Those on the Bible side of things would counter that the event science claims the big bang, was actually God creating the earth from nothing. This is just the start of the disagreement. 
 
 ### AGE IS MORE THAN JUST A NUMBER
@@ -158,6 +166,14 @@ With everything that has transpired between Science and the Bible, it is fair th
 There seems to be grey area where both science and the Bible can not only coexist but thrive. “ It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
 
 ### Does Science Prove the Bible?
+
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="While Science tries to prove the Bible wrong it may have accidently given evidence for the Bible."
+  image-url="bvs12.jpg"
+  source-url="https://skepticalteacher.wordpress.com/2011/08/02/science-confirms-the-bible-hmmm-not-so-much/"
+%}
 
 Despite the thought of Science and the Bible sticking to their own corners and keeping intersection to a minimum there has been some scientific discoveries that may be evidence of the Bible. The biggest one for the Bible is the **Cambrian Explosion**. This talks about the  discovery of fossils of complex organisms in the Cambrian period. What makes this discovery interesting is the lack of evidence of fossils in the period before it showing any signs of evolution. Basically these complex organismed appeared at the same geological level all over the world. How can this be explained? The church points to the global flood described in the Bible (Genesis chapters 6-9). 
 
