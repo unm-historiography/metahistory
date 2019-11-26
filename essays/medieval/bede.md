@@ -8,7 +8,7 @@ author: Eamon Bisbee
 
 ## Introduction and historical context
 
-In many cases in the study of historiography, the whole of the period from the fall of Rome to the beginning of the Renaissance, and the revolution in thought that it heralded, are ignored. {% include figure.html
+In many cases in the study of historiography, the whole of the period from the fall of Rome to the beginning of the Renaissance, and the revolution in thought that it heralded, are ignored.{% include figure.html
   class="img-right"
   width="50%"
   caption="The Venerable Bede, from The Last Chapter, c. 1902, by James Doyle Penrose. there are no surviving contemporary images of Bede, and so all depictions of him are thus figments of various artists' imaginations."
