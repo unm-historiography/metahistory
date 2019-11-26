@@ -96,7 +96,7 @@ Before diving deep into the world of historical fiction, let’s look several ge
 
    - [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)’s [_Dune_](https://en.wikipedia.org/wiki/Dune_(novel)) (book, movie, television)
    - [Suzanne Collins](https://en.wikipedia.org/wiki/Suzanne_Collins)’ [_Hunger Games_](https://en.wikipedia.org/wiki/The_Hunger_Games) (book and movie)
-   - [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)’s [_Lord of the Rings_](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
+   - [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)’s [_Lord of the Rings_](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) (books and movies)
 
 We generally understand that history studies the past,[^Lemon293] but nothing says it needs to be dry and boring (high schoole flashback). Let's move forward, and look at how history can be inviting and exciting, and the role historical fiction plays in the adventure.
 
