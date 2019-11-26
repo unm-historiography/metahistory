@@ -6,17 +6,29 @@ date: 2019-11-03
 author: Eamon Bisbee
 ---
 
-## Introduction and historical context
-
-In many cases in the study of historiography, the whole of the period from the fall of Rome to the beginning of the Renaissance, and the revolution in thought that it heralded, are ignored.{% include figure.html
+{% include figure.html
   class="img-right"
   width="50%"
-  caption="The Venerable Bede, from *The Last Chapter*, c. 1902, by James Doyle Penrose. there are no surviving contemporary images of Bede, and so all depictions of him are thus figments of various artists' imaginations."
+  caption="The Venerable Bede, from The Last Chapter, c. 1902, by James Doyle Penrose. there are no surviving contemporary images of Bede, and so all depictions of him are thus figments of various artists' imaginations."
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
-%}‘Historians’ in the medieval era are typically derided as mere chroniclers, or else seen as so biased or backwards that their finished works and methodology alike are considered unworthy of notice.
+%}
 
-However, this is not the case. There were many medieval historians whose methods and works might be thought of as ‘ahead of their time’. One such scholar is [Bede](https://en.wikipedia.org/wiki/Bede) (c. 672-735), commonly known as ‘the Venerable Bede.” Bede was born in the north of England, in what was then the independent kingdom of Northumbria, more than a century before Anglo-Saxon England was unified into one country. At the age of seven, Bede entered the monastery of Wearmouth to be educated, and later moved to its twin monastery of Jarrow when it was founded in 682. By the age of 30, around 703, Bede was ordained as a priest, and aside from his other duties he “was particularly drawn to study, teaching, and writing” (Farmer, 20). Indeed, one of the ways in which he helped popularize the use of the *anno Domini* system of numbering years was through his pupils and the schools that they themselves went on to establish. Bede would remain in Jarrow, or its neighboring twin monastery, Wearmouth, for the rest of his life, making only occasional trips to other parts of England to visit other members of the church. Among his contemporaries, Bede was well known and respected for his writing and his other intellectual pursuits. He died on the 26th of May, 735, and soon after his death he was considered a saint, with the day of his death celebrated as a feast day. in 1899, he was declared a [Doctor of the Church](https://en.wikipedia.org/wiki/Doctor_of_the_Church), a title awarded by the Catholic Church to celebrate noteworthy contributions to theological, doctrinal, or other fields of learning, alongside such other scholars as St. Augustine of Hippo and Thomas Aquinas.
+## Introduction and historical context
+
+What year is it? As I write this, 2019 is nearing its end. But why is this year numbered in this way? You are likely aware that the system of numbering years is derived from the medieval Christian system known as anno Domini, literally meaning “in the year of our lord”, referring to the birth of Jesus Christ. But how did this system of dates come to be so widespread, literally used around the world? The credit for this widespread use can be given to Bede, an 8th century historian whose works popularized the anno Domini system and whose historical methods were far ahead of his time. 
+
+In many cases in the study of historiography, the whole medieval period from the fall of the Western Roman Empire (476 AD) to the beginning of the Renaissance (circa 1350) are ignored. ‘Historians’ in the medieval era are typically derided as mere chroniclers doing little more than listing events, or else seen as so biased or backwards that their finished works and methodology alike are considered unworthy of notice. However, this is not the case. There were many medieval historians whose methods and works might be thought of as ‘ahead of their time’. One such scholar is [Bede](https://en.wikipedia.org/wiki/Bede) (c. 672-735), commonly known as the ‘Venerable Bede.’ 
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="The Kingdom of Northumbria, around 700 AD, comprising northern england and part of present-day Scotland. Wearmouth and Jarrow, where Bede spent his adult life, were located near the coast, just north of Durham."
+  image-url="Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg"
+  source-url="https://commons.wikimedia.org/wiki/File:Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg"
+%}
+
+Bede was born in the north of England, in what was then the independent kingdom of Northumbria, more than a century before Anglo-Saxon England was unified into one country. At the age of seven, Bede entered the monastery of Wearmouth to be educated, and later moved to its twin monastery of Jarrow when it was founded in 682. By the age of 30, around 703, Bede was ordained as a priest, and aside from his other duties he “was particularly drawn to study, teaching, and writing” (Farmer, 20). Indeed, one of the ways in which he helped popularize the use of the *anno Domini* system of numbering years was through his pupils and the schools that they themselves went on to establish. Bede would remain in Jarrow, or its neighboring twin monastery, Wearmouth, for the rest of his life, making only occasional trips to other parts of England to visit other members of the church. Among his contemporaries, Bede was well known and respected for his writing and his other intellectual pursuits. He died on the 26th of May, 735, and soon after his death he was considered a saint, with the day of his death celebrated as a feast day. in 1899, he was declared a [Doctor of the Church](https://en.wikipedia.org/wiki/Doctor_of_the_Church), a title awarded by the Catholic Church to celebrate noteworthy contributions to theological, doctrinal, or other fields of learning, alongside such other scholars as St. Augustine of Hippo and Thomas Aquinas.
 {% include figure.html
   class="img-right"
   width="50%"
