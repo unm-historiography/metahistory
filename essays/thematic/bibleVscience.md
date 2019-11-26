@@ -59,11 +59,11 @@ _Galileo_ knew that this new thought process would ruffle some feathers, so he s
 
 Despite his best efforts, Galileo still faced the wrath of the church; and they forced him to publicly recant his claims. To be clear, the Church did not have _scientific problems_ with what Galileo was claiming. They had no other evidence, or reason to think different from this claim, other than what they thought the Bible was saying. The church had a problem with him defying the final authority of the church.  Galileo did as he was asked, but the damage was done and the seeds of doubt about how to understand the Bible were planted. 
 
-This is what is referred by many as the **Conflict theory**. “On this view, Christianity is cast in the role of the oppressive and stultifying stepmother who held back the young, reasonable, and progressive maiden of science. Then science finally broke free from the oppressive Church and steadily added to our accumulated knowledge and quality of life.” (Blackwell, pg 3)
+This is what is referred by many as the **Conflict theory**. “On this view, Christianity is cast in the role of the oppressive and stultifying stepmother who held back the young, reasonable, and progressive maiden of science. Then science finally broke free from the oppressive Church and steadily added to our accumulated knowledge and quality of life.” (Stump, pg 3)
 
 ### Independence, calm before the storm 
 
-Galileo’s discovery and claims against the literal interpretation of the Bible forced a major shift in the way that Science and the Bible interacted. This interaction is classified as **Independence**, and is where they both go their separate ways while not intersecting. “At other times in the history of Science and Christianity, the two sides were content to go about their own business without interfering with each other.” (Blackwell, pg 8) 
+Galileo’s discovery and claims against the literal interpretation of the Bible forced a major shift in the way that Science and the Bible interacted. This interaction is classified as **Independence**, and is where they both go their separate ways while not intersecting. “At other times in the history of Science and Christianity, the two sides were content to go about their own business without interfering with each other.” (Stump, pg 8) 
 
 {% include figure.html
   class="img-right"
@@ -79,7 +79,7 @@ This idea, of keeping the science and the Bible in their sectors, is an idea tha
 
 ### Different Ways of Interepting the Bible
 
-Along with this era of **independence** and the many advances in science Biblical philosophy was pushed into a different direction when looking at and trying to understand the Bible. The shift was away from the literal translation that dominated in Ancient Rome. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Blackwell, pg 9)
+Along with this era of **independence** and the many advances in science Biblical philosophy was pushed into a different direction when looking at and trying to understand the Bible. The shift was away from the literal translation that dominated in Ancient Rome. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Stump, pg 9)
 
 {% include figure.html
   class="img-right"
@@ -93,7 +93,7 @@ Along with this era of **independence** and the many advances in science Biblica
 
 The step away from the literal interpretation left a gap in the Bible and its relationship to the natural world. This gap was quickly filled in by the **Two Books** metaphor. This metaphor states that God gave mankind information, or revelation, through different, but coordinated sources. The first source is the Bible, while the other one is the world (God’s creation). This metaphor appealed to the masses because not everyone knew how to read, or had the scriptures available to them, however one does not need to know how to read to observe the beauty of God’s creation.
 
-Multiple Christian theologians and scholars supported this metaphor. **John Chrysostom** was the Archbishop of Constantinople and was one of the main figures to support this idea. “If God had given instruction by means of books, and of letter, he who knew letters would have learnt what was written, but the illiterate man would have gone away without receiving any benefit… This however cannot be said with respect to the heavens and every man that walks upon the earth, shall hear this voice; for not by means of the ears, but through the sight, it reaches our understanding.” (Blackwell, pg 12)
+Multiple Christian theologians and scholars supported this metaphor. **John Chrysostom** was the Archbishop of Constantinople and was one of the main figures to support this idea. “If God had given instruction by means of books, and of letter, he who knew letters would have learnt what was written, but the illiterate man would have gone away without receiving any benefit… This however cannot be said with respect to the heavens and every man that walks upon the earth, shall hear this voice; for not by means of the ears, but through the sight, it reaches our understanding.” (Stump, pg 12)
 
 All of these paradigm shifts or changing of philosphies of looking at the Bible was spurned on by the advancement of knowledge in the pursuit of science. The more that was understood about the world the more the persception of the Bible changed. It was this strong connection to the natural world and the emphasis on God’s creation that led to the biggest battle science or the Bible has ever seen.
 
@@ -109,7 +109,7 @@ All of these paradigm shifts or changing of philosphies of looking at the Bible 
 
 The developments of science led to advances and a wealth of knowledge about the world that we live in. This was highlighted by the **Darwin’s theory of evolution**. Darwin’s theory was the start of science’s direct challenge to the Bible’s account of God being the ultimate creator of the world. The challenge sparked a war between an unmovable object and an unstoppable force. Science and the Bible go head to head in a battle that is still being fought to this very day. 
 
-When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have adapted and changed over time; there is no possible way anyone can dispute that. This theory would be and still is a thorn in the Church's side and would slowly make its way into the ultimate discussion of how did we get here?
+When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have adapted and changed over time. The Bible would argue that the adaptation that we have seen over the years is part of God's **intelligent design**, part of his plan. Science would counter by pointing out flaws in the proposed intelligent design; such as the jaw seemingly not designed to adequately fit all of the human adult teeth, whichrequires the removal of ones wisdom teeth. This theory would be and still is a thorn in the Church's side and would slowly make its way into the ultimate discussion of how did we get here?
 
 ### Evolution Theory Gains Traction
 
@@ -123,7 +123,9 @@ This battle hit the headlines in America in 1925, when a Tennessee school teache
   source-url="https://flchistory281groupc.wordpress.com/2018/03/05/the-scopes-trial/"
 %}
 
-Without going into too much detail, the **big bang theory** is based on a sudden appearance of organisms that, over long periods of time, have evolved into life forms which resulted in mankind. Those on the Bible side of things would counter that the event science claims the big bang, was actually God creating the earth from nothing. The adaptation that we have seen over the years is part of His **intelligent design**. Science would then counter, by pointing out flaws in the proposed intelligent design; such as the jaw seemingly not designed to adequately fit all of the human adult teeth, and hence requires the removal of ones wisdom teeth. 
+### Big Bang Theory
+
+While Darwin's Theory of Evolution tried to fill in blanks of where humans came from science needed a answer for the where the Earth and the galaxy came from, enter the **big bang theory**.  This theory is based on a random cosmic explosion of a subatomic ball that hurled matter and energy in different directions. Over long period of time, projected 10 billion years, the matter and energy evolved into stars, galaxies, and planets. Those on the Bible side of things would counter that the event science claims the big bang, was actually God creating the earth from nothing. This is just the start of the disagreement. 
 
 ### AGE IS MORE THAN JUST A NUMBER
 
@@ -135,7 +137,7 @@ Without going into too much detail, the **big bang theory** is based on a sudden
   source-url="https://creation.com/can-christians-add-big-bang-to-bible"
 %}
 
-Another point of conflict is the age of the earth. For the earth to fit into the **big bang theory**, the earth would have required millions of years to have evolved from nothing into life as we know it today. For **creation theorists**, they paint the earth in a much younger time span. Even those in the Christian community argue over taking the story of creation literally; as God created the earth in six, 24 hour, days. In this scenario the first book of the Bible, Gensis========= documentary, is looked at as a histrocal source of how the world came about.   
+Another point of conflict is the age of the earth. For the earth to fit into the **big bang theory**, the earth would have required millions of years to have evolved from nothing into life as we know it today. For **creation theorists**, they paint the earth in a much younger time span. Even those in the Christian community argue over taking the story of creation literally; as God created the earth in six, 24 hour, days. In this scenario the first book of the Bible, Genesis, is looked at as a histrocal source of how the world came about.   
 
 {% include figure.html
   class="img-right"
@@ -149,11 +151,18 @@ The [**Gap theory**](https://biblicalscienceinstitute.com/uncategorized/the-gap-
 
 With all of that said, there is no way on earth that science, or the Bible, can prove their own theories without a shadow of doubt; this battle will continue until the end of time. Some have voiced their opinions that the Bible, and Christianity, may have bitten off more than they can chew by trying to validate the _Bible using scientific means_. As the evangelical writer and religion professor **Randall Balmer** points out, confronting the public with objective evidence, attempting to show proff, of the Bible as literal truth is a mistake. “Paradoxically, when the Religious Right asserts intelligent design is science, it implies that faith in God is… inadequate, that it needs the imprimatur of the scientific method.” (Krattenmaker) “I rather see that religious beliefs should seek justification on the solid rocks of faith and revelation, not on scientific knowledge, which by its very nature is never definitive or forever valid. (Ayala, pg 76)
 
-### WHY CAN'T WE ALL JUST GET ALONG
+### Can They Coexist?
 
 With everything that has transpired between Science and the Bible, it is fair that think that they have trust issues with each other; but moving forward, it seems best to put the past behind them. To get the most out of this relationship, it seems there to be a middle ground moving forward, and the first step involves each side understanding their roles. “Of course, in their search for the truth science and religion are exploring different dimensions of the human encounter with reality. Science is concerned with impersonal encounter. This is a realm in which experience can be manipulated and repeated as often as desired…. The attempt to manipulate God and put God to the test is the sinful error of magic. It is in this rich and profound realm of personal and transpersonal experience that religion pursues its quest for truth.” (Polkinghorne, pg 158)
 
-There seems to be grey area where both science and the Bible can not only coexist but thrive. “It shows that faith enables a deeper experience of reality, beyond the materialism of the modern worldview to a view that owns and reckons with all of the knowledge with which we have been endowed by both science and religious faith. It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
+There seems to be grey area where both science and the Bible can not only coexist but thrive. “ It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
+
+### Does Science Prove the Bible?
+
+Despite the thought of Science and the Bible sticking to their own corners and keeping intersection to a minimum there has been some scientific discoveries that may be evidence of the Bible. The biggest one for the Bible is the **Cambrian Explosion**. This talks about the  discovery of fossils of complex organisms in the Cambrian period. What makes this discovery interesting is the lack of evidence of fossils in the period before it showing any signs of evolution. Basically these complex organismed appeared at the same geological level all over the world. How can this be explained? The church points to the global flood described in the Bible (Genesis chapters 6-9). 
+
+### Conclusion
+
 
 ### _BIBLIOGRAPHY_
 
