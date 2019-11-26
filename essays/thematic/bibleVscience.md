@@ -115,14 +115,6 @@ When we talk about **Darwin’s theory of evolution**, it is key to know that th
 
 This battle hit the headlines in America in 1925, when a Tennessee school teacher, [**John Scopes**](https://www.history.com/topics/roaring-twenties/scopes-trial), taught evolution. The trial of John Scopes made national news, and pushed this battle into the minds of the public. This was such a shock to many people because of the strong Biblical roots that American was founded on. The Bible was also a major part of how society in the 1920's was shaped. Most American's didn't give the thought that God created the earth a second thought. For someone as trusted as a schoolteacher to teach their children, the youth of America, a different story filled them shock and a bit of anger. This trail was a apetizer for the main battle to come.    
 
-{% include figure.html
-  class="img-left"
-  width="50%"
-  caption="Teacher John Scopes turns world upside down by teaching evolution in an American classroom."
-  image-url="bvs10.jpg"
-  source-url="https://flchistory281groupc.wordpress.com/2018/03/05/the-scopes-trial/"
-%}
-
 ### Big Bang Theory
 
 {% include figure.html
