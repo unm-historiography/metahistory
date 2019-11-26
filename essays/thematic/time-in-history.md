@@ -10,6 +10,7 @@ In historical practices throughout history from the ancient greeks to Christians
 
 ## __Cyclical History__
 
+
 Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. Before we go into the different civilizations that used cyclical history, we need to define cyclical history. __Cyclical history is the notion that the nature of history is repeating in a cyclical pattern.__ An example of a cyclical would be the repeating of the seasons (spring, summer, fall, and winter). The seasons very much influenced Egyptians perceptions of history. Their cyclical view revolved around natural cycles like that of seasons very much in part to the importance of the [__Nile River__](https://en.wikipedia.org/wiki/Nile) and knowing at what time it would flood. Time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,[__Zoroastrianism__](https://en.wikipedia.org/wiki/Zoroastrianism) emerged.
 {% include figure.html
   class="img-left"
@@ -34,6 +35,7 @@ The [__Roman empire__](https://en.wikipedia.org/wiki/Roman_Empire) believed that
 
 ## __Linear History__
 
+
 As Christianity took over the Roman empire, there was a paradigm shift from a cyclical nature of history to a linear nature of history. A [__paradigm shift__](https://www.merriam-webster.com/dictionary/paradigm%20shift) is a major shift in thinking or practice. __Linear history is history that follows a linear path and does not repeat; it has a beginning and an end.__ The linear nature of history quickly became the way in which intellectuals wrote history; it began to permeate all scholarship in the western world. A famous advocate of linear history was St. Augustine of Hippo. [__St. Augustine__](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430) was a Christian theologian who wrote many famous works, two of them being the *City of God* and [*The Confessions*](https://en.wikipedia.org/wiki/Confessions_(Augustine). In his writings, "he rejected the idea of cosmic and historical cycles endlessly recurring" (Lemon 91). In his *Confessions*, more specifically, we see the way in which Augustine perceived time. Carlo Marcaccini writes about Augustine stating that
 
 > "Time is circumscribed; it has a beginning and an end, and for this reason it is also transitory, not continuing for all eternity. These characteristics emerge in opposition to the infinite, immobile and indeed eternal nature of God. It is certainly a paradox that it is the ontological ineffability of time  its not-being placed before the divine being that allows us to conceive and define it; but it is precisely within this framework that Augustine slowly evolves in his pursuit of the truth"(215).
@@ -46,7 +48,6 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
   image-url="augustine-time.jpg"
   source-url="https://www.britannica.com/biography/Saint-Augustine"
 %}
-
 {% include figure.html
   class="img-right"
   width="49%"
@@ -57,6 +58,7 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
 
 
 ## __Golden Ages__
+
 
 The Greeks, Romans, and Egyptians were all under the belief that time began with a Golden age. The [__Golden age__](https://en.wikipedia.org/wiki/Golden_Age) was when God or Gods and man were close to one another. Until a time where something happened and disrupted the relationship between the two, and they were separated. In this form or perception of time, humans are on a __decline__ having started from the top and now falling into a more primitive state of mind and society.
 
@@ -79,21 +81,16 @@ In a different perception of time, humans at the beginning were primitive beast 
 Cyclical history requires a dualism or polytheistic view or substantial importance on politics. While linear history is focused on the one, god one path for "faith expressed itself, according to Eliade, in a linear view of history" (Olsen 17). While it was unintentional linear history is what became the way in which to write history.  To put it in more perspective Whitrow states that
 > "Whereas for most Greeks and Romans, whether they believed in cycles or not, the dominant aspects of time were the present and the past, Christianity directed man's attention to the future. Pg. 64-65).
 
-{% include figure.html
-  class="img-center"
-  width="43%"
-  caption="St.Augustine of Hippo"
-  image-url="augustine-time.jpg"
-  source-url="https://www.britannica.com/biography/Saint-Augustine"
-%}
 
 Time tells us a lot about a culture and or civilization. Looking at [polytheistic](https://en.wikipedia.org/wiki/Polytheism) groups like that of the Egyptians, we can descreen they had a more cyclical view of time. Those who were monotheistic, therefore, had a linear view of time. Understanding what time says about a culture or society is vital to histography. It can be used as a method to uncover some biased or inclination of one's view of themselves in time. Cycles may work for one type of history like that of political or economical but not for things like religion; Cairns puts this into perspective saying "there are cyclical patterns he admits in the rise and fall of great civilizations; nevertheless there has been linear progress on the whole in religion "(Cairns 279).
 
 ## __Time of the Scholar vs. Time of the Ordinary Man__  
 
+
 Historically, the overall written account of history has come from the upper class like that of philosophers, scholars, and from institutions like that of the church. For the majority of academic scholarship, history has been written by very few. This is important, especially when it comes to perceptions of time and historical progress. For academic scholarship, time is linear because of non-repeating events in the overall historical narrative. For the ordinary man, however, he may feel that it is cyclical because of the life that he or she lives. For people or cultures that rely or have relied on farming to live, they are often under a cyclical view of time. Momigliano says that "__there is no reason to consider Plato's thoughts about time as typical of the ordinary Greek man"__ (*Time in Ancient Historiography* 8). When studying history, it is for this reason that we need to be aware of the different types of time that people are writing history.  While some are writing under the impression that there is a repetition, others are writing under the impression that there is not. Another impression that time can have is when it comes to the past, present, and future.
 
 ## __Past, Present, Furture__
+
 
 The Greeks, Romans, and Jews put different emphasis on the past, present, and future. The Greek's concern lay more in the past because of the lack of historical account that Greek historians had of past historical events. The Greeks were in a sort of race against time as historical evidence, and sources disappeared due to decay. In *Essays in Ancient and Modern Historiography*, Arnoldo Momigliano states that "there was more concern with the future among Roman historians, and it expressed  itself in anxiety about the Roman empire." (*Essay in Historiography* 193). The future of the empire was the main focus of Roman intellectuals. The thought of __Rome eternal__ and the state of politics influenced the emphasis they put on the future.
 In Roman historical writing and study, one of the objectives was to determine the future.
@@ -110,12 +107,15 @@ For the Jews as well as the Christians, time was about the present and the futur
 
 ## __Teaching Linear History__
 
+
 Today a linear view of history is taught in schools. In school, there is an overall incline view of the direction in which history is moving, not one of dissension when teaching the history of civilization. Teaching the linear path of history implies that there will be an eventual incline or decline of historical progress; therefore, this may or may not create a biased. The Roman empire had a cyclical path of time. This greatly influenced their opinion of themselves and their empire, giving them a sort of evidence that they were at the peak of perfection the __Rome eternal__.  Time can be used as a method to write history in a particular way or to teach history in a certain way. When talking about the Mayans or the ancient Greeks, there are different conceptualizations of time that need to be accounted for in order to understand their history and the importance that they placed in history. The multiple times at work in historical narrative teach about the beliefs of cultures.
 
 
 ## __Questions we need to Answer__
 
+
 ### Some questions and answers need to be considered when thinking about time in history in general.
+
 
 __How do we reconcile multiple perceptions of time when writing about history?__
 When studying history, especially Zoroastrian, Greek, or Roman, we need to be aware of the cyclical nature of the history that was written by these groups. Especially today, since the nature of history is taught as being linear, this means that "it is not enough to simply eliminate a narrativeís chronology, but one must attempt to understand __temporal dialectics__" (Marcaccini 218). Understanding how these temporal dialects influence the way in which history is portrayed is a way in which we can reconcile the two and have a better understanding of how history was written in ancient times into the present times.
