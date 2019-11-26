@@ -99,7 +99,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -108,7 +108,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE1.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -118,7 +118,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE3.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -128,7 +128,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE4.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -138,7 +138,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE5.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -148,7 +148,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE6.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -158,7 +158,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE7.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -168,7 +168,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE8.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -178,7 +178,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE9.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -188,7 +188,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE10.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -198,7 +198,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE11.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
@@ -208,7 +208,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE12.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 {%raw%}{% include figure.html
@@ -216,7 +216,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE13.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 {%raw%}{% include figure.html
@@ -224,7 +224,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE14.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 {%raw%}{% include figure.html
@@ -232,7 +232,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE15.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 {%raw%}{% include figure.html
@@ -240,7 +240,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE16.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 {%raw%}{% include figure.html
@@ -248,7 +248,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE17.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 {%raw%}{% include figure.html
@@ -256,7 +256,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE18.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="."
 %}{%endraw%}
 
 
