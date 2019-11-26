@@ -6,6 +6,8 @@ date: 2019-11-03
 author: Eamon Bisbee
 ---
 
+
+## Introduction and historical context
 {% include figure.html
   class="img-right"
   width="50%"
@@ -14,7 +16,6 @@ author: Eamon Bisbee
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}
 
-## Introduction and historical context
 
 What year is it? As I write this, 2019 is nearing its end. But why is this year numbered in this way? You are likely aware that the system of numbering years is derived from the medieval Christian system known as anno Domini, literally meaning “in the year of our lord”, referring to the birth of Jesus Christ. But how did this system of dates come to be so widespread, literally used around the world? The credit for this widespread use can be given to Bede, an 8th century historian whose works popularized the anno Domini system and whose historical methods were far ahead of his time. 
 
