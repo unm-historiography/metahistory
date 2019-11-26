@@ -3,7 +3,8 @@ title: Polybius
 author: Hannah Ibbotson
 date: 2019-10-19
 ---
-
+## Why should we care
+The motivation of the victors masks the voices of the imprisoned. These words ring true for one Greek historian named Polybius. Polybius was a member of a political group within Greece who was the last few people attempting to push back the power of the Roman Republic. Though taken prisoner, he was allowed to travel around with generals and attend political meetings. This freedom not only allowed him to move around the known world but see historical events first hand. However, his written work named Histories would be published under the watchful eyes of Roman rulers. This forced Polybius's hand into developing historical theories that favored the powerful nation-state. Though this seemingly biased writing is not that at all, Polybius had no choice but to write in a way to endorse his superiors. Thus essential to see how powerful outside forces have shaped historical theory over time by starting with one of the first historiographically significant prisoners of war. 
 {% include figure.html
   class="img-right"
   width="33%"
@@ -59,7 +60,7 @@ Through the *Histories*, Polybius voices his opinion on who he believes should b
 > “the soundest education and training for a life of active politics is
 > the study of history, and that the most vivid, indeed only, teacher of
 > how to bear the vicissitudes of fortune bravely is the recollection of
-> other people’s calami-ties.”
+> other people’s calami-ties.” McGing, 209
 
  This opinion corresponds to the rising belief of this time about the benefits of pragmatic history. Though Polybius never defines practical history within his book, other philosophers had used the concept. Through the collective works at the time, a simple definition would entail the telling of the tale through political and military events as praxeis meant deeds. This mode of writing would make sense as the audience for these works would be reserved for privileged and powerful citizens who were often ended up within political or military roles. 
 
@@ -70,7 +71,7 @@ With Rome now conquering every power it can reach, Polybius suggested that it wa
 >   It is only by the interweaving and comparison of all the parts with
 > each other that noting their resemblances and differences, we reach a
 > stage where we are able to do a general review and thus derive both
-> benefit and pleasure from history.”
+> benefit and pleasure from history.”McGing, 156
 
 Throughout the *Histories*, Polybius expresses his hatred for monographs, the detailed study of a single subject or event. This is because he believes that the historian would never be able to understand the world as a whole through these means. Through these universal histories, he explained political entities, events, and the geography and used this to explain how actions within one city-state would affect others. This new theory of history might have been thought about as Greek City-states were declining under the power of Rome as they were spreading their influence across the world. It was through his work of universal histories that he hoped to achieve a way to explain how the land was conquered by the Romans by describing the events that lead to the weakening of the city-state.
 
@@ -80,7 +81,7 @@ Throughout the *Histories*, Polybius expresses his hatred for monographs, the de
 > 140th Olympiad: 220–216 BC] onwards, history becomes an organic whole
 > [somatoeides]: the affairs of Italy and Africa are connected with
 > [inter-linked with – symplekesthai] those of Asia and Greece, and all
-> events bear a relationship and contribute to a single end.”
+> events bear a relationship and contribute to a single end.” Eckstein, 330
 
 
 ## Bibliography
