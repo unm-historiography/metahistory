@@ -29,9 +29,9 @@ Before diving deep into the world of historical fiction, let’s look several ge
     image-url="Modern_Marvels.jpg"
     source="https://en.wikipedia.org/wiki/Modern_Marvels#/media/File:Modern_Marvels_title_credits.jpg" %}
 
-    - [Frederick Jakson Turner](https://en.wikipedia.org/wiki/Frederick_Jackson_Turner)’s ["Frontier Thesis"](https://en.wikipedia.org/wiki/Frontier_Thesis) (book)
-    - [History Channel](https://en.wikipedia.org/wiki/History_(American_TV_channel))’s [_Modern Marvels_](https://en.wikipedia.org/wiki/Modern_Marvels) (television)
-    - [L. Jay Oliva](https://en.wikipedia.org/wiki/L._Jay_Oliva)’s [_Peter the Great_](https://en.wikipedia.org/wiki/Peter_the_Great) (book)
+   - [Frederick Jakson Turner](https://en.wikipedia.org/wiki/Frederick_Jackson_Turner)’s ["Frontier Thesis"](https://en.wikipedia.org/wiki/Frontier_Thesis) (book)
+   - [History Channel](https://en.wikipedia.org/wiki/History_(American_TV_channel))’s [_Modern Marvels_](https://en.wikipedia.org/wiki/Modern_Marvels) (television)
+   - [L. Jay Oliva](https://en.wikipedia.org/wiki/L._Jay_Oliva)’s [_Peter the Great_](https://en.wikipedia.org/wiki/Peter_the_Great) (book)
 
  - [Creative History or Nonfiction](https://www.creativenonfiction.org/online-reading/what-creative-nonfiction) - Creative History, or non-fiction, borrows from the academic narrative and interjects elements that may not be supported by historical sources, yet is consistent with the events and larger narrative.[^Creative]  The information in these books is as accurate and verifiable, but the language and narrative techniques provide readers with a more literary experience and presumably a greater emotional connection with the book’s content. [^Sanger]
 
@@ -42,9 +42,9 @@ Before diving deep into the world of historical fiction, let’s look several ge
     image-url="Cassidy-Sundance.jpg"
     source="http://barkerhost.com/wp-content/uploads/sites/4/2019/07/nZy6tmGaL2xeWIho6ICoWwVfKSt-2.jpg" %}
 
-    - [Alex Haley](https://en.wikipedia.org/wiki/Alex_Haley)’s [_Roots_](https://www.imdb.com/title/tt0075572/?ref_=fn_al_tt_1) (book and television)
-    - [Nadezhda Durova](https://en.wikipedia.org/wiki/Nadezhda_Durova)’s [_The Cavalry Maiden_](https://www.historynet.com/nadezhda-durova-russian-cavalry-maiden-in-the-napoleonic-wars.htm) (book)
-    - [_Butch Cassidy and the Sundance Kid_](https://www.imdb.com/title/tt0064115/?ref_=nv_sr_2?ref_=nv_sr_2) (movie)
+   - [Alex Haley](https://en.wikipedia.org/wiki/Alex_Haley)’s [_Roots_](https://www.imdb.com/title/tt0075572/?ref_=fn_al_tt_1) (book and television)
+   - [Nadezhda Durova](https://en.wikipedia.org/wiki/Nadezhda_Durova)’s [_The Cavalry Maiden_](https://www.historynet.com/nadezhda-durova-russian-cavalry-maiden-in-the-napoleonic-wars.htm) (book)
+   - [_Butch Cassidy and the Sundance Kid_](https://www.imdb.com/title/tt0064115/?ref_=nv_sr_2?ref_=nv_sr_2) (movie)
 
  - [Historical Fiction](https://www.dictionary.com/browse/historical-fiction) - Now, this is where history started to really 'grab' us.  Those exciting stories that drew us in and made us feel as though we were living them. Accurate historical settings, characters and larger events, with the addition of elements created by the author that cannot be supported by the historical record, makes historical fiction interesting.  It strives “for the story that underlies reality and thus become an imagined reality” [^Dictionary][^HistFic vs Hist].
 
@@ -55,9 +55,9 @@ Before diving deep into the world of historical fiction, let’s look several ge
     image-url="rome.jpg"
     source="https://en.wikipedia.org/wiki/Rome_(TV_series)#/media/File:Rome_title_card.jpg" %}
 
-    - [HBO](https://en.wikipedia.org/wiki/HBO) mini-series [_Rome_](https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1) (television)
-    - [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy)’s  [_War and Peace_](https://en.wikipedia.org/wiki/War_and_Peace) (book)
-    - [Gordon Lightfoot](https://en.wikipedia.org/wiki/Gordon_Lightfoot)’s ["The Wreck of the Edmund Fitzgerald"](https://en.wikipedia.org/wiki/Centennial_(novel)) (song)[^EFSong][^EFLyrics]
+   - [HBO](https://en.wikipedia.org/wiki/HBO) mini-series [_Rome_](https://www.imdb.com/title/tt0384766/?ref_=fn_al_tt_1) (television)
+   - [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy)’s  [_War and Peace_](https://en.wikipedia.org/wiki/War_and_Peace) (book)
+   - [Gordon Lightfoot](https://en.wikipedia.org/wiki/Gordon_Lightfoot)’s ["The Wreck of the Edmund Fitzgerald"](https://en.wikipedia.org/wiki/Centennial_(novel)) (song)[^EFSong][^EFLyrics]
 
  - [Alternate History](https://www.merriam-webster.com/dictionary/alternative%20history) - With history full of possibilities, should one event changed or on person be removed, we get to imagine Alternate History.  These are storylines that have a point and time in history as a point of origin, but then diverge from the historical timeline to present a “what if” scenario to the reader, exploring a history that might have been [MerriamWebster][^AltHist].
 
@@ -68,9 +68,9 @@ Before diving deep into the world of historical fiction, let’s look several ge
     image-url="blackadder.jpg"
     source="https://en.wikipedia.org/wiki/The_Black_Adder#/media/File:The_Black_Adder.jpg" %}
 
-    - [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)’s [_Man in the High Castle_](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle) (book and television)
-    - [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))’ [_Fatherland_](https://en.wikipedia.org/wiki/Fatherland_(novel)) (book and movie)
-    - [BBC](https://en.wikipedia.org/wiki/BBC)’s [_The Black Adder_](https://en.wikipedia.org/wiki/The_Black_Adder) (television) [^AltHistTV]
+   - [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)’s [_Man in the High Castle_](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle) (book and television)
+   - [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))’ [_Fatherland_](https://en.wikipedia.org/wiki/Fatherland_(novel)) (book and movie)
+   - [BBC](https://en.wikipedia.org/wiki/BBC)’s [_The Black Adder_](https://en.wikipedia.org/wiki/The_Black_Adder) (television) [^AltHistTV]
 
  - [Fictional History](https://en.wikipedia.org/wiki/Category:Fictional_history) - Imagine Earth populated by humans living underwater and breathing through gills.  Set in a real place, but completely separate from reality, these are histories do not qualify as alternate history. This genre is often confused with Historical or Alternative Fiction. [^FictHist]
 
@@ -81,9 +81,9 @@ Before diving deep into the world of historical fiction, let’s look several ge
     image-url=""
     source="" %}
 
-    - [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)’s [_Harry Potter and the Chamber of Secrets_](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) (book and movie)
-    - [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen)’s [_Pride and Prejudice_](https://en.wikipedia.org/wiki/Pride_and_Prejudice) (book, movie, and television)
-    - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)’s [_1984_](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) (book)
+   - [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)’s [_Harry Potter and the Chamber of Secrets_](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) (book and movie)
+   - [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen)’s [_Pride and Prejudice_](https://en.wikipedia.org/wiki/Pride_and_Prejudice) (book, movie, and television)
+   - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)’s [_1984_](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) (book)
 
  - [Fiction](https://www.britannica.com/art/fiction-literature) - 	•	Whether Science Fiction (SciFi), romance, or fantasy, these are worlds and events which are created by the author, wholly (not _HOLY_) or in part. Vast and immersive, we find ourselves easily lost in these fictional worlds. [^Brittanica][^fictwiki][^fictvocab]
 
@@ -94,9 +94,9 @@ Before diving deep into the world of historical fiction, let’s look several ge
     image-url="frank-herbert.jpg"
     source="https://en.wikipedia.org/wiki/Frank_Herbert#/media/File:Frank_Herbert_-_1984.jpg" %}
 
-    - [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)’s [_Dune_](https://en.wikipedia.org/wiki/Dune_(novel)) (book, movie, television)
-    - [Suzanne Collins](https://en.wikipedia.org/wiki/Suzanne_Collins)’ [_Hunger Games_](https://en.wikipedia.org/wiki/The_Hunger_Games) (book and movie)
-    - [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)’s [_Lord of the Rings_](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
+   - [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)’s [_Dune_](https://en.wikipedia.org/wiki/Dune_(novel)) (book, movie, television)
+   - [Suzanne Collins](https://en.wikipedia.org/wiki/Suzanne_Collins)’ [_Hunger Games_](https://en.wikipedia.org/wiki/The_Hunger_Games) (book and movie)
+   - [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)’s [_Lord of the Rings_](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 
 We generally understand that history studies the past,[^Lemon293] but nothing says it needs to be dry and boring (high schoole flashback). Let's move forward, and look at how history can be inviting and exciting, and the role historical fiction plays in the adventure.
 
