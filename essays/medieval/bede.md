@@ -61,7 +61,7 @@ Bede clearly states his purpose in writing his history. For Bede, there are no q
   source-url="https://en.wikipedia.org/wiki/File:Nuremberg_Chronicle_Venerable_Bede.jpg"
 %}
 
-## Bede's popularization of the *Anno Domini* system of dating
+## Bede's popularization of the *anno Domini* system of dating
 
 In Bede’s time, the computation of dates, particularly of [Easter](https://en.wikipedia.org/wiki/Computus), was an extremely important issue, and one that caused a great deal of controversy within the Cathlic Church. Differences in the method of determining Easter had often led to doctrinal conflict between various factions. One such conflict in England in the late 7th Century AD led to the [Synod of Whitby](https://en.wikipedia.org/wiki/Synod_of_Whitby), a council meeting of clergymen. This incident, and the issues that led to it, would have a great effect on Bede. He wrote at length about it in his *Ecclesiastical History*, and he would devote a great deal of effort in his other writings to determining the date of Easter specifically, and to the issues of dating in general. 
 
