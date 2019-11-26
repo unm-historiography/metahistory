@@ -12,11 +12,11 @@ date: 2019-10-20
   source-url="https://www.youtube.com/watch?v=AO1XnnOzJlg"
 %}
 
-One of the biggest battles in the history of mankind is one that traces its origins all the way back to _Ancient Rome_ and is still going strong today. The epic battle that is being referenced is the **Bible vs Science**. This heated battle might be described as having a _David vs Goliath_ feel, with each side taking turns playing the role of underdog. This essay won’t go into the actual debates, with each side trying to plead their case and dismiss the other, but will focus more on how the philosophies, or thought process, shifted throughout the years. 
+One of the biggest battles in the history of mankind is one that traces its origins all the way back to _Ancient Rome_ and is still going strong today. The epic battle that is being referenced is the **Bible vs Science**. This essay will focus on how the philosophies, or thought process, shifted throughout the years. The relationship between the two will also be looked at and how they pushed each other to new heights to shape the world that we live in today.
 
 ### First Conflict
 
-As we stated above, this battle first shows itself in _Ancient Rome_. Christianity had a rough start in Ancient Rome; believers of Christianity faced heavy persecution, but it would eventually be accepted by Emperor Constantine in 313 AD. Ten years later, 323 AD, Christianity would be named the official religion of the Roman Empire. That is a key fact to know because the Romans would use the **Bible** to guide a fair amount of their thinking.
+As we stated above, this battle first shows itself in _Ancient Rome_. Christianity had a rough start in Ancient Rome; believers of Christianity faced heavy persecution due to their refusal to partake in the ritual sacrifice to the Roman god's. Roman's feared that this refusal would bring upon them bad luck from the god's who feel disrespected from the lack of sacrifice. But things would eventually get better when they were accepted by Emperor Constantine in 313 AD. Ten years later, 323 AD, Christianity would be named the official religion of the Roman Empire. That is a key fact to know because the Romans would use the **Bible** to guide their thinking and understanding of the world..
 
 {% include figure.html
   class="img-center"
@@ -27,7 +27,7 @@ As we stated above, this battle first shows itself in _Ancient Rome_. Christiani
 %}
 A perfect example of this is the Roman’s belief in **Geocentrism**, thinking that the Earth is the center of the Universe with the sun orbiting around it. They believed this because they took what the Bible said literally. There are multiple verses in the Bible that led them to believe in Geocentrism, but the main one that they used was Joshua 10:13: “And the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.” 
 
-This belief went unchallenged for a while because it was written in the scriptures, and in those days no on dared to go against the Bible or the Church. If you haven’t already guessed, that is foreshadowing for someone to do the unthinkable and challenge things. The person to do this was **Galileo**. 
+This belief went unchallenged for a while because it was written in the scriptures, and in those days no one dared to go against the Bible or the Church. If you haven’t already guessed, that is foreshadowing for someone to do the unthinkable and challenge the Church. The person to do this was **Galileo**. 
 
 {% include figure.html
   class="img-center"
@@ -36,7 +36,8 @@ This belief went unchallenged for a while because it was written in the scriptur
   image-url="bvs3.jpg"
   source-url="https://en.wikipedia.org/wiki/Galileo_Galilei"
 %}
-Galileo made some observations of the moon's shape, and the craters or valleys located on it. He also observed the milky way and distant bright dots around Jupiter. All of these factored into Galileo coming to the conclusion that the earth is not the center of the Universe. He made a **Heliocentrism** claim, that the sun is the center of the Universe.
+
+Galileo made some observations of the moon's shape and the craters or valleys located on it. He also observed the milky way and distant bright dots around Jupiter, which he later discovered was moons. All of these factored into Galileo coming to the conclusion that the earth is not the center of the Universe. He made a **Heliocentrism** claim, that the sun is the center of the Universe.
 
 {% include figure.html
   class="img-left"
@@ -45,7 +46,8 @@ Galileo made some observations of the moon's shape, and the craters or valleys l
   image-url="bvs4.gif"
   source-url="https://people.highline.edu/iglozman/classes/astronotes/history.htm"
 %}
-_Galileo_ knew that this new thought process would ruffle some feathers, so he kept things on the downlow by sending private letters before going public. In one of these letters, known as the _Letter to the Grand Duchess Christina_, he argues that the Bible should be taken as incapable of making mistakes, when understood correctly, and it has little to say in matters of astronomy. “I think that in discussions of physical problems we ought to begin not from the authority of scriptural passages, but from sense-experiences and necessary demonstrations.” (Blackwell, pg 6)
+
+_Galileo_ knew that this new thought process would ruffle some feathers, so he sent private letters before going public to get a sense of the reaction he would get. In one of these letters, known as the _Letter to the Grand Duchess Christina_, he argues that the Bible should be taken as incapable of making mistakes, when understood correctly, and it has little to say in matters of astronomy. “I think that in discussions of physical problems we ought to begin not from the authority of scriptural passages, but from sense-experiences and necessary demonstrations.” (Blackwell, pg 6)
 
 {% include figure.html
   class="img-left"
@@ -75,7 +77,9 @@ Even the authority of the Church got on board with the Independence era. **Basil
 
 This idea, of keeping the science and the Bible in their sectors, is an idea that is also shared by some in the modern day setting. In 1829, Leading theologian, _Moses Stuart of Andover Seminary_, stated, "God fit the world of the Mosaic narrative to the feeling, vies, and methods of expression, existing in the time of Moses… The bible was not designed to teach the Hebrews astronomy or geology.” (Goldberg, pg 28-29)
 
-Along with this era of **independence**, there was also a major shift in how the bible was understood. The shift was away from the literal translation that dominated in Ancient Rome. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Blackwell, pg 9)
+### Different Ways of Interepting the Bible
+
+Along with this era of **independence** and the many advances in science Biblical philosophy was pushed into a different direction when looking at and trying to understand the Bible. The shift was away from the literal translation that dominated in Ancient Rome. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Blackwell, pg 9)
 
 {% include figure.html
   class="img-right"
@@ -98,21 +102,23 @@ All of these paradigm shifts or changing of philosphies of looking at the Bible 
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Darwin and his theory of evolution shook things up."
+  caption="Darwin and his theory of evolution directly challenged the Church and God's authority as Creator."
   image-url="bvs8.jpg"
   source-url="https://www.biography.com/scientist/charles-darwin"
 %}  
 
 The developments of science led to advances and a wealth of knowledge about the world that we live in. This was highlighted by the **Darwin’s theory of evolution**. Darwin’s theory was the start of science’s direct challenge to the Bible’s account of God being the ultimate creator of the world. The challenge sparked a war between an unmovable object and an unstoppable force. Science and the Bible go head to head in a battle that is still being fought to this very day. 
 
-When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have adapted over time; there is no possible way anyone can dispute that. The challenge that has the Bible and science at each others throat is the _big bang against creation_. 
+When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have adapted and changed over time; there is no possible way anyone can dispute that. This theory would be and still is a thorn in the Church's side and would slowly make its way into the ultimate discussion of how did we get here?
 
-This battle hit the headlines in America in 1925, when a Tennessee school teacher, [**John Scopes**](https://www.history.com/topics/roaring-twenties/scopes-trial), taught evolution. The trial of John Scopes made national news, and pushed this battle into the minds of the public. 
+### Evolution Theory Gains Traction
+
+This battle hit the headlines in America in 1925, when a Tennessee school teacher, [**John Scopes**](https://www.history.com/topics/roaring-twenties/scopes-trial), taught evolution. The trial of John Scopes made national news, and pushed this battle into the minds of the public. This was such a shock to many people because of the strong Biblical roots that American was founded on. The Bible was also a major part of how society in the 1920's was shaped. Most American's didn't give the thought that God created the earth a second thought. For someone as trusted as a schoolteacher to teach their children, the youth of America, a different story filled them shock and a bit of anger. This trail was a apetizer for the main battle to come.    
 
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="Teacher John Scopes turns world upside down by teaching evolution in American classroom."
+  caption="Teacher John Scopes turns world upside down by teaching evolution in an American classroom."
   image-url="bvs10.jpg"
   source-url="https://flchistory281groupc.wordpress.com/2018/03/05/the-scopes-trial/"
 %}
