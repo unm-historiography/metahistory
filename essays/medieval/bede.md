@@ -2,12 +2,13 @@
 layout: default
 title: Bede
 subtitle: A Case Study in Medieval Historiography
-date: 2019-11-03
+date: 2019-11-25
 author: Eamon Bisbee
 ---
 
 
 ## Introduction and historical context
+
 {% include figure.html
   class="img-right"
   width="50%"
