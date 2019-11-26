@@ -71,7 +71,7 @@
 
           {{ content }}
 
-          {{ page.content | number_of_words }} words.
+          {{ page.content | number_of_words }} words. {{ page.url }}
 
           {% if page.has_children == true and page.has_toc != false %}
           <hr>
@@ -92,6 +92,20 @@
     </div>
   </div>
   {% include bottom-js.html %}
+
+  {% if page.url == "/directory.html" %}
+  <script>
+  $( function() {
+    console.log("about to getPages");
+    getPages(function(pages) {
+        $.each(pages, createCard);
+        console.log("done looping through pages.");
+      }
+    );
+  });
+  </script>
+
+  {% endif %}
 
 </body>
 </html>
