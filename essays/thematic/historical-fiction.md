@@ -2,7 +2,7 @@
 title: Historical Fiction or History
 subtitle: Why not both?
 author: Rick Rockett
-date: 2019-11-24
+date: 2019-11-26
 ---
 
 {% include figure.html
