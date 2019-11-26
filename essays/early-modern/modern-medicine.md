@@ -78,8 +78,7 @@ Before the Ancient Greeks and their applications of medicine solidified its’ p
   width="33%"
   caption="The Edwin-Smith Ppayrus named after its founder, is thought to have belonged to Imohtep,and proves to be the first written source of medical history that took a more rational view to medicine rather than a supernatural and provided cotext for the Greeks to follow with their medical applications/practices."
   image-url="esmithPapyrus.jpg"
-  source-url="https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus"
-%}
+  source-url="https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus" %}
 
 
 
