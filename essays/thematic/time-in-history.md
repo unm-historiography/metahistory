@@ -4,13 +4,14 @@ author: Kate Reynolds
 date: 2019-10-21
 ---
 
-### Abstract
+Have you every wondered if time matters when studying history? maybe you think 'of course history is the study of time' but have you asked yourself about wether the perceptions of time mater when studying history? This essay aims to answer that most basic question __do perceptions of time matter?__
 
-I am going to take you on an adventure through time where you and I will look at the concept of time itself. In historical practice, there are different perceptions of time at work. Things like religion or politics have influenced these different perceptions. Perceptions of time shape how history was written and studied in historical practice today, there is an all-consuming linear view of history when that is not the only type of history. There is also the direction in which history follows, whether that is a decline or incline is based on the interpretation of that particular history. Then there is the topic of the past, present, and future and how different civilizations perceived each one and the value in which they held each term.  
+In historical practices through out history from the ancient greeks to christians, there are different perceptions of time at work. These perceptions of time are influenced by things like religion, politics, or seasons. Not only do perceptions of time matter but so does the direction in which history follows, whether that is a decline or incline is based on the interpretation of that particular history by particular civilization as we will see when talking about the Romans. Then there is the topic of the past, present, and future and how different civilizations perceived each one and the value in which they held each term.
 
-### History:Zoroastrian, Greek, Roman, Jewish
 
-There are multiple perceptions of time throughout different cultures in history. Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. __Cyclical history is the notion that history or historical events repeat.__ The Nile river influenced the Egyptian perceptions of history. Their cyclical view revolving around natural cycles like that of seasons time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,[__Zoroastrianism__](https://en.wikipedia.org/wiki/Zoroastrianism) emerged.
+### Cyclical History
+
+Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. Before we go into the different civilizations that used cyclical history we need to define cyclical history. __Cyclical history is the notion that the nature of history is repeating in a cyclical pattern.__ An example of a cyclical would be the repeating of the seasons (spring, summer, fall, and winter). The seasons very much influenced Egyptians perceptions of history. Their cyclical view revolving around natural cycles like that of seasons very much in part to the importance of the [__Nile River__](https://en.wikipedia.org/wiki/Nile) and knowing at what time it would flood, time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,[__Zoroastrianism__](https://en.wikipedia.org/wiki/Zoroastrianism) emerged.
 {% include figure.html
   class="img-left"
   width="40%"
@@ -18,7 +19,7 @@ There are multiple perceptions of time throughout different cultures in history.
   image-url="zor.svg"
   source-url="https://en.wikipedia.org/wiki/Zoroastrianism#/media/File:Faravahar.svg"
 %}
-Zoroastrianism was the first religion to be monotheistic. [__Monotheism__](https://en.wikipedia.org/wiki/Monotheism), as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.There were two perceptions of time and they were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil." (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a cycle of changes until it finally returns to its original state" (Whitrow 35).
+Zoroastrianism was the first religion to be monotheistic. [__Monotheism__](https://en.wikipedia.org/wiki/Monotheism), as we will see later on, plays a big role in a culture or society's perception of time. In the case of the Zoroastrian religion, time was the creator; it was the supreme being.There were two perceptions of time that were simultaneous. The First being Zurvan akaran( infinite time) "progenitor of the universe and of the spirits of good and evil" (Whitrow 35). The second is Zurvan daregho- chvadhata (finite time) that brings death and decay this time can be understood as the time that humans follow while Infinite time is the time of the Gods. One is not without the other, "finite-time came into existence out of infinite time. It goes through a __cycle of changes__ until it finally returns to its original state" (Whitrow 35).
 
 {% include figure.html
   class="img-center"
@@ -28,12 +29,17 @@ Zoroastrianism was the first religion to be monotheistic. [__Monotheism__](https
   source-url="https://en.wikipedia.org/wiki/Thucydides#/media/File:Thucydides_pushkin02.jpg"
 %}
 
-According to Arnaldo Momigliano in *Time in Ancient Historiography*, Thucydides is whom we should attribute the cyclical view of history "(Momigliano 11). [__Thucydides__](https://en.wikipedia.org/wiki/Thucydides) (460-400) was a Greek historian who wrote about the Peloponnesian war. Thucydides was under the belief that "there will be future events either identical or similar" to the ones he narrated (Momigliano 11). Nemesius, Bishop of Emesa, was under the belief that people would live the same life with the same friends. Stating the both Socrates and Plato would be once again (Whitrow 43). It is essential to realize that not every Greek intellectual was under the belief that history was cyclical. Some believed that only politics or changing of political climate was cyclical, not history as a whole. Grace Cairns in *Philosophies of Histories* states that Toynbee believed that
-> "there are cyclical patterns he admits in the rise and fall of great civilizations; nevertheless there has been linear progress on the whole in religion "(279).
+According to Arnaldo Momigliano in *Time in Ancient Historiography*, Thucydides is whom we should attribute the cyclical view of history "(Momigliano 11). [__Thucydides__](https://en.wikipedia.org/wiki/Thucydides) (460-400) was a Greek historian who wrote about the Peloponnesian war. Thucydides was under the belief that "there will be future events either identical or similar" to the ones he narrated (Momigliano 11). Nemesius, Bishop of Emesa, was under the belief that people would live the same life with the same people again and again. Stating that both Socrates and Plato would be once again (Whitrow 43). It is essential to realize that not every Greek intellectual was under the belief that history was cyclical. Some believed that only politics or changing of political climate was cyclical, not history as a whole.
 
-The [__Roman empire__](https://en.wikipedia.org/wiki/Roman_Empire) was one that believed they were timeless, believing that their empire was the peak of perfection. The Romans had a cyclical view of history; however, they felt that they were at the end of the cycle since they were perfect.  This changed with the Roman emperor [__Constantine__](https://en.wikipedia.org/wiki/Constantine_the_Great) (272-337), making Christianity the main religion of the Roman empire. There was a shift from cyclical history to linear history as Christianity took over. __Linear history is history that follows a linear path and does not repeat; it has a beginning and an end.__ The linear view of history permeated all scholarship in the western world.
+The [__Roman empire__](https://en.wikipedia.org/wiki/Roman_Empire) was one that believed they were timeless, believing that their empire was the peak of perfection. The Romans had a cyclical view of history; however, they felt that they were at the end of the cycle since they were perfect.This changed with the Roman emperor [__Constantine__](https://en.wikipedia.org/wiki/Constantine_the_Great) (272-337), making Christianity the main religion of the Roman empire.
 
-### Decline and Incline
+
+### Linear History
+
+As Christianity took over the Roman empire there was a paradigm shift from a cyclical portrayl of history to a linear portraly of history. __Linear history is history that follows a linear path and does not repeat; it has a beginning and an end.__ The linear view of history permeated all scholarship in the western world.
+
+
+__Golden Ages__
 
 The Greeks, Romans, and Egyptians were all under the belief that time began with a Golden age. The [__Golden age__](https://en.wikipedia.org/wiki/Golden_Age) was when God or Gods and man were close to one another. Until a time where something happened and disrupted the relationship between the two, and they were separated. In this form or perception of time, humans are on a __decline__ having started from the top and now falling into a more primitive state of mind and society.
 
