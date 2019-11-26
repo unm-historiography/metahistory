@@ -50,8 +50,8 @@ This ‘true sense’ being that we don’t use our imaginations when we look at
 Laura McRoberts, who’s a Professor of History at the University of Illinois writes that “The Prince should be read in a different manner; as a manual for daily life and the maximization of opportunity. The mere notion that Machiavelli, a former servant to the Republican government who praises his role of principality exemplifies his belief that adversity can be a blessing that has not been considered or planned.” (McRoberts, 7) In this book he starts by dividing humanity into three groups, the first being the vast majority of ordinary people who he refers to as **“the vulgar”**, second being **“the few”**, who are a much smaller group, and finally we have **“the individuals”**. The vulgar are the people who look and follow the individuals by their appearances, they are “…the great majority of mankind that are satisfied with appearances, as though they were realities, and are often even more influenced by the things that seem than by those that are.” (Lemon, 9) The few are not deceived by appearance and are more educated in knowing what is going on. Lemon confirms that, “He does not mean ‘education’ in the formal sense of schooling, but in the broader sense of the (moral, political, and religious) culture installed in people.” (Lemon, 98) this is the one defining aspect that separates the few from the vulgar. Finally the individuals are the people who are actually in power or known as princes. 
 
 {% include figure.html
-  class="img-center"
-  width="50%"
+  class="img-right"
+  width="33%"
   caption="Machiavelli's The Prince (1532 )was Machiavelli's most influential work. It was an examination of how a leader could gain power and stay in power. this brings out some of his most deep politcal and philosophical thoughts on Virtue, Human Nature, and Fortune."
   image-url="prince.jpg"
   source-url="https://www.amazon.com/dp/B07VMZ5FYG"
