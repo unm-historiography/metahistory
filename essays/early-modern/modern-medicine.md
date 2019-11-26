@@ -1,23 +1,33 @@
 ---
 title: History of Modern Medicine
 author: Marcellina Padilla
-date: 2019-11-13
+date: 2019-11-25
 ---
   
-  ## Abstract ##
 
-This essay will cover the historiographical elements of Westernized Medicine. From its origins and what constituted medicine, to how medicine has evolved into today’s standards of Medical practices. This essay will cover how our working definition of medicine and its’ applications came about, as well as how we have preserved those practices through historical evidence. It will explore what types of historical evidence are used today and what has been used in the past as well as explore who were/are the dominant figures and contributors to the historiography of Western medicine and whose perspectives have beenleft out.  Finally, this essay will focus on **how has the way that we talk about the history of Western medicine changed? Why is studying the history of Western Medicine important? and, What has having the knowledge that we have acquired about medicine helped shape our society?** 
 
+>This essay will cover the historiographical elements of Western Medicine. From the origins of where Western medicine began and the practices that existed long before the working definition of medicine came to be through Prehistoric Medicine. It will discuss how medicine has evolved into what today’s standards of Medical practices are, as well as how we have preserved those practices through written historical evidence. It will explore who were/are the dominant figures and contributors to the historiography of Western medicine. By doing so, whose perspectives have been left out and whose histories and biases are evident in the study of medicine.Finally, this essay will focus on how has the way that we talk about the history of Western medicine changed? What has having the knowledge that we have acquired about medicine helped shape our society? 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="rod of greek god asclepius, god of healing and medicine and the most universally recognized symbol of medicine."
+  caption="Rod of greek god asclepius, god of healing and medicine and the most universally recognized symbol of medicine."
   image-url="Rod_of_asclepius.jpg"
   source-url="https://mythologian.net/staff-rod-asclepius-medical-symbol-symbol-medicine-meaning/"
 %}
 
-# Western Medicine and its’ Place in History #
- Every year, thousands of new young doctors graduate from medical school with the hopes of touching and changing lives every day in their respective fields. Although they have chosen different specialized fields of medicine, they all have the same aspirations to help and heal the sick. With each new class of doctors, there is also that time honored tradition of taking the Hippocratic Oath. But what exactly is the **Hippocratic Oath** and why is it relevant to medical practices today? The short answer to that is; **Western medicine** has its’ origins within Ancient Greek practices and the *Hippocratic Oath* is attributed to the ‘Father of Modern Medicine,’ **Hippocrates**. However, the view that the ancient Greek’s had of medicine is very different in application from the views we have of medicine today and in order to understand how we got from Ancient Greek medical practices to the medical advancements and practices in the modern era, we must take a look at the origins of modern Westernized medicine and ask ourselves the most important question of all, why does it matter? 
+## Western Medicine and its’ Place in History ##
+ Every year, thousands of new young doctors graduate from medical school with the hopes of touching and changing lives every day in their respective fields. Although they have chosen different specialized fields of medicine, they all have the same aspirations to help and heal the sick. With each new class of doctors, there is also that time honored tradition of taking the Hippocratic Oath in which they pledge to uphold the ethics of a proper doctor . But what exactly is the **Hippocratic Oath** and why is it relevant to medical practices today? The short answer to that is; **Western medicine** has its’ origins within Ancient Greek practices and the *Hippocratic Oath* is attributed to the ‘Father of Modern Medicine,’ Greek physician **Hippocrates**. However, the view that the ancient Greek’s had of medicine, although deeply embeded within our medical practices, is by no means the only ancient civiliztion to practice medicine. That being said, the views and histories we have of medicine today can trace its origins further back than with the Greeks. In order to understand have a full understanding of where medical practices originated from, we must take a look at the origins of modern Westernized medicine and ask ourselves the most important question of all, why does it matter? 
+ 
+ {% include figure.html
+  class="img-right"
+  width="33%"
+  caption="**Hippocrates** of Kos is considered to be the 'Father' of modern medecine because of his contribution to the field however, not much is known about him but he is credited with coining the **Hippocratic Oath**;A practice that is still used today."
+  image-url="Hippocrates.jpg"
+  source-url="https://en.wikipedia.org/wiki/Hippocrates"
+%}
+ 
+ 
+ 
 
 ## Prehistoric Medicine: Magic and Healing ##
 
