@@ -51,8 +51,8 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
   class="img-right"
   width="43%"
   caption="The Confessions"
-  image-url="augustine-time.jpg"
-  source-url="https://www.britannica.com/biography/Saint-Augustine"
+  image-url="confessions.jpg"
+  source-url="https://en.wikipedia.org/wiki/Confessions_(Augustine)"
 %}
 
 
