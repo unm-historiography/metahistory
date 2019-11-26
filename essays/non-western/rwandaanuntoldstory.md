@@ -25,10 +25,12 @@ According to the United Nations High Commissioner for Refugees, between August a
 
 #### Hutu Revolution 
 
+
 In 1957, the **PARMEHUTU** (Party for the Emancipation of the Hutus) formed to rebel against Tutsi rule. Shortly thereafter, in 1959, the Hutu militia revolted against the Tutsi monarchy and asserted dominance and authority over the country. The Hutu revolution, otherwise known as the “social revolution”, forced evacuation of an estimated 120,000 Tutsi people (3) into refugee camps in nearby Burundi and Uganda. The Hutu remained in control of Rwanda for the next 35 years, elected official Juvénal Habyarimana as president.
 
 
 #### Rwandan Patriotic Front 
+
 
 In 1988, a counter political party was formed called the **Rwandan Patriotic Front (RPF)**, formed by Tutsi exiles in Uganda. Its goal was aimed to retake control of Rwanda for the Tutsi people. Two years after it’s formation, the RPF invaded Rwanda and fought for control for 3 years until the Arusha Peace Accords were signed on August 3rd, 1993. (4) The peace accords established a cease-fire between Hutu and Tutsi tribes in hopes of coming to diplomatic political negotiations. 
 
@@ -37,7 +39,9 @@ In 1988, a counter political party was formed called the **Rwandan Patriotic Fro
 
 On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and president of Burundi Cyprien Ntaryamira (both Hutu), had just boarded a plane that was preparing to take flight when the plane exploded from a rocket propelled grenade launcher. The explosion killed all passengers on the plane. Although the cause of this event was clear to have been intentional, further investigation found no definitive determination of who carried out the plan. However, the assassination sparked outrage amongst Hutu tribesmen within the country who blamed the RPF were responsible for the attack. Hutu militias soon organized and sought to retaliate. Once organized, the Hutu ended the cease-fire and the peace accords ended. 
 
+
 #### 100-Day Massacre
+
 
 Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Anyone who was confirmed to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the country’s cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100-day massacre, Tutsi civilian were indiscriminately targeted including men, women, and children.
 
@@ -72,6 +76,7 @@ Note: The National Unity and Reconciliation Commission was nationally sponsored 
 
 #### President Paul Kagame - Hero or Villain?
 
+
 Paul Kagame was undeniably involved in the delegation of military command connected to the murders that occurred by the RPF in the 1994 invasion to retake Rwanda. He has been accused by many for the assassination of President Juvenal Habyarimana which ended the Arusha Peace Accords and erupted violence and ended the cease-fire. He was also in command of the RPF during the Kibeho massacre. Kagame has denied all accusations against him and these accusations cannot lead to criminal prosecution because of the legal immunity he has as president. In 2017, President Paul Kagame won his third seven-year election by a landslide victory receiving over 98.79% of the vote. One of the Kagames political rivals, Diana Rwigara, an outspoken critic of Kagame, was arrested shortly after the election for alleged offenses against state security. Also, Syridio Dusabumuremyi, a political outspoken critic of Kagame from the United Democratic Forces, was suspiciously found dead with his throat cut and stab wounds to his body. No suspect was connected to the murder, but foul play and political intimidation from Kagame has been speculated by many. The culmination of immunity, fear of persecution of opposing political rivals, all help President Paul Kagame establish himself as one who evades justice from genocidal reality due to his power and position. The history that is written and will be remembered of Paul Kagame by those who support him will often be skewed by the reality of his actions and the ability to "play his cards" so that he is remembered as a hero rather than a villain. To many of the Rwandan citizans today, President Kagame is viewed as a hero who restored peace and order to Rwanda, to others he is a corrupt villain who gained power by corruption and assaination of political rivals. 
 
 ### Partiality - Victims, Memorials, and History 
@@ -81,6 +86,7 @@ The memorial website also states, "The Kigali Genocide Memorial is the final res
 
 ### Genocide Denial 
 
+
 Genocide Denial in Rwanda is not the denial that genocide ever occurred, rather, it is the "assertion that the Rwandan genocide did not occur in the manner or to the extent described by scholarship." In an attempt to cover up the knowledge of secret information and criminal actions by government officials involved in the genocide, the Rwandan government actively suppresses all public speech that contradicts what their official story is. Any person(s) caught speaking outside what is believed to be the true "history" is considered to be a genocide denier and is subject to incarceration. The article, "Denying Genocide or Denying Free Speech? A Case Study of the Application of Rwanda’s Genocide Denial Laws" examines the country's laws and attempts to "address a specific aspect of Rwanda’s oppressive political climate: the use of criminal prosecutions under the country’s genocide denial laws to restrict free expression." it is was determined after examination of the federal genocide denial laws that "Rwanda’s genocide denial laws
 fail to meet the requisite standard of precision under international law". The legal and political oppression of speech to discuss the history of the genocide is a historiographical distortion between the reality of the past, the history of the past, and the ability for one to study it. Because the study of history as an academic discipline is largely collaborative, the oppression of such inquiry inhibits the ability for open and collaborate understanding of such history to exist. Those that oppose the legal and political authority and seek to find 'truth' are at risk of persecution, which establishes such 'truth' as the story told exclusively by the Rwandan government. 
 
@@ -88,9 +94,176 @@ fail to meet the requisite standard of precision under international law". The l
 
 The story of Rwanda tells a story of country that underwent a tragedy of war crimes and human rights violations. The stories of the people and the histories they experienced often differ from a singule official government perspective. In this instance, the historiography of an altered and distorted history allowed for the cover ups of government atrocities, immunity of criminal prosecution, and the oppression of free inquiry/investigation to seek 'truth'. It is also reveals the danger of how partiality of history can be used to intentionally manipulate and distort reality to fit a national narrative and how such historiographical consequences can still exist today. The modern age of 'making history' is no more/less subseptible to speculation and understadning perspectives of reality than it has been in the past. 
 
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
 
 
-#### Sources
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE1.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE3.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE4.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE5.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE6.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE7.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE8.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE9.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE10.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE11.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE12.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE13.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE14.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE15.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE16.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE17.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE18.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}{%endraw%}
+
+
+
+
+
+#### Bibliography
 
 (1) Momigliano, Arnaldo. 1966. “Time in Ancient Historiography.” History and Theory 6: 1–23. https://doi.org/10.2307/2504249.
 
