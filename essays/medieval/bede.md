@@ -6,6 +6,7 @@ date: 2019-11-03
 author: Eamon Bisbee
 ---
 
+
 {% include figure.html
   class="img-right"
   width="50%"
