@@ -64,7 +64,7 @@ Before the Ancient Greeks and their applications of medicine solidified its’ p
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Les Papyrus is the most recent evidence we have of the significance of, andthe contributions to medical history the Egyptians provided. Published in Paris in 1995 by Thierry Bardinet, it provides evidence of Egyptian Physiology, Pathology and Therapeutics"
+  caption="**Les Papyrus** is the most recent evidence we have of the significance of, andthe contributions to medical history the Egyptians provided. Published in Paris in 1995 by Thierry Bardinet, it provides evidence of Egyptian Physiology, Pathology and Therapeutics"
   image-url="les-papyrus.jpg"
   source-url="https://www.passionegypte.com/single-post/2018/08/29/17--Les-papyrus-de-la-Mer-Rouge--Pierre-Tallet-1"
 %}
