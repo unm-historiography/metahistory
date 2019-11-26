@@ -119,7 +119,7 @@ This battle hit the headlines in America in 1925, when a Tennessee school teache
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="45%"
   caption="The Big Bang theory operates in billions of years for an random explosion to form the galaxy we call home."
   image-url="bvs11.jpg"
   source-url="https://www.collective-evolution.com/2017/08/27/if-the-big-bang-started-the-universe-what-or-who-started-the-big-bang-what-about-the-multi-verse/"
@@ -139,6 +139,8 @@ While Darwin's Theory of Evolution tried to fill in blanks of where humans came 
 
 Another point of conflict is the age of the earth. For the earth to fit into the **big bang theory**, the earth would have required millions of years to have evolved from nothing into life as we know it today. For **creation theorists**, they paint the earth in a much younger time span. Even those in the Christian community argue over taking the story of creation literally; as God created the earth in six, 24 hour, days. In this scenario the first book of the Bible, Genesis, is looked at as a histrocal source of how the world came about.   
 
+The [**Gap theory**](https://biblicalscienceinstitute.com/uncategorized/the-gap-theory/), came about in response to the huge disparity of the earth's age between evolution, science, and creation, the Bible. In an attempt to bridge this major gap some in the Christian community theorized that there was a significant amount of time between Gensis 1:1 (God creating the heavens and earth) and Gensis 1:2 (the Earth being formless, empty, and covered in darkness). This theory has minimal supporters in the Christian community, but it is interesting to see how science has once again influenced the lens through which the Bible is trying to be viewed.     
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -146,8 +148,6 @@ Another point of conflict is the age of the earth. For the earth to fit into the
   image-url="hovind_gap.jpg"
   source-url="http://www.angelfire.com/mi/dinosaurs/gap.html"
 %}
-
-The [**Gap theory**](https://biblicalscienceinstitute.com/uncategorized/the-gap-theory/), came about in response to the huge disparity of the earth's age between evolution, science, and creation, the Bible. In an attempt to bridge this major gap some in the Christian community theorized that there was a significant amount of time between Gensis 1:1 (God creating the heavens and earth) and Gensis 1:2 (the Earth being formless, empty, and covered in darkness). This theory has minimal supporters in the Christian community, but it is interesting to see how science has once again influenced the lens through which the Bible is trying to be viewed.     
 
 With all of that said, there is no way on earth that science, or the Bible, can prove their own theories without a shadow of doubt; this battle will continue until the end of time. Some have voiced their opinions that the Bible, and Christianity, may have bitten off more than they can chew by trying to validate the _Bible using scientific means_. As the evangelical writer and religion professor **Randall Balmer** points out, confronting the public with objective evidence, attempting to show proff, of the Bible as literal truth is a mistake. “Paradoxically, when the Religious Right asserts intelligent design is science, it implies that faith in God is… inadequate, that it needs the imprimatur of the scientific method.” (Krattenmaker) “I rather see that religious beliefs should seek justification on the solid rocks of faith and revelation, not on scientific knowledge, which by its very nature is never definitive or forever valid. (Ayala, pg 76)
 
