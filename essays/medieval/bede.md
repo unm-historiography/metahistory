@@ -11,7 +11,7 @@ author: Eamon Bisbee
 In many cases in the study of historiography, the whole of the period from the fall of Rome to the beginning of the Renaissance, and the revolution in thought that it heralded, are ignored.{% include figure.html
   class="img-right"
   width="50%"
-  caption="The Venerable Bede, from The Last Chapter, c. 1902, by James Doyle Penrose. there are no surviving contemporary images of Bede, and so all depictions of him are thus figments of various artists' imaginations."
+  caption="The Venerable Bede, from *The Last Chapter*, c. 1902, by James Doyle Penrose. there are no surviving contemporary images of Bede, and so all depictions of him are thus figments of various artists' imaginations."
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}‘Historians’ in the medieval era are typically derided as mere chroniclers, or else seen as so biased or backwards that their finished works and methodology alike are considered unworthy of notice.
