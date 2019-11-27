@@ -2,89 +2,131 @@ nav:
   - section: Instructions
     subnav:
       - title: Loading Images
-        url: /loading-images.html
+        url: /loading-images
       - title: Code Samples
-        url: /code.html
-      - title: New Page
-        url: /essays/new-folder/new-page
-
-  - section: Introductions
-    subnav:
-      - title: Why Historiography?
-        url: /essays/introduction/introduction.html
-      - title: What is this site?
-        url: /index.html
+        url: /code
+      - title: Writing Guide
+        url: /writing-guide
       - title: Site status
         url: https://travis-ci.com/unm-historiography/intro-guide
 
-  - section: Antiquity
+
+  - section: Introductions
+    subnav:
+      - title: What is Historiography?
+        url: /essays/introduction/what-is-historiography
+      - title: The Importance of historiography
+        url: /essays/introduction/introduction
+      - title: Table of Contents
+        url: /directory
+
+
+  - section: Antiquity (to 300CE)
     subnav:
       - title: Myth and History
-        url: /essays/antiquity/myth-and-history.html
+        url: /essays/antiquity/myth-and-history
       - title: Greek Historiography
-        url: /essays/classical-antiquity/greek-historiography.html
+        url: /essays/classical-antiquity/greek-historiography
       - title: Providential History
-        url: /essays/classical-antiquity/providential-history.html
+        url: /essays/classical-antiquity/providential-history
       - title: Roman Historiography
-        url: /essays/classical-antiquity/roman-historiography.html
+        url: /essays/classical-antiquity/roman-historiography
       - title: Roman Historians and Rhetoric
-        url: /essays/classical-antiquity/roman-historians-rhetoric.html
+        url: /essays/classical-antiquity/roman-historians-rhetoric
+      - title: Polybius
+        url: /essays/classical-antiquity/polybius
 
 
-  - section: Early Modern
+  - section: Medieval (300-1300)
     subnav:
-      - title: Reforming History
-        url: /essays/early-modern/reforming-history.html
-      - title: Renaissance Historiography
-        url: /essays/early-modern/renaissance-historiography.html
-      - title: Scientific History
-        url: /essays/early-modern/scientific-history.html
+      - title: The Venerable Bede
+        url: /essays/medieval/bede
+      - title: Medieval Islamic Historiography
+        url: /essays/non-western/medieval-islamic-historiography
 
-  - section: Enlightenment
+
+  - section: Early Modern (1300-1675)
+    subnav:
+      - title: Renaissance Humanism
+        url: /essays/early-modern/renaissance-humanism
+      - title: Renaissance Historiography
+        url: /essays/early-modern/renaissance-historiography
+      - title: Reforming History
+        url: /essays/early-modern/reforming-history
+      - title: Scientific History
+        url: /essays/early-modern/scientific-history
+      - title: Machiavelli
+        url: /essays/early-modern/machiavelli
+
+
+  - section: Enlightenment (1675-1815)
     subnav:
       - title: Enlightened Historiography
-        url: /essays/enlightenment/enlightenment-historiography.html
+        url: /essays/enlightenment/enlightenment-historiography
       - title: Providential History
-        url: /essays/enlightenment/enlightenment.html
+        url: /essays/enlightenment/enlightenment
 
-  - section: Modernism
+
+  - section: Modern (1815-1970)
     subnav:
+      - title: Professionalization
+        url: /essays/thematic/professionalization
       - title: Annales School
-        url: /essays/modernism/annales-school.html
+        url: /essays/modernism/annales-school
+      - title: Fernand Braudel
+        url: /essays/modernism/fernand-braudel
       - title: Anthropology
-        url: /essays/modernism/anthropology.html
+        url: /essays/modernism/anthropology
+      - title: Marxism
+        url: /essays/thematic/marxism
+      - title: Historiography of Queens
+        url: /essays/thematic/women-gender/historiography-of-queens
+      - title: Modern Medicine
+        url: /essays/early-modern/modern-medicine
+      - title: The Dunning School
+        url: /essays/20th-Century/The-Dunning-School-of-Thought
+      - title: Japanese Historiography
+        url: /essays/non-western/meiji-restoration-japanese-historiography
+      - title: Chinese Historiography
+        url: /essays/non-western/chinese-historiography
+      - title: Rwandan Historiography
+        url: /essays/non-western/rwandaanuntoldstory
+
+  - section: Postmodern (1970+)
+    subnav:
+      - title: Eurocentrism
+        url: /essays/thematic/eurocentrism
+      - title: Postcolonialism
+        url: /essays/thematic/postcolonialism
+      - title: 21st-century women and gender
+        url: /essays/thematic/women-gender/21st-century-gender
+      - title: 20th century women and postmodernism
+        url: /essays/thematic/women-gender/early-feminist-history
+      - title: In Defense of Madness
+        url: /essays/thematic/in-defense-of-madness
 
   - section: Thematic
     subnav:
       - title: Film
-        url: /essays/thematic/film.html
-      - title: Truth
-        url: /essays/thematic/historical-truth.html
+        url: /essays/thematic/film
+      - title: Truth in History
+        url: /essays/thematic/historical-truth
+      - title: Time in History
+        url: /essays/thematic/time-in-history
+      - title: Historical Fiction
+        url: /essays/thematic/historical-fiction
+      - title: Oral Histories
+        url: /essays/thematic/oral-history
       - title: History Wars
-        url: /essays/thematic/history-wars.html
-      - title: In Defense of Madness
-        url: /essays/thematic/in-defense-of-madness.html
-      - title: Marxism
-        url: /essays/thematic/marxism.html
-      - title: Mental Disorders
-        url: /essays/thematic/mentaldisorders.html
-      - title: Postcolonialism
-        url: /essays/thematic/postcolonialism.html
-      - title: Professionalization
-        url: /essays/thematic/professionalization.html
+        url: /essays/thematic/history-wars
+      - title: WWII
+        url: /essays/thematic/WWII
+      - title: Witch Historiography
+        url: /essays/thematic/women-gender/witch_historiography
+
       - title: Universal Histories
-        url: /essays/thematic/universal-histories.html
-
-  - section: Women & Gender
-    subnav:
-      - title: 21st-century women and gender
-        url: /essays/thematic/women-gender/21st-century-gender.html
-      - title: 20th century women and postmodernism
-        url: /essays/thematic/women-gender/early-feminist-history.html
-
-  - section: Non-Western
-    subnav:
-      - title: Chinese Historiography
-        url: /essays/non-western/chinese-historiography.html
-      - title: Medieval Islamic Historiography
-        url: /essays/non-western/medieval-islamic-historiography.html
+        url: /essays/thematic/universal-histories
+      - title: Bible versus Science
+        url: /essays/thematic/bibleVscience
+      - title: Mental Disorders
+        url: /essays/thematic/mentaldisorders
