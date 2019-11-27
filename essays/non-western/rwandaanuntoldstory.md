@@ -8,9 +8,31 @@ date: 2019-10-21
 
 > "The most dangerous histories are those which are believed wholly and without hesitation" - Arnaldo Momigliano
 
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE3.jpg"
+  source-url="."
+%}{%endraw%}
+
+
+
 ### Historiography
 
 This essay will examine the official historical account of the genocide that occurred in Rwanda, 1994, and aim to compare the similarities and differences of how the history of the genocide is written, portrayed, understood, and perceived today. The reality of ‘what really happened’ and the country’s national history of ‘what really happened’ are far from the same. As history is often written and remembered by the victors, a closer examination of the Rwandan genocide reveals a story of government coverups, secrecy, suppression of voice, and plausible deniability. I will attempt to show how the national history of a nation was intentionally manipulated and purposefully distorted (by partiality) for the practical necessity ofrestoring peace and order. History often provides people with the perception of a true story, a story all too often perceived to be a close reality of an event or series of events. This essay aims to show how an untold story brings fuller context to the history of Rwanda and how such history underlies a closer ‘truth’ to reality. To study history and come to an understanding closer to that which is truth (as should be the historian’s goal), as well as understanding how history is made to become truth, historiography plays a critical role in determining how we might otherwise understand the history of a country and reach alternative conclusions to that which is often perceived to be history and truth. 
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE8.jpg"
+  source-url="."
+%}{%endraw%}
+
 
 
 > "Thus, a practically motivated study of something is partial both in the sense that it does not study its material fully but only those 'parts' relevant to its objective - and in the sense that the thinking involved demonstrates a 'partiality' towards lines of thinking and conclusions appropriate or 'convenient' to one's purposes. Although this does not mean the understandings achieved will necessarily be false (although such a danger threatens), it does mean the study, as angled towards the ends sought, will be 'distorted” (287). -Lemon (1)
@@ -43,14 +65,43 @@ On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and president of
 #### 100-Day Massacre
 
 
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE17.jpg"
+  source-url="."
+%}{%endraw%}
+
 Following the assassination, the **National Republican Movement for Democracy and Development** (MRND) formed to seek retaliation against Tutsi civilians. A genocide campaign was ordered to seek out and kill all Tutsi members in the country. Roadblocks and blockades were constructed and travelers along roadsides were checked of their tribal orientation based on identification (ID) cards. Anyone who was confirmed to be Tutsi were shot to death or, in many cases, killed with machetes. Radio broadcasts were transmitted throughout the country to order Hutu members to kill their neighbors. The Hutu militias continued to storm Rwandan cities, successfully capturing most of the country’s cities, including the capital Kigali. Within 100 days, approximately 800,000 Tutsi civilians were murdered, raped, and cities pillaged. During this 100-day massacre, Tutsi civilian were indiscriminately targeted including men, women, and children.
 
 
 #### RPF Control
 
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE16.jpg"
+  source-url="."
+%}{%endraw%}
+
 In 1990, the RPF led a military coalition against the MRND to retake control of the country. After months of fighting, the RPF began to successfully capture the Rwandan cities. By July 4th, 1994, the RPF captured capital Kigali and on July 18th, 1994, successfully gained control of the entire country. The elected president, Paul Kagame, rose to power as the national president of Rwanda and remains president today, 25 years later.
 
 #### Kibeho Massacre
+
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE11.jpg"
+  source-url="."
+%}{%endraw%}
+
+
 
 As the RPF regained military and political control of Rwanda, Hutu tribe members fled their homes in fear of being killed. In south-west Rwanda, Hutu refugees gathered in the Kibeho refugee camp. On April 22, 1995, the Tutsi RPF opened fire on the unarmed refugees began indiscriminately murdering them. Australian soldiers serving as part of the United Nations Assistance Mission later estimated that approximately 4,000 people in the camp were killed. The RPF claimed only 300 people were killed. At the time, current president Paul Kagame was vice president of the RPF. 
 
@@ -64,6 +115,15 @@ outside Rwanda, some 1.5 million people were internally displaced. Out of a
 population of seven million, over half had been directly affected." -United Nations High Commissioner for Refugees
 
 
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE9.jpg"
+  source-url="."
+%}{%endraw%}
+
+
 #### International Criminal Tribunal
 
 In November 1994, the United Nations established the International Criminal Tribunal for Rwanda. Its sole purpose was to "prosecute persons responsible for genocide and other serious violations of international humanitarian law committed in the territory of Rwanda and neighboring states, between 1 January 1994 and 31 December 1994" (5). It has since "indicted 93 individuals whom it considered responsible for serious violations of international humanitarian law committed in Rwanda in 1994. Those indicted include high-ranking military and government officials, politicians, businessmen, as well as religious, militia, and media leaders." This tribunal targeted criminals and made a direct effort to incarcerate the individuals that were responsible. 
@@ -75,6 +135,16 @@ Like many countries in Africa (and around the world), Truth Commissions (TC’s)
 Note: The National Unity and Reconciliation Commission was nationally sponsored (unlike the International Commission of Investigation on Human Rights Violations in Rwanda since October 1, 1990 which was internationally founded). One could reasonably assume this was primarily the purpose of avoiding investigation, conducting a final report, and causing self-incrimination.
 
 #### President Paul Kagame - Hero or Villain?
+
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Caption"
+  image-url="RWANDAGENOCIDE7.jpg"
+  source-url="."
+%}{%endraw%}
+
 
 
 Paul Kagame was undeniably involved in the delegation of military command connected to the murders that occurred by the RPF in the 1994 invasion to retake Rwanda. He has been accused by many for the assassination of President Juvenal Habyarimana which ended the Arusha Peace Accords and erupted violence and ended the cease-fire. He was also in command of the RPF during the Kibeho massacre. Kagame has denied all accusations against him and these accusations cannot lead to criminal prosecution because of the legal immunity he has as president. In 2017, President Paul Kagame won his third seven-year election by a landslide victory receiving over 98.79% of the vote. One of the Kagames political rivals, Diana Rwigara, an outspoken critic of Kagame, was arrested shortly after the election for alleged offenses against state security. Also, Syridio Dusabumuremyi, a political outspoken critic of Kagame from the United Democratic Forces, was suspiciously found dead with his throat cut and stab wounds to his body. No suspect was connected to the murder, but foul play and political intimidation from Kagame has been speculated by many. The culmination of immunity, fear of persecution of opposing political rivals, all help President Paul Kagame establish himself as one who evades justice from genocidal reality due to his power and position. The history that is written and will be remembered of Paul Kagame by those who support him will often be skewed by the reality of his actions and the ability to "play his cards" so that he is remembered as a hero rather than a villain. To many of the Rwandan citizans today, President Kagame is viewed as a hero who restored peace and order to Rwanda, to others he is a corrupt villain who gained power by corruption and assaination of political rivals. 
@@ -117,16 +187,6 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   class="img-right"
   width="33%"
   caption="Caption"
-  image-url="RWANDAGENOCIDE3.jpg"
-  source-url="."
-%}{%endraw%}
-
-
-
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
   image-url="RWANDAGENOCIDE4.jpg"
   source-url="."
 %}{%endraw%}
@@ -153,33 +213,6 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
-  image-url="RWANDAGENOCIDE7.jpg"
-  source-url="."
-%}{%endraw%}
-
-
-
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
-  image-url="RWANDAGENOCIDE8.jpg"
-  source-url="."
-%}{%endraw%}
-
-
-
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
-  image-url="RWANDAGENOCIDE9.jpg"
-  source-url="."
-%}{%endraw%}
 
 
 
@@ -188,16 +221,6 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE10.jpg"
-  source-url="."
-%}{%endraw%}
-
-
-
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
-  image-url="RWANDAGENOCIDE11.jpg"
   source-url="."
 %}{%endraw%}
 
@@ -235,21 +258,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
   source-url="."
 %}{%endraw%}
 
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
-  image-url="RWANDAGENOCIDE16.jpg"
-  source-url="."
-%}{%endraw%}
 
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Caption"
-  image-url="RWANDAGENOCIDE17.jpg"
-  source-url="."
-%}{%endraw%}
 
 {%raw%}{% include figure.html
   class="img-right"
