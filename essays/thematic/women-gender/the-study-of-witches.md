@@ -1,5 +1,5 @@
 ---
-title: Witch Historiography
+title: The Study of Witches
 author: Mackenzie Everett
 date: 2019-11-03
 ---
