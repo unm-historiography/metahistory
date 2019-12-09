@@ -14,7 +14,6 @@ date: 2019-10-20
 
 Many view **The Bible** as one of the most influential books ever written, but it also one of the most disputed works as well. The Bible is one of those subjects that majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a brief timeline of how perspectives and interpretations of the Bible have changed over time.    
 
--
 ### First Conflict
 
 As we stated above, this battle first shows itself in _Ancient Rome_. Christianity had a rough start in Ancient Rome; believers of Christianity faced heavy persecution due to their refusal to partake in the ritual sacrifice to the Roman god's. Roman's feared that this refusal would bring upon them bad luck from the god's who feel disrespected from the lack of sacrifice. But things would eventually get better when they were accepted by Emperor Constantine in 313 AD. Ten years later, 323 AD, Christianity would be named the official religion of the Roman Empire. That is a key fact to know because the Romans would use the **Bible** to guide their thinking and understanding of the world..
