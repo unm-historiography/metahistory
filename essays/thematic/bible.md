@@ -7,9 +7,9 @@ date: 2019-10-20
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="The battle between bible and science is one that still rages on today."
-  image-url="BvS1.jpg"
-  source-url="https://www.youtube.com/watch?v=AO1XnnOzJlg"
+  caption="The ."
+  image-url="UNDERSTANDING-THE-BIBLE-600x362-600x362.jpg"
+  source-url="http://www.albanymethodist.org/understanding-the-bible/"
 %}
 
 One of the biggest battles in the history of mankind is one that traces its origins all the way back to _Ancient Rome_ and is still going strong today. The epic battle that is being referenced is the **Bible vs Science**. This essay will focus on how the philosophies, or thought process, shifted throughout the years. The relationship between the two will also be looked at and how they pushed each other to new heights to shape the world that we live in today.
