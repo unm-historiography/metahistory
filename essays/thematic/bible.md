@@ -16,7 +16,7 @@ Many view **The Bible** as one of the most influential books ever written, but i
 
 ### Prophets to Historians
 
-Looking at the Bible 
+By the defintion of the word The Bible is a work history because it provides insight on events and lifestyle from the past.  even though it is not your average work of history. It is filled with parables, hymns, and stories. While some question whether some of the stories actually happened the way they presented the Bible does provide insight on events and lifestyle from the past.  
 
 {% include figure.html
   class="img-center"
