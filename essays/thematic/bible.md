@@ -7,7 +7,7 @@ date: 2019-10-20
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="The Bible stirrs a a different resposne from everyone, what does it mean to you?"
+  caption="The Bible stirrs a a different response from everyone, what does it mean to you?"
   image-url="images.jpg"
   source-url="https://www.salvationandsurvival.com/2019/07/how-do-we-view-gods-justice-and.html"
 %}
