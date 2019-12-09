@@ -12,11 +12,11 @@ date: 2019-10-20
   source-url="https://www.salvationandsurvival.com/2019/07/how-do-we-view-gods-justice-and.html"
 %}
 
-Many view **The Bible** as one of the most influential books ever written, but it also one of the most disputed works as well. The Bible is one of those subjects that majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a brief timeline of how perspectives and interpretations of the Bible have changed over time.    
+Many view **The Bible** as one of the most influential books ever written, but it is also one of the most disputed works as well. The Bible is one of those subjects that a majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a brief timeline of how perspectives and interpretations of the Bible have changed over time, specifically in terms of how developments in science have shifted     
 
-### First Conflict
+### Prophets to Historians
 
-As we stated above, this battle first shows itself in _Ancient Rome_. Christianity had a rough start in Ancient Rome; believers of Christianity faced heavy persecution due to their refusal to partake in the ritual sacrifice to the Roman god's. Roman's feared that this refusal would bring upon them bad luck from the god's who feel disrespected from the lack of sacrifice. But things would eventually get better when they were accepted by Emperor Constantine in 313 AD. Ten years later, 323 AD, Christianity would be named the official religion of the Roman Empire. That is a key fact to know because the Romans would use the **Bible** to guide their thinking and understanding of the world..
+Looking at the Bible 
 
 {% include figure.html
   class="img-center"
@@ -170,7 +170,7 @@ There seems to be grey area where both science and the Bible can not only coexis
 Despite the thought of Science and the Bible sticking to their own corners and keeping intersection to a minimum there has been some scientific discoveries that may be evidence of the Bible. The biggest one for the Bible is the **Cambrian Explosion**. This talks about the  discovery of fossils of complex organisms in the Cambrian period. What makes this discovery interesting is the lack of evidence of fossils in the period before it showing any signs of evolution. Basically these complex organismed appeared at the same geological level all over the world. How can this be explained? The church points to the global flood described in the Bible (Genesis chapters 6-9). 
 
 ### Conclusion
-
+Historiography is different discipline from history. In history a great amount of time is spent dissecting primary and secondary sources in an effort to learn the truth about what happened 
 If your looking for a winner in the battle between **Bible and Science** you are not going to find one. The best answer your going to get is that they agree to disagree. There is no way to completely discredit the one and call another the champion. We can look at their relationship and look at how they pushed each other to get better. Neither Science or the Bible could stand pat and not look for advancement. It is because of these two constantly battling that we all have enjoyed the fruits of their advancements. How it has shaped our society and given options for everyone to believe in what they so choose. 
 
 ### _BIBLIOGRAPHY_
