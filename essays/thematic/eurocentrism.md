@@ -2,7 +2,7 @@
 layout: default
 title: Eurocentrism
 author: Keena Hays
-date: 2019-11-26 00:00:00
+date: 2019-12-13 00:00:00
 ---
 
 _Have you ever read a book with a non-Western protagonist? Have you ever questioned the author's motivations for writing?_
