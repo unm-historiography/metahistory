@@ -1,7 +1,7 @@
 ---
 title: Polybius
 author: Hannah Ibbotson
-date: 2019-10-19
+date: 2019-12-11
 ---
 ## Why should we care
 The motivation of the victors masks the voices of the imprisoned. These words ring true for one Greek historian named Polybius. Polybius was a member of a political group within Greece who was the last few people attempting to push back the power of the Roman Republic. Though taken prisoner, he was allowed to travel around with generals and attend political meetings. This freedom not only allowed him to move around the known world but see historical events first hand. However, his written work named Histories would be published under the watchful eyes of Roman rulers. Polybius’s imprisonment forced him to view Rome favorably while developing theories to explain their superiority within the Mediterranean. (Eckstein, 10) Though this seemingly biased writing is not that at all, Polybius had no choice but to write in a way to endorse his superiors. Thus essential to see how powerful outside forces have shaped historical theory over time by starting with one of the first historiographically significant prisoners of war.
@@ -40,17 +40,14 @@ With Rome rising on top as the main power of the Mediterranian, many philosopher
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Ruins of the once great and powerful nation of Rome."
+  caption="Ruins of the once great and powerful nation of Rome.Though during Polybius's lifetime Rome remained on top. They eventually fell as the reigning champian of the Mediteranian and were defeated, leaving the cycle to begen again in empire's aftermath"
   image-url="Foro_romano.jpg"
   source-url="https://commons.wikimedia.org/wiki/Roma#/media/File:Foro_romano.jpg"
   %}
 ## The Champion of Cycles
 
-Many Hellenistic philosophers played with the idea of a natural cyclical tend the encompassed the Mediterranean powers allowing them to explain the rise and fall of empires throughout history. Yet it was Polybius who suggested that Rome had managed to get knocked out of the cycle and become the supreme power of the time. Polybius attributes this success **to two main characteristics; their political and military achievements.** From the military results, he believed that by conquering other city-states in various stages of the cycle, they were able to find the faults and strengths within each political system and adapt accordingly. Polybius attributes most of Romes success to their unique form of government and their constitution
+Many Hellenistic philosophers played with the idea of a natural cyclical tend the encompassed the Mediterranean powers allowing them to explain the rise and fall of empires throughout history. Yet it was Polybius who suggested that Rome had managed to get knocked out of the cycle and become the supreme power of the time. Polybius attributes this success **to two main characteristics; their political and military achievements.** From the military results, he believed that by conquering other city-states in various stages of the cycle, they were able to find the faults and strengths within each political system and adapt accordingly. Polybius attributes most of Romes success to their unique form of government and their constitution. Polybius explains that the Roman Republic’s political system was a c*ombination of Monarchic, Aristocratic, and democratic* and that it was this mixed political system that saved them from the fate of the political cycle. Other philosophers came to this same conclusion during Polybius’s lifetime; however, he believed that is because of the juridical capabilities within this political system and not the mixture of the system itself. This mixed political system was another way that Rome was seen as superior in Polybius's eyes. 
 
-## Mixed Constitution
-
-Polybius explains that the Roman Republic’s political system was a c*ombination of Monarchic, Aristocratic, and democratic* and that it was this mixed political system that saved them from the fate of the political cycle. Other philosophers came to this same conclusion during Polybius’s lifetime; however, he believed that is because of the juridical capabilities within this political system and not the mixture of the system itself. 
 
 ## Who Gets to Write History
 
