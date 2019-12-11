@@ -12,10 +12,13 @@ date: 2019-10-20
   source-url="https://www.salvationandsurvival.com/2019/07/how-do-we-view-gods-justice-and.html"
 %}
 
-Many view **The Bible** as one of the most influential books ever written, but it is also one of the most disputed works as well. The Bible is one of those subjects that a majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a brief timeline of how perspectives and interpretations of the Bible have changed over time, specifically in terms of how developments in science have shifted     
+All historians put together a _story or narrative_ of their best possible explination of what happened by looking at the evidence and analyzing it. Look at the American Revolution; historians take journal entries, military documents, and eye witnesses account to piece together a narrative of what happened and why. This narrative is presented as _historical truth_. But the questions that these trusted narratives could have holes is where **historiography** comes into play. Those holes that we are looking for is personal, political, or religious bias or leaving out researched material because it doesn't fit into the decided upon narrative. The best example of these blemishes is looking at the **Bible**. 
+
+Many view The Bible as one of the most influential books ever written due to its impact on shaping some cultures, but it is also one of the most disputed works as well. The Bible is one of those subjects that a majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to be the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a timeline of how perspectives and interpretations of the Bible have changed over time, specifically in terms of how developments in science have created these shifts. 
 
 ### Prophets to Historians
 
+It is widely accepted that Moses wrote the first five books of the Bible, also know as the Torah.        
 By the defintion of the word The Bible is a work history because it provides insight on events and lifestyle from the past.  even though it is not your average work of history. It is filled with parables, hymns, and stories. While some question whether some of the stories actually happened the way they presented the Bible does provide insight on events and lifestyle from the past.  
 
 {% include figure.html
