@@ -59,9 +59,9 @@ Through the *Histories*, Polybius voices his opinion on who he believes should b
 > “the soundest education and training for a life of active politics is
 > the study of history, and that the most vivid, indeed only, teacher of
 > how to bear the vicissitudes of fortune bravely is the recollection of
-> other people’s calami-ties.” McGing, 209
+> other people’s calami-ties.” ( Aristotle 1.1252a, McGing, 209)
 
- This opinion corresponds to the rising belief of this time about the benefits of pragmatic history. Though Polybius never defines practical history within his book, other philosophers had used the concept. Through the collective works at the time, a simple definition would entail the telling of the tale through political and military events as praxeis meant deeds. This mode of writing would make sense as the audience for these works would be reserved for privileged and powerful citizens who were often ended up within political or military roles. 
+ This opinion corresponds to the rising belief of this time about the benefits of pragmatic history. Through the collective works at the time, a simple definition would entail the telling of the tale through political and military events as praxeis meant deeds. This mode of writing would make sense as the audience for these works would be reserved for privileged and powerful citizens who were often ended up within political or military roles. 
 
 ## Universal History
 
