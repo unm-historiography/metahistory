@@ -19,8 +19,35 @@ Many view The Bible as one of the most influential books ever written due to its
 ### From Prophets to Historians
         
 _Is the Bible history?_ This question sparks some of the most heated debated when talking about the Bible. Making a statement that the Bible is a accurate historical account means that all the stories in the Bible happened exactly as they are described. This statement is called [**Biblical inerrancy**](https://en.wikipedia.org/wiki/Biblical_inerrancy) and means that there is no errors in the Bible. As one can imagine this claim comes with a lot of resistance and is one that can't be proven, but is that the only way we can look at the Bible? 
+
+{% include figure.html
+  class="img-right"
+  width="60%"
+  caption="It is believed by Biblical scholars that Moses was responsible for writing the first five books of Bible, also known as the Torah"
+  image-url="moses.png"
+  source-url="https://www.jw.org/en/library/magazines/g20040408/moses-man-or-myth/"
+%}
+
 Looking at the Bible as a work of history, just as one would read a book on WWII or the JFK assassination, takes the pressure off of the point of Biblical inerrancy. The Bible can be viewed as a _historical narrative_ that is how a group of historians think events happened based on the evidence that they value the most. This places the big names of the Bible such as [Moses](https://www.ancient.eu/Moses/), [David](https://www.britannica.com/biography/David), [Daniel](https://en.wikipedia.org/wiki/Daniel_(biblical_figure)), and so on in the category of historians. Viewing the Bible from that direction makes a historiographical assesment easier to put together. 
-The biggest criticism when talking about the Bible is the obvious bias that these historians/prophets would have when writing their respective books of the Bible. These prophets have not only devoted their lives to God but their lives on the line to carry his message of [hope and salvation](https://billygraham.org/decision-magazine/december-2013/the-hope-of-salvation/) into hostile situations. Their bias is clear and is safe to say that they would be less likely to include instances or stories that would tarnish God's name.   
+The biggest criticism when talking about the Bible is the obvious bias that these historians/prophets would have when writing their respective books of the Bible. These prophets have not only devoted their lives to God but their lives on the line to carry his message of [hope and salvation](https://billygraham.org/decision-magazine/december-2013/the-hope-of-salvation/) into hostile situations. Their bias is clear and is safe to say that they would be less likely to include instances or stories that would tarnish God's name. 
+
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="Jesus dying on the cross is the cornerstone for which the Bible gives believers a hope for salvation."
+  image-url="thecross.jpg"
+  source-url="https://billygraham.org/decision-magazine/december-2013/the-hope-of-salvation/"
+%}
+
+With the critism of Biblical inerrency comes the idea that some of the more harder to believe stories in the Bible are refered to as **fill in the word**. This means that stories are made up or embelished; the point of the story is not to give an account of what but to make a point or learn a lesson. Think of the stories you were told as a child of the boy who cried wolf. Did that actually happens? That situation may have happened but the purpose behind it is to take away the fact that if you cry for help to much when its not important then when it is an emergency situation no will help. If the events didn't happen the way they were described and are included for the simple use of learning a lesson then authors credibility will take a hit. These are some of the things one needs to think about when embarking on a historical assessment when reviewing a historians work. Looking for what was not said can say more than what was left out. 
+
+### Review Of My Own Sources
+
+
+### Starting out 
+
+
+
 {% include figure.html
   class="img-center"
   width="50%"
@@ -28,19 +55,10 @@ The biggest criticism when talking about the Bible is the obvious bias that thes
   image-url="bvs2.png"
   source-url="https://simple.wikipedia.org/wiki/Geocentrism"
 %}
-With the critism of Biblical inerrency comes the idea that some of the more harder to believe stories in the Bible are refered to as **fill in the word**. This means that stories are made up or embelished; the point of the story is not to give an account of what but to make a point or learn a lesson. Think of the stories you were told as a child of the boy who cried wolf. Did that actually happens? That situation may have happened but the purpose behind it is to take away the fact that if you cry for help to much when its not important then when it is an emergency situation no will help. If the events didn't happen the way they were described and are included for the simple use of learning a lesson then authors credibility will take a hit. These are some of the things one needs to think about when embarking on a historical assessment when reviewing a historians work. Looking for what was not said can say more than what was left out. 
 
 A perfect example of this is the Roman’s belief in [**Geocentrism**](https://en.wikipedia.org/wiki/Geocentric_model), thinking that the Earth is the center of the Universe with the sun orbiting around it. They believed this because they took what the Bible said literally. There are multiple verses in the Bible that led them to believe in Geocentrism, but the main one that they used was Joshua 10:13: “And the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.” 
 
 This belief went unchallenged for a while because it was written in the scriptures, and in those days no one dared to go against the Bible or the Church. If you haven’t already guessed, that is foreshadowing for someone to do the unthinkable and challenge the Church. The person to do this was [**Galileo**](https://en.wikipedia.org/wiki/Galileo_Galilei). 
-
-{% include figure.html
-  class="img-center"
-  width="50%"
-  caption="Galileo Galilei was one of the first to challenge the church in the name of science."
-  image-url="bvs3.jpg"
-  source-url="https://en.wikipedia.org/wiki/Galileo_Galilei"
-%}
 
 Galileo made some observations of the moon's shape and the craters or valleys located on it. He also observed the milky way and distant bright dots around Jupiter, which he later discovered was moons. All of these factored into Galileo coming to the conclusion that the earth is not the center of the Universe. He made a [**Heliocentrism**](https://en.wikipedia.org/wiki/Heliocentrism) claim, that the sun is the center of the Universe.
 
