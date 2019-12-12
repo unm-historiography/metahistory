@@ -44,7 +44,6 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
   image-url="augustine-time.jpg"
   source-url="https://www.britannica.com/biography/Saint-Augustine"
 %}
-
 {% include figure.html
   class="img-right"
   width="49%"
