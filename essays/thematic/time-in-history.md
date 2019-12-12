@@ -49,8 +49,8 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
   class="img-right"
   width="49%"
   caption="The Confessions were written between 347-400 AD. Consisting of 13 books were originally written in Latin."
-  image-url=".jpg"
-  source-url="h"
+  image-url="confessions.jpg"
+  source-url="https://en.wikipedia.org/wiki/Confessions_(Augustine)#/media/File:Augustine_Confessiones.jpg"
 %}
 
 
