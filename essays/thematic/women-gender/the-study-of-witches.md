@@ -34,6 +34,15 @@ Witches have been a mainstream halloween costume depicting anything from an old 
 %}
 
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="Commonly depicted as women on brooms, the Wicked Witch of the West depicts the most commonly thought of depiction of a witch when people are asked to imagine one."
+  image-url="The_Wicked_Witch_of_the_West.jpg"
+  source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
+%}
+
+
 # The Historians of Witches
 - Christina Larner: Scottish witchcraft historian and a professor of Sociology at The University of Glasgow. She is credited with calling the “witch-hunts” “women hunts” in her research but not fully concluding the actual role of gender in the overall hunts. Her three books are _A Sourebok of Scottish Witchcraft (1977)_ , _Enemies of God (1981)_ , and _Witchcraft and Religion (1984)_. The influence the post modern idea of thought is exemplified in Larner’s work. She is an early female historian who dedicated her historical work to a sociological phenomenon, the witch hunts. Her findings followed the many trends of economics but was always aware of the potential impact being a women would have had on the people in her chosen timelines. As women 
 
