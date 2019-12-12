@@ -39,7 +39,7 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
 
 {% include figure.html
   class="img-left"
-  width="43%"
+  width="49%"
   caption="St.Augustine of Hippo(354-430) was a Christian Theologian. In his writing the *Confessions* he talks about time and it linear progression."
   image-url="augustine-time.jpg"
   source-url="https://www.britannica.com/biography/Saint-Augustine"
@@ -47,10 +47,10 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
 
 {% include figure.html
   class="img-right"
-  width="43%"
+  width="49%"
   caption="The Confessions were written between 347-400 AD. Consisting of 13 books were originally written in Latin."
-  image-url="augustine-time.jpg"
-  source-url="https://www.britannica.com/biography/Saint-Augustine"
+  image-url=".jpg"
+  source-url="h"
 %}
 
 
