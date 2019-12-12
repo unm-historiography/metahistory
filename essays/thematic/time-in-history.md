@@ -53,7 +53,6 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
 %}
 
 
-
 ## __Golden Ages__
 
 The Greeks, Romans, and Egyptians were all under the belief that time began with a Golden age. The [__Golden age__](https://en.wikipedia.org/wiki/Golden_Age) was when God or Gods and man were close to one another. Until a time where something happened and disrupted the relationship between the two, and they were separated. In this form or perception of time, humans are on a __decline__ having started from the top and now falling into a more primitive state of mind and society.
