@@ -39,10 +39,12 @@ The biggest criticism when talking about the Bible is the obvious bias that thes
   source-url="https://billygraham.org/decision-magazine/december-2013/the-hope-of-salvation/"
 %}
 
-With the critism of Biblical inerrency comes the idea that some of the more harder to believe stories in the Bible are refered to as **fill in the word**. This means that stories are made up or embelished; the point of the story is not to give an account of what but to make a point or learn a lesson. Think of the stories you were told as a child of the boy who cried wolf. Did that actually happens? That situation may have happened but the purpose behind it is to take away the fact that if you cry for help to much when its not important then when it is an emergency situation no will help. If the events didn't happen the way they were described and are included for the simple use of learning a lesson then authors credibility will take a hit. These are some of the things one needs to think about when embarking on a historical assessment when reviewing a historians work. Looking for what was not said can say more than what was left out. 
+With the critism of Biblical inerrency comes the idea that some of the more harder to believe stories in the Bible are refered to as **interpreted history**. This means that not everything is historically accurate; the authors main focus is to convey information that is important to their cause or religious beliefs. If the events didn't happen the way they were described and are included for the simple use of emphasising an ideal or characteristics of God then the authors credibility will take a hit. Another classification of stories thought to be included in the Bible is **etiologies**. These stories are thought to be fictional accounts that explain various phenomenon. A good example of is the story of the [Tower of Babel](https://www.britannica.com/topic/Tower-of-Babel) and how that accounts for the dispersal of different languages around the world. 
+These are some of the things one needs to think about when embarking on a historical assessment when reviewing a historians work. Reading between the lines and looking for what wasn't said can sometimes carry more weight than what was actually said. 
 
-### Review Of My Own Sources
+### Modern Day Sources
 
+No matter what topic a person is researching they need to wary of every source they come into contact with. The importance of this skill is heightened when looking at topic as decisive as the Bible. 
 
 ### Starting out 
 
