@@ -44,7 +44,10 @@ These are some of the things one needs to think about when embarking on a histor
 
 ### Modern Day Sources
 
-No matter what topic a person is researching they need to wary of every source they come into contact with. The importance of this skill is heightened when looking at topic as decisive as the Bible. 
+No matter what topic a person is researching they need to wary of every source they come into contact with. The importance of this skill is heightened when looking at topic as decisive as the _Bible and the its relationship with science_. When looking for any information reguarding the Bible one would expect to comes across a fair amount of soucres that have a religious affiliation with a Church or other religious groups. A source with this type of affiliation is bound to filled with information that is supportive towards the Bible and God. While you should proceed with caution these types of sources do have some use in gaining understanding the Biblical point of view. These sources will be quick to cut out any information that doesn't support the overall narrative that religious groups want to promote. 
+On the flip side almost the exact same things could be said about sources that heavily leans towards the scientific point of view or written by scientists themselves. Science tends to be straight forward and everything has explanation or a solution that can be tested for. Inability to prove or disprove most Biblical claims is what causes tension for science because the Bible represents a variable that science can't test. These scientific sources are a valuable piece of information due to their unparalleled access and insight into the finding and advancements of science, but their need to have absolute answers can sometimes lead them to make dubious claims. 
+
+
 
 ### Starting out 
 
@@ -86,9 +89,6 @@ Despite his best efforts, Galileo still faced the wrath of the church; and they 
 
 This is what is referred by many as the **Conflict theory**. “On this view, Christianity is cast in the role of the oppressive and stultifying stepmother who held back the young, reasonable, and progressive maiden of science. Then science finally broke free from the oppressive Church and steadily added to our accumulated knowledge and quality of life.” (Stump, pg 3)
 
-### Independence, calm before the storm 
-
-Galileo’s discovery and claims against the literal interpretation of the Bible forced a major shift in the way that Science and the Bible interacted. This interaction is classified as **Independence**, and is where they both go their separate ways while not intersecting. “At other times in the history of Science and Christianity, the two sides were content to go about their own business without interfering with each other.” (Stump, pg 8) 
 
 {% include figure.html
   class="img-right"
