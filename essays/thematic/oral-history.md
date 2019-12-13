@@ -8,7 +8,7 @@ date: 2019-09-20
 >**Oral history plays an increasingly important role, for it bridges the gap between the media and academic communities. Its challenge is to augment the store of source materials with the voices of those who make our history, while maintaining the quality of excellence and historical integrity of our pro fession" (Perlis,619).** 
 
 ********
-# **Oral History and the Change From the Past to Present**
+# Oral History and the Change From the Past to Present
 
 Through this essay we will compare how the value of oral history has changed over time, and how attitudes toward the subject has reformed because of the progress we have had in technology, and how that has made oral history become more accessible to common people, making oral history important to have so people can connect with history itself. When we think about oral history we often think of folklore, and the stories that are told are ways people share their traditions and histories. In the past, oral history has only been spoken and never really recorded until the technology developed. With technological development there are now two types of oral history that have no fine line to differentiate them. On one hand we have cultures that only pass down historical knowledge orally from generation to the next. The second type of oral history that is a field itself, which is concerned about learning about the past through people’s own historical accounts and using that testimony as an historical source (Gibbs, Critique).
 
@@ -21,12 +21,9 @@ Through this essay we will compare how the value of oral history has changed ove
   image-url="creationstory.jpg"
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
 %}
-The act of telling history through Oral Tradition is very common through History. Through this type of oral history, we have learned about cultures. One great example of this is Native American cultures who did not write down their history, but instead passed on knowledge to each other orally.  Pictured above is the [Creation story of the Haudenosaunee people]( https://www.oneidaindiannation.com/the-haudenosaunee-creation-story/), who tell how the land was created along with how we got dark and night. 
+The act of telling history through Oral Tradition is very common through History. Oral history doesn’t always have to be through a story, but to name a few, it can also be shown through art, chants, poems and song. It is through this way of sharing knowledge that a culture can pass down knowledge without a writing. Through this type of oral history, we have learned a lot about cultures in the past and even today. One great example of this is Native American cultures who did not write down their history, but instead passed on knowledge to each other orally.  Pictured above is the [Creation story of the Haudenosaunee people]( https://www.oneidaindiannation.com/the-haudenosaunee-creation-story/), who tell how the land was created along with how we got dark and night. 
   
-  
-
-
-## **Oral History as a Field**
+  ## **Oral History as a Field**
 
 {% include figure.html
   class="img-right"
