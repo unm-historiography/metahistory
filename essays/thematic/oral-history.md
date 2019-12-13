@@ -19,7 +19,7 @@ Through this essay we will compare how the value of oral history has changed ove
   image-url="tedbundyposter.jpg"
   source-url="https://www.rottentomatoes.com/tv/conversations_with_a_killer_the_ted_bundy_tapes/s01//"
 %}
-### **Oral History Through Tradition**
+## **Oral History Through Tradition**
 
 {% include figure.html
   class="img-left"
@@ -27,7 +27,8 @@ Through this essay we will compare how the value of oral history has changed ove
   caption="Oral Tradition: Haudenosaunee Creation Story of Turtle Island"
   image-url="creationstory.jpg"
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
-  %}
+ %}
+  
   
 
 
