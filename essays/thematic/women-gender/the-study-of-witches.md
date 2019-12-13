@@ -13,10 +13,6 @@ date: 2019-11-03
 %}
 
 
-Witches have been a mainstream halloween costume depicting anything from an old hag to a young and promiscuous women.  These stereotypes are not separated in an academic setting, rather further defined and reasoned with. Raising questions among historians and other philosophers as to why witches are important to a society in the first place? The witch craze of the 16th and 17th centuries stigmatized being unmarried, a sole heirace, an old Hag, essentially any women who could feel powerful for any reason. There are other aspects of society that are affected by the mass amount of executions and trails and general accustasations. These aspects are what historians seek to understand and give further reason towards. The Salem witch trials were just one of many places heavily corrupted by the ease of accusing a woman of tempering with livestock, human life, and other forms of wealth and virtue. The trials that took place in England and Germany were horrific in the amount of women who died merely because someone had a grudge or reason for executing their neighbor. 
-
-
-
 {% include figure.html
   class="img-right"
   width="50%"
@@ -42,12 +38,20 @@ Witches have been a mainstream halloween costume depicting anything from an old 
   source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="This shows horror aspect provides a new layer of feminism to the stereotype of witches in America."
+  image-url="chilling_adventure.jpg"
+  source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
+%}
 
-# The Historians of Witches
-- Christina Larner: Scottish witchcraft historian and a professor of Sociology at The University of Glasgow. She is credited with calling the “witch-hunts” “women hunts” in her research but not fully concluding the actual role of gender in the overall hunts. Her three books are _A Sourebok of Scottish Witchcraft (1977)_ , _Enemies of God (1981)_ , and _Witchcraft and Religion (1984)_. The influence the post modern idea of thought is exemplified in Larner’s work. She is an early female historian who dedicated her historical work to a sociological phenomenon, the witch hunts. Her findings followed the many trends of economics but was always aware of the potential impact being a women would have had on the people in her chosen timelines. As women 
+# Introduction
 
+# Important Texts and Early Writers
 
-The main method used in the historiography of witches is from the postmodern perspective. The idea that the _“witch hunts”_ were actually _“women hunts”_ (Christina Larner) giving this seeming **economic study a more gendered face is still not fully recognized but debated and questioned**. Joseph Hansen, one of the first witch historians from Germany, published his book **_Zauberwahn, Inquisition und Hexenprozess im Mittelalter und die Entstehung der grossen Hexenverfolgung_** _(Magical Illusion, Inquisition, and Witch Trials in the Middle Ages, and the Formation of the Larger Persecution of Witches)_ in 1900, mentioning but not focusing on the fact that mainly women were persecuted. Many historians who looked at the hunts later mostly looked at the economic and socio economic value in the hunts as this is what the modernist historians did. Trial records, execution records, and other quantitative records were used to understand how the trials were used as an economic.
+# Postmodernism's Influence
 
-Historians such as Keith Thomas, Alan Macfarlane, and Gustav Henningsen looked at the folklore believes in society that led to the witch hunts. The dynamic between the _“male-dominated official culture and a female-dominated family and folk culture”_ (International Trends) were not their focus when using more official based documents to extract folklore representations. Henningsen also describes accused witches as either the **“weakest members of the community, including beggars, cripples, widows, the very old and orphans”** or **“those who had rejected the moral order of society: fawning, envious, thieving, aggressive, spiteful, promiscuous and odd people,”** 
+# Postmodern Historians
 
+# A Gendered Argument?
