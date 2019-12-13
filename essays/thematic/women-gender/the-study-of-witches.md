@@ -15,8 +15,6 @@ date: 2019-11-03
 # Introduction
 Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
 
-
-
 {% include figure.html
   class="img-right"
   width="50%"
