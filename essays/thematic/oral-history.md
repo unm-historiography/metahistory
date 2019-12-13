@@ -23,8 +23,7 @@ Through this essay we will compare how the value of oral history has changed ove
 %}
 The act of telling history through Oral Tradition is very common through History. Oral history doesn’t always have to be through a story, but to name a few, it can also be shown through art, chants, poems and song. It is through this way of sharing knowledge that a culture can pass down knowledge without a writing. Through this type of oral history, we have learned a lot about cultures in the past and even today. One great example of this is Native American cultures who did not write down their history, but instead passed on knowledge to each other orally.  Pictured above is the [Creation story of the Haudenosaunee people]( https://www.oneidaindiannation.com/the-haudenosaunee-creation-story/), who tell how the land was created along with how we got dark and night. 
   
-  ## **Oral History as a Field**
-
+## **Oral History as a Field**
 {% include figure.html
   class="img-right"
   width="40%"
