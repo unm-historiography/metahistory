@@ -10,8 +10,6 @@ date: 2019-09-20
 ********
 ## **Oral History and the Change From the Past to Present**
 
-Through this essay we will compare how the value of oral history has changed over time, and how attitudes toward the subject has reformed because of the progress we have had in technology, and how that has made oral history become more accessible to common people, making oral history important to have so people can connect with history itself. When we think about oral history we often think of folklore, and the stories that are told are ways people share their traditions and histories. In the past, oral history has only been spoken and never really recorded until the technology developed. With technological development there are now two types of oral history that have no fine line to differentiate them. On one hand we have cultures that only pass down historical knowledge orally from generation to the next. The second type of oral history that is a field itself, which is concerned about learning about the past through people’s own historical accounts and using that testimony as an historical source (Gibbs, Critique).
-
 {% include figure.html
   class="img-right"
   width="40%"
@@ -19,15 +17,19 @@ Through this essay we will compare how the value of oral history has changed ove
   image-url="tedbundyposter.jpg"
   source-url="https://www.rottentomatoes.com/tv/conversations_with_a_killer_the_ted_bundy_tapes/s01//"
 %}
+
+Through this essay we will compare how the value of oral history has changed over time, and how attitudes toward the subject has reformed because of the progress we have had in technology, and how that has made oral history become more accessible to common people, making oral history important to have so people can connect with history itself. When we think about oral history we often think of folklore, and the stories that are told are ways people share their traditions and histories. In the past, oral history has only been spoken and never really recorded until the technology developed. With technological development there are now two types of oral history that have no fine line to differentiate them. On one hand we have cultures that only pass down historical knowledge orally from generation to the next. The second type of oral history that is a field itself, which is concerned about learning about the past through people’s own historical accounts and using that testimony as an historical source (Gibbs, Critique).
+
 ## **Oral History Through Tradition**
 
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="40%"
   caption="Oral Tradition: Haudenosaunee Creation Story of Turtle Island"
   image-url="creationstory.jpg"
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
  %}
+  
   
   
 
