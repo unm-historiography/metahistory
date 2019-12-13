@@ -4,7 +4,7 @@ author: Chloë Elizabeth King
 date: 2019-12-13
 ---
 
-Queen Elizabeth I of England was one of the most idealized and revered monarchs in European history. Ruling for 44 years, from 1558 to her death in 1603, she still stays on the list of top ten longest-ruling monarchs of the United Kingdom. Perhaps most impressively, she managed to accomplish this despite the fact that she was a woman. But how did different historians throughout time think of her?
+Queen Elizabeth I of England was one of the most idealized and revered monarchs in European history. Ruling for 44 years, from 1558 to her death in 1603, she still stays on the list of top ten longest-ruling monarchs of the United Kingdom. Perhaps most impressively, she managed to accomplish this despite the fact that she was a woman. **But how did different historians throughout time think of her?**
 
 {% include figure.html
   class="img-center"
