@@ -22,8 +22,9 @@ Through this essay we will compare how the value of oral history has changed ove
   source-url="https://myhaudenosauneejourney.wordpress.com/2012/10/03/painting-of-the-creation-story/"
 %}
 The act of telling history through Oral Tradition is very common through History. Oral history doesn’t always have to be through a story, but to name a few, it can also be shown through art, chants, poems and song. It is through this way of sharing knowledge that a culture can pass down knowledge without a writing. Through this type of oral history, we have learned a lot about cultures in the past and even today. One great example of this is Native American cultures who did not write down their history, but instead passed on knowledge to each other orally.  Pictured above is the [Creation story of the Haudenosaunee people]( https://www.oneidaindiannation.com/the-haudenosaunee-creation-story/), who tell how the land was created along with how we got dark and night. 
-  
+
 ## **Oral History as a Field**
+
 {% include figure.html
   class="img-right"
   width="40%"
@@ -74,9 +75,9 @@ In recent years, the attitudes toward oral history has changed because of the de
 
 With the acceptance of Oral History as a type of history, we can see historians having more value in it. We can see this with the inclusion of oral histories in museums have becoming more common. It wasn’t that oral histories were never used in museums before, but oral histories were more looked as part of the exhibit than the main event. It wasn’t till later that oral histories were recognized to give people more personal encounters with the exhibit. When historians are incorporating oral histories into an exhibit it must have the full oral testimony, encourage visitors to remember their own past, and also allow visitors give their own memories and responses (Green,59).
 
-## Your Job as an Oral Historian
+## Writing Down Oral History
 
-As an oral historian you will preserve History for new generations and allow the future generation to hear what stories people have to tell in their own words and their knowledge of what happened. As you preserve these people who had a voice long before their own death their voice will continue to be heard in the future. As a future Oral historian it is your job to fill in the gaps of history and make sure the truth is told to the best of your ability without complicating the story with bias. 
+When writing Oral History, you will preserve History for new generations and allow the future generation to hear what stories people have to tell in their own words and their knowledge of what happened. As you preserve these people who had a voice long before their own death their voice will continue to be heard in the future. As a future Oral historian it is your job to fill in the gaps of history and make sure the truth is told to the best of your ability without complicating the story with bias. 
 
 
 
