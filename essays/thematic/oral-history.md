@@ -10,14 +10,6 @@ date: 2019-09-20
 ********
 # **Oral History and the Change From the Past to Present**
 
-{% include figure.html
-  class="img-right"
-  width="40%"
-  caption="Poster for the documentary series, ‘Conversations with a Killer: The Ted Bundy Story’ (Photo Credit: Netflix)"
-  image-url="tedbundyposter.jpg"
-  source-url="https://www.rottentomatoes.com/tv/conversations_with_a_killer_the_ted_bundy_tapes/s01//"
-%}
-
 Through this essay we will compare how the value of oral history has changed over time, and how attitudes toward the subject has reformed because of the progress we have had in technology, and how that has made oral history become more accessible to common people, making oral history important to have so people can connect with history itself. When we think about oral history we often think of folklore, and the stories that are told are ways people share their traditions and histories. In the past, oral history has only been spoken and never really recorded until the technology developed. With technological development there are now two types of oral history that have no fine line to differentiate them. On one hand we have cultures that only pass down historical knowledge orally from generation to the next. The second type of oral history that is a field itself, which is concerned about learning about the past through people’s own historical accounts and using that testimony as an historical source (Gibbs, Critique).
 
 ## **Oral History Through Tradition**
@@ -35,6 +27,14 @@ The act of telling history through Oral Tradition is very common through History
 
 
 ## **Oral History as a Field**
+
+{% include figure.html
+  class="img-right"
+  width="40%"
+  caption="Poster for the documentary series, ‘Conversations with a Killer: The Ted Bundy Story’ (Photo Credit: Netflix)"
+  image-url="tedbundyposter.jpg"
+  source-url="https://www.rottentomatoes.com/tv/conversations_with_a_killer_the_ted_bundy_tapes/s01//"
+%}
 
 Today, Oral History has been made into new mediums for all people to have knowledge and access to, like for example the ["*Ted Bundy Tapes*"](https://www.netflix.com/title/80226612) on Netflix. Netflix had gained access to some oral interviews between the serial killer [Ted Bundy](https://www.britannica.com/biography/Ted-Bundy), who is known murdering over 30 women during the 1970's, and a young journalist. Netflix has turned these tapes into movie style documentaries that only certain people previously had access to because of the technology they had available during the 70's and 80's. Today, those tapes have been made into a documentary where people like us can listen to what the infamous serial killer, Ted Bundy, had to say. When we listened to these tapes and heard what Ted Bundy had to say we didn’t question if Bundy was lying or telling the truth in those interviews. Nobody knows, but what we did know is that we were hearing Bundy tell his story the way he wanted to tell it. Are there problems with this and the fact that we only heard his story the way he wanted us to remember it?
 
