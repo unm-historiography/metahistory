@@ -60,9 +60,8 @@ With some background of how to examine sources we can look at the varying degree
 ### Starting point
 
 To effectively show the shifts of change we first need to establish a starting point. To set the foundation we will look at how ancient societies and empires saw themselves and other empires in large scale of history. Their early way of thinking was referred to as **cyclical history**. Cyclical history views human history much like that of cylces we see in the natural world. Think of the changing of seasons or the cycles of the moon. Relating it to human history the cycle starts with the birth an empire. The cycle continues with the empires rise to prominence and ends with its eventual demise. Ancient philosopher Plato was a key proponent for this theory. 
->"Have not thousands upon thousands of city-states comes into existence, and .... have not jsut as many perished." (Lemon, 32)
-
-
+>"Have not thousands upon thousands of city-states come into existence, and .... have not just as many perished." (Lemon, 32)
+This cyclical outlook carried on well into the Roman empire and it was in the same Roman empire that this way of thinking was challenged.  
 
 
 
