@@ -85,6 +85,8 @@ Thucydides, and R. W Livingstone. The History of the Peloponnesian War. Translat
 
 Ritchie, Donald A., and Donald A. Ritchie. "Introduction: The Evolution of Oral History." In The Oxford Handbook of Oral History. : Oxford University Press, 2010-11-10. https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195339550.001.0001/oxfordhb-9780195339550-e-1. 
 
+Nicholas, Mariner. “Oral History: From Fact Finding  to History Shaping.” 2005, Historia, 15 (n.d.): 45–59. https://www.eiu.edu/historia/2005Journal.pdf.
+
 Shopes, Linda. “Transcribing Oral History in the Digital Age.” Institute of Muesum and Library. Oral History in the Digital Age, December 3, 2015. http://ohda.matrix.msu.edu/2012/06/transcribing-oral-history-in-the-digital-age/.
 
 Baylor.edu. (2019). Understanding oral history: Why do it?. [online] Available at: https://www.baylor.edu/content/services/document.php/66420.pdf [Accessed 13 Dec. 2019].
