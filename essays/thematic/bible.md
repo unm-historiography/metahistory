@@ -51,13 +51,15 @@ On the flip side almost the exact same things could be said about sources that h
 
 The historical sources used for this essay underwent the same, intense scrutiny when guaging what to look out for during my research. The first source I used to by _J.B. Stump Science and Christianity Introduction of the Issues_. In his acknowledgments Stump mentions his involvment in a foundation, **Biologos**, that advocates _harmony between science and biblical faith_. This foundation puts themselves right in the middle of the Bible/Science debate and sets the idea that both can co-exist with miminal problems. Investigating further there is a slight hint of bias towards the Biblical side of things with more pastors and Christian thinkers speaking. Stump also mentions his Christian heritage being passed down from multiple generations. This sets up this source in a pro-Bible light. Reading through the inital reaction holds true with a slight favor towards Christianity. 
 
-Stump goes heavy into the Bible and the different theories of interpretations of the Bible over time. He includes a lot of philosphers and scientists who help drive the changing thoughts on the Bible. Showcasing what the elite of society thought dismisses the effect on the general public. While he does a great job of noting the changes of interpretations of the Bible due to scientific discoveries, these advancements take a backseat to their affect on the Bible and doesn't include other societal factors that could play a role in this change. Stumps overall connections between the Bible and understanding the world we live in is a **micro**, small, focus on a big, complex issue. 
+Stump goes heavy into different theories of interpretations of the Bible over time. He includes a lot of philosphers and scientists who help drive the changing thoughts on the Bible. Showcasing what the elite of society thought dismisses the effect on the general public. While he does a great job of noting the changes of interpretations of the Bible due to scientific discoveries, these advancements take a backseat to their affect on the Bible and doesn't include other societal factors that could play a role in this change. Stumps overall connections between the Bible and understanding the world we live in is a **micro**, small, focus on a big, complex issue. 
 
 A source for that landed on the pro-science side of the arguement was a compilation of work from different authors in _Science and Religion in the 21st Century._ A majority of the authors involved come from a science background so the intial thought was pro-science. Most of the topics of discussion were more science focused. The topics discussed were older than one would think when talking about troubles in the 21st century. I was expecting more recent topics that are debated in todays world. Just like the previous source the bottom line was the arguement for co-existence.
 
 With some background of how to examine sources we can look at the varying degree of influence and changing perception of the Bible, as affected by Science. 
 
-### Starting out 
+### Starting point
+
+To effectively show the shifts of change we first need to establish a starting point and that point is **cyclical history**. This way of thinking was the way that most empires and societes in ancient or early civilizations 
 
 
 
