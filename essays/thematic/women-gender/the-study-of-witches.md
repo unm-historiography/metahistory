@@ -25,7 +25,7 @@ Witches in a modern society are seen as unreasonable and illogical. To accuse so
   source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
 %}
 
-[The Salem Witch Trials][https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/]
+The Salem Witch Trials [The Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/)
 
 # Important Texts and Early Writers
 
