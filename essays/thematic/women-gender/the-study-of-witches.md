@@ -26,12 +26,13 @@ Witches in a modern society are seen as unreasonable and illogical. To accuse so
 %}
 
 In school in the United States, many of the exposure to witch trials comes from a brief overview of the [Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/) in both history and occasionally english classes by reading _The Crucible_. These brief overviews glance over the massive impact the trials had on economics and women’s place in society. They introduce a difficult topic leaving most people's knowledge about the witch trials to be 
+
 {% include aside.html
   class="pullquote"
   text="anyone could be accused just for looking at their neighbor wrong. No one was safe and while it is unsure if people truly believed in the mystical powers they used the trials to gain something for themselves."
   %}
-
-
+  
+While this idea is not totally inaccurate it **leaves out the years of work historians have been developing over time about the trials in Europe and Russia**. For the purpose of simplicity this essay will _focus less on Russia and more on the European front as the two don’t follow the same patterns_. 
 # Important Texts and Early Writers
 
 # Postmodernism's Influence
