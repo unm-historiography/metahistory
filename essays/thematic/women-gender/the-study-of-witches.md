@@ -7,6 +7,37 @@ date: 2019-11-03
 {% include figure.html
   class="img-right"
   width="50%"
+  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could **fly on broomsticks and used magic primarily out of vengence**. This version of a witch shows what little had been researched into the witch trials in 1939 relying on simple characteristics such as this."
+  image-url="The_Wicked_Witch_of_the_West.jpg"
+  source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
+%}
+
+# Introduction
+Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
+
+
+
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. Her personality prompts her to **stand up for the rights of women, LGBTQ, and the general outsiders of society**. She depicts a modern witch who holds onto the traditions of the past as _Devil Worshippers_ and _heretics_ seen in Salem, MA in 1692."
+  image-url="chilling_adventure.jpg"
+  source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
+%}
+
+[The Salem Witch Trials][https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/]
+
+# Important Texts and Early Writers
+
+# Postmodernism's Influence
+
+# Postmodern Historians
+
+# A Gendered Argument?
+
+{% include figure.html
+  class="img-right"
+  width="50%"
   caption="King James Ci of Scotland, later King James I of England, discussed how women were most suceptible to the devil and hunted them extensively during his reign."
   image-url="jamesviandi.jpg"
   source-url="https://www.historyextra.com/period/stuart/king-james-vi-i-hunted-witches-hunter-devilry-daemonologie/"
@@ -31,32 +62,3 @@ date: 2019-11-03
 
 
 
-
-# Introduction
-Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could **fly on broomsticks and used magic primarily out of vengence**. This version of a witch shows what little had been researched into the witch trials in 1939 relying on simple characteristics such as this."
-  image-url="The_Wicked_Witch_of_the_West.jpg"
-  source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
-%}
-
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. Her personality prompts her to **stand up for the rights of women, LGBTQ, and the general outsiders of society**. She depicts a modern witch who holds onto the traditions of the past as _Devil Worshippers_ and _heretics_ seen in Salem, MA in 1692."
-  image-url="chilling_adventure.jpg"
-  source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
-%}
-
-[The Salem Witch Trials][https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/]
-
-# Important Texts and Early Writers
-
-# Postmodernism's Influence
-
-# Postmodern Historians
-
-# A Gendered Argument?
