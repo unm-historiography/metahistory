@@ -49,9 +49,7 @@ source-url="https://en.wikipedia.org/wiki/Trepanning"
 ## The Ancient Egyptians and Medicine ##
 Although the practices of the Ancient Egyptians were advanced by today’s standards in the sense that they understood the concept of the human body and cleanliness, at the same time, they held onto some of the prehistoric views of medicine, which including the idea that illnesses were sometimes tied to the sin of a person and bad spirits. This is best described by author and contributor to the Ancient History Encyclopedia Joshua J. Mark, when referring to the Egyptian civilization medicine, “Even so, for a civilization which regularly dissected the dead for embalming, doctors had little understanding of how most of the internal organs worked and blamed disease on supernatural forces.” (Mark, p. 6). Despite their continued ties to the prehistorical view of medicine, specifically through the supernatural world and its relation to disease and medicine; one of the Egyptian civilization’s greatest contributions to the modern practices of western medicine is their [**Papyrus Scrolls**](https://en.wikipedia.org/wiki/Egyptian_medical_papyri), which they would use to write down their spells and incantations for treatment and thus, became the first examples of written medical sources of medicine. The importance of these scrolls was not however limited in importance because of the contributions it made to the historiography of medicine, although that is an important aspect to bear in mind. Rather, these papyrus scrolls represented a link of the Ancient Egyptians to the Greeks. In Jacques Jouanna’s book entitled *Greek Medicine: from Hippocrates to Galen*, in which he talks in dept about the origins of Greek medicine and its’ written history; the author draws a contrast of the Egyptians to the Greeks when he writes, 
  >“As and when these medical texts from Pharaonic Egypt were published, scholars began to raise the question about the relationship that might have existed between this Egyptian medicine (whose most prestigious examples date from about 1550 BC) and Hippocrates the first representative of Greek medicine, which manifested itself more than ten centuries later. The comparison have also been able to draw following the discoveries of the Papyri” (Jounna, pg. 4-5).
-
 What the author is trying to get at, is that although there is not a very distinct correlation between the Egyptians and the Greeks in regard to the way in which medicine is recorded and practiced; the Greeks took much of their influences and further evolved those concepts to match their own ways of going about recording and practicing medicine. This would in turn, give rise to the strong correlation between modern medicine and the Greeks. A civilization that has been labeled as the founders of modern western medicine and without whom, our medical practices and applications would be vastly different had those histories not been recorded. 
-
 
 {% include figure.html
   class="img-left"
@@ -80,7 +78,7 @@ The [***Renaissance***](https://en.wikipedia.org/wiki/Renaissance) of the fiftee
 
 {% include figure.html
   class="img-right"
-  width="49%"
+  width="30%"
   caption="De humani corporis fabrica, Latin for 'On the Farbric of the human body' is a set of books written by Andreas Vesallius (1514-1564) first in depth source of **anatomy**."
   image-url="Vesalius.jpg"
   source-url="https://en.wikipedia.org/wiki/De_humani_corporis_fabrica"
@@ -88,7 +86,7 @@ The [***Renaissance***](https://en.wikipedia.org/wiki/Renaissance) of the fiftee
 
 {% include figure.html
 class="img-left"
-width="49%"
+width="30%"
 caption="16th century Flemish Anatomist, Physician and Author **Andreas Vesallius**"
 image-url="Andreas-Vesalius.jpg"
 source-url="https://en.wikipedia.org/wiki/Andreas_Vesalius"
