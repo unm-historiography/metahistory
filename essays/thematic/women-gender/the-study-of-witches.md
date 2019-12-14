@@ -12,7 +12,7 @@ date: 2019-11-03
   source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
 %}
 
-# Introduction
+
 Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
 
 In school in the United States, many of the exposure to witch trials comes from a brief overview of the [Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/) in both history and occasionally english classes by reading _The Crucible_. These brief overviews glance over the massive impact the trials had on economics and women’s place in society. They introduce a difficult topic leaving most people's knowledge about the witch trials to be 
@@ -67,7 +67,7 @@ With these focuses in mind, most historical research has been influenced by thos
 
 # Postmodern Historians
 
-### All Class, No Misogyny 
+### The Economist View
 The following historians primarily utilized the argument that the witch trials were completely economically based. Potential faults in their argument is the fact that they mostly ignore the other factors in the accused demographics.
 
 [H.R Trevor-Roper](https://en.wikipedia.org/wiki/Hugh_Trevor-Roper) understood how “folk witch beliefs” were a product of “peasant credulity and feminine hysteria” [^7] and argued this in the study of witches. To him a witch was someone in a lower class who was seen as given an advantage in some way. Following Gustav Henningsen’s description that:
@@ -78,6 +78,30 @@ The following historians primarily utilized the argument that the witch trials w
 The language they predominantly used refrained from emphasizing feminine or masculine pronouns as their focus was on the social order of things and not on how gender played a role in those demographic analogies.
 
 Keith Thomas and Alan Macfarlane had similar approaches to their study of witches while adhering to the Henningsen’s definition as well. Both incorporated fields outside of history to understand how the witch hunts impacted society but did not see that gender played a role in the ostration of who was accused. They applied “functionalist social anthropology and the african anthropological literature to European witchcraft”[^10]. Thomas noting that “female sexual irregularities-illegitimacy, promiscuity, sexual voracity-figured in the trials”[^9] set him up to see the potentially genered argument in sexuality chose instead to strengthen the theme of the separation of gender and sex. His contribution to the study of witches lies in how he interpreted the documentation to show patterns in social tensions in society that correlated with the rising stresses coming from the change in psychological thinking [^9]. Macfarlane took the basic assumptions about witches to explain their function in society [^12]. His focus was not to understand witchcraft but why witchcraft rose in popularity among the psyches of the people of the late middle ages and early modern era. Both historians took this seemingly micro ideology to explain the larger scheme in society. The lack of charity and the transition from feudalism to capitalism rendered much of the peasantry in a state of flux and displacement in location and class ranking [^11]
+
+## Outside of Economics
+As more women began to enter into the making of history, new perspectives on a women dominated subject began to change the mindsets of historians. Christina Larner focused on Scotish and English witch trials trying to understand them through a sociological, historical, and religious viewpoint [^17]. Although she did not conclude that the witch hunts were synonymous with “woman-hunts” [^24] she is famously quoted of having said it. What she does conclude is how the trials were the first criminalization act[^15] against women, changing the role from pure, innocent, and caring to potentially dangerous. The ones most likely to be accused were the “independent-minded (and -mouthed) women” who provoked “male hatred of the female body into a real, believable factor in the craze” [^ 18]. With the change in how the female body is viewed in society this is also the time when religion seeps into political ideology to the point where laws were more blatantly based off religious ideas. To be a witch meant to go against the church, to deny the church meant you denied the governing bodies right to the throne, which in turn was treason [^16]. Not every person who considered the importance of the female body took this encompassing of an approach.
+
+E. William Monter was sympathetic towards women witches seeing their magic as a way to make up for their legal and economic disadvantages. As many women were accused by other women this became a sort of empowering move for women to find a place in legal affairs. He was also increasingly more interested in the single woman trope. The different facets of young to old and how a single woman falling into one of those age ranges had a different level of economic power [^19]. 
+
+{% include figure.html
+  class="img-right"
+  width="35%"
+  caption= 
+  image-url="witches_baldung.jpg"
+  source-url="https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="35%"
+  caption=
+  image-url="witches_baldung_paper.jpg"
+  source-url="https://museumofwitchcraftandmagic.co.uk/object/witch-picture-57/"
+%}
+Linda Hult used images by the artist Hans Baldung, such as the ones above, to understand how women were portrayed in art during the hunts. Art is a different form of documentation that is so telling of what caught audiences eyes during situations such as this one. She realized that the women were usually depicted as overly sexualized in orgy like rituals that departed from the norm of women while illustrating demonic and fearful images. Witches were powerless and feared, yet depicted as “perennially lusting yet never satisfied”. These painted creatures sought freedom and power but because of how audiences viewed their heresy they were the most enslaved of all [^20].
+
+Each historian did not inherently look for why women were prosecuted but each understand a trend and questioned the culture behind it. Each historian took aspects outside of history to apply it to the general assumptions made by those who came before. Building grounds and creating debates on whether gender should be included in the study of witches.
 
 
 
@@ -113,23 +137,16 @@ Many women were accused and executed due to the witch hunts, but almost no histo
 
 [^11]: Traditions and Trajectories in the Historiography of European Witch Hunting p. 78-79
 
+[^14]: International Trends: The Witch “She”/The Historian “He” p. 80
 
+[^15]: International Trends: The Witch “She”/The Historian “He” p. 80
 
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption=""
-  image-url="witches_baldung.jpg"
-  source-url="https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1"
-%}
+[^16]: International Trends: The Witch “She”/The Historian “He” p. 80
 
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption=""
-  image-url="witches_baldung_paper.jpg"
-  source-url="https://museumofwitchcraftandmagic.co.uk/object/witch-picture-57/"
-%}
+[^17]:  On Studying Witchcraft as Women’s History p. 16
 
+[^18]: On Studying Witchcraft as Women’s History p. 16
 
+[^19]: On Studying Witchcraft as Women’s History p. 16
 
+[^20]: International Trends: The Witch “She”/The Historian “He” p. 85-86
