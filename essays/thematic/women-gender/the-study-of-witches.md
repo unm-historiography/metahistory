@@ -54,11 +54,11 @@ Although the first major works about witches were published in 1900, falling wit
 
 
 # Bibliography
-^1. Traditions and Trajectories in the Historiography of European Witch Hunting
+[^1]: Traditions and Trajectories in the Historiography of European Witch Hunting
 
-^2. Daemonologie In Forme of a Dialogie Diuided into three Bookes.
+[^2]: Daemonologie In Forme of a Dialogie Diuided into three Bookes.
 
-^3. https://en.wikipedia.org/wiki/Daemonologie 
+[^3]: https://en.wikipedia.org/wiki/Daemonologie 
 
 {% include figure.html
   class="img-right"
