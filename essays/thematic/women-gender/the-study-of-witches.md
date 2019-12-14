@@ -13,7 +13,10 @@ date: 2019-11-03
 %}
 
 # Introduction
-Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. 
+Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
+
+In school in the United States, many of the exposure to witch trials comes from a brief overview of the [Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/) in both history and occasionally english classes by reading _The Crucible_. These brief overviews glance over the massive impact the trials had on economics and women’s place in society. They introduce a difficult topic leaving most people's knowledge about the witch trials to be 
+
 {% include figure.html
   class="img-right"
   width="50%"
@@ -21,10 +24,6 @@ Witches in a modern society are seen as unreasonable and illogical. To accuse so
   image-url="chilling_adventure.jpg"
   source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
 %}
-These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
-
-
-In school in the United States, many of the exposure to witch trials comes from a brief overview of the [Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/) in both history and occasionally english classes by reading _The Crucible_. These brief overviews glance over the massive impact the trials had on economics and women’s place in society. They introduce a difficult topic leaving most people's knowledge about the witch trials to be 
 
 {% include aside.html
   class="pullquote"
