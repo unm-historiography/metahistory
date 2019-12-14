@@ -7,7 +7,7 @@ date: 2019-11-03
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could fly on broomsticks and used magic primarily out of vengence."
+  caption="The Wicked Witch of the West embodies the stereotype of women who could fly on broomsticks and used magic primarily out of vengence."
   image-url="The_Wicked_Witch_of_the_West.jpg"
   source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
 %}
