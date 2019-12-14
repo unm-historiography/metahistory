@@ -47,9 +47,11 @@ In England, King James I of England, or VI of Scotland, wrote _**Daemonologie, I
 # A Gendered Argument?
 
 # Bibliography
-[^1]: Traditions and Trajectories in the Historiography of European Witch Hunting
-[^2]: Daemonologie In Forme of a Dialogie Diuided into three Bookes.
-[^3]: https://en.wikipedia.org/wiki/Daemonologie 
+1. Traditions and Trajectories in the Historiography of European Witch Hunting
+
+2. Daemonologie In Forme of a Dialogie Diuided into three Bookes.
+
+3. https://en.wikipedia.org/wiki/Daemonologie 
 
 {% include figure.html
   class="img-right"
