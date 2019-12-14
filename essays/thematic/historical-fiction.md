@@ -2,7 +2,7 @@
 title: Historical Fiction or History
 subtitle: Why not both?
 author: Rick Rockett
-date: 2019-12-23
+date: 2019-12-13
 ---
 
 {% include figure.html
@@ -104,7 +104,7 @@ Great examples of this are [Colleen McCullough]'s(https://en.wikipedia.org/wiki/
 
 In examining the utility of historical fiction in the study of history, we must take a brief look at the primary tool used in history and every other field of endeavor: **Narrative**.  Human history, even our lives today, is wrought with narrative.[^White1]  But what is narrative?  Can history or anything else, for that matter, be communicated without it?
 
-> blockquote Within professional historical studies...the narrative has been viewed
+> Within professional historical studies...the narrative has been viewed
  for the most part neither as a product of a theory nor as the basis for a method,
  but rather as a form of discourse which may or may not be used for the repre-
  sentation of historical events, depending upon whether the primary aim is to
@@ -125,7 +125,7 @@ Ironically, the very vehicle they wish to cast aside is precisely the tool they 
 
 [Hayden White](https://en.wikipedia.org/wiki/Hayden_White), a classically trained medievalist and narrativist[^Paul1], contended that '“The Burden of History” interpreted history as storytelling, contending that without attending to the craft of writing the discipline would fail to keep up intellectually with other scholarly fields.'[^Stoval1] And so, "narrative "is simply there like life itself. . international, transhistorical, transcultural."[Barthes1]
 
-> block quote A historical narrative is thus necessarily a mixture of adequately and inadequately explained events, a congeries of established and inferred facts, at once a representation that is an interpretation and an interpretation that passes for an explanation of the whole process mirrored in the narrative. [^White3]
+> A historical narrative is thus necessarily a mixture of adequately and inadequately explained events, a congeries of established and inferred facts, at once a representation that is an interpretation and an interpretation that passes for an explanation of the whole process mirrored in the narrative. [^White3]
 
 ### Truth, objectivity and fiction?
 
