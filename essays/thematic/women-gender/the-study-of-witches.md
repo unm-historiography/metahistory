@@ -69,6 +69,7 @@ With these focuses in mind, most historical research has been influenced by thos
 
 ### All Class, No Misogyny 
 The following historians primarily utilized the argument that the witch trials were completely economically based. Potential faults in their argument is the fact that they mostly ignore the other factors in the accused demographics.
+
 [H.R Trevor-Roper](https://en.wikipedia.org/wiki/Hugh_Trevor-Roper) understood how “folk witch beliefs” were a product of “peasant credulity and feminine hysteria” [^7] and argued this in the study of witches. To him a witch was someone in a lower class who was seen as given an advantage in some way. Following Gustav Henningsen’s description that:
 {% include aside.html
   class="pullquote"
@@ -97,6 +98,22 @@ Many women were accused and executed due to the witch hunts, but almost no histo
 [^4]: From Macro- to Microhistory: The History or Everyday Life
 
 [^6]: a general consensus from Whitney, Uszkalo, and Barstow
+
+[^7]: International Trends: The Witch “She”/The Historian “He” pg 78
+
+[^8]: International Trends: The Witch “She”/The Historian “He” pg. 79
+
+[^9]: On Studying Witchcraft as Women’s History p. 12
+
+[^10]: Traditions and Trajectories in the Historiography of European Witch Hunting p. 78-79
+
+[^12]: Traditions and Trajectories in the Historiography of European Witch Hunting p. 78-79
+
+[^13]: International Trends: The Witch “She”/The Historian “He” pg 78
+
+[^11]: Traditions and Trajectories in the Historiography of European Witch Hunting p. 78-79
+
+
 
 {% include figure.html
   class="img-right"
