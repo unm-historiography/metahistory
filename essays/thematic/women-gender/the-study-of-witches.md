@@ -58,7 +58,12 @@ In England, King James I of England, or VI of Scotland, wrote _**Daemonologie, I
 
 # Postmodernism's Influence
 
-Although the first major works about witches were published in 1900, falling within the modern period of historiography, witch historiography was greatly impacted by the postmodern movement. Many historians interested in witches who came out of this period incorporated methods beyond history. In order to understand this psychological phenomenon many needed to understand psychology in general. Witch  historiography began to consider and incorporate topics such as **”history, anthropology, magic, popular superstitions, religion, theology, law, psychology, sexuality, gender, sociology, medicine, politics, loanguage, popular beliefs, folklore studies, and popular culture:**[^5] Aligning with the change from macro-history to micro-story during this time. Going from grand views of witches blending into society and plucking them out individually to see the “political, social, and economic context” [^4]. 
+Although the first major works about witches were published in 1900, falling within the modern period of historiography, witch historiography was greatly impacted by the postmodern movement emerging in the 1960's. Many historians interested in witches who came out of this period incorporated methods beyond history. In order to understand this psychological phenomenon many needed to understand psychology in general. Witch  historiography began to consider and incorporate topics such as **”history, anthropology, magic, popular superstitions, religion, theology, law, psychology, sexuality, gender, sociology, medicine, politics, loanguage, popular beliefs, folklore studies, and popular culture:**[^5] Aligning with the change from macro-history to micro-story during this time. Going from grand views of witches blending into society and plucking them out individually to see the “political, social, and economic context” [^4]. Historians exploring the effects of witches on society deduced a few things: 
+- Witch hunts were based on class and economics
+- Witch hunts played a significant role in forming the modern nation state
+- Religion played a more significant role than gender [^6]
+
+With these focuses in mind, most historical research has been influenced by those who came before going in and out of periods of assessing the role gender played in these hunts.
 
 # Postmodern Historians
 
@@ -70,14 +75,17 @@ Many women were accused and executed due to the witch hunts, but almost no histo
 
 
 # Bibliography
-[^1] [^5]: Traditions and Trajectories in the Historiography of European Witch Hunting
+[^1]: Traditions and Trajectories in the Historiography of European Witch Hunting
 
 [^2]: Daemonologie In Forme of a Dialogie Diuided into three Bookes.
 
 [^3]: https://en.wikipedia.org/wiki/Daemonologie 
 
+[^5]: Traditions and Trajectories in the Historiography of European Witch Hunting
+
 [^4]: From Macro- to Microhistory: The History or Everyday Life
 
+[^6]: a general consensus from Whitney, Uszkalo, and Barstow
 
 {% include figure.html
   class="img-right"
