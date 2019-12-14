@@ -47,6 +47,14 @@ Germany had over 30,000 accounts  of witch trials[^1] and executions during the 
 
 Another very influential text to come from Germany was found much earlier than the rise of the Third Reich. [ The Malleus Maleficarum](https://www.thoughtco.com/malleus-maleficarum-witch-document-3530785) was the german witch hunters guide. This document was written in _**1486 and 1487** by two German Dominican monks, Heinrich Kramer and Jacob Sprenger_. Given this document was written after the Gutenberg Printing Press, it had an advantage over documents of a similar message. This also helped preserve the document in time as so many people believed in it and carried it through the times with them even after there were no more legal witch trials. Joseph Hansen, a german born historian, published the first major work on witch historiography utilizing the role the Malleus Maleficarum had on a society over run with fears against witchcraft. His book _**Zauberwahn, Inquisition und Hexenprozess im Mittelalter und die Entstehung der grossen Hexenverfolgung** (Magical Illusion, Inquisition, and Witch Trials in the Middle Ages, and the Formation of the Larger Persecution of Witches)_ was published in 1900 followed by his sourcebook in 1901, _Quellen und Untersuchungen zur Geschichte des Hexenwahns und der Hexenverfolgung im Mittelalter: Mit einer Untersuchung der Geschichte des Wortes Hexe_. His book **“identifies the accumulated beliefs of sorcery and heresy as comprising witchcraft in its fifteenth-century concept”**[^1]
 
+{% include figure.html
+  class="img-left"
+  width="50%"
+  caption="King James Ci of Scotland, later King James I of England, discussed how women were most suceptible to the devil and hunted them extensively during his reign."
+  image-url="jamesviandi.jpg"
+  source-url="https://www.historyextra.com/period/stuart/king-james-vi-i-hunted-witches-hunter-devilry-daemonologie/"
+%}
+
 In England, King James I of England, or VI of Scotland, wrote _**Daemonologie, In Forme of a Dialogue, Divided into three Books: By the High and Mighty Prince, Jame by the Grace of God King of England, Scotland, France,  and Ireland**_ . His purpose for writing this was to _” serue for a shew of my learning & ingine”_ [^2], an understanding and warning of/for witches. In his three books he structures his argument as describing magic, describing sorcery and witchcraft, and finishing with a description of spirits and specters [^3] The importance of this text is that it inspired many others to write on who were susceptible to the devils lure. This also influenced how people under King James I’s rule would hold trials and the proceedings by which they were accused. In history, by studying this document before studying the trials there is a sense of culture and a deeper look into the minds of the people during the witch craze.
 
 # Postmodernism's Influence
@@ -68,13 +76,7 @@ Although the first major works about witches were published in 1900, falling wit
 
 [^3]: https://en.wikipedia.org/wiki/Daemonologie 
 
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="King James Ci of Scotland, later King James I of England, discussed how women were most suceptible to the devil and hunted them extensively during his reign."
-  image-url="jamesviandi.jpg"
-  source-url="https://www.historyextra.com/period/stuart/king-james-vi-i-hunted-witches-hunter-devilry-daemonologie/"
-%}
+
 
 
 {% include figure.html
