@@ -58,7 +58,7 @@ In England, King James I of England, or VI of Scotland, wrote _**Daemonologie, I
 
 # Postmodernism's Influence
 
-Although the first major works about witches were published in 1900, falling within the modern period of historiography, witch historiography was greatly impacted by the postmodern movement. Many historians interested in witches who came out of this period incorporated methods beyond history. In order to understand this psychological phenomenon many needed to understand psychology in general. Witch  historiography began to consider and incorporate topics such as **”history, anthropology, magic, popular superstitions, religion, theology, law, psychology, sexuality, gender, sociology, medicine, politics, loanguage, popular beliefs, folklore studies, and popular culture:** [^1] Aligning with the change from macro-history to micro-story during this time. Going from grand views of witches blending into society and plucking them out individually to see the “political, social, and economic context” [^4]. 
+Although the first major works about witches were published in 1900, falling within the modern period of historiography, witch historiography was greatly impacted by the postmodern movement. Many historians interested in witches who came out of this period incorporated methods beyond history. In order to understand this psychological phenomenon many needed to understand psychology in general. Witch  historiography began to consider and incorporate topics such as **”history, anthropology, magic, popular superstitions, religion, theology, law, psychology, sexuality, gender, sociology, medicine, politics, loanguage, popular beliefs, folklore studies, and popular culture:**[^5] Aligning with the change from macro-history to micro-story during this time. Going from grand views of witches blending into society and plucking them out individually to see the “political, social, and economic context” [^4]. 
 
 # Postmodern Historians
 
@@ -69,13 +69,13 @@ Although the first major works about witches were published in 1900, falling wit
 
 
 # Bibliography
-[^1]: Traditions and Trajectories in the Historiography of European Witch Hunting
+[^1] [^5]: Traditions and Trajectories in the Historiography of European Witch Hunting
 
 [^2]: Daemonologie In Forme of a Dialogie Diuided into three Bookes.
 
 [^3]: https://en.wikipedia.org/wiki/Daemonologie 
 
-
+[^4]: From Macro- to Microhistory: The History or Everyday Life
 
 
 {% include figure.html
