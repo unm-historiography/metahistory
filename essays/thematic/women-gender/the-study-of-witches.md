@@ -7,7 +7,7 @@ date: 2019-11-03
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could **fly on broomsticks and used magic primarily out of vengence**."
+  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could fly on broomsticks and used magic primarily out of vengence."
   image-url="The_Wicked_Witch_of_the_West.jpg"
   source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
 %}
@@ -20,7 +20,7 @@ In school in the United States, many of the exposure to witch trials comes from 
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. She **stands up for the rights of women, LGBTQ+, and the general outsiders of society**. Showing a modern witch based in the past."
+  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. She stands up for the rights of women, LGBTQ+, and the general outsiders of society. Showing a modern witch based in the past."
   image-url="chilling_adventure.jpg"
   source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
 %}
