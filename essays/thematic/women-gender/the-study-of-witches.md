@@ -20,7 +20,7 @@ In school in the United States, many of the exposure to witch trials comes from 
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. She stands up for the rights of women, LGBTQ+, and the general outsiders of society. Showing a modern witch based in the past."
+  caption="The Chilling Adventures of Sabrina premiered on Netflix in October of 2018. She stands up for the rights of women, LGBTQ+, and the general outsiders of society. Showing a modern witch based in the past."
   image-url="chilling_adventure.jpg"
   source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
 %}
@@ -88,7 +88,7 @@ E. William Monter was sympathetic towards women witches seeing their magic as a 
 {% include figure.html
   class="img-right"
   width="35%"
-  caption= 
+  caption=""
   image-url="witches_baldung.jpg"
   source-url="https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1333755&partId=1"
 %}
@@ -96,10 +96,11 @@ E. William Monter was sympathetic towards women witches seeing their magic as a 
 {% include figure.html
   class="img-right"
   width="35%"
-  caption=
+  caption=""
   image-url="witches_baldung_paper.jpg"
   source-url="https://museumofwitchcraftandmagic.co.uk/object/witch-picture-57/"
 %}
+
 Linda Hult used images by the artist Hans Baldung, such as the ones above, to understand how women were portrayed in art during the hunts. Art is a different form of documentation that is so telling of what caught audiences eyes during situations such as this one. She realized that the women were usually depicted as overly sexualized in orgy like rituals that departed from the norm of women while illustrating demonic and fearful images. Witches were powerless and feared, yet depicted as “perennially lusting yet never satisfied”. These painted creatures sought freedom and power but because of how audiences viewed their heresy they were the most enslaved of all [^20].
 
 Each historian did not inherently look for why women were prosecuted but each understand a trend and questioned the culture behind it. Each historian took aspects outside of history to apply it to the general assumptions made by those who came before. Building grounds and creating debates on whether gender should be included in the study of witches.
