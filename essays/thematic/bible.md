@@ -106,10 +106,10 @@ Copernicus fears were not unwarrented because his book was banned the Church, bu
 
 {% include figure.html
   class="img-left"
-  width="33%"
-  caption="Galileo tried to not upset the Church too much with his findings by sending of letters to get a sense of how well it would be recieved."
-  image-url="bvs5.jpg"
-  source-url="https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina"
+  width="50%"
+  caption="Changing the ancient authority of the make up of the heavens was no small task and took multiple efforts."
+  image-url="historicalspace.png"
+  source-url="https://www.solpass.org/science6-8-new/s6/standards6/standard_6.8.html"
 %}
 
 This example shows how the tides of change were upon both the Bible and Science. Advancments were seen in science and progress was the result. Holding the Bible as authority on the natural world was deeply questioned due to science offering a different perspective. The Bible had competition and it was gaining a lot of steam. Scientific answers to questions were making sense and planting seeds of doubt in the Bible. There was also qustions on how one should look at and interept the Bible. Until now the Bible was take as a literal truth, what it says is what happened. Theologians had to come up with different answers   
