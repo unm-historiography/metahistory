@@ -6,80 +6,118 @@ date: 2019-10-20
 
 {% include figure.html
   class="img-center"
-  width="75%"
-  caption="The Bible stirrs a a different response from everyone, what does it mean to you?"
-  image-url="images.jpg"
-  source-url="https://www.salvationandsurvival.com/2019/07/how-do-we-view-gods-justice-and.html"
+  width="60%"
+  caption="The Bible has left its mark on the world by shaping many cultures."
+  image-url="BibleSectionBanner_s877x138.jpg"
+  source-url="https://www.washingtontimes.com/specials/bibles-influence/"
 %}
 
-Many view **The Bible** as one of the most influential books ever written, but it is also one of the most disputed works as well. The Bible is one of those subjects that a majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a brief timeline of how perspectives and interpretations of the Bible have changed over time, specifically in terms of how developments in science have shifted     
+All historians put together a _story or narrative_ of their best possible explination of what happened by looking at the evidence and analyzing it. Look at the American Revolution; historians take journal entries, military documents, and eye witnesses account to piece together a narrative of what happened and why. This narrative is presented as _historical truth_. But the questions that these trusted narratives could have holes is where **historiography** comes into play. Those holes that we are looking for is personal, political, or religious bias or leaving out researched material because it doesn't fit into the decided upon narrative. The best example of these blemishes is looking at the **Bible**. 
 
-### Prophets to Historians
+Many view The Bible as one of the most influential books ever written due to its impact on shaping some cultures, but it is also one of the most disputed works as well. The Bible is one of those subjects that a majority of people have a strong opinion about, both positive and negavite. It is these strong emotonial ties that make the Bible a perfect fit to be the subject of a _historiographical study_. This essay will take a glance at two major aspects of historiography. First we will take a closer look at the historians who researched and wrote about the Bible. Then go through a timeline of how perspectives and interpretations of the Bible have changed over time, specifically in terms of how developments in science have created these shifts. 
 
-Looking at the Bible 
+### From Prophets to Historians
+        
+_Is the Bible history?_ This question sparks some of the most heated debated when talking about the Bible. Making a statement that the Bible is a accurate historical account means that all the stories in the Bible happened exactly as they are described. This statement is called [**Biblical inerrancy**](https://en.wikipedia.org/wiki/Biblical_inerrancy) and means that there is no errors in the Bible. As one can imagine this claim comes with a lot of resistance and is one that can't be proven, but is that the only way we can look at the Bible? 
+
+{% include figure.html
+  class="img-right"
+  width="60%"
+  caption="It is believed by Biblical scholars that Moses was responsible for writing the first five books of Bible, also known as the Torah"
+  image-url="moses.png"
+  source-url="https://www.jw.org/en/library/magazines/g20040408/moses-man-or-myth/"
+%}
+
+Looking at the Bible as a work of history, just as one would read a book on WWII or the JFK assassination, takes the pressure off of the point of Biblical inerrancy. The Bible can be viewed as a _historical narrative_ that is how a group of historians think events happened based on the evidence that they value the most. This places the big names of the Bible such as [Moses](https://www.ancient.eu/Moses/), [David](https://www.britannica.com/biography/David), [Daniel](https://en.wikipedia.org/wiki/Daniel_(biblical_figure)), and so on in the category of historians. Viewing the Bible from that direction makes a historiographical assesment easier to put together. 
+
+The biggest criticism when talking about the Bible is the obvious bias that these historians/prophets would have when writing their respective books of the Bible. These prophets have not only devoted their lives to God but their lives on the line to carry his message of [hope and salvation](https://billygraham.org/decision-magazine/december-2013/the-hope-of-salvation/) into hostile situations. Their bias is clear and is safe to say that they would be less likely to include instances or stories that would tarnish God's name. 
 
 {% include figure.html
   class="img-center"
   width="50%"
-  caption="Model of Geocentrism that was influence by taking the Bible literally."
+  caption="Jesus dying on the cross is the cornerstone for which the Bible gives believers a hope for salvation."
+  image-url="thecross.jpg"
+  source-url="https://billygraham.org/decision-magazine/december-2013/the-hope-of-salvation/"
+%}
+
+With the critism of Biblical inerrency comes the idea that some of the more harder to believe stories in the Bible are refered to as **interpreted history**. This means that not everything is historically accurate; the authors main focus is to convey information that is important to their cause or religious beliefs. If the events didn't happen the way they were described and are included for the simple use of emphasising an ideal or characteristics of God then the authors credibility will take a hit. Another classification of stories thought to be included in the Bible is **etiologies**. These stories are thought to be fictional accounts that explain various phenomenon. A good example of is the story of the [Tower of Babel](https://www.britannica.com/topic/Tower-of-Babel) and how that accounts for the dispersal of different languages around the world. 
+These are some of the things one needs to think about when embarking on a historical assessment when reviewing a historians work. Reading between the lines and looking for what wasn't said can sometimes carry more weight than what was actually said. 
+
+### Modern Day Sources
+
+No matter what topic a person is researching they need to wary of every source they come into contact with. The importance of this skill is heightened when looking at topic as decisive as the _Bible and the its relationship with science_. When looking for any information reguarding the Bible one would expect to comes across a fair amount of soucres that have a religious affiliation with a Church or other religious groups. A source with this type of affiliation is bound to filled with information that is supportive towards the Bible and God. While you should proceed with caution these types of sources do have some use in gaining understanding the Biblical point of view. These sources will be quick to cut out any information that doesn't support the overall narrative that religious groups want to promote.
+
+On the flip side almost the exact same things could be said about sources that heavily leans towards the scientific point of view or written by scientists themselves. Science tends to be straight forward and everything has explanation or a solution that can be tested for. Inability to prove or disprove most Biblical claims is what causes tension for science because the Bible represents a variable that science can't test. These scientific sources are a valuable piece of information due to their unparalleled access and insight into the finding and advancements of science, but their need to have absolute answers can sometimes lead them to make dubious claims. 
+
+The historical sources used for this essay underwent the same, intense scrutiny when guaging what to look out for during my research. The first source I used to by _J.B. Stump Science and Christianity Introduction of the Issues_. In his acknowledgments Stump mentions his involvment in a foundation, **Biologos**, that advocates _harmony between science and biblical faith_. This foundation puts themselves right in the middle of the Bible/Science debate and sets the idea that both can co-exist with miminal problems. Investigating further there is a slight hint of bias towards the Biblical side of things with more pastors and Christian thinkers speaking. Stump also mentions his Christian heritage being passed down from multiple generations. This sets up this source in a pro-Bible light. Reading through the inital reaction holds true with a slight favor towards Christianity. 
+
+Stump goes heavy into different theories of interpretations of the Bible over time. He includes a lot of philosphers and scientists who help drive the changing thoughts on the Bible. Showcasing what the elite of society thought dismisses the effect on the general public. While he does a great job of noting the changes of interpretations of the Bible due to scientific discoveries, these advancements take a backseat to their affect on the Bible and doesn't include other societal factors that could play a role in this change. Stumps overall connections between the Bible and understanding the world we live in is a **micro**, small, focus on a big, complex issue. 
+
+A source for that landed on the pro-science side of the arguement was a compilation of work from different authors in _Science and Religion in the 21st Century._ A majority of the authors involved come from a science background so the intial thought was pro-science. Most of the topics of discussion were more science focused. The topics discussed were focused around evolution and how to fit Christianity in with it. There seemed to be an agenda to force science and the Bible together. Was hoping for more relevant topics that  trouble the 21st century. Focus on the natural world and how the Bible connects with it was main point for the religious speakers. 
+
+With some background of how to examine sources we can look at the varying degree of influence and changing perception of the Bible, as affected by Science. 
+
+### Starting point
+
+To effectively show the shifts of change we first need to establish a starting point. To set the foundation we will look at how ancient societies and empires saw themselves and other empires in large scale of history. Their early way of thinking was referred to as **cyclical history**. Cyclical history views human history much like that of cylces we see in the natural world. Think of the changing of seasons or the cycles of the moon. Relating it to human history the cycle starts with the birth an empire. The cycle continues with the empires rise to prominence and ends with its eventual demise. Ancient philosopher Plato was a key proponent for this theory. 
+
+>"Have not thousands upon thousands of city-states come into existence, and .... have not just as many perished." (Lemon, 32)
+
+While this cyclical outlook carried on into the Roman empire the Romans felt themselves immune from the vicious cycle as seen before them. This thought process was labeled **Rome Eternal** and looking back we see this as fools gold. In [410 AD Rome was sacked](https://www.britannica.com/event/Sack-of-Rome-410) by a group of Visigothic barbarian's. Even though Rome wasn't the captial city during this time Rome was still seen as the identifying city. The invaders laid waste to the city, albeit by way of an open gate, and left Romans looking for answers. This led to the blaming of Christians as the cause of their trouble.
+
+Christians bore the brunt of the heat for the sacking because of their refusal to sacrifice to pagan gods. Christian philospher [St. Augustine]( https://en.wikipedia.org/wiki/Augustine_of_Hippo) combated these claims by writing the book _City of God_. In this he defended his Christians brothers and pointed the blame towards Romes lack of morals as the main source of their misfortune. This book also led to a new, **linear** way of looking at history. 
+
+Instead of the endles cycles of highs and lows the linear way of looking at history puts everyone on the path of a straight line. On this path, St. Agustine argues, starts out in the **City of Man**. This is the earthly world that we all inhabit at this very moment. Our main purpose in the City of man is to atone for your sins so to gain entrance into the **City of God**. In this philosphy the building of wealth and knowledge along with pursuit of progress was second behind doing what has to be done for the City of God. 
+
+This is the foundation of the influence of the Bible, setting up a culture that has a sole purpose of passing through heavens gates. While not everyone bought in Christianity did become the major religion of Ancient Rome. This is the high point on our timeline for Christanity and the Bible as we will see a slow decent of its influence and its perspective of absolute truth will be questioned. 
+
+### Scientific Revoluion
+
+Progess is seen as the measurement by which a society is seen as successful. In the 16th and 17th centuries there was a time called the Scientific Revolution that saw an incredible amount of advancements in the field of science. These advancements swayed people away from the ancient authority that was blindly followed without question. The Bible was one of the ancient authorities that went without question. It was seen as a guide to understanding the natural world we live in. 
+
+The challenges to the ancient authorities didn't happen overnight. The courage and acceptence to ask the challenging questions happening gradually over time. The perfect example to showcase this change it looking at the process of determining the sun is the center of the universe. 
+
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="Model of Geocentrism puts the earth at the center of the universe."
   image-url="bvs2.png"
   source-url="https://simple.wikipedia.org/wiki/Geocentrism"
 %}
-A perfect example of this is the Roman’s belief in [**Geocentrism**](https://en.wikipedia.org/wiki/Geocentric_model), thinking that the Earth is the center of the Universe with the sun orbiting around it. They believed this because they took what the Bible said literally. There are multiple verses in the Bible that led them to believe in Geocentrism, but the main one that they used was Joshua 10:13: “And the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.” 
 
-This belief went unchallenged for a while because it was written in the scriptures, and in those days no one dared to go against the Bible or the Church. If you haven’t already guessed, that is foreshadowing for someone to do the unthinkable and challenge the Church. The person to do this was [**Galileo**](https://en.wikipedia.org/wiki/Galileo_Galilei). 
+[Claudius Ptolemy]( https://en.wikipedia.org/wiki/Ptolemy) was a Greek astronomer who is credited coming up with a [**Geocentrism**](https://en.wikipedia.org/wiki/Geocentric_model) model of the universe. His view of the galaxy was aided by the Bible and the literal perception, at that time.  
 
-{% include figure.html
-  class="img-center"
-  width="50%"
-  caption="Galileo Galilei was one of the first to challenge the church in the name of science."
-  image-url="bvs3.jpg"
-  source-url="https://en.wikipedia.org/wiki/Galileo_Galilei"
-%}
+>Joshua 10:13: “And the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.” 
 
-Galileo made some observations of the moon's shape and the craters or valleys located on it. He also observed the milky way and distant bright dots around Jupiter, which he later discovered was moons. All of these factored into Galileo coming to the conclusion that the earth is not the center of the Universe. He made a [**Heliocentrism**](https://en.wikipedia.org/wiki/Heliocentrism) claim, that the sun is the center of the Universe.
+In this verse Joshua and his men were engaged in battle and were winning, by a large margin. But Joshua was against the clock as the sun was due to set and darkness would cover the battlefield. Joshua, not wanting to give up his advantage prayed for God to keep the sun still so he could staying fighting in the light and finish off the enemy. God obliged and that is where we get the Bible verse Joshua 10:13. In reading this verse scholars thought it made sense with Ptolemy's view of the galaxy becuase it would be easy for God to have to sun, thought to be orbiting the earth, be still for a short period of time. 
+
+This understanding of the heavens would be the final authority, that is until the [Coperincan Revoluion](https://en.wikipedia.org/wiki/Copernican_Revolution). Nicolas Copernicus made some observation that differed from what Ptolemy had claimed. Copernicus had made the discovery of a [**Heliocentrism**](https://en.wikipedia.org/wiki/Heliocentrism) where the sun is the center, but there was little he could do because one didn't challenge the ancient authorities. He was so worried about what a challenge like this could mean that he didn't publish he findings, _On the Revolutions of the Heavenly Spheres_, until later in his life.    
 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The model of Heliocentrism was the fisrt of instances where science changed the way the world worked from what the Churh claimed."
+  caption="The model of Heliocentrism was a challenge to authorities that wanted to keep the status quo."
   image-url="bvs4.gif"
   source-url="https://people.highline.edu/iglozman/classes/astronotes/history.htm"
 %}
 
-_Galileo_ knew that this new thought process would ruffle some feathers, so he sent private letters before going public to get a sense of the reaction he would get. In one of these letters, known as the [_Letter to the Grand Duchess Christina_](https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina), he argues that the Bible should be taken as incapable of making mistakes, when understood correctly, and it has little to say in matters of astronomy. “I think that in discussions of physical problems we ought to begin not from the authority of scriptural passages, but from sense-experiences and necessary demonstrations.” (Blackwell, pg 6)
+Copernicus fears were not unwarrented because his book was banned the Church, but his efforts didn't go to waste. [**Galileo**](https://en.wikipedia.org/wiki/Galileo_Galilei) would carry the tourch and continue what Coperincus started. In his observations he agreed with the Heliocentric model and also put the sun in the center of the universe with everything orbiting around it. Like Coperinicus he also faced opposition from the chruch. He was forced to recant his claims in effort to silence his opposing views. 
+
 
 {% include figure.html
   class="img-left"
-  width="33%"
-  caption="Galileo tried to not upset the Church too much with his findings by sending of letters to get a sense of how well it would be recieved."
-  image-url="bvs5.jpg"
-  source-url="https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina"
+  width="50%"
+  caption="Changing the ancient authority of the make up of the heavens was no small task and took multiple efforts."
+  image-url="historicalspace.png"
+  source-url="https://www.solpass.org/science6-8-new/s6/standards6/standard_6.8.html"
 %}
 
-Despite his best efforts, Galileo still faced the wrath of the church; and they forced him to publicly recant his claims. To be clear, the Church did not have _scientific problems_ with what Galileo was claiming. They had no other evidence, or reason to think different from this claim, other than what they thought the Bible was saying. The church had a problem with him defying the final authority of the church.  Galileo did as he was asked, but the damage was done and the seeds of doubt about how to understand the Bible were planted. 
+This example shows how the tides of change were upon both the Bible and Science. Advancments were seen in science and progress was the result. Holding the Bible as authority on the natural world was deeply questioned due to science offering a different perspective. The Bible had competition and it was gaining a lot of steam. Scientific answers to questions were making sense and planting seeds of doubt in the Bible. There was also qustions on how one should look at and interept the Bible. Until now the Bible was take as a literal truth, what it says is what happened. Theologians had to come up with different answers   
 
-This is what is referred by many as the **Conflict theory**. “On this view, Christianity is cast in the role of the oppressive and stultifying stepmother who held back the young, reasonable, and progressive maiden of science. Then science finally broke free from the oppressive Church and steadily added to our accumulated knowledge and quality of life.” (Stump, pg 3)
-
-### Independence, calm before the storm 
-
-Galileo’s discovery and claims against the literal interpretation of the Bible forced a major shift in the way that Science and the Bible interacted. This interaction is classified as **Independence**, and is where they both go their separate ways while not intersecting. “At other times in the history of Science and Christianity, the two sides were content to go about their own business without interfering with each other.” (Stump, pg 8) 
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Bishop, Basil the Great, fought hard against those who challenged the Church customs and beliefs."
-  image-url="bvs6.jpg"
-  source-url="https://www.monasteryicons.com/product/st-basil-the-great-icon-704/icons-of-saints"
-%}
-
-Even the authority of the Church got on board with the Independence era. [**Basil the Great**](https://en.wikipedia.org/wiki/Basil_of_Caesarea), an influential bishop at the time, dismissed Greek science as ‘idle chatter’ which was ‘not all useful for the edification of the Church’. (Harrison, pg 12) [**Ambrose**](https://en.wikipedia.org/wiki/Ambrose), the archbishop of Milan, explaining why the scriptures had little say on scientific matter, wrote, “There was no place in the words of the Holy Spirit for the vanity of perishable knowledge which deceives and deludes us in our attempt to explain the unexplainable." (Harrison, pg 13) [**Saint Augustine**](https://en.wikipedia.org/wiki/Augustine_of_Hippo), a major Christian philosopher, was hardly more enthusiastic, declaring that ‘the knowledge collected from the books of pagans, although some of it is useful, is also little as compared with that derived from scripture.’ (Harrison, pg 13) 
-
-This idea, of keeping the science and the Bible in their sectors, is an idea that is also shared by some in the modern day setting. In 1829, Leading theologian, _Moses Stuart of Andover Seminary_, stated, "God fit the world of the Mosaic narrative to the feeling, vies, and methods of expression, existing in the time of Moses… The bible was not designed to teach the Hebrews astronomy or geology.” (Goldberg, pg 28-29)
 
 ### Different Ways of Interepting the Bible
 
-Along with this era of **independence** and the many advances in science Biblical philosophy was pushed into a different direction when looking at and trying to understand the Bible. The shift was away from the literal translation that dominated in Ancient Rome. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Stump, pg 9)
+Biblical philosophy was pushed into a different direction when looking at and trying to understand the Bible. The shift was away from the literal translation. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Stump, pg 9)
 
 {% include figure.html
   class="img-right"
@@ -93,85 +131,14 @@ Along with this era of **independence** and the many advances in science Biblica
 
 The step away from the literal interpretation left a gap in the Bible and its relationship to the natural world. This gap was quickly filled in by the **Two Books** metaphor. This metaphor states that God gave mankind information, or revelation, through different, but coordinated sources. The first source is the Bible, while the other one is the world (God’s creation). This metaphor appealed to the masses because not everyone knew how to read, or had the scriptures available to them, however one does not need to know how to read to observe the beauty of God’s creation.
 
-Multiple Christian theologians and scholars supported this metaphor. [**John Chrysostom**]( https://en.wikipedia.org/wiki/John_Chrysostomwas) the Archbishop of Constantinople and was one of the main figures to support this idea. “If God had given instruction by means of books, and of letter, he who knew letters would have learnt what was written, but the illiterate man would have gone away without receiving any benefit… This however cannot be said with respect to the heavens and every man that walks upon the earth, shall hear this voice; for not by means of the ears, but through the sight, it reaches our understanding.” (Stump, pg 12)
+All of these paradigm shifts or changing of philosphies of looking at the Bible was spurned on by the advancement of knowledge in the pursuit of science. The more that was understood about the world the more the perception of the Bible changed. Skeptism started to creep into the minds of some and opposition to the Bible became more frequent. 
+   
 
-All of these paradigm shifts or changing of philosphies of looking at the Bible was spurned on by the advancement of knowledge in the pursuit of science. The more that was understood about the world the more the persception of the Bible changed. It was this strong connection to the natural world and the emphasis on God’s creation that led to the biggest battle science or the Bible has ever seen.
+### Change In America 
 
-### Evolution 
+America is a country founded on the Bible. As the country grew socities were built around the Bible and it was held in high reguard. Much like in the days of Copernicus one didn't challenge the authority of the Bible. Even though the world's progress was full steam ahead there was still a spot for the Bible in popular culture. In 1925 the authority of the Bible was challenged by a teacher in Tennessee by the name of [John Scopes](https://www.history.com/topics/roaring-twenties/scopes-trial). In his classroom he taught the [theory of evoluion](https://www.nationalgeographic.org/encyclopedia/theory-evolution/) opposite the Biblical narrative of creation. This was front page news and got national attention. People were shocked that someone as trusted as teacher could challenge something as holy as the Bible. This was a turning point for America because gave science the opening to be opposite the authority of Bible and get people to listen. 
 
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption="Darwin and his theory of evolution directly challenged the Church and God's authority as Creator."
-  image-url="bvs8.jpg"
-  source-url="https://www.biography.com/scientist/charles-darwin"
-%}  
-
-The developments of science led to advances and a wealth of knowledge about the world that we live in. This was highlighted by the [**Darwin’s theory of evolution**](https://en.wikipedia.org/wiki/Darwinism). Darwin’s theory was the start of science’s direct challenge to the Bible’s account of God being the ultimate creator of the world. The challenge sparked a war between an unmovable object and an unstoppable force. Science and the Bible go head to head in a battle that is still being fought to this very day. 
-
-When we talk about **Darwin’s theory of evolution**, it is key to know that there are plenty, on both sides of the fence, that have problems with the part that suggests humans evolved from monkeys; so that doesn’t factor into this discussion. We can also throw out the tension between these two in regards to evolution. It is obvious that humans, and many species of animals, have adapted and changed over time. The Bible would argue that the adaptation that we have seen over the years is part of God's [**intelligent design**](https://en.wikipedia.org/wiki/Intelligent_design), part of his plan. Science would counter by pointing out flaws in the proposed intelligent design; such as the jaw seemingly not designed to adequately fit all of the human adult teeth, whichrequires the removal of ones wisdom teeth. This theory would be and still is a thorn in the Church's side and would slowly make its way into the ultimate discussion of how did we get here?
-
-### Evolution Theory Gains Traction
-
-This battle hit the headlines in America in 1925, when a Tennessee school teacher, [**John Scopes**](https://www.history.com/topics/roaring-twenties/scopes-trial), taught evolution. The trial of John Scopes made national news, and pushed this battle into the minds of the public. This was such a shock to many people because of the strong Biblical roots that American was founded on. The Bible was also a major part of how society in the 1920's was shaped. Most American's didn't give the thought that God created the earth a second thought. For someone as trusted as a schoolteacher to teach their children, the youth of America, a different story filled them shock and a bit of anger. This trail was a apetizer for the main battle to come.    
-
-### Big Bang Theory
-
-{% include figure.html
-  class="img-left"
-  width="45%"
-  caption="The Big Bang theory operates in billions of years for an random explosion to form the galaxy we call home."
-  image-url="bvs11.jpg"
-  source-url="https://www.collective-evolution.com/2017/08/27/if-the-big-bang-started-the-universe-what-or-who-started-the-big-bang-what-about-the-multi-verse/"
-%}
-
-While Darwin's Theory of Evolution tried to fill in blanks of where humans came from science needed a answer for the where the Earth and the galaxy came from, enter the **big bang theory**.  This theory is based on a random cosmic explosion of a subatomic ball that hurled matter and energy in different directions. Over long period of time, projected 10 billion years, the matter and energy evolved into stars, galaxies, and planets. Those on the Bible side of things would counter that the event science claims the big bang, was actually God creating the earth from nothing. This is just the start of the disagreement. 
-
-### AGE IS MORE THAN JUST A NUMBER
-
-{% include figure.html
-  class="img-center"
-  width="75%"
-  caption="The age of the Earth is crutial to both arguments."
-  image-url="bvs9.jpg"
-  source-url="https://creation.com/can-christians-add-big-bang-to-bible"
-%}
-
-Another point of conflict is the age of the earth. For the earth to fit into the **big bang theory**, the earth would have required millions of years to have evolved from nothing into life as we know it today. For **creation theorists**, they paint the earth in a much younger time span. Even those in the Christian community argue over taking the story of creation literally; as God created the earth in six, 24 hour, days. In this scenario the first book of the Bible, Genesis, is looked at as a histrocal source of how the world came about.   
-
-The [**Gap theory**](https://biblicalscienceinstitute.com/uncategorized/the-gap-theory/), came about in response to the huge disparity of the earth's age between evolution, science, and creation, the Bible. In an attempt to bridge this major gap some in the Christian community theorized that there was a significant amount of time between Gensis 1:1 (God creating the heavens and earth) and Gensis 1:2 (the Earth being formless, empty, and covered in darkness). This theory has minimal supporters in the Christian community, but it is interesting to see how science has once again influenced the lens through which the Bible is trying to be viewed.     
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="The Gap theory tries to put creation on the timetable science operates on."
-  image-url="hovind_gap.jpg"
-  source-url="http://www.angelfire.com/mi/dinosaurs/gap.html"
-%}
-
-With all of that said, there is no way on earth that science, or the Bible, can prove their own theories without a shadow of doubt; this battle will continue until the end of time. Some have voiced their opinions that the Bible, and Christianity, may have bitten off more than they can chew by trying to validate the _Bible using scientific means_. As the evangelical writer and religion professor **Randall Balmer** points out, confronting the public with objective evidence, attempting to show proff, of the Bible as literal truth is a mistake. “Paradoxically, when the Religious Right asserts intelligent design is science, it implies that faith in God is… inadequate, that it needs the imprimatur of the scientific method.” (Krattenmaker) “I rather see that religious beliefs should seek justification on the solid rocks of faith and revelation, not on scientific knowledge, which by its very nature is never definitive or forever valid. (Ayala, pg 76)
-
-### Can They Coexist?
-
-With everything that has transpired between Science and the Bible, it is fair that think that they have trust issues with each other; but moving forward, it seems best to put the past behind them. To get the most out of this relationship, it seems there to be a middle ground moving forward, and the first step involves each side understanding their roles. “Of course, in their search for the truth science and religion are exploring different dimensions of the human encounter with reality. Science is concerned with impersonal encounter. This is a realm in which experience can be manipulated and repeated as often as desired…. The attempt to manipulate God and put God to the test is the sinful error of magic. It is in this rich and profound realm of personal and transpersonal experience that religion pursues its quest for truth.” (Polkinghorne, pg 158)
-
-There seems to be grey area where both science and the Bible can not only coexist but thrive. “ It is historical criticism that enables us to place the Bible and evolution (science) _together_, both functioning without compromise or apology in the development of a worldview that is far richer than one alone can enable.” (Smiles, pg 56) 
-
-### Does Science Prove the Bible?
-
-{% include figure.html
-  class="img-left"
-  width="33%"
-  caption="While Science tries to prove the Bible wrong it may have accidently given evidence for the Bible."
-  image-url="bvs12.jpg"
-  source-url="https://skepticalteacher.wordpress.com/2011/08/02/science-confirms-the-bible-hmmm-not-so-much/"
-%}
-
-Despite the thought of Science and the Bible sticking to their own corners and keeping intersection to a minimum there has been some scientific discoveries that may be evidence of the Bible. The biggest one for the Bible is the **Cambrian Explosion**. This talks about the  discovery of fossils of complex organisms in the Cambrian period. What makes this discovery interesting is the lack of evidence of fossils in the period before it showing any signs of evolution. Basically these complex organismed appeared at the same geological level all over the world. How can this be explained? The church points to the global flood described in the Bible (Genesis chapters 6-9). 
-
-### Conclusion
-Historiography is different discipline from history. In history a great amount of time is spent dissecting primary and secondary sources in an effort to learn the truth about what happened 
-If your looking for a winner in the battle between **Bible and Science** you are not going to find one. The best answer your going to get is that they agree to disagree. There is no way to completely discredit the one and call another the champion. We can look at their relationship and look at how they pushed each other to get better. Neither Science or the Bible could stand pat and not look for advancement. It is because of these two constantly battling that we all have enjoyed the fruits of their advancements. How it has shaped our society and given options for everyone to believe in what they so choose. 
+A more modern look at the perception of the Bible shows that it is still revered by most of the country. According to a 2016 poll by [_Answers in Gensis_]( https://answersingenesis.org/blogs/ken-ham/2016/07/06/new-barna-study-biblical-skepticism-rise/when) asked if any book is considered holy or sacred the Bible was the top choice. According to that same survey a question was asked it the Bible contains everything a person needs to live a meaningful life. 45% but that was down from 5 years ago. The part that stands out is the people that disagree with that statement has risen 10%, 23 to 33. This shows that skeptism for the Bible is growing in America and it is not held in high reguard, as it used to be. The perception of the Bible being a key component to life is an idea of the past. Looking at the source we see it being a pro-biblical sources so the for them to report stats that hurt their cause says a lot. It also makes you wonder who they are surveying. Might the numbers change even more depending on who is conducting the survey and the makeup of people taking the survey. 
 
 ### _BIBLIOGRAPHY_
 
@@ -188,3 +155,5 @@ Re Manning, Russell, and Michael Byrne. Science and Religion in the Twenty-First
 Smiles, Vincent M. The Bible and Science: Longing for God in a Science-Dominated World. Collegeville, Minn.: Liturgical Press, 2011.
 
 Stump, J. B. Science and Christianity: An Introduction to the Issues, 2017.
+
+Lemon, M.C. Philosophy of History New York, United State: Routledge, 2003
