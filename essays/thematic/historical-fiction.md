@@ -2,7 +2,7 @@
 title: Historical Fiction or History
 subtitle: Why not both?
 author: Rick Rockett
-date: 2019-11-26
+date: 2019-12-23
 ---
 
 {% include figure.html
@@ -16,12 +16,11 @@ You're Sitting in a classroom with yours eyes glazed, teacher droning on with fa
 
 Novels, movies, and television entertain us, helping us escape from the world for a time. They expand our understanding of what is and what can be. They untether us from reality and thrust us into an expanse of diverse and fantastic worlds with engrossing characters.  Works like HBOs _Rome_ and Colleen McCullough's _Caesar_ (part of the Masters of Rome series) can both entertain and educate, in some cases unwittingly, by drawing us into their worlds.
 
-
 ### What the Genres?
 
 While there is a vast landscape of literary genres, let's take a look at three in particular: narrative history, creative history, and historical fiction.
 
- [Narrative History](https://en.wikipedia.org/wiki/Narrative_history) or [Academic History](https://en.wikipedia.org/wiki/Academic_writing) - This form of historical writing is the one we are most familiar with, having been bored to tears with it throughout those torturous years from elementary through high school. The 'facts' of narrative history were beaten into our heads.  Rote memorization the bane of historical narratives,  throwing a wet blanket on anything really interesting or exciting in history.  This brings back memories of [Ben Stein]'s(https://en.wikipedia.org/wiki/Ben_Stein) lecture on the [Smoot-Haley Tariff Act](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act) in [Ferris Bueller's Day Off](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off).  Minimizing creative license in the narrative, adding elements that cannot be supported by historical sources or the embellishing of fact to enhance the reader’s emotional investment in the narrative, is what had us mainlining No-Doze all through high school. Included in this genre are biographies, memoirs, and documentaries. [^Narrative][^acadhist]
+ [Narrative History](https://en.wikipedia.org/wiki/Narrative_history) or [Academic History](https://en.wikipedia.org/wiki/Academic_writing) - This form of historical writing is the one we are most familiar with, having been bored to tears with it throughout those torturous years from elementary through high school. The 'facts' of narrative history were beaten into our heads.  Rote memorization is the bane of historical narratives,  throwing a wet blanket on anything really interesting or exciting in history.  This brings back memories of [Ben Stein]'s(https://en.wikipedia.org/wiki/Ben_Stein) lecture on the [Smoot-Haley Tariff Act](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act) in [Ferris Bueller's Day Off](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off).  Minimizing creative license in the narrative, adding elements that cannot be supported by historical sources or the embellishing of fact to enhance the reader’s emotional investment in the narrative, is what had us mainlining No-Doze all through high school. Included in this genre are biographies, memoirs, and documentaries. [^Narrative][^acadhist]
 
  {% include figure.html
     class="img-left"
@@ -99,7 +98,7 @@ Historical fiction is different. In fact, it is more interesting and possibly **
     image-url="masters-of-rome.jpg"
     source="https://thumbs.worthpoint.com/zoom/images1/1/0311/15/lot-mccullough-masters-rome-caesar_1_d02084033a241c6eae14ca6518e31ee5.jpg" %}
 
-Great examples of this are [Colleen McCullough]'s(https://en.wikipedia.org/wiki/Colleen_McCullough) [Masters of Rome](https://en.wikipedia.org/wiki/Colleen_McCullough#Masters_of_Rome_series) novels and HBOs _Rome_. These well-research works enliven the world of [pre-Christian Rome](https://en.wikipedia.org/wiki/Ancient_Rome#Empire_%E2%80%93_the_Principate) huring us into the excitement and intrigue of the Rome of Julius Caesar and Augustus Caesar, by using dialogue, personal interactions, and transitional events. While not drawn directly from the historical record, these contrived elements enhance the histories of the primary actors. McCullough's books tell of the rise to power and rule of Roman men whose names are familiar to us: [Gauis Marius](https://en.wikipedia.org/wiki/Gaius_Marius) (_The First man in Rome_), [Lucius Cornelius Sulla](https://en.wikipedia.org/wiki/Sulla) (_The Grass Crown_), [Gaius Julius Caesar](https://en.wikipedia.org/wiki/Gaius_Julius_Caesar_(proconsul)) (_Caesar_), and  [Augustus Caesar](https://www.ancient.eu/augustus/). While not academic narratives, these works instill life and vibrancy to history, luring us into their Rome.
+Great examples of this are [Colleen McCullough]'s(https://en.wikipedia.org/wiki/Colleen_McCullough) [Masters of Rome](https://en.wikipedia.org/wiki/Colleen_McCullough#Masters_of_Rome_series) novels and HBOs _Rome_. These well-research works enliven the world of [pre-Christian Rome](https://en.wikipedia.org/wiki/Ancient_Rome#Empire_%E2%80%93_the_Principate) hurling us into the excitement and intrigue of the Rome of Julius Caesar and Augustus Caesar, by using dialogue, personal interactions, and transitional events. While not drawn directly from the historical record, these contrived elements enhance the histories of the primary actors. McCullough's books tell of the rise to power and rule of Roman men whose names are familiar to us: [Gauis Marius](https://en.wikipedia.org/wiki/Gaius_Marius) (_The First man in Rome_), [Lucius Cornelius Sulla](https://en.wikipedia.org/wiki/Sulla) (_The Grass Crown_), [Gaius Julius Caesar](https://en.wikipedia.org/wiki/Gaius_Julius_Caesar_(proconsul)) (_Caesar_), and  [Augustus Caesar](https://www.ancient.eu/augustus/). While not academic narratives, these works instill life and vibrancy to history, luring us into their Rome.
 
 ### Narrative and the ‘Rosenberg Paradox’
 
@@ -122,13 +121,19 @@ In examining the utility of historical fiction in the study of history, we must 
 
 Rosenberg claims that narrative clouds our understanding of history, tainting it.  Though deeply ingrained in who we are as human beings,[^White1] narrative is something that we must excise from how history is told, adopting the more sterile [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to communicate the past [^Rosenberg].   
 
-Ironically, the very vehicle they wish to cast aside is precisely the tool they use communicate information and enhance our understanding.[^White1]  Rosenberg admits that he, as much as anyone, is a "victim of narrative."  Like Rosenberg, historians, philosophers, doctors, accountants, and scientists are dependent on narrative to share their ideas.  Without narrative information loses meaning and falls on deaf ears.[White1]  Therein lies the paradox of Rosenberg’s argument: with narrative information (history) is tainted; without it there is no meaning, it devolves to data points.[^Rosenberg]
+Ironically, the very vehicle they wish to cast aside is precisely the tool they use communicate information and enhance our understanding. [^White1]  Rosenberg admits that he, as much as anyone, is a "victim of narrative."  Like Rosenberg, historians, philosophers, doctors, accountants, and scientists are dependent on narrative to share their ideas.  Without narrative information loses meaning and falls on deaf ears. [White1]  Therein lies the paradox of Rosenberg’s argument: with narrative information (history) is tainted; without it there is no meaning, it devolves to data points.[^Rosenberg]
 
 [Hayden White](https://en.wikipedia.org/wiki/Hayden_White), a classically trained medievalist and narrativist[^Paul1], contended that '“The Burden of History” interpreted history as storytelling, contending that without attending to the craft of writing the discipline would fail to keep up intellectually with other scholarly fields.'[^Stoval1] And so, "narrative "is simply there like life itself. . international, transhistorical, transcultural."[Barthes1]
 
-> block quote A historical narrative is thus necessarily a mixture of adequately and inadequately explained events, a congeries of established and inferred facts, at once a representation that is an interpretation and an interpretation that passes for an explanation of the whole process mirrored in the narrative.[^White3]
+> block quote A historical narrative is thus necessarily a mixture of adequately and inadequately explained events, a congeries of established and inferred facts, at once a representation that is an interpretation and an interpretation that passes for an explanation of the whole process mirrored in the narrative. [^White3]
 
-### Assessing the value of historical fiction?
+### Truth, objectivity and fiction?
+
+Before I wade into the questions of truth and objectivity—and I don’t want to get any more than ankle deep in these two areas—there is something that we must all agree on: We are all human.  As humans the world around us is subject to interpretation, each person having their own understanding and view of the world around them.  The same premise holds true for truth.  There are very few “absolute truths” in the world, death and taxes being the first that come to mind.
+
+Truth is as individual as each of us.  Sure, we can look at historical documents, those written by those who observed and lived in a particular time and place, thinking they are representative of the actual historical event.  But there were tens, or hundreds, or thousands of people present and only a handful recorded the occurrence, and fewer still of those accounts survive the passage of time.  In reviewing these personal accounts, we are getting a single human perspective and assessing its contents as “truth,” until we discover another record that either affirms or contradicts the one we are most familiar with.
+
+This leads to the second half of the fallacy: objectivity.  If we had accounts of a single event from any number of witnesses, each of whom diligently recorded the event in great detail, there be as many variations in the accounts as there were people present.  Which do we hold as accurate?  Which are the most ‘objective?’  Objectivity is, like truth, a very difficult concept to assess.  To claim objectivity means to deny all the we are and that we have experience.  Life shapes us, gradually building unseen biases.  The existence of biases means there can be no absolute objectivity.
 
 Clearly, we can’t accept these works of historical fiction as historical '**truth**.' With the addition of fictional elements, we have to divine fact from 'fantasy'. Even so, the factual portions of these works are enhanced by the inclusion of the fictional elements. Provided we understand and recognize the difference between the history and the fiction, historical fiction can present a more significant opportunity to grasp and become involved in the story that narrative accounts are unable to accomplish.
 
@@ -142,115 +147,91 @@ The author’s passion for the subject and their dedication to **research and ac
 
 ### Sign on the Dotted line?
 
-Though interspersed with fictional elements, These works increase our _personal involvement_ in history, driving us to read and investigate the subject more deeply through more traditional academic sources.  Reaching into the primary source material, these inquiries into the past **increase our interest and involvement in history**. Integrating works of historical fiction (and creative history) into the academic environment provides a means of drawing more students into the academic study of history.
+Though interspersed with fictional elements, these works increase our _personal involvement_ in history, driving us to read and investigate the subject more deeply through more traditional academic sources.  Reaching into the primary source material, these inquiries into the past **increase our interest and involvement in history**. Integrating works of historical fiction (and creative history) into the academic environment provides a means of drawing more students into the study of history.
 
 ### In Closing
+
+Before anyone say that my purpose here is to move anyone away from the study of history into an exclusive reading of historical fiction, nothing could be further from the truth.  The purpose here is to expand your reading library to include work of historical fiction to supplement the contribution of writers of narrative histories.  Does anyone watch only one genre of movie or play only one game?  There is little to be gained in living such a life, except maybe a sense of ennui that comes from a lack of variety or diversity in our lives.  Reading historical fiction from a comparative perspective adds to the richness of other narratives and styles.
 
 The study of history can be quite dry or very engaging. Looking back on the past not only tells us about where we came from but can inform us about where we are going. It helps us to understand ourselves and those around us.  The study of history **builds skills** that serve us in virtually every field of endeavor. Through research, organization, language, and argumentative writing, we are better prepared to face the challenges of the ‘_real world_.’ But is something missing?
 
 With the addition of well-researched historical fiction to the study of history, we are adding a **creative spark** that may well be lacking in the field. Creativity manifests itself in many ways, such as invention and expression. Creativity nourishes, expanding our visions, and drawing us closer to who we are. Should we now deny the very essence of creativity in the study of history? How can we deny our nature as an imaginative and resourceful species?
 
-[^Creative]: “Creative Nonfiction - Wikipedia.” Accessed October 24, 2019. https://en.wikipedia.org/wiki/Creative_nonfiction.
+[^Creative]: “Creative Nonfiction - Wikipedia.” Accessed October 24, 2019. https://en.wikipedia.org/wiki/Creative_nonfiction.
 
-[^Narrative]: “Narrative History.” Wikipedia, September 21, 2018. https://en.wikipedia.org/w/index.php?title=Narrative_history&oldid=860511626.
+[^Narrative]: “Narrative History.” Wikipedia, September 21, 2018. https://en.wikipedia.org/w/index.php?title=Narrative_history&oldid=860511626.
 
-[^acadhist]: “Academic Writing.” Wikipedia, November 6, 2019. https://en.wikipedia.org/w/index.php?title=Academic_writing&oldid=924805383.
+[^acadhist]: “Academic Writing.” Wikipedia, November 6, 2019. https://en.wikipedia.org/w/index.php?title=Academic_writing&oldid=924805383.
 
 [^Sanger]: Sanger, Thomas. “Historical Fiction vs Narrative Nonfiction: What’s in a Genre?” Thomas Sanger. Accessed October 23, 2019. http://thomascsanger.com/thomas-c-sanger/historical-fiction-vs-narrative-non-fiction-whats-genre/.
 
-[^Dictionary]: “Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
+[^Dictionary]: “Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
 
-[^HistFic vs Hist]: Vallar, Cindy. “Historical Fiction vs. History.” Accessed October 24, 2019. http://www.cindyvallar.com/histfic.html.
+[^HistFic vs Hist]: Vallar, Cindy. “Historical Fiction vs. History.” Accessed October 24, 2019. http://www.cindyvallar.com/histfic.html.
 
 [^EFSong]: https://www.youtube.com/watch?v=9vST6hVRj2A
 
 [^EFLyrics]: https://www.azlyrics.com/lyrics/gordonlightfoot/thewreckoftheedmundfitzgerald.html
 
-[MerriamWebster]: “Definition of ALTERNATIVE HISTORY.” Accessed November 25, 2019. https://www.merriam-webster.com/dictionary/alternative+history.
-
-[^AltHist]: “Alternate History.” Wikipedia, November 4, 2019. https://en.wikipedia.org/w/index.php?title=Alternate_history&oldid=924519761.
-
-[^AltHistTV]: “Category:Alternate History Television Series.” Wikipedia, October 20, 2018. https://en.wikipedia.org/w/index.php?title=Category:Alternate_history_television_series&oldid=864899833.
-
-[^FictHist]: Mickel, Emanuel J. “Fictional History and Historical Fiction.” Romance Philology 66, no. 1 (January 1, 2012): 57–96.  Accessed November 6, 2019. https://doi.org/10.1484/J.RPH.5.100799.
-
-[^Brittanica]: “Fiction | Literature | Britannica.” Accessed November 25, 2019. https://www.britannica.com/art/fiction-literature.
-
-[^fictwiki]: “Fiction.” Wikipedia, October 1, 2019. https://en.wikipedia.org/w/index.php?title=Fiction&oldid=919021848.
-
-[^fictvocab]: “Fiction - Dictionary Definition.” Vocabulary.com. Accessed November 6, 2019. https://www.vocabulary.com/dictionary/fiction.
-
-[HFwiki]: “Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
+[HFwiki]: “Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
 
 [^eurocent]: https://unm-historiography.github.io/intro-guide/essays/thematic/eurocentrism
 
 [^Lemon293]: Lemon, M. C. _Philosophy of History: A Guide for Students_. London; New York: Routledge, 2003.
 
-[^10Tod]: Tod, M. K. “10 Thoughts on the Purpose of Historical Fiction.” A Writer of History, April 14, 2015. https://awriterofhistory.com/2015/04/14/10-thoughts-on-the-purpose-of-historical-fiction/.
+[^10Tod]: Tod, M. K. “10 Thoughts on the Purpose of Historical Fiction.” A Writer of History, April 14, 2015. https://awriterofhistory.com/2015/04/14/10-thoughts-on-the-purpose-of-historical-fiction/.
 
-[^delph]: “Is Historical Fiction a Form of Non-Fiction? - Delphinium Books.” Accessed October 24, 2019. http://www.delphiniumbooks.com/is-historical-fiction-a-form-of-non-fiction/.
+[^delph]: “Is Historical Fiction a Form of Non-Fiction? - Delphinium Books.” Accessed October 24, 2019. http://www.delphiniumbooks.com/is-historical-fiction-a-form-of-non-fiction/.
 
-[^creanon]: “Historical Narratives | Creative Nonfiction.” Accessed October 24, 2019. https://creativenonfiction.org/historical-narratives.
+[^creanon]: “Historical Narratives | Creative Nonfiction.” Accessed October 24, 2019. https://creativenonfiction.org/historical-narratives.
 
 [^White1]: White, Hayden. "The Question of Narrative in Contemporary Historical Theory." _History and Theory_, vol 23 no 1 (February 1984): 1. Accessed December 13, 2019. https://www.jstor.org/stable/2504969?seq=1#metadata_info_tab_contents.
 
 [^White2]: White, Hayden. "The Question of Narrative in Contemporary Historical Theory." _History and Theory_, vol 23 no 1 (February 1984): 2. Accessed December 13, 2019. https://www.jstor.org/stable/2504969?seq=1#metadata_info_tab_contents.
 
-[^Rosenberg]: Rosenberg, Alex. “Why Most Narrative History Is Wrong.” _Salon_, October 7, 2019. https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/.
+[^Rosenberg]: Rosenberg, Alex. “Why Most Narrative History Is Wrong.” _Salon_, October 7, 2019. https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/.
 
 [^Paul1]: Paul, Herman. _Hayden White_. (London, Polity Press, 2011), 10.
 
 [^Stovall1]: Stovall, Tyler. "In Memoriam: Hayden V. White (1928-2018)" _Perspectives on History_, September 2018. Accessed December 13, 2019. https://www.historians.org/publications-and-directories/perspectives-on-history/september-2018/hayden-v-white-(1928%E2%80%932018).
 
-[^White3]: White, Hayden. "Iterpretation in History." _New Literary History_, vol 4 no 2 (Winter 1973), 281. Accessed December 13, 2019. https://www.jstor.org/stable/pdf/468478.pdf?ab_segments=0%2Fbasic_SYC-4802%2Fcontrol&refreqid=search%3A041dff955170a1501e014044b99b2b90.
+[^White3]: White, Hayden. "Interpretation in History." _New Literary History_, vol 4 no 2 (Winter 1973), 281. Accessed December 13, 2019. https://www.jstor.org/stable/pdf/468478.pdf?ab_segments=0%2Fbasic_SYC-4802%2Fcontrol&refreqid=search%3A041dff955170a1501e014044b99b2b90.
 
 [^Barthes1]: Barthes, Roland. "Introduction to the Structural Analysis of Narratives," Music, Image, Text, trans. Stephen Heath (New York, 1977).
 
 ### References
-      
-“20 Quotes on Writing From Famous Authors.” _ThoughtCo.com_. Accessed November 5, 2019. https://www.thoughtco.com/what-is-writing-1689236.
 
-“Academic Writing.” Wikipedia, November 6, 2019. https://en.wikipedia.org/w/index.php?title=Academic_writing&oldid=924805383.
+“20 Quotes on Writing From Famous Authors.” _ThoughtCo.com_. Accessed November 5, 2019. https://www.thoughtco.com/what-is-writing-1689236.
 
-“Act Of Creation Quotes (5 Quotes).” Accessed November 6, 2019. https://www.goodreads.com/quotes/tag/act-of-creation.
+“Academic Writing.” Wikipedia, November 6, 2019. https://en.wikipedia.org/w/index.php?title=Academic_writing&oldid=924805383.
 
-“Alternate History.” Wikipedia, November 4, 2019. https://en.wikipedia.org/w/index.php?title=Alternate_history&oldid=924519761.
+“Act Of Creation Quotes (5 Quotes).” Accessed November 6, 2019. https://www.goodreads.com/quotes/tag/act-of-creation.
 
-“Category:Alternate History Television Series.” Wikipedia, October 20, 2018. https://en.wikipedia.org/w/index.php?title=Category:Alternate_history_television_series&oldid=864899833.
+“Alternate History.” Wikipedia, November 4, 2019. https://en.wikipedia.org/w/index.php?title=Alternate_history&oldid=924519761.
 
-“Creative Nonfiction - Wikipedia.” Accessed October 24, 2019. https://en.wikipedia.org/wiki/Creative_nonfiction.
+“Creative Nonfiction - Wikipedia.” Accessed October 24, 2019. https://en.wikipedia.org/wiki/Creative_nonfiction.
 
-“Definition of ALTERNATIVE HISTORY.” Accessed November 25, 2019. https://www.merriam-webster.com/dictionary/alternative+history.
+“Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
 
-“Fiction.” Wikipedia, October 1, 2019. https://en.wikipedia.org/w/index.php?title=Fiction&oldid=919021848.
+“Historical Narratives | Creative Nonfiction.” Accessed October 24, 2019. https://creativenonfiction.org/historical-narratives.
 
-“Fiction - Dictionary Definition.” Vocabulary.com. Accessed November 6, 2019. https://www.vocabulary.com/dictionary/fiction.
+“Is Historical Fiction a Form of Non-Fiction? - Delphinium Books.” Accessed October 24, 2019. http://www.delphiniumbooks.com/is-historical-fiction-a-form-of-non-fiction/.
 
-“Fiction | Literature | Britannica.” Accessed November 25, 2019. https://www.britannica.com/art/fiction-literature.
+“List of Historical Novels.” Wikipedia, October 15, 2019. https://en.wikipedia.org/w/index.php?title=List_of_historical_novels&oldid=921389179.
 
-“Historical Fiction.” Wikipedia, November 5, 2019. https://en.wikipedia.org/w/index.php?title=Historical_fiction&oldid=924773655.
+“Narrative - Dictionary Definition.” Vocabulary.com. Accessed November 13, 2019. https://www.vocabulary.com/dictionary/narrative.
 
-“Historical Narratives | Creative Nonfiction.” Accessed October 24, 2019. https://creativenonfiction.org/historical-narratives.
+“Narrative History.” Wikipedia, September 21, 2018. https://en.wikipedia.org/w/index.php?title=Narrative_history&oldid=860511626.
 
-“Is Historical Fiction a Form of Non-Fiction? - Delphinium Books.” Accessed October 24, 2019. http://www.delphiniumbooks.com/is-historical-fiction-a-form-of-non-fiction/.
+“Narrative History - Wikipedia.” Accessed November 6, 2019. https://en.wikipedia.org/wiki/Narrative_history.
 
-“List of Historical Novels.” Wikipedia, October 15, 2019. https://en.wikipedia.org/w/index.php?title=List_of_historical_novels&oldid=921389179.
+“Narrative Nonfiction vs Historical Fiction.” Accessed October 24, 2019. https://www.childrencomefirst.com/narrativenonfiction-historicalfiction.shtml.
 
-“Narrative - Dictionary Definition.” Vocabulary.com. Accessed November 13, 2019. https://www.vocabulary.com/dictionary/narrative.
+“Nonfiction vs. Creative Nonfiction vs. Historical Fiction – Donna Janell Bowman.” Accessed October 23, 2019. https://www.donnajanellbowman.com/2010/08/25/nonfiction-vs-creative-nonfiction-vs-historical-fiction/.
 
-“Narrative History.” Wikipedia, September 21, 2018. https://en.wikipedia.org/w/index.php?title=Narrative_history&oldid=860511626.
+“What Is Creative Nonfiction? | Creative Nonfiction.” Accessed November 7, 2019. https://www.creativenonfiction.org/online-reading/what-creative-nonfiction.
 
-“Narrative History - Wikipedia.” Accessed November 6, 2019. https://en.wikipedia.org/wiki/Narrative_history.
-
-“Narrative Nonfiction vs Historical Fiction.” Accessed October 24, 2019. https://www.childrencomefirst.com/narrativenonfiction-historicalfiction.shtml.
-
-“Nonfiction vs. Creative Nonfiction vs. Historical Fiction – Donna Janell Bowman.” Accessed October 23, 2019. https://www.donnajanellbowman.com/2010/08/25/nonfiction-vs-creative-nonfiction-vs-historical-fiction/.
-
-“Uchronia: The Alternate History List.” Accessed November 6, 2019. http://www.uchronia.net/.
-
-“What Is Creative Nonfiction? | Creative Nonfiction.” Accessed November 7, 2019. https://www.creativenonfiction.org/online-reading/what-creative-nonfiction.
-
-“What Is the Relationship between History and Historical Fiction? - OpenLearn - Open University.” Accessed October 23, 2019. https://www.open.edu/openlearn/history-the-arts/creative-writing/what-the-relationship-between-history-and-historical-fiction.
+“What Is the Relationship between History and Historical Fiction? - OpenLearn - Open University.” Accessed October 23, 2019. https://www.open.edu/openlearn/history-the-arts/creative-writing/what-the-relationship-between-history-and-historical-fiction.
 
 Barthes, Roland. "Introduction to the Structural Analysis of Narratives," Music,
 Image, Text, trans. Stephen Heath (New York, 1977), p. 79
@@ -267,25 +248,25 @@ McCullough, Colleen. _Caesar_. London : Head of Zeus, 2014.
 
 ———. _The Grass Crown_. New York : W. Morrow, 1991.
 
-Mickel, Emanuel J. “Fictional History and Historical Fiction.” Romance Philology 66, no. 1 (January 1, 2012): 57–96.  Accessed November 6, 2019. https://doi.org/10.1484/J.RPH.5.100799.
+Mickel, Emanuel J. “Fictional History and Historical Fiction.” Romance Philology 66, no. 1 (January 1, 2012): 57–96.  Accessed November 6, 2019. https://doi.org/10.1484/J.RPH.5.100799.
 
 O’Grady, Megan. “Why Are We Living in a Golden Age of Historical Fiction?” The New York Times, May 7, 2019, sec. T Magazine. https://www.nytimes.com/2019/05/07/t-magazine/historical-fiction-books.html.
 
 Paul, Herman. _Hayden White_. (London, Polity Press, 2011), 10.
 
-Rosenberg, Alex. “Why Most Narrative History Is Wrong.” Salon, October 7, 2019. https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/.
+Rosenberg, Alex. “Why Most Narrative History Is Wrong.” Salon, October 7, 2019. https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/.
 
 Sanger, Thomas. “Historical Fiction vs Narrative Nonfiction: What’s in a Genre?” Thomas Sanger. Accessed October 23, 2019. http://thomascsanger.com/thomas-c-sanger/historical-fiction-vs-narrative-non-fiction-whats-genre/.
 
 Stovall, Tyler. "In Memoriam: Hayden V. White (1928-2018)" _Perspectives on History_, September 2018. Accessed December 13, 2019. https://www.historians.org/publications-and-directories/perspectives-on-history/september-2018/hayden-v-white-(1928%E2%80%932018).
 
-Tod, M. K. “7 Elements of Historical Fiction.” A Writer of History, March 24, 2015. https://awriterofhistory.com/2015/03/24/7-elements-of-historical-fiction/.
+Tod, M. K. “7 Elements of Historical Fiction.” A Writer of History, March 24, 2015. https://awriterofhistory.com/2015/03/24/7-elements-of-historical-fiction/.
 
-———. “10 Thoughts on the Purpose of Historical Fiction.” A Writer of History, April 14, 2015. https://awriterofhistory.com/2015/04/14/10-thoughts-on-the-purpose-of-historical-fiction/.
+———. “10 Thoughts on the Purpose of Historical Fiction.” A Writer of History, April 14, 2015. https://awriterofhistory.com/2015/04/14/10-thoughts-on-the-purpose-of-historical-fiction/.
 
 Tolstoy, Leo. _War and Peace_. Oxford ; Oxford University Press, 2010.
 
-Vallar, Cindy. “Historical Fiction vs. History.” Accessed October 24, 2019. http://www.cindyvallar.com/histfic.html.
+Vallar, Cindy. “Historical Fiction vs. History.” Accessed October 24, 2019. http://www.cindyvallar.com/histfic.html.
 
 White, Hayden. "Interpretation in History." _New Literary History_, vol 4 no 2 (Winter 1973), 281-314. Accessed December 13, 2019. https://www.jstor.org/stable/pdf/468478.pdf?ab_segments=0%2Fbasic_SYC-4802%2Fcontrol&refreqid=search%3A041dff955170a1501e014044b99b2b90.
 
