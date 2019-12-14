@@ -58,7 +58,7 @@ In England, King James I of England, or VI of Scotland, wrote _**Daemonologie, I
 
 # Postmodernism's Influence
 
-Although the first major works about witches were published in 1900, falling within the modern period of historiography, witch historiography was greatly impacted by the postmodern movement emerging in the 1960's. Many historians interested in witches who came out of this period incorporated methods beyond history. In order to understand this psychological phenomenon many needed to understand psychology in general. Witch  historiography began to consider and incorporate topics such as **”history, anthropology, magic, popular superstitions, religion, theology, law, psychology, sexuality, gender, sociology, medicine, politics, loanguage, popular beliefs, folklore studies, and popular culture:**[^5] Aligning with the change from macro-history to micro-story during this time. Going from grand views of witches blending into society and plucking them out individually to see the “political, social, and economic context” [^4]. Historians exploring the effects of witches on society deduced a few things: 
+Although the first major works about witches were published in 1900, falling within the modern period of historiography, witch historiography was greatly impacted by the postmodern movement emerging in the 1960's. Many historians interested in witches who came out of this period incorporated methods beyond history. In order to understand this psychological phenomenon many needed to understand psychology in general. Witch  historiography began to consider and incorporate topics such as **”history, anthropology, magic, popular superstitions, religion, theology, law, psychology, sexuality, gender, sociology, medicine, politics, loanguage, popular beliefs, folklore studies, and popular culture:** [^5] Aligning with the change from macro-history to micro-story during this time. Going from grand views of witches blending into society and plucking them out individually to see the “political, social, and economic context” [^4]. Historians exploring the effects of witches on society deduced a few things: 
 - Witch hunts were based on class and economics
 - Witch hunts played a significant role in forming the modern nation state
 - Religion played a more significant role than gender [^6]
@@ -66,6 +66,17 @@ Although the first major works about witches were published in 1900, falling wit
 With these focuses in mind, most historical research has been influenced by those who came before going in and out of periods of assessing the role gender played in these hunts.
 
 # Postmodern Historians
+
+### All Class, No Misogyny 
+The following historians primarily utilized the argument that the witch trials were completely economically based. Potential faults in their argument is the fact that they mostly ignore the other factors in the accused demographics.
+[H.R Trevor-Roper](https://en.wikipedia.org/wiki/Hugh_Trevor-Roper) understood how “folk witch beliefs” were a product of “peasant credulity and feminine hysteria” [^7] and argued this in the study of witches. To him a witch was someone in a lower class who was seen as given an advantage in some way. Following Gustav Henningsen’s description that:
+{% include aside.html
+  class="pullquote"
+  text=" Weakest members of the community, including beggars, cripples, widows, the very old and orphans… those who had rejected the moral order of society: fawning, envious, thieving, aggressive, spiteful, promiscuous and odd people; in fact all who were in any way unattractive. [^8]"
+  %}
+The language they predominantly used refrained from emphasizing feminine or masculine pronouns as their focus was on the social order of things and not on how gender played a role in those demographic analogies.
+
+Keith Thomas and Alan Macfarlane had similar approaches to their study of witches while adhering to the Henningsen’s definition as well. Both incorporated fields outside of history to understand how the witch hunts impacted society but did not see that gender played a role in the ostration of who was accused. They applied “functionalist social anthropology and the african anthropological literature to European witchcraft”[^10]. Thomas noting that “female sexual irregularities-illegitimacy, promiscuity, sexual voracity-figured in the trials”[^9] set him up to see the potentially genered argument in sexuality chose instead to strengthen the theme of the separation of gender and sex. His contribution to the study of witches lies in how he interpreted the documentation to show patterns in social tensions in society that correlated with the rising stresses coming from the change in psychological thinking [^9]. Macfarlane took the basic assumptions about witches to explain their function in society [^12]. His focus was not to understand witchcraft but why witchcraft rose in popularity among the psyches of the people of the late middle ages and early modern era. Both historians took this seemingly micro ideology to explain the larger scheme in society. The lack of charity and the transition from feudalism to capitalism rendered much of the peasantry in a state of flux and displacement in location and class ranking [^11]
 
 
 
