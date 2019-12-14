@@ -66,6 +66,7 @@ Although the first major works about witches were published in 1900, falling wit
 
 # A Gendered Argument?
 
+Many women were accused and executed due to the witch hunts, but almost no historian has deduced that this was due to the misogynistic tendencies of society. Scholars such as Elsphat Whitney, Kirsten C. Uszkalo, and Anne Llewellyn Barstow, all of whom have been credited in this essay, belief that the study of witches needs to begin to *question the relationship of gender, and accusations**. So many historians, females included, have either ignored this fact or recognized it but did not see a causality within the gendered argument. Even women who study this do not see a correlation in the argument. Is there something within the documents kept that will not allow the conclusion of a “women hunt” or is there really no proof beyond merely noticing that women were chosen more frequently than men?
 
 
 # Bibliography
