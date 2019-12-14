@@ -7,21 +7,21 @@ date: 2019-11-03
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could **fly on broomsticks and used magic primarily out of vengence**. This version of a witch shows what little had been researched into the witch trials in 1939 relying on simple characteristics such as this."
+  caption="_The Wicked Witch of the West_ embodies the stereotype of women who could **fly on broomsticks and used magic primarily out of vengence**."
   image-url="The_Wicked_Witch_of_the_West.jpg"
   source-url="https://villains.fandom.com/wiki/Wicked_Witch_of_the_West"
 %}
 
+# Introduction
+Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. 
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. Her personality prompts her to **stand up for the rights of women, LGBTQ, and the general outsiders of society**. She depicts a modern witch who holds onto the traditions of the past as _Devil Worshippers_ and _heretics_ seen in Salem, MA in 1692."
+  caption="_The Chilling Adventures of Sabrina_ premiered on Netflix in October of 2018. She **stands up for the rights of women, LGBTQ+, and the general outsiders of society**. Showing a modern witch based in the past."
   image-url="chilling_adventure.jpg"
   source-url="https://www.hollywoodreporter.com/news/chilling-adventures-sabrina-costumes-evoke-an-eternal-autumn-says-designer-1154868"
 %}
-
-# Introduction
-Witches in a modern society are seen as unreasonable and illogical. To accuse someone of heresy in the modern time would turn heads but mostly out of concern for your mental health. Yet they are still constant concepts in fantasy shows, movies, books, and other genres of entertainment. The stereotypes that have been developing over time have shaped what women should not be like in order to stay apart of society. Though they have now grown into symbols of feminism and women strength with each new wave of feminism. These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
+These stereotypes and growth are not only seen in entertainment but in how their histories have been studied since the early nineteenth century. The fears and judgements that rang true in the 1500s and 1600s have not gone away but have built the current stereotypes and as historians gained more interest into identity work the stereotypes have changed.
 
 
 In school in the United States, many of the exposure to witch trials comes from a brief overview of the [Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/) in both history and occasionally english classes by reading _The Crucible_. These brief overviews glance over the massive impact the trials had on economics and women’s place in society. They introduce a difficult topic leaving most people's knowledge about the witch trials to be 
@@ -40,7 +40,7 @@ Germany had over 30,000 accounts  of witch trials[^1] and executions during the 
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="This drawing depicts when humans meet with devils. Although this image did not come directly from the Malleus Maleficarium it was inspired by wjat was explained in it."
+  caption="A depiction of a meeting between devils and humans inspired by the Malleus Maleficarum."
   image-url="pact-compendium-maleficarum-1608.jpg"
   source-url="https://historycollection.co/12-shocking-beliefs-from-the-malleus-maleficarum-the-witchfinders-guidebook/"
 %}
@@ -50,7 +50,7 @@ Another very influential text to come from Germany was found much earlier than t
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="King James Ci of Scotland, later King James I of England, discussed how women were most suceptible to the devil and hunted them extensively during his reign."
+  caption="A depiciton of King James VI, or James I, exercising his belief of women being most susepctible to witchcraft."
   image-url="jamesviandi.jpg"
   source-url="https://www.historyextra.com/period/stuart/king-james-vi-i-hunted-witches-hunter-devilry-daemonologie/"
 %}
