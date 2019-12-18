@@ -113,6 +113,17 @@ Many women were accused and executed due to the witch hunts, but almost no histo
 
 
 # Bibliography
+
+Barstow, Anne Llewellyn. "On Studying Witchcraft as Women's History: A Historiography of the European Witch Persecutions". _Journal of Feminist Studies in Religion_ vol. 4, No.2 (Fall 1988), p. 7-19.
+
+Fudge, Thomas A. “Traditions and Trajectories in the Historiography of European Witch Hunting.” History Compass 4, no. 3 (2006): 488–527. 
+
+King James VI of Scotland. _Daemonologie—in full Daemonologie, In Forme of a Dialogue, Divided into three Books: By the High and Mighty Prince, James &c._ 1597
+
+Iggers, Georg G. n.d. “From Macro- to Micro History: The History of Everyday Life.” In Historiography in the 20th Century, 101–17.
+
+Whitney, Elspeth. "The Witch 'She' / The Historian 'He': Gender and the Historiography of the European Witch-Hunts" . _Journal of Women's History_ vol. 7, no. 3 (Fall 1995), p. 77-101
+
 [^1]: Traditions and Trajectories in the Historiography of European Witch Hunting
 
 [^2]: Daemonologie In Forme of a Dialogie Diuided into three Bookes.
