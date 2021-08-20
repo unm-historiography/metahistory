@@ -25,6 +25,10 @@ main {
   text-transform:uppercase;
 }
 
+.page-header {
+  font-family: 'Sintony', sans-serif;
+}
+
 .navigation-list-item {
   font-family: 'Sintony', sans-serif;
   letter-spacing: -.02rem;
@@ -52,7 +56,8 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   font-size: 2.5rem;
-  margin-bottom:1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 h2 {
@@ -61,8 +66,6 @@ h2 {
 
 h3 {
   font-size: 1.2rem;
-  margin-top:2rem;
-
 }
 
 h4 {

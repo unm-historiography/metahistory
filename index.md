@@ -2,7 +2,6 @@
 layout: default
 title: An Introduction to Historiography
 subtitle: Selected essays on the history of history
-author: Fred Gibbs
 date: 2016-12-02 00:00:00
 ---
 
