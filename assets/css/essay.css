@@ -51,7 +51,7 @@ p {
 h1, h2, h3, h4, h5 {
   font-family: 'Oswald', sans-serif;
   text-align:left;
-  margin: 1rem 0 .4rem 0;
+  margin: 2rem 0 .4rem 0;
 }
 
 h1 {
@@ -62,6 +62,15 @@ h1 {
 
 h2 {
   font-size: 1.4rem;
+}
+
+h2.subtitle {
+  font-family: 'Sintony', sans-serif;
+  text-transform:uppercase;
+  letter-spacing: -.02rem;
+  color: #666;
+  margin-top:1rem;
+  margin-bottom:3rem;
 }
 
 h3 {

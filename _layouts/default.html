@@ -64,20 +64,20 @@
 
 
           <h1>{{page.title}}</h1>
-          <h2>{{page.subtitle}}</h2>
+          <h2 class="subtitle">{{page.subtitle}}</h2>
 
           {{ content }}
 
           <hr>
 
-          <div class="author">{{page.author}}</div>
+          <div class="author">Written by {{page.author}}</div>
           {% if page.editor %}
           <div class="author">Edited by {{page.editor}}</div>
           {% endif %}
 
 
-          {{ page.content | number_of_words }} words.
-          Permalink: {{ page.url }}
+          <!-- <p>{{ page.content | number_of_words }} words</p> -->
+          <!-- <p>Permalink: {{ page.url }}</p> -->
 
           {% if page.has_children == true and page.has_toc != false %}
           <hr>
