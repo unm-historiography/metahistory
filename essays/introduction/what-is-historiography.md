@@ -4,7 +4,7 @@ title: What is Historiography?
 subtitle: Disentangling the past from our stories about it
 author: Fred Gibbs
 toc-blurb: While reading history often seems like an adventure into the past, it never fully leaves the present. Yet the ways in which existing power structures, political ideologies, personal interests, cultural criticism, and professional conventions impose on our narratives (and even the narrative form itself) and interpretations of the past are rarely obvious. Historiography examines what these are and shows why they are indispensable for any critical reading of history.
-toc-image:
+toc-image: books.jpg
 toc-section: introductions
 order: 1
 date: 2016-12-02

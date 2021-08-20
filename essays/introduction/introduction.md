@@ -4,7 +4,7 @@ title: Why Historiography?
 author: Michael Abonyi
 date: 2016-11-08
 toc-blurb: In studying history, doubt is not only healthy, but necessary to the pursuit of ‘truth’. The most dangerous histories are those which are believed wholly and without hesitation.
-toc-image:
+toc-image: bias.jpg
 toc-section: introductions
 order: 2
 ---
