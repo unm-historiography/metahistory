@@ -3,16 +3,19 @@ layout: default
 title: Professional History
 subtitle: The legacy of Leopold Von Ranke
 author: Richard Hughes
-date: 2016-11-19 00:00:00
+date: 2016-11-19
+toc-blurb: In mid-nineteenth century Germany, a professor at the University of Berlin would fundamentally change the way history is taught and applied. No individual contributed more to the professionalization of historiography than Leopold Von Ranke.
+toc-section: thematic
+toc-image: ranke.jpg
 ---
 
 In mid-nineteenth century Germany, a professor at the University of Berlin would fundamentally change the way history is taught and applied. No individual contributed more to the professionalization of historiography than Leopold Von Ranke. Ranke's historical methods  would become a mainstay on the modern college campus (Cheng, 2012, p. 92). **Ranke’s implementation of the modern seminar system, peer review, source critique, and objectivity cumulated in a general practice on how to conduct historical study.** Before Ranke, there was no standardized methodology, historians utilized their own rudimentary approaches. While methodologies changed, and many accept the shortcomings and hypocrisy of the man himself, Ranke’s contributions to the professionalization of history cannot be disregarded.
 
-Before the mid-nineteenth century, historians conducted their work as a hobby or as a part of literature or philosophy; the idea of being a historian on its own merit was absurd to most people in academic environments. Ranke bridged this gap through the application of scientific methodologies that brought the idea of history as an academic practice to fruition. Ranke’s scientific historiography focused on **four main principles** (Gil, 2009, p. 384-385): 
+Before the mid-nineteenth century, historians conducted their work as a hobby or as a part of literature or philosophy; the idea of being a historian on its own merit was absurd to most people in academic environments. Ranke bridged this gap through the application of scientific methodologies that brought the idea of history as an academic practice to fruition. Ranke’s scientific historiography focused on **four main principles** (Gil, 2009, p. 384-385):
 
-- objectivity and a rejection of moral lessons 
-- trusting the facts over all else 
-- seeing historical events for their uniqueness (divergence over similarity) 
+- objectivity and a rejection of moral lessons
+- trusting the facts over all else
+- seeing historical events for their uniqueness (divergence over similarity)
 - maintaining impartiality when referencing political works
 
 If asked to sum this up, Ranke would declare that history is “documentary, not speculative” (Gil, 2009, p. 385). **To Ranke, any evidence that was not empirical should not be considered.** Historian [Emile Benveniste](https://en.wikipedia.org/wiki/%C3%89mile_Benveniste) articulated Ranke’s beliefs in this statement: “I wish I could annihilate my own self and only the objects would speak” (Maurer, 2006, p. 315). Ranke’s vision of a perfect historian entails a mere collection of sources, with no evident personal bias. This is a stark contrast from previous historical works, and the first real alternative to the ancient standard that was set by the famous Greek historian, [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (Muir, 1987, p. 3). Beforehand, historians would still justify their writings with source material, but the sheer level of empirical research that the **Rankean Method** requires is much more intensive than what was previously completed. **Ranke’s shift required historians to be accountable for their narratives who now had to back their work with real, empirical sources.**

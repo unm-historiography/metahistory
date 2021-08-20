@@ -3,7 +3,10 @@ layout: default
 title: The Historical Value of Film
 author: Lauren Ball
 editor: Walid Hasan
-date: 2016-11-19 00:00:00
+date: 2016-11-19
+toc-blurb: When watching a film or documentary, the average viewer is immersed in a moment in history in a way that reading a text could never accomplish. When viewing film through a historian’s lens, we can be more objective in our observations of footage from the past.
+toc-image:
+toc-section: thematic
 ---
 
 

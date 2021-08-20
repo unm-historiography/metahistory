@@ -2,7 +2,10 @@
 layout: default
 title: Medieval Islamic Historiography
 author: Eden Vigil
-date: 2018-05-11 00:00:00
+date: 2018-05-11
+toc-blurb: Middle Eastern scientific and cultural achievements have traditionally been ignored by Eurocentric Western academia, and Middle Eastern historiography has accordingly been excluded from the traditional historiographical narrative. The sources most commonly used for Historiography classes focus almost exclusively on Greco-Roman and European historiographers, and this section hopes to include a medieval Middle Eastern perspective.
+toc-section: non-western
+toc-image: 506px-Sughrat.jpg
 ---
 
 {% include figure.html

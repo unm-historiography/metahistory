@@ -4,6 +4,7 @@ title: Providential History
 subtitle: How Judeo-Christian historiography created a universal history with a providential plan
 date: 2016-11-08 00:00:00
 author: Tiersa Cimino
+status: archive
 ---
 
 {:.abstract}

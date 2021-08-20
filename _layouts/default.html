@@ -8,7 +8,7 @@
 
   <div class="page-wrap">
     <div class="side-bar">
-      <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 lh-tight">{{ site.title }}</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/" class="site-title fs-6 lh-tight">{{ site.title }}</a>
       <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
         <nav role="navigation" aria-label="Main navigation">
@@ -61,17 +61,22 @@
         <div id="main-content" class="page-content" role="main">
 
 
-          <div class="author">{{page.author}}</div>
-          {% if page.editor %}
-          <div class="author">Edited by {{page.editor}}</div>
-          {% endif %}
 
           <h1>{{page.title}}</h1>
           <h2>{{page.subtitle}}</h2>
 
           {{ content }}
 
-          {{ page.content | number_of_words }} words. {{ page.url }}
+          <hr>
+
+          <div class="author">{{page.author}}</div>
+          {% if page.editor %}
+          <div class="author">Edited by {{page.editor}}</div>
+          {% endif %}
+
+
+          {{ page.content | number_of_words }} words.
+          Permalink: {{ page.url }}
 
           {% if page.has_children == true and page.has_toc != false %}
           <hr>

@@ -3,7 +3,11 @@ layout: default
 title: Roman Historiography
 author: Louisa Schoeller
 editor: Karli Montoya
-date: 2019-09-25 
+toc-blurb: Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
+toc-image: Tacitus.jpg
+toc-section: antiquity
+order: 5
+date: 2019-09-25
 ---
 
 {% include figure.html
@@ -73,9 +77,9 @@ Early Roman civilization is known to be a polytheistic society. A polytheistic s
 
 Considering how important and central their religion was to the Romans, it can be surprising that it is not one of the focused upon or emphasized themes in their historical writings. Roman religion believed in and placed value on the idea of omens or hints from the heavens when trying to make any big decisions as they were seen a guidance from the deities above.
 
-[**Ammianus Marcellinus**](https://www.britannica.com/biography/Ammianus-Marcellinus) was a Roman historian who worked to maintain the traditional practice of Roman religion in a Christian influenced society. Christianity was legalized by Constantine in 313 CE. While it is unclear in his work on the true feelings he felt towards Christians and Christianity, as he never completely goes into a discussion surrounding their religion. In his work, *Res Gestae*, he explores a Roman world that had come into contact with a different religion. As he remained true to his religious traditions, he also stayed true to Roman Historiographical traditions - which meant not placing an importance on the societies, people, and ideas that fall outside of the Roman sense of the topic (Hunt, 1985, 193). Christians were not a primary focus of his writing, nor did he want them to be but living under Christian emperors, a subject of discussion for him. Ammianus might not have had a problem with Christianity itself, but rather its intrusive nature in the political realm of the empire (Hunt, 1985). 
+[**Ammianus Marcellinus**](https://www.britannica.com/biography/Ammianus-Marcellinus) was a Roman historian who worked to maintain the traditional practice of Roman religion in a Christian influenced society. Christianity was legalized by Constantine in 313 CE. While it is unclear in his work on the true feelings he felt towards Christians and Christianity, as he never completely goes into a discussion surrounding their religion. In his work, *Res Gestae*, he explores a Roman world that had come into contact with a different religion. As he remained true to his religious traditions, he also stayed true to Roman Historiographical traditions - which meant not placing an importance on the societies, people, and ideas that fall outside of the Roman sense of the topic (Hunt, 1985, 193). Christians were not a primary focus of his writing, nor did he want them to be but living under Christian emperors, a subject of discussion for him. Ammianus might not have had a problem with Christianity itself, but rather its intrusive nature in the political realm of the empire (Hunt, 1985).
 
-The clash between the two different religions towards the end of the empire illuminates the Romans emphasis on their own traditions and themselves. *"Among the exceptions was that cruel one which forbade Christian masters of rhetoric and grammar to teach unless they came over to the worship of the heathen gods"* (Mellor, 2013, 571). If one wanted to be a Roman, one had to believe in the various deities in Roman religion; not in a single God. By leaving Christians out of his writings, he left them out of his version of Roman history. Ammianus remained devoted to emphasizing the greatness of Rome, even though, the empire had begun to crumble during his life.Ammianus Marcellinus is one of the few Roman historians who touched on religion in his writings. He never gave Christians predominant presence in his writings as they were not meant to be his focus; Rome was his focus. 
+The clash between the two different religions towards the end of the empire illuminates the Romans emphasis on their own traditions and themselves. *"Among the exceptions was that cruel one which forbade Christian masters of rhetoric and grammar to teach unless they came over to the worship of the heathen gods"* (Mellor, 2013, 571). If one wanted to be a Roman, one had to believe in the various deities in Roman religion; not in a single God. By leaving Christians out of his writings, he left them out of his version of Roman history. Ammianus remained devoted to emphasizing the greatness of Rome, even though, the empire had begun to crumble during his life.Ammianus Marcellinus is one of the few Roman historians who touched on religion in his writings. He never gave Christians predominant presence in his writings as they were not meant to be his focus; Rome was his focus.
 
 **Conclusion**
 

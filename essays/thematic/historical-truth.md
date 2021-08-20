@@ -3,7 +3,10 @@ layout: default
 title: Historical Truth
 subtitle: Defining Truth from Antiquity to the Enlightenment
 author: Kyle Chicharello
-date: 2016-11-19 00:00:00
+date: 2016-11-19
+toc-blurb: From the scrolls of ancient Greece to the jargon packed books of the modern academic historian, historians have searched for “true histories”. In studying what constitutes history, we must focus on some themes that belong to what we call today historiography. 
+toc-image: 330px-Auli_Gellii_Noctium_Atticarum_1706.jpg
+toc-section: thematic
 ---
 
 {:.abstract}
@@ -12,7 +15,7 @@ From the scrolls of ancient Greece to the jargon packed books of the modern acad
 
 ### Classical Foundations: Rome and Greece
 
-#### The Greeks:Truth & Impartiality
+#### The Greeks: Truth & Impartiality
 {% include figure.html
   class="img-center"
   width="33%"
@@ -35,7 +38,7 @@ The core principle that the Greeks passed down was their obsession with **findin
 %}
 To understand ancient Rome requires a deep sense of tradition that Romans believed in. This sense of tradition came from a great respect for the ancestors of Rome. The *antiquarians* (one who studies or collects antiques) and jurists (expert writer) investigated the relics of “bygone and often forgotten ages”. (Kelly, 49) This look into origins comes with a problem for the scholar [Aulus Gellius](http://www.oxfordbibliographies.com/view/document/obo-9780195389661/obo-9780195389661-0200.xml), namely what is *“the precise meaning of ancient words and their correct etymologies”* (**Understanding**). (Kelly, 51) This is a key problem that modern historians have and even for Romans in the “ancient” world *understanding* was an issue “for long lapse of time has rendered old words and customs obsolete”. (Kelly, 51) Without *understanding* your sources historian cannot do “true history” as the Roman, Sempronius Asellio, said “one should also show with what purpose and for what reason things were done”. (Kelly, 52) Even in ancient times they knew the importance of truly *understanding* your sources and their **intentions**.
 
-The ancient Romans created key concepts for defining "truth" by solidifying their belief in historical facts and by criticizing one another's historical writings. Tacitus is by far the most trusted Roman historian because he told “no story to excite wonder; I do but relate what I have heard and what our fathers recorded”. (Kelly, 63) This regard for reporting the **facts** rather than telling a story was part of Tacitus’ “sharper analytical instrument, not the byways of Herodotean cultural history, but rather the Thucydidean model of mainly contemporary politico-military or “pragmatic” history”. (Kelly, 63) However more “truthful” reporting of facts was, “*none of these historians were “objective”* in a modern sense; all were eager to celebrate the moral virtues which had made Rome great”. (Kelly, 65) 
+The ancient Romans created key concepts for defining "truth" by solidifying their belief in historical facts and by criticizing one another's historical writings. Tacitus is by far the most trusted Roman historian because he told “no story to excite wonder; I do but relate what I have heard and what our fathers recorded”. (Kelly, 63) This regard for reporting the **facts** rather than telling a story was part of Tacitus’ “sharper analytical instrument, not the byways of Herodotean cultural history, but rather the Thucydidean model of mainly contemporary politico-military or “pragmatic” history”. (Kelly, 63) However more “truthful” reporting of facts was, “*none of these historians were “objective”* in a modern sense; all were eager to celebrate the moral virtues which had made Rome great”. (Kelly, 65)
 One of those historians, [Cicero](http://www.iep.utm.edu/cicero/), is crucial to our **methodology of truth** within historiography, with his **two laws** regarding **historical writing**. The **first law** states: “that an author must not dare to tell anything but the truth”. (Kelly, 66) The **second law** states: “that he must make bold to tell the **whole** truth”. These two laws of Cicero led to an understanding that the “standard of truth was also what distinguished history from its sister art, poetry”. (Kelly, 66) These two laws created **formal historical writing**, requiring:
 
 1. Chronological arrangement
@@ -44,7 +47,7 @@ One of those historians, [Cicero](http://www.iep.utm.edu/cicero/), is crucial to
 4. Consideration for the portrayal of actors
 5. All the above must be done in a smooth narrative
 
-According to the Roman [Quintilian](https://www.britannica.com/biography/Quintilian) history was the third of three different forms of narrative, the other two being fiction and realism. This **historical narrative**, "which is an exposition of actual fact" according to Quintilian, has its formal institutional beginnings in ancient Rome. (Kelly, 67) If a historian didn't adequately have a formal structure that emphasized truth then they were **criticized by their contemporaries**. 
+According to the Roman [Quintilian](https://www.britannica.com/biography/Quintilian) history was the third of three different forms of narrative, the other two being fiction and realism. This **historical narrative**, "which is an exposition of actual fact" according to Quintilian, has its formal institutional beginnings in ancient Rome. (Kelly, 67) If a historian didn't adequately have a formal structure that emphasized truth then they were **criticized by their contemporaries**.
 [Livy](https://www.britannica.com/biography/Livy), a Roman historian famed for his rhetoric, was not considered true enough for Quintilian because "Livy for instance is frequently in doubt as to what actually occurred". (Kelly, 68) In ancient Rome we have our first instance of the "practice of historical criticism and exposure of myth, usually associated with philology and pure scholarship", because of the Romans' belief in the role of **rhetoric** and **truth** in **historical writing**. (Kelly, 68) However, Truth had not yet become the center of historiograhpy because in ancient Rome it was that "truth remained a formal requirement... but effective communication to a sophisticated readership was the dominant consideration (rhetoric)". (Kelly, 69) With the ancient Romans we have the beginning of a formal institution of truth within Historiography and the formal requirements regarding historical writing.
 
 ### Middle Ages: Christians and Barbarians

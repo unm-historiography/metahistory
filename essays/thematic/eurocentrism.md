@@ -2,7 +2,10 @@
 layout: default
 title: Eurocentrism
 author: Keena Hays
-date: 2019-12-13 00:00:00
+date: 2019-12-13
+toc-blurb: Eurocentrism encompasses many Western concepts and their effects, including colonialism, capitalism, monotheism, racism, and patriarchy. Yet, viewing the world with a Western perspective even impacts less-obvious aspects of daily life, such as conceptions of time, the calendar, familial structures, cosmology, use of the environment, etc.
+toc-image: Map01.jpg
+toc-section: thematic
 ---
 
 _Have you ever read a book with a non-Western protagonist? Have you ever questioned the author's motivations for writing?_

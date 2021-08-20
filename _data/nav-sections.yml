@@ -1,0 +1,19 @@
+sections:
+  - name: Instructions
+    display: none
+  - name: introductions
+    display: Introductions
+  - name: antiquity
+    display: Antiquity (-300CE)
+  - name: medieval
+    display: Medieval (300-1300)
+  - name: early modern
+    display: Early Modern (1300-1675)
+  - name: enlightenment
+    display: Enlightenment (1675-1815)
+  - name: modern
+    display: Modern (1815-1970)
+  - name: postmodern
+    display: Postmodern (1970+)
+  - name: thematic
+    display: Thematic

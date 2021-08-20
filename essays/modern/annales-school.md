@@ -2,7 +2,10 @@
 layout: default
 title: The Annales School
 author: Erik Yorty
-date: 2018-05-11 00:00:00
+date: 2018-05-11
+toc-blurb: Some of the most innovative and influential historiographic changes in the twentieth-century came from a group of French historians known as the Annales School. The methods they introduced challenged traditional historical focus from prominent and powerful individuals and shed light on often overlooked or dismissed populations and cultures.
+toc-image:
+toc-section: modern
 ---
 
 Some of the most innovative and influential historiographic changes in the

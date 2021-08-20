@@ -1,12 +1,17 @@
 ---
 layout: default
-title: An Introduction to Historiography
-subtitle: A preliminary guide to continuities and ruptures
+title: What is Historiography?
+subtitle: Disentangling the past from our stories about it
 author: Fred Gibbs
-date: 2016-12-02 00:00:00
+toc-blurb: While reading history often seems like an adventure into the past, it never fully leaves the present. Yet the ways in which existing power structures, political ideologies, personal interests, cultural criticism, and professional conventions impose on our narratives (and even the narrative form itself) and interpretations of the past are rarely obvious. Historiography examines what these are and shows why they are indispensable for any critical reading of history.
+toc-image:
+toc-section: introductions
+order: 1
+date: 2016-12-02
 ---
 
-{:.abstract}
+Simply put, historiography is the study of the writing of history. This means studying how history has been written in the past, how and why it changed, and contemporary approaches to writing history.
+
 Despite the importance of historiography for modern enthusiasts of history, it often seems a intimidating subject with a high barrier to entry, mired in abstract theoretical, philosophical, and methodological jargon. The essays collected here take both a chronological and thematic approach to highlighting important developments, shifts, inflection points, continuities, and ruptures in the way people have conceived and produced historical interpretations of the western world. This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
 
 

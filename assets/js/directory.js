@@ -43,7 +43,7 @@ function getPages(callback) {
     });
 }
 
-function createCard(i,page) {
+function createCard(i,page) { 
 
   //loop through supplied slugs to retrieve page title and subtitle
   console.log("about to create card.");

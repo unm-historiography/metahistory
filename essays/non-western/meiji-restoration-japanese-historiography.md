@@ -2,7 +2,10 @@
 layout: default
 title: The Meiji Restoration and Japanese Historiography
 author: Matthew Nelson
-date: 2019-11-04 00:00:00
+date: 2019-11-04
+toc-blurb: History has the power to create nations.  19th century Japan's response to Western colonialism was not only a period of rapid modernization, but a time where the country would reforge its past, and construct a new identity.
+toc-image: meiji.jpg
+toc-section: non-western
 ---
 
 ### Introduction
@@ -35,7 +38,7 @@ The Tokugawa's weak response to the aggressive trade demands of the United State
   caption="Fukuzawa Yukicihi, founder of Keio University, and the most widely read Japanese intellectual of the 19th century."
   image-url="fukuzawayukichi.jpg"
   source-url="https://en.wikipedia.org/wiki/Fukuzawa_Yukichi#/media/File:FukuzawaYukichi.jpg"
-%} 
+%}
 [Fukuzawa Yuichi](https://en.wikipedia.org/wiki/Fukuzawa_Yukichi), was perhaps Japan's most famous 19th century philosopher, so much so that his face currently resides on the 10,000 yen note.  Fukuzawa's work, which crossed over from the Tokugawa to the Meiji Period, focused on Western learning, and how it could be used to benefit Japan.  While much of his focus was on education, an interest which lead to his founding of **Keio University**, the first university in Japan to use western methods, he did engage in the philosophy of history.  His work *An Outline of a Theory of Civilization**, influenced by the work of British historian [Henry Thomas Buckle](https://en.wikipedia.org/wiki/Henry_Thomas_Buckle), would similarly focus on history as the story of civilizations (Fukuzawa 19).  The final chapters of the book contrast the origins of Western and Japanese civilizations, finding the later presently at a disadvantage.  This acceptance of the West's current "superior" civilization was a prime motivator for Fukuzawa, and the Meiji era as a whole.  The West was to be emulated, but only for the advancement of Japanese "civilization."  This movement would have no greater advocate than the Emperor himself.
 
 ### The Founding of Historiographical Bureau
@@ -69,7 +72,7 @@ The ability to incorporate Western Historiography into their own methodology, al
   caption="A 1885 woodblock print by Tsukioka Yoshitoshi, depicting Toyotomi Hideyoshi on a daring nighttime raid.  Hideyoshi was one of many figures from Japan's past used to promote its future greatness."
   image-url="hideyoshi.jpg"
   source-url="https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi#/media/File:YoshiClimber.jpg"
- %} 
+ %}
 Independent historians, such as **Yamaji Aizan**, worked outside the influence of the Historiographical Bureau, embracing the mythology men like Shigeno sought to debunk.  Yamaji's populistic beliefs led him to promote the ideas of individual agency, and the powerful role of the _hero_ in nation building.  These ideas were inspired by the work of [Thomas Carlyle](https://en.wikipedia.org/wiki/Thomas_Carlyle) a 19th century Scottish philosopher and historian, who was an early advocate of the **Great Man Theory** of history.  His work, *On Heroes, Hero-Worship, and the Heroic in History*, was one of many western texts translated into Japanese during the later half of the 19th century.  Yamaji embraced these heroic ideals, and wrote quasi-fictional biographies of "great men" throughout Japanese history.  Powerful shoguns, such as [Minamoto Yoritomo](https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo), [Ashikaga Takauji](https://en.wikipedia.org/wiki/Ashikaga_Takauji) and even the founder of the so recently deposed Tokugawa Shogunate, were represented as civilizing heroes.  The inclusion of Saigō Takamori, one of the founders of the Restoration, who eventually rejected the westernization of the military, and led the failed [Satsuma Rebellion](https://en.wikipedia.org/wiki/Satsuma_Rebellion) of 1877, reveals how rapidly the mythologizing process was taking place.  Yamaji's advocacy of Japan's Imperial ambitions led to a unifying of all Japanese heroes, though none had ever fought for the nation state that had emerged from the Restoration. (Karlin 76-77)  The legacies of these men, so recently crafted by historians, would soon be invoked by Japanese soldiers on battlefields throughout the Asian continent.  
 
 
@@ -81,7 +84,7 @@ Independent historians, such as **Yamaji Aizan**, worked outside the influence o
   caption="A woodblock print by Kobayashi Kiyochika, depicting Nicholas II's living nightmare of Russia's defeat at the hands of the Japanese (1904-1905).  Japan's decisive victory in the Russo Japanese War served as a vindication of its modernizing efforts, and as a precursor to further expansion on the Asian continent."
   image-url="nicholas_nightmare.jpg"
   source-url="https://en.wikipedia.org/wiki/Russo-Japanese_War#/media/File:Forces_returning_2.jpg"
-%} 
+%}
 The new Japanese nationalistic spirit would first manifest in violence at the close of the 19th century.  The era would be marked by a series of military victories what would make manifest Japan's new historical vision of itself.  The [First Sino-Japanese War](https://en.wikipedia.org/wiki/First_Sino-Japanese_War) of 1894-1895 revealed, in sharp contrast, the success of Japanese modernization efforts, and the failures of the Chinese Qing Dynasty's similar drive towards modernity.  That dynasty, which had ruled for as long as the Tokugawa, would collapse in the following decade, leaving China, the once great hegemon of Asia, fragmented for years to come.  Japan stepped into that void, colonizing Korea, Taiwan (then Formosa), Manchuria, and, eventually, the majority of Western colonial holdings in East and Southeast Asia.  The first of these colonial powers to fall would be Russia.  Their defeat at the hands of the Japanese in 1905 exposed not only their own weakness, but the failing grip of European colonialism.  Japan not only took Western technology, but 19th century Western ideas of national identity, born out of historiographical concepts, and formed a new order in the East.  
 
 
@@ -99,6 +102,3 @@ Karlin, Jason G. _Gender and Nation in Meiji Japan: Modernity, Loss, and the Doi
 Mehl, Margaret. "German Influence on Historical Scholarship in Meiji Japan." In _Japanese Civilization in the Modern World_ No. 16: 225–246.
 
 Popkin, Jeremy D. “The 19th Century and the Rise of Academic Scholarship.” In _From Herodotus to H-Net: The Story of Historiography._ New York: Oxford University Press, 2016.
-
-
-

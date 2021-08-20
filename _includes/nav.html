@@ -1,20 +1,20 @@
+{% for section in site.data.nav-sections.sections %}
 
-{% for item in include.nav %}
-  {% if item.section %}
-    </ul>
-    <li class="navigation-section">{{item.section}}</li>
-    <ul>
-  {% else %}
-    <li class="navigation-list-item {% if item.url == page.url %}active{% endif %}">
-      {% if item.url contains "http" %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-      {% else %}
-        <a href="{{site.baseurl}}{{ item.url | absolute-url }}">{{ item.title }}</a>
-      {% endif %}
-    </li>
-  {% endif %}
-
-{% if item.subnav %}
-  {% include nav.html nav=item.subnav %}
+{% if {{section.display}} != 'none'}} %}
+<h2 class="navigation-section">{{section.display}}</h2>
 {% endif %}
+
+{% assign pages = site.pages | sort: 'order' %}
+
+<ul>
+  {% for item in pages %}
+    {% if item.toc-section == section.name %}
+      <li class="navigation-list-item {% if item.url == page.url %}active{% endif %}">
+        <a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
 {% endfor %}

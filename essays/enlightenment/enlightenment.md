@@ -2,7 +2,10 @@
 layout: default
 title: Historiography and Enlightened Thinking
 author: Andy Mancha
-date: 2016-11-19 00:00:00
+date: 2016-11-19
+toc-blurb: Often described as a long 18th century, the Enlightenment spanned from 1685-1815 and has held a _crucial place in the narratives of history and the methods of historiography_. The social and political situations of the past led to the need for new ways of thinking with various innovative and revolutionary methods that broke from the historical traditions of past centuries.
+toc-image:
+toc-section: enlightenment
 ---
 
 Often described as a long 18th century, **_The Enlightenment_** spanned from 1685-1815 and has held a _crucial place in the narratives of history and the methods of historiography_. The social and political situations of the past led to the need for new ways of thinking with various innovative and revolutionary methods that broke from the historical traditions of past centuries. Historians of the Enlightenment have made significant contributions to historiography and some of those methods are still used or reflected today, including **empiricism** (_knowledge derived from sensory experience_) and **secular frameworks** (_separation of church_). Enlightened rationality established and developed a new, increasingly scientific academic writing of history. The period generally serves as a sign of "modernity", in that it is marked by developments such as questioning or the rejection of tradition, an emphasis upon equality and individualism, and social, scientific, and technological progress and professionalization. Those frameworks influence has continued to play a role in historical methodology, as well as many other disciplines, as can be exhibited through various ideologies and concepts since the 1800s. To fully understand the nature of Historiography today, one must understand preceding notions of methods and ideals, including the origins of and lasting effects of the Enlightenment.
