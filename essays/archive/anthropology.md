@@ -19,7 +19,7 @@ This essay demonstrates how historiographical work has changed over time, alongs
 In its broadest definition, **_anthropology_ is the study of human societies and cultures**. Anthropologists study human development through the analysis of biological evolution, environmental factors, communicative practices, social interaction, and material culture. Prior to World War I, the terms anthropology and sociology were used interchangeably. However, sociologists focused on the study of social relations and their influence on societal development and progression; whereas, anthropologists studied a larger scope of society. Historians, more so, distinguished truth in the _origin_, _development_, and _functionality_ of human society. In other words, sociologists studied _how?_, anthropologists studied _what?_, and historians studied _why?_, but, collectively, all focused on human history.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="45%"
   caption="Herodotus (left), Thucydides (right). Considered the 'Fathers of History'."
   image-url="Thucydides-Versus-Herodotus.jpg"
@@ -35,7 +35,7 @@ Yet, at the same time in Asia, historians utilized scientific theories to unders
 It was not until the Enlightenment of the 17th and 18th centuries that **historians adopted secularized views of social history in union with scientific critique**. An era defined as a “society [which] had emerged as an object to be continuously ‘improved’ and reshaped into more ‘advanced’ forms [in which] the independent, rational individual [can] change into someone new and different, and even truer to its nature” (Eriksen and Nielson, 2001, 11). Inspired works, such as Giambattista Vico’s _La Scienza Nuova_, Immanual Kant’s _Critique of Pure Reason_ and John Locke’s _Essay Concerning Human Understanding_, became some of the most influential histories to mediate concepts of individualism, class, property, and progression of human civilization.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="45%"
   caption="Karl Marx (left), Max Weber (right). While they did not consider themselves to be anthropologists, Marx and Weber greatly influenced how societies and their function are viewed and understood. Influence of their ideas are still prominent to this day."
   image-url="Marx v Weber.jpg"

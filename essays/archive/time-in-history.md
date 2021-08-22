@@ -10,7 +10,7 @@ In historical practices throughout history from the ancient greeks to Christians
 
 Beginning in ancient times, the significant empires throughout the period had a mostly cyclical view of history influenced by different aspects of culture. Before we go into the different civilizations that used cyclical history, we need to define cyclical history. __Cyclical history is the notion that the nature of history is repeating in a cyclical pattern.__ An example of a cyclical would be the repeating of the seasons (spring, summer, fall, and winter). The seasons very much influenced Egyptians perceptions of history. Their cyclical view revolved around natural cycles like that of seasons very much in part to the importance of the [__Nile River__](https://en.wikipedia.org/wiki/Nile) and knowing at what time it would flood. Time was therefore determined or perceived as, according to G.J. Whitrow in *Time in History*, "a succession of reoccurring phases" (Whitrow 25). In the Persian era,[__Zoroastrianism__](https://en.wikipedia.org/wiki/Zoroastrianism) emerged.
 {% include figure.html
-  class="img-left"
+  class="left"
   width="40%"
   caption="Zorastrian Symbol"
   image-url="zor.svg"
@@ -38,14 +38,14 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
 
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="49%"
   caption="St.Augustine of Hippo(354-430) was a Christian Theologian. In his writing the *Confessions* he talks about time and it linear progression."
   image-url="augustine-time.jpg"
   source-url="https://www.britannica.com/biography/Saint-Augustine"
 %}
 {% include figure.html
-  class="img-right"
+  class="right"
   width="49%"
   caption="The Confessions were written between 347-400 AD. Consisting of 13 books were originally written in Latin."
   image-url="confessions2.jpg"
@@ -58,14 +58,14 @@ As Christianity took over the Roman empire, there was a paradigm shift from a cy
 The Greeks, Romans, and Egyptians were all under the belief that time began with a Golden age. The [__Golden age__](https://en.wikipedia.org/wiki/Golden_Age) was when God or Gods and man were close to one another. Until a time where something happened and disrupted the relationship between the two, and they were separated. In this form or perception of time, humans are on a __decline__ having started from the top and now falling into a more primitive state of mind and society.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="49%"
   caption="Golden Age: Humans lived with the Gods at the beginning, then due to a disruption began to fall and continue to fall and become primitive."
   image-url="decay.jpg"
   source-url="https://www.widewalls.ch/decay-art-artists-photographers/"
 %}
 {% include figure.html
-  class="img-right"
+  class="right"
   width="49%"
   caption="Began as primitive beasts but with knowledge continue to get better until we reach a sort of Golden Age once again."
   image-url="newdecay.jpg"
@@ -96,7 +96,7 @@ Historically, the overall written account of history has come from the upper cla
 The Greeks, Romans, and Jews put different emphasis on the past, present, and future. The Greek's concern lay more in the past because of the lack of historical account that Greek historians had of past historical events. The Greeks were in a sort of race against time as historical evidence, and sources disappeared due to decay. In *Essays in Ancient and Modern Historiography*, Arnoldo Momigliano states that "there was more concern with the future among Roman historians, and it expressed  itself in anxiety about the Roman empire." (*Essay in Historiography* 193). The future of the empire was the main focus of Roman intellectuals. The thought of __Rome eternal__ and the state of politics influenced the emphasis they put on the future.
 In Roman historical writing and study, one of the objectives was to determine the future.
 {% include figure.html
-  class="img-left"
+  class="left"
   width="43%"
   caption="Rome Eternal"
   image-url="rome-eternal.jpg"

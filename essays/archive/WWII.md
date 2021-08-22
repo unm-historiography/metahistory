@@ -23,7 +23,7 @@ WWII is considered to be the greatest conflict in human history.  The conflict r
 The purpose of this paper is to look at the various authors and source that discuss the battles and discern what actually took place, who was there, and what is/isn't true.  The majority of the source I'll be using comes from books that were published by Osprey Publishing.  The books focus on a particular campaign or battle and discuss them in great detail with historical accuracy, eyewitness accounts, photos, maps, full color battle scenes, 3-dimensional bird's-eye-view, and illustrations that can make you feel like you were right there with the soldiers.  For example, one book is called __LEYTE 1944__ Return to the Philippines.  The book was written by Clayton Chun, and Illustrated by Giuseppe Rava.  The book follows General MacArthur's return to the Philippines and the liberation of Leyte Island from the Japanese which was the start of the Liberation of the Philippine Islands.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="POWs on Carts"
   image-url="POWs_on_Carts.jpg"

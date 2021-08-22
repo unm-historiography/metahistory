@@ -5,7 +5,7 @@ date: 2019-11-03
 ---
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="The Wicked Witch of the West embodies the stereotype of women who could fly on broomsticks and used magic primarily out of vengence."
   image-url="The_Wicked_Witch_of_the_West.jpg"
@@ -18,7 +18,7 @@ Witches in a modern society are seen as unreasonable and illogical. To accuse so
 In school in the United States, many of the exposure to witch trials comes from a brief overview of the [Salem Witch Trials](https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/) in both history and occasionally english classes by reading _The Crucible_. These brief overviews glance over the massive impact the trials had on economics and women’s place in society. They introduce a difficult topic leaving most people's knowledge about the witch trials to be 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="The Chilling Adventures of Sabrina premiered on Netflix in October of 2018. She stands up for the rights of women, LGBTQ+, and the general outsiders of society. Showing a modern witch based in the past."
   image-url="chilling_adventure.jpg"
@@ -37,7 +37,7 @@ In order to study the trials, and any history really, people needed to search fo
 Germany had over 30,000 accounts  of witch trials[^1] and executions during the long standing witch craze from 1500-1775. The Third Reich, with their heavy interest in all things science fiction to reality, did extensive research on witches to understand their potential benefit to their regime. They set up [Hexen Sonderkommando](https://www.pravdareport.com/society/123470-third_reich_witches/) which specializes in all things witches. From the trials to the executions to the general philosophical idea of what made a witch these sonderkommando was in charge of it. Of course, in true third reich fashion they maintained their focus on Germany and the preservation of its history.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="A depiction of a meeting between devils and humans inspired by the Malleus Maleficarum."
   image-url="pact-compendium-maleficarum-1608.jpg"
@@ -47,7 +47,7 @@ Germany had over 30,000 accounts  of witch trials[^1] and executions during the 
 Another very influential text to come from Germany was found much earlier than the rise of the Third Reich. [ The Malleus Maleficarum](https://www.thoughtco.com/malleus-maleficarum-witch-document-3530785) was the german witch hunters guide. This document was written in _**1486 and 1487** by two German Dominican monks, Heinrich Kramer and Jacob Sprenger_. Given this document was written after the Gutenberg Printing Press, it had an advantage over documents of a similar message. This also helped preserve the document in time as so many people believed in it and carried it through the times with them even after there were no more legal witch trials. Joseph Hansen, a german born historian, published the first major work on witch historiography utilizing the role the Malleus Maleficarum had on a society over run with fears against witchcraft. His book _**Zauberwahn, Inquisition und Hexenprozess im Mittelalter und die Entstehung der grossen Hexenverfolgung** (Magical Illusion, Inquisition, and Witch Trials in the Middle Ages, and the Formation of the Larger Persecution of Witches)_ was published in 1900 followed by his sourcebook in 1901, _Quellen und Untersuchungen zur Geschichte des Hexenwahns und der Hexenverfolgung im Mittelalter: Mit einer Untersuchung der Geschichte des Wortes Hexe_. His book **“identifies the accumulated beliefs of sorcery and heresy as comprising witchcraft in its fifteenth-century concept”**[^1]
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="50%"
   caption="A depiciton of King James VI, or James I, exercising his belief of women being most susepctible to witchcraft."
   image-url="jamesviandi.jpg"
@@ -86,7 +86,7 @@ As more women began to enter into the making of history, new perspectives on a w
 E. William Monter was sympathetic towards women witches seeing their magic as a way to make up for their legal and economic disadvantages. As many women were accused by other women this became a sort of empowering move for women to find a place in legal affairs. He was also increasingly more interested in the single woman trope. The different facets of young to old and how a single woman falling into one of those age ranges had a different level of economic power [^19]. 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="35%"
   caption=""
   image-url="witches_baldung.jpg"
@@ -94,7 +94,7 @@ E. William Monter was sympathetic towards women witches seeing their magic as a 
 %}
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="35%"
   caption=""
   image-url="witches_baldung_paper.jpg"

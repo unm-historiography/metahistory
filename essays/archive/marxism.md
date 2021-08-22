@@ -6,7 +6,7 @@ date: 2019-09-24
 ---
 
 {% include figure.html
-class="img-left"
+class="left"
 width="35%"
 Caption="_The Manifesto of the Communist Party_, (1848), was the clarion call for oppressed factory workers across Russia and all of Europe to rise up and exert their power against industrialist and capitalism."
 image-url="CommunistManifesto1910_TP.jpg"
@@ -28,7 +28,7 @@ As class differences became more pronounced, the interpretation of history drama
 Marxism was a paradigm shift in the understanding of labor and economics. It is important to understand the mind behind this shift, [Karl Marx](https://en.wikipedia.org/wiki/Karl_marx). Working with his contemporary, [Friedrich Engles](https://en.wikipedia.org/wiki/Friedrich_Engels), came the creation of the _Manifesto of the Communist Party_[3].  A product of mid-19th century social and economic discord, this work provided a **theoretical and practical program for the establishment and growth of the Communist Party in Europe**. Its purpose was to reflect on “the history of the modern working class.”[4]  The ultimate goal of the working class was to shift the balance of power in their favor by gaining control of the economic and political systems.[5]  Thus, Marx’s Manifesto was pivotal to initiating social and economic change. 
 
 {% include figure.html
-class="img-right"
+class="right"
 width="35%"
 Caption="Niccolò Machiavelli's _The Prince_ redefined relationships between the people and those governing them."
 image-url="Machiavelli.jpg"
@@ -38,7 +38,7 @@ source-url="https://nationalinterest.org/sites/default/files/styles/resize-1440/
 Social and class distinctions were nothing new in European history.  Marx and Engles admitted there has always been a class that has been subservient to another since the Roman Empire.[6]  Where the early Enlightenment author [Niccolò Machiavelli](https://en.wikipedia.org/wiki/Niccolò_Machiavelli) focused on the Italian power struggles while presenting the perspective of the common people as instrumental in maintaining power, Marx was convicted to the **importance of the working class** in building and sustaining the health of society.[7]  This ideal extended to full integration and involvement in the political and economic machines at every level by those most responsible for their success, the workers.
 
 {% include figure.html
-class="img-left"
+class="left"
 width="35%"
 Caption="the historical impact of **Friedrich Engles** (left) and **Karl Marx** (right), co-authors of _The Manifesto of the Communist Party_, influenced European philosophy and governance with the publication of the _Manifesto of the Communist Party_ (1848), and continues to do so globally."
 image-url="engles-marx-1.jpg"
@@ -52,7 +52,7 @@ Marx emphasized the Industrial Revolution as seminal in the rise of social and e
 With two distinct classes identified, **Marxist historians specifically focused on the lives of the workers**. The plight of the worker has been described as an uneasy relationship between the worker and the manufacturer. Employers dominate their enterprise, maximizing profits by controlling access to the means of production and employment, depressing wages, and subduing the moral of the working-class proletariat.  The workers' fight must keep their jobs to obtain the fulfill their needs including food, clothing, and shelter according to Maslow’s Hierarchy of Needs[12]. Unable to quit, workers feared economic isolation. Ultimately they submit to capitalist demands and endure their tragic abuse,[13] victims of the emerging yet perpetual industrial system. An injustice, the economic system was one from which the worker could not escape.
 
 {% include figure.html
-class="img-right"
+class="right"
 width="35%"
 Caption="Russian workers strike over working conditions and police oppression in 1917."
 image-url="russian-Strikes-1917.jpg"
@@ -64,7 +64,7 @@ source-url="https://isreview.org/sites/default/files/styles/400x400/public/issue
 ## Ideas Flourish and Spread
 
 {% include figure.html
-class="img-left"
+class="left"
 width="35%"
 Caption="Lenin's reception on his April 1917 return to St. Petersburg, Russia, following his foreign exile."
 image-url="Lenin-1917.jpg"
@@ -76,7 +76,7 @@ Influenced by the Enlightenment, Marxism was grounded in observation; the observ
 ## Lenin Carries the Banner of Marxism
 
 {% include figure.html
-class="img-right"
+class="right"
 width="35%"
 image-url="vanguard-quote.png"
  %}
@@ -88,7 +88,7 @@ Using an authoritative and condescending tone,  **Lenin's work successfully inci
 ## Stalin and Nationalism
 
 {% include figure.html
-class="img-right"
+class="right"
 width="35%"
 Caption="Joseph Stalin (1937), Georgian-born successor to V.I. Lenin as General Secretary of the Communist Party in the Soviet Union, was instrumental in the shaping of East-West relations and the agressive spread of Marxist doctrine."
 image-url="j-stalin-gun-1937.jpg"

@@ -7,7 +7,7 @@ date: 2019-09-13
 [The Renaissance](https://www.britannica.com/event/Renaissance) was a period of time between the 14th and 17th centuries that was marked by a sense of revival and “rebirth”. This regenerative period was captured by ancient texts and the recirculation of lost knowledge. The Renaissance moved Europe out of [“The Dark Ages”](https://www.thefinertimes.com/Middle-Ages/the-dark-ages.html) and into a time of progress and newfound wisdom. [Humanism](https://www.britannica.com/topic/humanism), in its most basic sense, is a system of thought that is moved from holding the divine as most important and instead views the individual or the human to be the epitome of value. This period was marked by a desire to pursue the humanities and to learn from them in order to progress as a society. During this period the idea of humanism became popular and permeated the minds of scholars in the academic world. 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Francesco Petrarca is the father of Italian Humanism and contributed greatly to the historiography change during the Renaissance"
   image-url="Francesco_Petrarca..jpg"
@@ -26,7 +26,7 @@ So, although the Renaissance humanists were attempting to get away from the Midd
 Secularism was one of the primary principles through which Renaissance humanism acted. **Secularism** in it’s roots is just the separation of an entity from religious institutions or religious influence. Now, secularism within the Renaissance was not necessarily practiced in these clear cut lines. Traditional secularism is primarily focused on life totally without the affect of God or His institutions. Renaissance secularism differs from the traditional in that it is more liberal (or perhaps conservative depending on personal opinion). The thinkers of the Renaissance did not operate with an atheistic view, to do so would have been social suicide. They would have had trouble gaining economic and social connections because it was looked down upon when someone did not believe in or follow God. They rather operated without God in their daily lives, ignoring the present religious institutions. 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Cicero (106-43 b.c.) was a greek philosopher and statesman who is credited with much of the thought that led to secularism resurfacing in the Renaissance. His works, while not explicitly advertising secularism, promoted a turn from religion to a more secular thought process."
   image-url="CICERO.jpg"
@@ -48,7 +48,7 @@ The individual present in the Renaissance is someone who is calling for us to un
 > “Another feature of Renaissance culture in general which helped clear the ground for new perspectives on the ‘meaning’ of history was the growth of ‘individualism’, a term used by Burkhardt to capture not only the emergence of certain people remarkable for the variety of their talents and interests -the famed ‘Renaissance man’ such as Leonardo Da Vinci -but also a more widespread individualistic spirit amongst people in general. Increasingly those in the developing commercial cities of Europe, loosened from a previously church-dominated rural way of life, began to think for themselves” (Lemon, 82). 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Leonardo Da Vinci is known as the ideal Renaissance man. He was an influential artist, engineer, and scientist. He is known to have been a man of many talents and has a lasting impact on the fields that he was involved with."
   image-url="Leonardo-da-vinci-posible-autorretrato-del-artista-galeria-de-los-uffizi-florencia_1c92d9d7_2.png"

@@ -38,7 +38,7 @@ However this very rise to Empire would later prove to be Rome’s own undoing. H
 
 ### Theocracy and History
 
-{% include figure.html class="img-left" src="1581_Bunting_clover_leaf_map.jpg" caption="This map by Heinrich Bunting 1581 shows similar attributes to a universal history. While it depicts the world, accuracy is explicitly secondary to symbolism and meaning, specifically regarding continent shape and the position of Jerusalem." %}
+{% include figure.html class="left" src="1581_Bunting_clover_leaf_map.jpg" caption="This map by Heinrich Bunting 1581 shows similar attributes to a universal history. While it depicts the world, accuracy is explicitly secondary to symbolism and meaning, specifically regarding continent shape and the position of Jerusalem." %}
 
 
 

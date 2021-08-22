@@ -6,7 +6,7 @@ editor: Kyle Sparks
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Humor"
   image-url="kylenutshell.jpg"
@@ -39,7 +39,7 @@ Those who would believe that by the unified methods of various collaborators a c
 ## Michel Foucault
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="45%"
   caption="Michel Foucault, was a French philosopher, historian of ideas, social theorist, and literary critic. Foucault's theories primarily address the relationship between power and knowledge, and how they are used as a form of social control through societal institutions"
   image-url="kyleFoucault5.jpg"
@@ -61,7 +61,7 @@ Foucault’s desire to question the histories we had commonly accepted extended 
 Meaning in text is at the center of postmodern scholarship. The evaluation of narrative in historical scholarship challenges the pretense of well-defined truth. Naturally, postmodernist’s felt that truth was not easily obtainable through strict research alone. Instead, history, to postmodern thinkers was a truth that existed as a relative ideal found within the context of societies current culture. Truth within history is meant to be expressed for the purpose of narrative storytelling. This is not meant to say that all history is made up, or should be cherry picked by the historian to create destructive narratives, the difference comes from interpretation alone. Allowing group identity to be warped by fictitious beliefs of their past is harmful not only to that group but to the stability of their society. It would be mad to exclude commonly held historical fact in dates from histories and as a general rule Postmodernists will dissect a larger meaning from the archives. This lessons they learn can be individualized for the reader or author and is dependent on the manner in which the historical facts are analyzed.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="85%"
   caption="Postmodernism"
   image-url="kylepostmodernism.jpg"
@@ -94,7 +94,7 @@ Indeed the establishment of historical fact is out there, but historians continu
 The meaning of the histories we write take on their own life in a manner that can never be objectively pinned down. Instead the historian should see the work as a method to propose meaning.  It can be a terrifying prospect to accept strict objective historical facts have no accurate meaning.  But we should reveal in the challenge of exploring the narrative historians are presenting before you. **The nature of our world is too often blindly accept the reality we’ve become easily socialized to.** Regardless of Foucault’s critics, he teaches us to step outside of what we perceive as the truth. **He implores to ask question of society and how the world has been complacent with itself.**
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="40%"
   caption="Truth"
   image-url="61q5kk0ZAUL._SY606_.jpg"

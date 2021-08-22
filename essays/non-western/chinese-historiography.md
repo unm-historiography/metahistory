@@ -3,8 +3,8 @@ layout: default
 title: Chinese Historiography
 author: Alex Plymale
 date: 2018-05-11
-toc-section: non-western
-toc-blurb: Chinese historiography contains a longer continuous tradition than any other on Earth, stretching back to ancient times. (Teng 131) The length of this tradition, and the long standing belief by Chinese academics that Chinese historiography is the paramount form of the discipline make it valuable counterpoint to European historiography.
+toc-section: thematic
+toc-blurb: Chinese historiography contains a longer continuous tradition than any other on Earth, stretching back to ancient times. The length of this tradition, and the long standing belief by Chinese academics that Chinese historiography is the paramount form of the discipline make it valuable counterpoint to European historiography.
 toc-image: liangqichao.jpeg
 ---
 
@@ -20,7 +20,7 @@ The establishment of the [Chinese Republic](https://en.wikipedia.org/wiki/Republ
 ### Liang Qichao and Modern Chinese Historiography
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Liang Qichao, while intially a monarchist, would help modernize Chinese historiography at the beginning of the revolutionary period"
   image-url="liangqichao.jpeg"
@@ -42,15 +42,14 @@ Marxist state ideology has forced historians to switch their focus onto the comm
 ### The Cultural Revolution and China's New Heroes
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="The Ming Dynasty Wanli Emperor, now only bones, was dug up and denounced during the Cultural Revolution."
   image-url="wanliemperor.jpg"
   source-url="https://en.wikipedia.org/wiki/Cultural_Revolution#/media/File:Wanlitod.jpg"
 %}
 
-The idea of "feudalism" is seen repeatedly referenced during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution-the), particularly by the young Marxist historians who had grown up in communist China. To these new Marxist intellectuals, the Chinese idea of feudalism went beyond how we view the concept in the West. Feudalism became a catch-all critique of the highly bureaucratic structure of imperial China and the
-evils committed by the aristocratic elites against the hard-working Chinese peasantry, who are largely ignored in classical Chinese histories. (Dirlik 476) Marxist historians were able to use the embrace of scientific archaeology to bolster their knowledge of the lives of the common person in past centuries, using these findings to lift up China’s glorious past in line with official party beliefs, while also celebrating the proletariat whom they viewed as the true legacy of Chinese greatness. (Chang 167) This modifications reveal that Marxism, like any ideology, is malleable, and able to fit the culture into which it is infused. Western Marxist ideas are often seen as the purely western European and soviet versions, but as we see it is inevitable that the culture of the nation will effect how Marxist tenants are shaped to conform to the way a nation wants to view their past, present and future. Unlike the soviet Marxism we are familiar with, which views Russia's past as a period of backwardness which was broken by the implementation of Marxism, Chinese Marxism still views its past as glorious, but that the wrong people are given credit for its success.
+The idea of "feudalism" is seen repeatedly referenced during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution-the), particularly by the young Marxist historians who had grown up in communist China. To these new Marxist intellectuals, the Chinese idea of feudalism went beyond how we view the concept in the West. Feudalism became a catch-all critique of the highly bureaucratic structure of imperial China and the evils committed by the aristocratic elites against the hard-working Chinese peasantry, who are largely ignored in classical Chinese histories. (Dirlik 476) Marxist historians were able to use the embrace of scientific archaeology to bolster their knowledge of the lives of the common person in past centuries, using these findings to lift up China’s glorious past in line with official party beliefs, while also celebrating the proletariat whom they viewed as the true legacy of Chinese greatness. (Chang 167) This modifications reveal that Marxism, like any ideology, is malleable, and able to fit the culture into which it is infused. Western Marxist ideas are often seen as the purely western European and soviet versions, but as we see it is inevitable that the culture of the nation will effect how Marxist tenants are shaped to conform to the way a nation wants to view their past, present and future. Unlike the soviet Marxism we are familiar with, which views Russia's past as a period of backwardness which was broken by the implementation of Marxism, Chinese Marxism still views its past as glorious, but that the wrong people are given credit for its success.
 
 It is also important to note for Westerners studying Chinese historiography the differences in population and geography of the region. China’s historical populations significantly dwarfed that of Europe, which meant that peasant rebellions and imperial wars often had death tolls in the millions. The Qing conquest of the Ming in the early 1800s had an estimated death toll of 25 million, while the Taiping rebellion 20 million. Those are only 2 of several conflicts that surpassed the million casualty mark in Chinese history. The gigantic proletariat in China who have often sacrificed significantly during conflicts combined with the importance of societal homogony vs individualism meant that Marxism was an ideology that fit well into Chinese intellectualism during the revolution as it validated the sacrifices of millions of unnamed Chinese who had sacrificed so much for the will of the aristocracy.
 
@@ -58,7 +57,7 @@ It is also important to note for Westerners studying Chinese historiography the 
 [Postcolonialism](https://en.wikipedia.org/wiki/Postcolonialism) was another pivotal subject amongst the new school of Marxist historians. The question of how to view the China's 19th century, wherein foreign powers asserted their will over the Qing, is still being debated today. During the Cultural Revolution, this topic was one of intense debate between the new school of revisionist Marxist historians and the older generation of historicists, many of whom were educated in the early communist or republican periods. (Li 351) The Marxists drew upon post-colonialist historians like [Edward Said](https://en.wikipedia.org/wiki/Edward_Said) in their criticism of colonialism and its links to capitalistic oppression. (Li 352) The historicists viewed the colonial history of China with a similar disdain, but saw it as an inevitable challenge that allowed to China to shuck the yoke of archaic dynastic rule. (Li 351-353) These opposing views illuminate key facets of what dominated the face of Chinese historiography during this period.  The young Marxists accused more traditional historicists of being pro-oppression and pro-colonialism. The historicists acknowledged the importance of class struggle in ancient Chinese history, but rejected that it was the driving force for all social change as was asserted by the young Marxists. The historicists instead argued that often social change was the catalyst for peasant revolts rather than the outcome and that contributions by imperial figures should not be ignored due to their complicity in an oppressive feudalist system.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="100%"
   caption="A Japanese depiction of the Battle of the Yalu River.  The rise of Japanaese Imperialism would have great impact on how China viewed itself, and its history in the 19th and 20th centuries"
   image-url="battleoftheyellowsea.jpg"
@@ -77,8 +76,7 @@ It is difficult to overstate the importance of the changes that have occurred hi
 
 While outside influence is present, the Chinese canon continues to thrive on its own, equaling the breadth and nuance of any European authorship. The way in which ideas have manifested within Chinese historiography is extremely useful to study for western historiographers, who tend to view outside paradigms of historiography in the binary form of pre-colonial historicism which is rarely studied, and the later “modern” or Europeanized academia that arose after colonialism. Chinese historiography is still its own tradition, and studying how their periods of change correspond to the western canon can illuminate how different social and cultural factors dictate how ideas are both viewed and incorporated. This does a lot in the way of showing the arbitrary nature of how historical methods are accepted and formed.  It also gives lie to the perception of many Western historians that the western methodology is not only the paramount way of studying history, but also a natural progression of ideas that any human society would logically go through rather than changes dictated by shifting cultural paradigms, and societal factors.
 
-Works Cited
-
+## Bibliography
 Chang, K. C. “Archaeology and Chinese Historiography.” World Archaeology 13, no. 2 (1981): 156–69.
 
 Dirlik, Arif. “Social Formations in Representations of the Past: The Case of ‘Feudalism’ in Twentieth-Century Chinese Historiography.” Review (Fernand Braudel Center) 19, no. 3 (1996): 227–67.
@@ -89,4 +87,4 @@ Feuerwerker, Albert. “China’s Modern Economic History in Communist Chinese H
 
 LI, HUAIYIN. “FROM REVOLUTION TO MODERNIZATION: THE PARADIGMATIC TRANSITION IN CHINESE HISTORIOGRAPHY IN THE REFORM ERA.” History and Theory 49, no. 3 (2010): 336–60.
 
-Teng, S. Y. “Chinese Historiography in the Last Fifty Years.” The Far Eastern Quarterly 8, no. 2 (1949): 131–56. https://doi.org/10.2307/2049138.
+Teng, S. Y. “Chinese Historiography in the Last Fifty Years.” The Far Eastern Quarterly 8, no. 2 (1949): 131–56.

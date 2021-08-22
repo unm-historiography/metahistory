@@ -11,7 +11,7 @@ date: 2019-10-21
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE3.jpg"
@@ -26,7 +26,7 @@ This essay will examine the official historical account of the genocide that occ
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE8.jpg"
@@ -66,7 +66,7 @@ On April 6th, 1994, president of Rwanda **Juvenal Habyarimana** and president of
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE17.jpg"
@@ -80,7 +80,7 @@ Following the assassination, the **National Republican Movement for Democracy an
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE16.jpg"
@@ -94,7 +94,7 @@ In 1990, the RPF led a military coalition against the MRND to retake control of 
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE11.jpg"
@@ -116,7 +116,7 @@ population of seven million, over half had been directly affected." -United Nati
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE9.jpg"
@@ -138,7 +138,7 @@ Note: The National Unity and Reconciliation Commission was nationally sponsored 
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE7.jpg"
@@ -165,7 +165,7 @@ fail to meet the requisite standard of precision under international law". The l
 The story of Rwanda tells a story of country that underwent a tragedy of war crimes and human rights violations. The stories of the people and the histories they experienced often differ from a singule official government perspective. In this instance, the historiography of an altered and distorted history allowed for the cover ups of government atrocities, immunity of criminal prosecution, and the oppression of free inquiry/investigation to seek 'truth'. It is also reveals the danger of how partiality of history can be used to intentionally manipulate and distort reality to fit a national narrative and how such historiographical consequences can still exist today. The modern age of 'making history' is no more/less subseptible to speculation and understadning perspectives of reality than it has been in the past. Compared to standard Eurocentric history (history taught primarily from a European perspective and mostly about the history of Europe) taught in public schools naionwide wide, African history (even in the postmodern era) is mostly left out. Think about it, ask people around and compare to see how many have heard of the tragedy of the 20th century European Holocaust that occurred 75 years ago. Now, compare that to the general knowldge of the Rwandan Genocide of 1994 that occurred 25 years ago. You may be suprised to discover how both tragedies that occurred on different continents are unequally acknowledged on the global scale. 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE.jpg"
@@ -174,7 +174,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE1.jpg"
@@ -184,7 +184,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE4.jpg"
@@ -194,7 +194,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE5.jpg"
@@ -204,7 +204,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE6.jpg"
@@ -217,7 +217,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE10.jpg"
@@ -227,7 +227,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE12.jpg"
@@ -235,7 +235,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 %}{%endraw%}
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE13.jpg"
@@ -243,7 +243,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 %}{%endraw%}
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE14.jpg"
@@ -251,7 +251,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 %}{%endraw%}
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE15.jpg"
@@ -261,7 +261,7 @@ The story of Rwanda tells a story of country that underwent a tragedy of war cri
 
 
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Caption"
   image-url="RWANDAGENOCIDE18.jpg"

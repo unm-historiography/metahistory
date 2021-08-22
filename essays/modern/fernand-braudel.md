@@ -8,7 +8,7 @@ toc-section: modern
 ---
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="From peasant roots in the countryside of eastern France to one of the most preeminent historians of the 20th century, Braudel's life story gives context for the evolution of 20th century historical thought."
   image-url="braudel-main.jpg"
@@ -30,7 +30,7 @@ Fernand Braudel was many things: a teacher, writer, prisoner, husband, and histo
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Young Braudel left the French countryside of his birth to attend better schools in Paris beginning in 1908."
   image-url="young-braudel.jpg"
@@ -53,7 +53,7 @@ Fernand Paul Braudel was born on August 24, 1902 in [Lumeville](https://www.goog
 > “I believe that this spectacle, the Mediterranean as seen from the opposite shore, upside down, had considerable impact on my vision of history.” (Braudel, 450)
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="49%"
   caption="Braudel got a position teaching in Algeria in the 1920s, a profession that he would maintain for momre than sixty years."
   image-url="algiers-1920s.jpg"
@@ -70,7 +70,7 @@ Fernand Paul Braudel was born on August 24, 1902 in [Lumeville](https://www.goog
 Upon graduation, Braudel was assigned a position teaching history in [Constantine, Algeria](https://www.google.com/maps/place/Constantine,+Algeria/@36.3539041,6.5073923,11z/data=!3m1!4b1!4m5!3m4!1s0x12f17717c4785627:0x25fb307fd08801a!8m2!3d36.360155!4d6.642433). As a man in his early twenties, Braudel delighted in the city, the Sahara, and in teaching, despite the fact that he was instructing his students “a superficial history of events…of happenings, of politics, of great men” (Braudel, 450). In the summers, when school was not in session, Braudel spent countless hours at the archives working on a thesis surrounding King Phillip II of Spain. **Using an old film camera he purchased from an American cameraman, Braudel took upwards of 2,000 photos a day of documents in the archives, inadvertently becoming “the first user of microfilms”** (Braudel, 452). This methodology alone changed the way professionals and novices alike do history, but that was only the beginning. His time in Algeria challenged his Eurocentric view of world and opened his eyes to influences on the other side of the Mediterranean.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="100%"
   caption="Braudel's time in Brazil inspired a new perspective on the influence of the Mediterranean from the other side of the Atlantic."
   image-url="brazil-1920s.jpg"
@@ -91,7 +91,7 @@ Another significant result of Braudel’s time in Brazil was his introduction to
 ### As a Prisoner of War
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Braudel's time as a POW at this camp in Nazi Germany directly influenced his perspectives on time. Years later he would write that in prison 'that nervous energy makes me more lucid, allows me to meditate for a long time over an argument.'"
   image-url="pow-camp.jpg"
@@ -115,7 +115,7 @@ The [companion article](https://unm-historiography.github.io/intro-guide/essays/
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="60%"
   caption="Lucient Febvre, founding father of the Annales School, was very much a father figure to Braudel."
   image-url="lucien-febvre.png"
@@ -123,7 +123,7 @@ The [companion article](https://unm-historiography.github.io/intro-guide/essays/
 %}
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="39%"
   caption="In 1963 Braudel founded the Maison des sciences des l'Homme, a reasearch center in Paris where new interdisciplinary approaches to history were put to work."
   image-url="maison-homme.jpg"
@@ -141,7 +141,7 @@ What began as a thesis on the life of King Phillip II of Spain ultimately became
 ### *The Mediterranean*
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="40%"
   caption="Braudel drafted this 1100+ page masterpiece largely from memory."
   image-url="mediterranean-book.jpg"
@@ -167,7 +167,7 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
 ### *Civilization and Capitalism*
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="40%"
   caption="Braudel's perspectives on Capitalism blah blah blah."
   image-url="civ-cap-book.jpg"
@@ -183,7 +183,7 @@ The fact that *The Mediterranean* has been translated into languages as diverse 
 ### Methodology and Writing
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Braudel's reception in France and abroad..."
   image-url="braudel-reinventedhistory.jpg"

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Early Feminist History
-date: 2018-05-11 00:00:00
+date: 2018-05-11 
 editor: Chloë King
 author: Emily Hartshorn
 toc-blurb: Feminist historians criticized the notion that there was a natural place for women within the world. This was not a view that historians actively tried to perpetuate, but rather a concept that previous historians had conformed to.
 toc-image: Womens-Strike-Day-march-employment-opportunities-Washington-August-26-1970.jpg
-toc-section: thematic
+toc-section: postmodern
 
 ---
 
@@ -20,7 +20,7 @@ Throughout much of history, women were pushed to the back burner of the narrativ
 
 The difference between biological sex and socially constructed gender is what would drive much of second-wave feminism. De Beauvoir states that “[h]umanity is male, and man defines woman, not in herself, but in relation to himself” (de Beauvoir, pg. 26). De Beauvoir was bringing the actual problem to the forefront. Instead of attacking the lack of female perspectives within society, she was questioning the fact that a woman’s entire existence was based upon the men who surrounded her. **This was groundbreaking, as it was questioning the system itself, and the positionality of history as a whole.** While this was not unique to the postmodern era, as every change in historiography took someone questioning the current norm, it was still one of the most pivotal moments within the field of feminist historiography.
 
-{% include figure.html class="img-left" width="50%"
+{% include figure.html class="left" width="50%"
 caption="Simone de Beauvoir in Beijing, 1955. De Beauvior wrote the groundbreaking essay 'le Deuxieme Sexe' which illustrated the differences between the rights of men and women."
 image-url="Simone_de_Beauvoir_in_Beijing_1955.jpg"
 source-url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Simone_de_Beauvoir_in_Beijing_1955.jpg"
@@ -40,7 +40,7 @@ Joan Kelly would go on to change the field of historiography through revolutioni
 
 This is something that feminist historians tried to change within historiography. Through their work,  they were able to push the narrative off center and open the floodgates for other marginalized groups in society. Ignoring an entire people groups voice is not only detrimental for them, it is also incredibly harmful to the rest of society. This is the fatal flaw in male centered history, which takes away the ability for anyone to learn from a female perspective.
 
-{% include figure.html class="img-left" width="50%" caption="Kelly's collection of essays, including *Did Women Have a Renaissance*, which questioned the status quo for women in western culture." image-url="womenhistorytheory.jpg"
+{% include figure.html class="left" width="50%" caption="Kelly's collection of essays, including *Did Women Have a Renaissance*, which questioned the status quo for women in western culture." image-url="womenhistorytheory.jpg"
 source-url="https://quod.lib.umich.edu/cgi/t/text/text-idx?c=acls;cc=acls;view=toc;idno=heb02073.0001.001"
 %}
 
@@ -55,7 +55,7 @@ Early second-wave feminists would lead the way to break the norms within histori
 
 [Theresa Coletti](https://www.english.umd.edu/profiles/tcoletti), reviewing Kelly’s work almost fifty years later, is one of the examples of the sweeping change that would take hold of historiography. Coletti’s critique of second-wave feminists was only possible because of the work done by early feminists like Kelly. The effects of second-wave feminism within history would take **decades** to solidify and only then would it create the change they wanted to see. While much of the critique of second-wave feminists was that they assumed that all women’s experiences were the same, third-wave feminist would step in to make these changes.
 
-{% include figure.html class="img-right"
+{% include figure.html class="right"
 width="50%" caption="Theresa Coletti, author of *‘Did Women Have a Renaissance?’ A Medievalist Reads Joan Kelly and Aemilia Lanyer.*" image-url="dst_coletti.png"
 source-url="https://www.english.umd.edu/news/4823"
 %}

@@ -44,7 +44,7 @@ The language within the work is also different from a modern biography. Although
 There are two things here to note. The first is the heavily biased nature of the document: rather than say Elizabeth became Queen at her sister's death, the historian chooses a heavily narrative style characteristic of these early histories. This means the historian is choosing to **tell a story**, like one we could read in a novel, above listing facts one at a time.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Elizabeth I when a Princess c.1546, attributed to William Scrots. Most likely painted for her father, King Henry VIII, it was also owned by her brother, King Edward VI. The quality of her fabric is a political statement, indicating that she has been reestablished in the line of royal succession by her father. It is possibly a pair to a portait of her brother."
   image-url="elizabethi-princess.jpg"
@@ -68,7 +68,7 @@ If Elizabeth, who remained unmarried *had* shown particular favor towards a man,
 ### An Early Rankean Elizabeth ###
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="50%"
   caption="Elizabeth I (1533-1603) c. 1580-1603. Attributed to the British School. This is a contemporary portrait of Queen Elizabeth I near the end of her life, and is possibly based off of another portrait. In her hand, she holds the badge of the Order of the Garter, meant to establish her high prioritization and use of chivalry."
   image-url="elizabethi-medallion.jpg"

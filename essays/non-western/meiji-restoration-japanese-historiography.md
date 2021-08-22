@@ -3,9 +3,9 @@ layout: default
 title: The Meiji Restoration and Japanese Historiography
 author: Matthew Nelson
 date: 2019-11-04
-toc-blurb: History has the power to create nations.  19th century Japan's response to Western colonialism was not only a period of rapid modernization, but a time where the country would reforge its past, and construct a new identity.
+toc-blurb: History has the power to create nations. 19th century Japan's response to Western colonialism was not only a period of rapid modernization, but a time where the country would reforge its past, and construct a new identity.
 toc-image: meiji.jpg
-toc-section: non-western
+toc-section: modern
 ---
 
 ### Introduction
@@ -20,7 +20,7 @@ The writing of history was no exception.  The Tokugawa took great interest in hi
 ### The Black Ships
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="75%"
   caption="A Japanese print describing the arrival of the U.S. Navy's 'Black Ships' (1854).  This event set in motion the downfall of the Tokugawa Shogunate, and the rapid modernization of Japan. "
   image-url="blackships.jpg"
@@ -33,7 +33,7 @@ The Tokugawa's weak response to the aggressive trade demands of the United State
 
 ### Fukuzawa Yuichi and Japanese Civilization
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Fukuzawa Yukicihi, founder of Keio University, and the most widely read Japanese intellectual of the 19th century."
   image-url="fukuzawayukichi.jpg"
@@ -43,7 +43,7 @@ The Tokugawa's weak response to the aggressive trade demands of the United State
 
 ### The Founding of Historiographical Bureau
 {% include figure.html
-  class="img-left"
+  class="left"
   width="50%"
   caption="A 1888 portrait of the Meiji Emperor.  His full embrace of Western national identity are made clear not only by his wardrobe, but by his commissioning a European artist, Edoardo Chiossone, for the work. "
   image-url="meiji.jpg"
@@ -67,7 +67,7 @@ The ability to incorporate Western Historiography into their own methodology, al
 
 ### Heroes of the Past
 {% include figure.html
-  class="img-left"
+  class="left"
   width="50%"
   caption="A 1885 woodblock print by Tsukioka Yoshitoshi, depicting Toyotomi Hideyoshi on a daring nighttime raid.  Hideyoshi was one of many figures from Japan's past used to promote its future greatness."
   image-url="hideyoshi.jpg"
@@ -79,7 +79,7 @@ Independent historians, such as **Yamaji Aizan**, worked outside the influence o
 
 ### Conclusion: Japan on the World's Stage
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="A woodblock print by Kobayashi Kiyochika, depicting Nicholas II's living nightmare of Russia's defeat at the hands of the Japanese (1904-1905).  Japan's decisive victory in the Russo Japanese War served as a vindication of its modernizing efforts, and as a precursor to further expansion on the Asian continent."
   image-url="nicholas_nightmare.jpg"

@@ -11,7 +11,7 @@ date: 2019-09-25 00:00:00
 According to author Donald R. Kelley, history emerged from myth and forced itself into stories and legends until it gained full insight (Kelley, 1) But when exactly did this happen? Was it during the time of [Machiavelli](https://unm-historiography.github.io/491-fall2016/essays/renaissance-historiography.html), the well-known Italian Renaissance historian? Or [Voltaire](https://www.britannica.com/biography/Voltaire), the famous French writer and historian during the [Enlightenment](https://unm-historiography.github.io/491-fall2016/essays/enlightenment-historiography-zak.html "mkgyui") era? Or is there an understanding of it still being gained in the current century? This question will probably never gain a definite answer. As long as there are people around to record it, the subject of history will forever be changing and gaining wisdom and knowledge by those studying and trying to perfect the art of crafting it (Kelley, 1). The main purpose of this essay is to take a closer look at how the mythologies of the ancient Egyptians and Greeks influenced their ways of writing history. It will also discuss a few of the key players that are attributed with the founding of history and the creation of what we now know as historiography.
 
 {% include figure.html
-class="img-right"
+class="right"
 width="33%"
 caption="Philosopher Machiavelli."
 image-url="Machiavelli.jpg"
@@ -19,7 +19,7 @@ source-url="https://www.iep.utm.edu/machiave/"
 %}
 
 {% include figure.html
-class="img-right"
+class="right"
 width="35%"
 caption="Philosopher Voltaire"
 image-url="voltaire.jpg"
@@ -32,7 +32,7 @@ source-url="https://www.biography.com/scholar/voltaire"
 
 
 % include figure.html
-  class="img-right"
+  class="right"
   width="30%"
   caption="Greek Author Homer"
   image-url="Homer-artist.jpg"
@@ -51,14 +51,14 @@ The ability to write history effectively involves three important factors: **sco
 ### The Ancient Egyptians
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="palermo stone, one of the first examples by the ancient Egyptians. It was used as a tool to record history "
   image-url="palermostone11.jpg"
   source-url="http://www.ancientpages.com/2016/04/15/palermo-stone-one-of-the-earliest-history-records-of-ancient-egypt/"
 %}
 
-{% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Figure 1: Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)" %}
+{% include figure.html class="right" src="king-tut-with-gods.jpg" caption="Figure 1: Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)" %}
 
 Historians have always attempted to relate human behavior and human nature with its environment, which also includes social and natural contexts that help to locate and distinguish it from other cultures and communities (Kelley, 8). The ancient Egyptians are considered one of the main groups who have supplied many examples of historical inquiry and interpretations for historians over the course of time because they were a society that held a vast interest in the origins of the universe. More specifically, the ancient Egyptians placed great value in their gods, genealogies, chronologies, victories over their enemies, and the afterlife. The [Palermo Stone](http://archaeology.about.com/od/oldkingdom/fl/The-Palermo-Stone-Key-to-Old-Kingdom-Egypt-Royal-Families.htm) is one example of their efforts to record their history. The stone contains inscriptions of regnal lists on one of six fragments of a giant slab. If the slab were to be put back together today, it would undoubtedly contain a series of [annals](https://www.merriam-webster.com/dictionary/annals), in which, it would display the most prominent events of ancient Egyptian culture up to the middle of the fifth dynasty, which would  include monarchs, important festivals, and even information on the Nile River (Brown, 10).  Social memory during the time of the ancient Egyptians was embodied in architecture and funeral remains. Pyramids and monuments (such as the Palermo Stone) were also used as a way of recording ancient Egyptian myths, which ultimately aided in the preservation of memories (Kelley, 13-14).
 
@@ -73,7 +73,7 @@ Historians have always attempted to relate human behavior and human nature with 
 
 ### The Greeks
 
-{% include figure.html class="img-left" src="Cyclops_and_Odysseus_vase_painting.svg.png" caption="Figure 2: Ancient Greek vase painting of Odysseus blinding the cyclops Polyphemus" %}
+{% include figure.html class="left" src="Cyclops_and_Odysseus_vase_painting.svg.png" caption="Figure 2: Ancient Greek vase painting of Odysseus blinding the cyclops Polyphemus" %}
 
 Philosophy and science made Greece the starting point for the story of the [human condition]( https://unm-historiography.github.io/491-fall2016/essays/universal-histories.html) in time (Kelley, 13). Proto-historiographical forms of writing in Greek culture included: **Genealogy**, a line of descent traced continuously from a specific ancestor. **Geography**, the study of human activity, including the distribution of populations and resources over time, **Ethnography**, the scientific description of the customs of different cultures and groups of people, and **local history**, the study of the patterns and behavior of the people in one’s own community. Like the Egyptians, the Greeks also expressed an interest in **chronology**. The objective for many of the first Greek historiographers was to go back as far as they possibly could, and attempt to combine both mythological events from the past with more recent events. By doing this, they were attempting to create a more harmonized chronology of their culture (Calame, 19). [Hellanicus] (https://www.britannica.com/biography/Hellanicus-of-Lesbos), a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the mythical aspects from his work to make it more historically accurate (Kelley, 15). This tells us that although the ancient Greeks were aware of the issues of myth early on, it was sometimes so difficult to break away from including it in their histories, that many had to ultimately abandon their work. Some examples of Greek mythology in literature that are still important today include both myths and teachings about Greek gods and heroes (think back to _Homer_), as well as the origins and importance of their own rituals and culture, and the nature of the world.
 
@@ -81,7 +81,7 @@ Philosophy and science made Greece the starting point for the story of the [huma
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Philosopher Herodotus"
   image-url="Herodotus.jpg"
@@ -95,7 +95,7 @@ Philosophy and science made Greece the starting point for the story of the [huma
 #### Thucydides and the Perfecting of History
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Philosoper Thucydides"
   image-url="thucydides.jpg"

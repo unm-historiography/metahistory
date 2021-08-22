@@ -5,7 +5,7 @@ author: Jenni Scanlan
 editor: Autumn Buckridge
 date: 2016-11-19
 toc-blurb: The writing of Postcolonialist histories is an effort to counteract the lasting effects of the colonial histories, which tend to ignore or gloss over the severe damage colonialism has had on society. This includes the loss of land and resources, which hold significant spiritual and economic value. Cultural traditions and knowledge of pre-colonial pasts have also been wiped out in many places, due to persecution and forced conversions.
-toc-section: thematic
+toc-section: postmodern
 toc-image: 1886-colonialism-map.jpg
 ---
 
@@ -13,7 +13,7 @@ toc-image: 1886-colonialism-map.jpg
 **Postcolonialist history** is part of the larger umbrella of [poststructuralist historiography](https://www.britannica.com/art/poststructuralism), a type of historiography based on the idea that history, or knowledge in general, cannot reach a single, objective truth.  Postcolonialism is a school of thought that deals with **the effects of colonization on societies and peoples**. The term “Postcolonialism” is a bit of a misnomer— 'post' typically means 'after', which implies that Colonialism has ended and the study of it takes place afterwards _(McClintock, 259)_. However, the societies examined through the lens of Postcolonialism are still dealing with many of the problems of colonization such as the struggle for independence, return of resources, and recovery of history _(Houses 278)_. However, the **eurocentric** view of history, the one in which **Europe remains at the center of culture and society**, views colonialism as firmly in the past. In that perspective, colonialism was an integral part of capitalist development in the West, where the colonies were used as resources for raw materials to fuel production. Rather than focus on how colonialism affected the societies that were colonized, it upholds colonialism as part of the “European grand narrative of modernization,” or a period of history in which the key defining feature was the modernization in the West despite the many peoples who were conquered and subjugated _(Chatterjee, xi)_.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="100%"
   caption="This 1866 map of Britain and its colonies illustrates not only the extent of its empire but also the symbolism associated with colonization. Indigenous people are dressed in 'savage' garb or burdened by labor while the colonizers are depicted as bringers of freedom and fraternity. "
   image-url="1886-colonialism-map.jpg"
@@ -36,7 +36,7 @@ We see this frequently in the Southwest United States, where the indigenous peop
 ## The Subaltern Approach
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="As a founding member of the Communist Party in Italy, Gramsci was an extremely prolific and influential thinker during the  Moussolini years. His works analyze topics from economics, education, religion, and the culture, among others. "
   image-url="Gramsci.png"
@@ -53,7 +53,7 @@ Essentialist post-colonial history focuses more on pre-colonization history more
 The academic world is split on the issue of whether it is possible, let alone acceptable, for a historian from outside of a colonized society to write a postcolonial history. Some within colonized societies find this idea inappropriate. Some cultures in the Western world, in areas like North America and the Pacific, subscribe to “**possessive exclusivism”, or the idea that only the colonized should write postcolonial history** _(Houses, 282)_. This idea tends to go hand in hand with the essentialist idea of writing history. If the goal of the history is to provide a narrative that restores pre-colonial power in some way to colonized peoples, the concern over whether or not an outsider is writing the narrative is key. If the narrative comes from within the society, it is an act of empowerment. If it is written by an outsider, it can come across as yet another external group trying to control what the colonized society does.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Born in Calcutta in 1942, Gayatri Chakravorty Spivak is a prominent feminist critic and postcolonialist scholar who teaches at Columbia University."
   image-url="Spivak.jpg"
@@ -72,7 +72,7 @@ There is no singular approach to postcolonialism. Essentialism and the Subaltern
   - How have those narratives changed the way you view the world and your place in it?
 
   {% include figure.html
-  class="img-right"
+  class="right"
   width="100%"
   caption="Students protest Columbus Day, advocating instead for Indigenous People's Day. The shift in public opinion towards celebrating Christopher Columbus is evidence of a growing post-colonialist narrative."
   image-url="Columbus-day.jpg"

@@ -11,7 +11,7 @@ date: 2019-12-13
 >This essay will cover the historiographical elements of Western medicine. From its’ establishment as a discipline in the world of the ancient Greeks, to the way medicine and its’ practices are viewed in modern times; This essay will also briefly touch on the practices that existed long before the working definition of medicine came to be, through the practices of Prehistoric Medicine in order to give a more translucent understanding of how medical history and application has evolved to today’s standards.  This essay will evaluate how we have preserved some practices of medicine from the times of the Greeks, while evolving our understanding of and application of medical practices. It will explore who were/are the dominant figures and contributors to the historiography of Western medicine, and inherently, what are their significance? Finally, this essay will focus on how the ways in which we talk about the history of Western medicine changed, and answer the question of what has having the knowledge that we have acquired about medicine helped shape our society? 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Rod of greek god asclepius, god of healing and medicine and the most universally recognized symbol of medicine."
   image-url="Rod_of_asclepius.jpg"
@@ -23,7 +23,7 @@ date: 2019-12-13
 As long as humans have inhabited the earth, medicine and the practice of it in various civilizations has also existed, even long before the working definition of Medicine as we know it today has existed or was written down. In fact it was author M.C. Lemon in his Philosophy of History book that wrote about humans and their relationship to the natural world and way that we in which we talk about medicine when he writes, “Geographical differences pertain, but within a given region, modern peoples face the same natural structures and forces their ancient predecessors had to deal with.” (Lemon, pg.97). Imbedded within our animalistic nature, is our wanting to understand the world around us and how it interacts and affect us. When we get hurt, we want to figure out how or why. When we get sick, we want to know what got us sick. This relationship has always existed and always will because it is a part of our species to be curios. It is this kind of relationship however, where we can trace some of the origins of medicine, or at least the understandings we have of how the body works.
 
  {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="**Hippocrates** of Kos is considered to be the 'Father' of modern medecine because of his contribution to the field however, not much is known about him but he is credited with coining the **Hippocratic Oath**;A practice that is still used today."
   image-url="Hippocrates.jpg"
@@ -36,7 +36,7 @@ As long as humans have inhabited the earth, medicine and the practice of it in v
  **[Prehistoric Medicine](https://en.wikipedia.org/wiki/Prehistoric_medicine)** refers to the medical practices executed before the invention of writing as well as the documentation of **medical history** began. Because there are no written sources for this period, and because many civilizations evolved at different points in time to using written sources, according to online medical source, *Medical News Today*, prehistoric medicine “…covers a vast period and varies, according to regions of the world and cultures”(Brazier, p.1).  In other words, this type of history encompasses a wide range of time periods and dates. Furthermore, because there are no written sources to turn to, is a discipline very reliant on **artifacts**, **human remains**, and **anthropology**. The tools that scholars have used to study the origins of medicine trough these ancient practices have given them evidence that “…people in prehistoric times would have believed in a combination of **natural** and **supernatural** causes and treatments for conditions and diseases” (**Brazier, p.3**).  Through the study of human remains, many scholars have been able to deduce that practices such as [**Trepanning**](https://en.wikipedia.org/wiki/Trepanning), which involves treating common medical conditions such as mental disorders, migraines or epileptic seizures by drilling holes in the patients’ head, (source: Medical News today) were common practice and according to the same source medical source, “ There is evidence that humans have been boring holes into people’s heads since [**Neolithic times**](https://www.britannica.com/event/Neolithic) to try to cure diseases or free the victim of demons or evil spirits” (**Brazier, p.39**).But what does the practice of Trepanning and prehistoric medicine have anything to do with Medical historiography you may be asking? Although the narrative provided is historical in context, and despite how these practices are viewed and talked about today, they proved to be a tipping off point as well as laid the foundations for the practices of medicine and the recording of it before the term or historiographical concept of it was even applied.
  
 {% include figure.html
- class="img-left"
+ class="left"
  width="45%"
 caption="This is an example of prehistoric medical practices found on a human skul, a practice called,Trepanning. This is the only evidence we have without written sources of medical practices; through anthropological human remains."
 image-url="Trepanning.jpg"
@@ -52,14 +52,14 @@ Although the practices of the Ancient Egyptians were advanced by today’s stand
 What the author is trying to get at, is that although there is not a very distinct correlation between the Egyptians and the Greeks in regard to the way in which medicine is recorded and practiced; the Greeks took much of their influences and further evolved those concepts to match their own ways of going about recording and practicing medicine. This would in turn, give rise to the strong correlation between modern medicine and the Greeks. A civilization that has been labeled as the founders of modern western medicine and without whom, our medical practices and applications would be vastly different had those histories not been recorded. 
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="30%"
   caption="Les Papyrus is the most recent evidence we have of the significance of, andthe contributions to medical history the Egyptians provided. Published in Paris in 1995 by Thierry Bardinet, it provides evidence of Egyptian Physiology, Pathology and Therapeutics"
   image-url="les-papyrus.jpg"
   source-url="https://www.passionegypte.com/single-post/2018/08/29/17--Les-papyrus-de-la-Mer-Rouge--Pierre-Tallet-1"
 %}
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="The Edwin-Smith Ppayrus named after its founder, This particular papyrus is unique in that all the other medical papyrus in existence today although provide valuable information, are based in magic and the supernatural world to provide cures to disease that were unknown at the time; while the Edwin Smith Papyrus presents a rational and scientific approach to medicine, much like the approaches we will see later on with the continued modernization of standards of medicine."
   image-url="ESmithPapyrus.jpg"
@@ -77,7 +77,7 @@ The [***Renaissance***](https://en.wikipedia.org/wiki/Renaissance) of the fiftee
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="30%"
   caption="De humani corporis fabrica, Latin for 'On the Farbric of the human body' is a set of books written by Andreas Vesallius (1514-1564) first in depth source of **anatomy**."
   image-url="Vesalius.jpg"
@@ -85,7 +85,7 @@ The [***Renaissance***](https://en.wikipedia.org/wiki/Renaissance) of the fiftee
 %}
 
 {% include figure.html
-class="img-left"
+class="left"
 width="30%"
 caption="16th century Flemish Anatomist, Physician and Author **Andreas Vesallius**"
 image-url="Andreas-Vesalius.jpg"

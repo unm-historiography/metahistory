@@ -11,24 +11,26 @@ date: 2019-09-25
 ---
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
-  caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus, influenced by greek philosophers. He was born is 126 AD and died in 126 C. "
+  caption="Tacitus is also known as Publius Cornelius Tacitus, or Gaius Cornelius Tacitus, influenced by greek philosophers. He was born c.56 BCE and died c.120 CE. "
   image-url="Tacitus.jpg"
   source-url="https://www.google.com/search?q=tacitus&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip05X75OzkAhXMuZ4KHWWiApIQ_AUIEigC&biw=1140&bih=752#imgrc=jyu9sdnd9wwdSM:"
 %}
 
+
+Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus](https://www.britannica.com/biography/Tacitus-Roman-historian) were influenced by greek historians like Herodutus and Thucydides whom you read about in [Greek Historiography](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html). Their approaches to history would eventually 'evolve' into national histories, as a majority of their Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
+
 {% include figure.html
-  class="img-left"
+  class="left"
   width="43%"
-  caption="Livy, a famous Roman Historian who was influenced by Greek Philosophers. He was born between 59 and 64BC and died in 17AD.  "
+  caption="Livy, a famous Roman Historian who was influenced by Greek Philosophers. He was born between 59 and 64 BCE and died in 17 CE."
   image-url="Livy.jpg"
   source-url="https://www.google.com/search?q=livy+roman+historian&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs6JeD4ezkAhWGnp4KHSHWDbwQ_AUIEigC&biw=1920&bih=929#imgrc=mdGekKmdjnghpM:"
 %}
 
-Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus](https://www.britannica.com/biography/Tacitus-Roman-historian) were influenced by greek historians like Herodutus and Thucydides whom you read about in [Greek Historiography](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html). Their approaches to history would eventually 'evolve' into national histories, as a majority of their Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
 
-Roman historians faced a major challenge as they worked on their writings since most of Roman history was transmitted through [**oral traditions**](https://en.wikipedia.org/wiki/Oral_tradition "The act of orally passing down traditon and history from one generation to the next."). These oral histories been passed down from generation to generation so it's almost impossible to note what are the facts and what are the myths. Oral histories not only expressed the Roman historians limited number of written sources at their disposal but also the complication of having to determine what is fact and what is myth in a specific account.
+Roman historians faced a major challenge as they worked on their writings since most of Roman history was transmitted through oral traditions. These oral histories been passed down from generation to generation so it's almost impossible to note what are the facts and what are the myths. Oral histories not only expressed the Roman historians limited number of written sources at their disposal but also the complication of having to determine what is fact and what is myth in a specific account.
 
 Roman Historiography would have been something that remained limited to the upper classes of Roman society. During the time of the Roman Empire, only the elite would have had the access to upper levels of education and possessed the ability to read and write. Allowing the smallest percentage of the population the opportunity to focus their history on reflecting themselves and their ancestors while leaving out the majority of the population. The fact that historical writing remained a privilege of the upper class might allude to the propagandist tendencies and the nationalist approach that Roman historians have been characterized by. The ruling class would want to maintain their power and what better way to do that than by writing themselves into the history and development of the Roman Empire itself.
 
@@ -37,7 +39,7 @@ All of these aspects impacted Roman Historiography in their own ways, some reach
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="43%"
   caption="Polybius, a Greek and Roman Historian who wrote about how Rome came to great power."
   image-url="Polybios.jpg"
@@ -49,7 +51,7 @@ The Romans are well-known for their military expeditions that would expand their
 **The goal of national histories was to place importance upon themselves above the rest of the world.** The world the Romans lived in resembled their success as one of *the* most powerful empires in Antiquity; which they wanted to be conveyed through their histories. This would also include the histories of their families and what they had contributed to Rome's success. *"They were proud of their traditions - what had begun as family memories became over the centuries a collective national mystique"* (Mellor, 2013, xvi). The Romans wanted to remain true to their past, in their present and by writing national histories where they kept their ancestors and their own actions alive.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="40%"
   caption="Julius Caesar, also known as Gaius Julius Caesar, was born in 59-64 BC and died in 17 AD. He was known to write Roman History to promote propaganda."
   image-url="Julius_Caesar.jpg"

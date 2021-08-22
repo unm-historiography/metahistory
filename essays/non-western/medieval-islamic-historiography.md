@@ -4,12 +4,12 @@ title: Medieval Islamic Historiography
 author: Eden Vigil
 date: 2018-05-11
 toc-blurb: Middle Eastern scientific and cultural achievements have traditionally been ignored by Eurocentric Western academia, and Middle Eastern historiography has accordingly been excluded from the traditional historiographical narrative. The sources most commonly used for Historiography classes focus almost exclusively on Greco-Roman and European historiographers, and this section hopes to include a medieval Middle Eastern perspective.
-toc-section: non-western
+toc-section: medieval
 toc-image: 506px-Sughrat.jpg
 ---
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Illustration of Socrates from a 13th century Islamic manuscript "
   image-url="506px-Sughrat.jpg"
@@ -35,7 +35,7 @@ Ibn al-Athīr's work in *The Complete History* includes an introduction, or *muq
 Ibn al-Athīr's writing directly opposed the way in which other Islamic historians of his time (and before him) wrote. For example, Islamic historians did not focus on an area beyond their geographical location and many historians did not "extend to record events in other areas" (Kamaruzaman et. al 2015, p. 30). However, it is not to say he did not have his faults. He  "frequently suppresses elements of the original narrative, and occasionally uses the rest to support a false interpretation" (Gibb 1935, p. 746). While his work was revolutionary at the time because of the scope, it still cannot be taken at face-value as the "sole authority" (Gibb 1935, p. 751). This is important to remember for *all* works of history; thus, *the purpose of historiography*.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Bust of ibn Khaldun, Bejaia, Algeria"
   image-url="Bust_of_Ibn_Khaldun_(Casbah_of_Bejaia%2C_Algeria).jpg"

@@ -5,7 +5,7 @@ author: Keena Hays
 date: 2019-12-13
 toc-blurb: Eurocentrism encompasses many Western concepts and their effects, including colonialism, capitalism, monotheism, racism, and patriarchy. Yet, viewing the world with a Western perspective even impacts less-obvious aspects of daily life, such as conceptions of time, the calendar, familial structures, cosmology, use of the environment, etc.
 toc-image: Map01.jpg
-toc-section: thematic
+toc-section: postmodern
 ---
 
 _Have you ever read a book with a non-Western protagonist? Have you ever questioned the author's motivations for writing?_
@@ -15,7 +15,7 @@ Inherently, the term 'Eurocentric' is easy to parse, 'euro' is Europe and 'centr
 ## Eurocentrism: What is it?
 
 {% include figure.html
-class="img-left"
+class="left"
 width="49%"
 caption="Cartography is founded on two principles: abstraction and reductionism. But how have these principles been used to further instill a Euro-centered view and understanding of the world?"
 image-url="Map01.jpg"
@@ -23,7 +23,7 @@ source-url="https://secondnexus.com/environment/maps-that-might-make-you-rethink
 %}
 
 {% include figure.html
-class="img-left"
+class="left"
 width="49%"
 caption="Have you ever seen any maps like these? Note how small Europe and North America look relative to the rest of the world."
 image-url="Map02.jpg"
@@ -47,7 +47,7 @@ In response to the Roman defeat by the Visigoths in 410CE, [Bishop Augustine of 
 Not until a millennia and several centuries later would the Eurocentric depiction of history be openly refuted in Western academia. Eighteenth century German philosopher, [Georg Hegel](https://plato.stanford.edu/entries/hegel/) acts as a prime example of explicit Eurocentrism in historiography. An active supporter of colonialism, Hegel believed that European 'progress' did not have any immediate impact on non-European regions and actually showed them the path to 'freedom'. Although highly rejected today, Hegel depicts a common and severe school of thought followed before the late twentieth century (Copilas, 28-32). These thoughts of European identity heavily influenced how history was written about "others" and perpetuated preconceptions rather than challenging them. Until the twentieth century, Eurocentrism became stronger over time, as imperialist and colonialist actions reinforced preexisting perceptions of Europe and the West as advanced, or even divine.  
 
 {% include figure.html
-class="img-left"
+class="left"
 width="52%"
 caption="This image depicts a map of the world and basic definitions of what it means to be a 'developed' vs. 'developing' country. These terms recently replaced 'First', 'Second' and 'Third' world classifications. Note how 'development' is still defined by Eurocentric ideals, such as economy type, industrialization, and systemized education."
 image-url="developingcountry.jpg"
@@ -71,7 +71,7 @@ _How did you learn about the history of Mexico and South America in your high sc
 These are the types of questions historiographers have asked since Postmodernism. What was happening on the "other" side of history? But, also, how has the history of Europe and the "other" been portrayed and reinforced through Western education? History textbooks lay a foundation for education and a basic understanding of history, but are also used to propagate Eurocentric and nationalistic ideas (Paez, 211-217). These views create a divide between Europe and the "other" by generating an "Us vs. Them" mentality, rather than a conception of a whole world history (Shohat, 61).
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="49%"
   caption="_1805_ England and France 'carve' pieces of the globe to serve themselves. These types of cartoons depict a clear image of Eurocentric behavior in history. Most displays of Eurocentrism are not so easily noticed. **Click the 'source' link for an informative video on Eurocentrism's development**."
   image-url="carvingeuro2.jpg"
@@ -81,7 +81,7 @@ These are the types of questions historiographers have asked since Postmodernism
 By now, you may be aware that the term "Indian" to refer to some indigenous Americans is offensive, but there is so much more than just a misnomer that has portrayed indigenous Americans inaccurately. While the term "Indian" was a colonial invention, so was the idea of an "Indian" (Bonfil-Batalla, 79). There was no specific identity or trait that indigenous groups used to describe themselves collectively. There were hundreds (if not thousands) of independent tribes which all identified themselves as different from one another as the English and Scotts (Bonfil-Batalla, 76-79). It was not until Spanish arrival that "Indians" were lumped into one identifying category, without acknowledgment of their various cultural differences. Today, some tribes have chosen to [reclaim](https://www.huffpost.com/entry/the-name-indian-and-polit_1_b_67593) the use of the term "Indian" while others have renamed themselves, such as the _Pueblo Indigena_, "Original People", in Latin America (Jackson and Warren, 557). Reclamation and reidentification both act as ways for groups directly affected by Eurocentrism to participate in historiography and revise their history.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="37%"
   caption="Language and how it is interpreted are crucial to how history is remembered. The words 'brought' and 'work' are easily misinterpreted to imply free-will or payment, neither of which were offered to Africans during the slave-trade. Equally, the _avoidance_ of the word 'slave' depicts a certain version of history, in which Americans are portrayed as employers rather than owners."
   image-url="textbook.jpg"
@@ -106,7 +106,7 @@ So, what about cultures that do have ideas of progress, but they are the exact o
 _Can you name one film where America is portrayed as the 'villain', rather than the hero?_
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="30%"
   caption="Title: 'Saving the World in a Hollywood Movie': Love Marvel? How many regions are depicted when characters discuss saving the 'world'?"
   image-url="savingtheworld.jpg"

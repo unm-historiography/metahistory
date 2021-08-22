@@ -21,7 +21,7 @@ Many view The Bible as one of the most influential books ever written due to its
 _Is the Bible history?_ This question sparks some of the most heated debated when talking about the Bible. Making a statement that the Bible is a accurate historical account means that all the stories in the Bible happened exactly as they are described. This statement is called [**Biblical inerrancy**](https://en.wikipedia.org/wiki/Biblical_inerrancy) and means that there is no errors in the Bible. As one can imagine this claim comes with a lot of resistance and is one that can't be proven, but is that the only way we can look at the Bible? 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="60%"
   caption="It is believed by Biblical scholars that Moses was responsible for writing the first five books of Bible, also known as the Torah"
   image-url="moses.png"
@@ -94,7 +94,7 @@ In this verse Joshua and his men were engaged in battle and were winning by a la
 This understanding of the heavens would be the final authority, that is until the [Coperincan Revoluion](https://en.wikipedia.org/wiki/Copernican_Revolution). Nicolas Copernicus made some observation that differed from what Ptolemy had claimed. Copernicus had made the discovery of a [**Heliocentrism**](https://en.wikipedia.org/wiki/Heliocentrism) where the sun is the center, but there was little he could do because one didn't challenge the ancient authorities. He was so worried about what a challenge like this could mean that he didn't publish he findings, _On the Revolutions of the Heavenly Spheres_, until later in his life.    
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="33%"
   caption="The model of Heliocentrism was a challenge to authorities that wanted to keep the status quo."
   image-url="bvs4.gif"
@@ -105,7 +105,7 @@ Copernicus fears were not unwarrented because his book was banned the Church, bu
 
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="50%"
   caption="Changing the ancient authority of the make up of the heavens was no small task and took multiple efforts."
   image-url="historicalspace.png"
@@ -120,7 +120,7 @@ This example shows how the tides of change were upon both the Bible and Science.
 Biblical philosophy was pushed into a different direction when looking at and trying to understand the Bible. The shift was away from the literal translation. This change in thought was highlighted by **Averroes** and his **double truth theory**. Averroes was a muslim philosopher, and one of the most important Arab thinkers of the Middle ages. “The doctrine of double truth meant that a claim could have different meanings at different levels- a literal philosophical meaning and an allegorical or figurative theological meaning.” (Stump, pg 9)
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Great Christian mind, Origen of Alexandria, worked to get churchs on the same doctrinal page."
   image-url="bvs7.jpg"

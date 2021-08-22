@@ -7,7 +7,7 @@ sections:
     display: Antiquity (-300CE)
   - name: medieval
     display: Medieval (300-1300)
-  - name: early modern
+  - name: early-modern
     display: Early Modern (1300-1675)
   - name: enlightenment
     display: Enlightenment (1675-1815)

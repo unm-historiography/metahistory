@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historiography and Enlightened Thinking
+title: Enlightened History
 author: Andy Mancha
 date: 2016-11-19
 toc-blurb: Often described as a long 18th century, the Enlightenment spanned from 1685-1815 and has held a crucial place in the narratives of history and the methods of historiography. The social and political situations of the past led to the need for new ways of thinking with various innovative and revolutionary methods that broke from the historical traditions of past centuries.

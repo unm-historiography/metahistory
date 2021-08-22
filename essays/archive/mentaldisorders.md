@@ -17,7 +17,7 @@ I am currently a history major and a psychology minor at the University of New M
 
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="49%"
   caption="Seems a bit Screwy, this act of 'TREPHINATION'  During this period, if something was wrong with a person's head, they just drilled a hole and let out the 'BAD'."
   image-url="trephination.jpg"
@@ -33,7 +33,7 @@ The documented history of mental disorders dates back over the last “10,000 ye
 In 200 A.D. **Galen**, a Roman physician adopted and incorporating Hippocrates ideas which created a long-lasting school of thought throughout the field of psychopathology. He suggested that normal and abnormal behaviors are related to four bodily fluids, or humors. These fluids/humors needed to be maintained at specific levels in order for people to function ‘normally’. The four Humors include choleric (yellow bile, fire), melancholic (black bile, earth), sanguine (blood, air) and phlegmatic (phlegm, water). This biological tradition would continue into the 19th century. The avenues by which those of this time perceived mental disorders were primitive, but progressing. The advancement in thought, practice, and knowledge lead those of this time period to build on certain aspects, as well as rid others. With the belief that mental disorders were purely caused by physiological aspects, thinkers of this period would rest upon the biological tradition practiced over the past few hundred years.  
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="33%"
   caption="Evil or Misunderstood? The individuals in this period were thought to be possessed by the supernatural rather than being Mentally Ill "
   image-url="witchcraft.jpg"
@@ -64,7 +64,7 @@ Behaviorism would be coined by John B. Watson, an American psychologist who esta
 
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="49%"
   caption="A seemingly 'Shocking' treatmnet.Can electric shock therapy be benificial to treating Mental Disorders?"
   image-url="electric%20shock%20therapy.jpg"

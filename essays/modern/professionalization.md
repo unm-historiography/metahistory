@@ -21,7 +21,7 @@ Before the mid-nineteenth century, historians conducted their work as a hobby or
 If asked to sum this up, Ranke would declare that history is “documentary, not speculative” (Gil, 2009, p. 385). **To Ranke, any evidence that was not empirical should not be considered.** Historian [Emile Benveniste](https://en.wikipedia.org/wiki/%C3%89mile_Benveniste) articulated Ranke’s beliefs in this statement: “I wish I could annihilate my own self and only the objects would speak” (Maurer, 2006, p. 315). Ranke’s vision of a perfect historian entails a mere collection of sources, with no evident personal bias. This is a stark contrast from previous historical works, and the first real alternative to the ancient standard that was set by the famous Greek historian, [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (Muir, 1987, p. 3). Beforehand, historians would still justify their writings with source material, but the sheer level of empirical research that the **Rankean Method** requires is much more intensive than what was previously completed. **Ranke’s shift required historians to be accountable for their narratives who now had to back their work with real, empirical sources.**
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="42%"
   caption="Leopold Van Ranke."
   image-url="ranke.jpg"
@@ -35,7 +35,7 @@ Ranke certainly emphasized a focus on objectivity, but his principal ideaology w
 Only recognizing empirical evidence as acceptable source material led Ranke to incorporate peer review in his classes. Peer review was conducted through Ranke’s **seminar system**. Before Ranke, history was taught primarily in lecture series. History students were given a narrative but had no instruction on how to create their own. Ranke saw this flaw in history education and created smaller, interpersonal classes where students sat in groups and subjected their works and opinions to criticism from fellow pupils. Historically-inclined peers now determined the success of a historical narrative, not the public or a ruling class (Popkin, 2016, p. 79). **Historians saw this change as improving the objectivity of their research; by not having to adhere to any one figure or community's personal desires, the historian could write about the unfiltered truth.** Even in a modern context, post-graduate history courses are still conducted by the seminar guidelines that Ranke enacted in his classrooms.
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="42%"
   caption="British conservative Edmund Burke. Burke would disagree with his contemporaries when it came to how to intrepret past histories in light of new standards: they must still be respected and valued! "
   image-url="EdmundBurke1771.jpg"
@@ -45,7 +45,7 @@ Only recognizing empirical evidence as acceptable source material led Ranke to i
 Proliferation of history as an academic pursuit formed a stark shift in how historical writing was conducted. While previous historians often looked for *absolute truth* or relied on religious or philosophical *certainties*, historians under Ranke knew that to achieve truth, it meant “not only establishing the facts as correctly as possible, but also placing them in their cotemporary context in such a way that the past would come to life again” (Gilbert, 1987, p. 394). German historian [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) believed that this line of thinking would put all of history in a new perspective, as the “outcome of events is not determined by general laws that human beings cannot alter” (Popkin, 2016, p. 69). **The legitimacy of historical work conducted in the past was put into question, as religious or moral lessons found in past historical works certainly breached the ideal of objectivity.** This uneasiness in relying on past sources created an environment where “the entire history of the past suddenly cried out to be rewritten” (Popkin, 2016, p. 76). British Conservative [Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke) believed that these past histories should still be respected, as they are a “better guide for the present than rational maxims” (Popkin, 2016, p. 72). While historians still cite ancient Greek historians, such as [Herodotus](https://en.wikipedia.org/wiki/Herodotus) or [Polybius](https://en.wikipedia.org/wiki/Polybius), these source’s motives and bias must be called to question. **Many historians still respect their traditions and acknowledge these past works for their practical experience but have garnered a healthy amount of skepticism when it comes to the reliability of these sources.** This skepticism made some historians such as Foucault question source reliability even further, later cumulating into the postmodernist movement of the late-20th century.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="42%"
   caption="J.Franklin Jameson. The first Editor in the American Historical Review. Jameson would build upon Ranke's work and ultimately stress that while historians should attempt to be objective, it's important to recognize that no one could ever be objective."
   image-url="J._Franklin_Jameson_NARA_12169072_64-NA-1472_(cropped).jpg"
@@ -59,7 +59,7 @@ As with any approach to history, there are drawbacks to Ranke’s methods. In th
 Focusing on objectiveness created a tendency to rely on political source material. While Ranke did not discredit social and economic factors “in his works, they were seen and located in the framework of a political history (Gil, 2009, p. 385). It makes sense to use the most credited sources, but a focus on political documents “singled out documents that were generated primarily by the states” (Iggers, *Historiography in the 20th century*, 2005, p. 470). This was a contributing factor to the rise in nationalism in the 19th and early 20th century, nearly all history being taught at the academic level was political. Due to this trend, **the modern political system utilized historians as propaganda machines during World War [I](https://en.wikipedia.org/wiki/Propaganda_in_World_War_I)/[II](https://en.wikipedia.org/wiki/American_propaganda_during_World_War_II), and even into the [Cold War](https://en.wikipedia.org/wiki/Propaganda_in_the_United_States#Cold_War).**
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="42%"
   caption="A diagram of the basic principles of Eugenics"
   image-url="Eugenics_congress_logo.png"
@@ -69,7 +69,7 @@ Focusing on objectiveness created a tendency to rely on political source materia
 Another dangerous result of applying scientific methodology to history was the rise of narratives concerning racial purity and [eugenics](https://en.wikipedia.org/wiki/Eugenics). These “racial explanations were frequently advanced to justify historical developments such as [European imperial conquests](https://en.wikipedia.org/wiki/Imperialism#Imperialism_by_country) in the rest of the world, the [westward expansion of the United States](https://www.history.com/topics/westward-expansion/westward-expansion), and [slavery](https://www.history.com/topics/black-history/slavery) and [segregation](https://www.history.com/topics/black-history/segregation-united-states) in the American South” (Popkin, 2016, p. 88). This became a rampant feature of this time, which coupled with nationalist ideals to a devastating effect in the late 19th and early 20th century. Even though Ranke vehemently opposed the concept of a "total" or "grand" narrative that encompasses all of humanity, **he was often guilty of constructing these overarching narratives anyway** (Popkin, 2016, p. 82). This highlights a reoccurring theme during this period, the hypocrisy of the Rankean historian.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="42%"
   caption="Mother Germany. German Nationalism. The sentiments of German nationalism embodied into an anthropomorphic figure. "
   image-url="800px-Image_Germania_(painting).jpg"

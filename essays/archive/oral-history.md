@@ -26,7 +26,7 @@ The act of telling history through Oral Tradition is very common through History
 ## **Oral History as a Field**
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="40%"
   caption="Poster for the documentary series, ‘Conversations with a Killer: The Ted Bundy Story’ (Photo Credit: Netflix)"
   image-url="tedbundyposter.jpg"
@@ -38,7 +38,7 @@ Today, Oral History has been made into new mediums for all people to have knowle
 ### **The Past**
 
 For centuries philosophers and historians have argued why oral history is not a good way to record history because the way people often tell the history of the past. It gets construed because of the way they remember the event. The ancient Greek historian [Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian) states this as well when he writes his famous book called *The History of the Peloponnesian Wars*. He says, “*My conclusions have cost me some labour from the want of coincidence between accounts of the same occurrences by different eyewitnesses, arising sometimes from imperfect memory, sometimes from undue partiality for one side or the other*” (Thucydides, 40-41). Thucydides talks about how people remember the same event differently, and often, as the people talk about the event that happened gets twisted and information gets changed. Historians have often disregarded oral history because it can be unreliable for many reasons. Often historians have disregarded oral history because people often don’t remember the event correctly, and some historians much rather look at *history* that is written down. Even though written records don’t change the record could be an indirect account of an event, or even tell of someone else’s memory or story of the event.Any interview could be bias. The interviewee could be made uncomfortable because of the environment they are in.
-{% include figure.html  class="img-left"
+{% include figure.html  class="left"
   width="39%"
   caption="This is a reel to reel invented by the German brand Magnetophon who was the first to invent the reel to reel during World War Two."
   image-url="1930reeltoreel.jpg"
@@ -56,7 +56,7 @@ What Mariner says is that the notes taken during an interview can be wrong based
 
 >For the field of oral history, the true digital revolution has only just begun, and it entails more than the economic or technological changes that make recorders cheaper, smaller, and faster with better resultant sound. The real revolution will be a change in consciousness about how oral history, as a historical resource, can be engaged and discovered more easily, more widely and effectively distributed, and ultimately, more responsibly preserved (Ritchie).
 {% include figure.html
-  class="img-right"
+  class="right"
   width="35%"
   caption="Tupac Shakur was a famous rapper known to sing about struggle and speak against injustice against the African American community. He was born in 1976 and was murdered in a drive-by shooting in 1996"
   image-url="tupac.jpg"

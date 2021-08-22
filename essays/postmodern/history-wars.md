@@ -6,7 +6,7 @@ author: James Hughes
 date: 2016-11-19
 toc-blurb: This essay will focus on the “History Wars” of conflicting historical narratives, different approaches to studying history and ultimately, the battle for authority, particularly the conflict between popular history and academic history.
 toc-image: 422px-Louis_XIV_of_France.jpg
-toc-section: thematic
+toc-section: postmodern
 ---
 
 
@@ -14,7 +14,7 @@ toc-section: thematic
 This essay will focus on the “History Wars” of conflicting historical narratives, different approaches to studying history and ultimately, the battle for authority, particularly the conflict between popular history and academic history (Popkin, 2016, 154). In essence, a work of popular history is written for the purpose of reaching mass audiences while academic history is written for specialists.  The historical construction of national identities is another crucial aspect of the “History Wars” as countries debate and have debated on historical themes such as nationalism and imperialism. **The debate on how historians should construct the past will have repercussions for the future of historical studies because, “he who controls the past controls the future. He who controls the present controls the past”** (Popkin, 2016, 113).
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="Louis XIV"
   image-url="422px-Louis_XIV_of_France.jpg"
@@ -42,7 +42,7 @@ In the 1960s and 1970s, popular historians such as Pierra Nora, Emmanuel Le Roy 
 %}
 In 1994, the divide between popular and academic history was on full display in the United States when the Smithsonian attempted to bring the *Enola Gay*, the plane that dropped the atomic bomb on Hiroshima during World War II, to its Washington D.C. museum (Linenthal, 1996). In alignment with the mainstream academic historical perspective, the Enola Gay exhibit was designed to show “the devastation and human suffering caused by its use” (Popkin, 2016, 160). The exhibit was seen by many Republicans and veteran groups as “anti-American” and “projecting the ‘countercultural values’ of the Vietnam era onto America’s last good war” (Linenthal, 1996, p. 2). But for academic historians like Beverley Southgate, who was not involved in the development of the Enola Gay exhibit, the agenda of all modern history should not be to promote nationalist histories but to advocate for “that international community to which now we all belong” (Southgate, 2005, 74). **In this case, not only do the believers of popular history and academic history have different viewpoints but they have different values.** The Enola Gay exhibit was later discarded by the museum in 1995. But, the idea of the exhibit itself struck at the heart of the “History Wars”, a term that drove Edward Linenthal to write the book “*History Wars: The Enola Gay and Other Battles for the American Past*” (Linenthal, 1996).
 {% include figure.html
-  class="img-left"
+  class="left"
   width="33%"
   caption="The Japanese signing the act of surrender on board the USS Missouri on Septemnber 2nd, 1945, marking the end of World War II."
   image-url="402px-World_War_II_is_over.jpg"

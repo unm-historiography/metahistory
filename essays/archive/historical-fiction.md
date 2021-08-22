@@ -6,7 +6,7 @@ date: 2019-12-13
 ---
 
 {% include figure.html
-   class="img-right"
+   class="right"
    width="20%"
    caption=""
    image-url="writing.jpg"
@@ -23,7 +23,7 @@ While there is a vast landscape of literary genres, let's take a look at three i
  [Narrative History](https://en.wikipedia.org/wiki/Narrative_history) or [Academic History](https://en.wikipedia.org/wiki/Academic_writing) - This form of historical writing is the one we are most familiar with, having been bored to tears with it throughout those torturous years from elementary through high school. The 'facts' of narrative history were beaten into our heads.  Rote memorization is the bane of historical narratives,  throwing a wet blanket on anything really interesting or exciting in history.  This brings back memories of [Ben Stein]'s(https://en.wikipedia.org/wiki/Ben_Stein) lecture on the [Smoot-Haley Tariff Act](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act) in [Ferris Bueller's Day Off](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off).  Minimizing creative license in the narrative, adding elements that cannot be supported by historical sources or the embellishing of fact to enhance the reader’s emotional investment in the narrative, is what had us mainlining No-Doze all through high school. Included in this genre are biographies, memoirs, and documentaries. [^Narrative][^acadhist]
 
  {% include figure.html
-    class="img-left"
+    class="left"
     width="33%"
     caption="_Modern Marvels_, produced by The History Channel, provides a narrative of technology that makes the mundane exciting."
     image-url="Modern_Marvels.jpg"
@@ -45,7 +45,7 @@ While there is a vast landscape of literary genres, let's take a look at three i
  [Historical Fiction](https://www.dictionary.com/browse/historical-fiction) - Now, this is where history started to really 'grab' us.  Those exciting stories that drew us in and made us feel as though we were living them. Accurate historical settings, characters and larger events, with the addition of elements created by the author that cannot be supported by the historical record, makes historical fiction interesting.  It strives “for the story that underlies reality and thus become an imagined reality” [^Dictionary][^HistFic vs Hist].
 
  {% include figure.html
-    class="img-left"
+    class="left"
     width="33%"
     caption="An exciting and energetic HBO presentation, _Rome_ brings life to Caesar's Rome."
     image-url="rome.jpg"
@@ -80,7 +80,7 @@ While narrative history and historical fiction differ, they also have much in co
 For centuries we have relied on the traditional ‘narrative’ in the academic world.  Whether [Greek](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html) ([Ptolemy]( https://en.wikipedia.org/wiki/Ptolemy_I_Soter), [Timaeus](https://en.wikipedia.org/wiki/Timaeus_(historian))), [Roman](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/roman-historiography.html) ([Tacitus](https://en.wikipedia.org/wiki/Tacitus), [Livy](https://en.wikipedia.org/wiki/Livy), [Pliny](https://en.wikipedia.org/wiki/Pliny_the_Elder)), [Christian](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/providential-history.html) ([Augustine](https://www.iep.utm.edu/augustin/), [Eusabius Pamphili](https://en.wikipedia.org/wiki/Eusebius), [Socrates of Constantinople](https://en.wikipedia.org/wiki/Socrates_of_Constantinople), [Caesar Baronius](https://en.wikipedia.org/wiki/Caesar_Baronius)), or [modern] ([Leopold van Ranke](https://en.wikipedia.org/wiki/Leopold_von_Ranke), [Frederick Jackson Turner](https://en.wikipedia.org/wiki/Frederick_Jackson_Turner), [Voltaire](https://en.wikipedia.org/wiki/Voltaire)), historians have rejected the idea of anything other than the '**facts for fact's sake**_,' leaving us with the narrative style we have known throughout our schooling. While the 'facts' are central to the very nature of historical studies, there is a lack of emotion and personal investment for us as the readers.  Wait, don't nod off yet!
 
  {% include figure.html
-    class="img-right"
+    class="right"
     width="33%"
     caption="Michelangelo's _Creation of Adam_, on the ceiling of the Sistine Chapel, is a representation of the Christian creation myth."
     image-url="genesis.jpg"
@@ -92,7 +92,7 @@ Early civilizations—[Greeks](https://en.wikipedia.org/wiki/Ancient_Greece), [R
 Historical fiction is different. In fact, it is more interesting and possibly **more historically accurate**, by many accounts, than the [Greek](https://en.wikipedia.org/wiki/Greek_mythology), [Roman](https://en.wikipedia.org/wiki/Roman_mythology), or [Christian](https://en.wikipedia.org/wiki/Christian_mythology) mythologies. While interesting, these mythologies provide little historical substance.  In this way historical fiction serves a greater purpose to us as readers of history, beyond mere entertainment. We strive for accuracy and detail, which is at the heart of historical fiction, and hunger to understand the moments in between.[^creanon]
 
  {% include figure.html
-    class="img-left"
+    class="left"
     width="33%"
     caption="(Top to Bottom) Colleen McCullough's _Masters of Rome series_ provides an informed and insightful look into ancient Rome."
     image-url="masters-of-rome.jpg"
@@ -113,7 +113,7 @@ In examining the utility of historical fiction in the study of history, we must 
 [Narrative](https://www.vocabulary.com/dictionary/narrative) is that process of conveying information through a story.  With the exception of numerical data, everything we say and write is part of a narrative.[White1]  We are story tellers at heart, and it is through stories that we add meaning to events, and data.  Though argued by many, including [Michel _Foucault_](https://en.wikipedia.org/wiki/Michel_Foucault), [Jean-Francios _Lyotard_](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard), and [Alun _Munslow_](https://en.wikipedia.org/wiki/Alun_Munslow), it is [Alex Rosenberg](http://www.alexrose46.com/) (a Professor of Philosophy and author of two historical novels) who makes the most direct assault on narrative’s utility painting a bold target on historians use of the tool.  
 
 {% include figure.html
-   class="img-right"
+   class="right"
    width="33%"
    caption="Alex Rosenberg"
    image-url="Rosenberg.jpg"

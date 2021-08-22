@@ -23,7 +23,7 @@ During his time at Columbia, Dunning studied politics and philosophy where he wa
 
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="42%"
   caption="The term 'Jim Crow' orginated from black-faced minstrels who preformed various songs and acts for the amusment of white audiences. This image is a racist protrayal of black Americans that has been deliberately exaggerated for comedic appeal."
   image-url="Jimcrow.jpg"
@@ -33,7 +33,7 @@ During his time at Columbia, Dunning studied politics and philosophy where he wa
 Throughout the many essays Dunning published till his death in 1922, Dunning was applauded for his incorporation of abundant primary source references as well as commended for the educational value and topical subject during a time of heightened race conflict. The Supreme Court's ruling of [Plessy V. Ferguson](https://en.wikipedia.org/wiki/Plessy_v._Ferguson) had shaken race-based politics in 1896, Dunning worked to **justify white supremacy** and support [Jim Crow](https://en.wikipedia.org/wiki/Jim_Crow_laws) practices of segregation. He claimed that *slavery was the only way the two races would live in harmony and that with the abolition of slavery, the nation was now in a state of confusion that could only be remedied by returning to a system that produced the same racial inequality as with slavery*. [Tommy Song](https://columbiaandslavery.columbia.edu/content/william-archibald-dunning-father-historiographic-racism-columbias-legacy-academic-jim-crow), a research fellow at the University of Columbia states, “ When discussing black Americans, Dunning’s scientific method lost relevance, or rather, lost necessity; the professor, now in his forties, believed racial inequality as natural, unworthy of supporting evidence since it was- and should be accepted as- an innate truism” (Song, par.5,10,15,17,18,21,22,25,31).
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="52%"
   caption="Instances of segregation were common throughout America. The infamous ruling of Plessy v. Ferguson argued that segreation should be allowed only in instances that were 'seperate but equal'."
   image-url="1200px-_Colored__drinking_fountain_from_mid-20th_century_with_african-american_drinking.jpg"
@@ -46,7 +46,7 @@ What is unique about the case of William Archibald Dunning, was not his blatant 
 Using the latest historical methods to validate to his work and thus, he created an air of credibility about himself and his thinking. This 'credibility' would go on to inspire other historians, as they too, began to present racism in more of a methodologically sound approach. The contextual timing of Dunning’s work was pertinent to his success as well: the south was still reeling from its loss in [The Civil war](https://en.wikipedia.org/wiki/American_Civil_War) and societal changes such as the [13th](https://constitutioncenter.org/interactive-constitution/amendment/amendment-xiii), [14th](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution), and [15th](https://constitutioncenter.org/interactive-constitution/amendment/amendment-xv) Amendments brought massive strife to the country nationwide as America struggled to adjust to its new reality. Jim Crow culture shaped many white Americans attitudes towards their black counterparts, and black Americans struggled for basic rights under the ever-present threat of segregationist politics and  the [KKK](https://en.wikipedia.org/wiki/Ku_Klux_Klan#Second_KKK).
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="42%"
   caption="The cover page of Charles Darwin's 'On the Origins of Species'. A revolutionary work that fundamentally changed scientific perspectives. The ideas were also used to justfiy racism by providing supporters of scientific racism a level of 'credibility'."
   image-url="800px-Origin_of_Species_1859_title_page.jpg"
@@ -58,7 +58,7 @@ One of the leading rationalizations of Jim Crow and other discriminatory practic
 **For Dunning, scientific racism was an unavoidable cultural sentiment**: “During the late nineteenth and early twentieth centuries, scientific racism formed a vital link in the oppression of American blacks. If established social science defined blacks as inferior beings who could naturally be expected to occupy the position in society which they in fact held, the occasional social reformers could be dismissed as romantic dreamers who had neither knowledge nor appreciation of hard scientific fact” (Taylor, 450).    
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="42%"
   caption="Claude Bowers: Dunning's most infamous student. He would write the hugely popular work titled 'The Tragic Era: The Revolution After Lincoln' where he propagated racist ideas such as 'The Lost Cause', southern victimhood, and the 'tragedy' of Reconstruction for white Americans. "
   image-url="600px-Claude_Bowers_cph.3b13150.jpg"
@@ -79,7 +79,7 @@ The Dunning school of thought can as such be classified as a predominant ideolog
 At its core, the Dunning school of thought is a period of racist history which affected historical interpretation and methodologies. It backed social inequality by providing “**scientific**”, “**sound**”, and “**empirical**” research that supported segregation and discrimination. Furthermore, framework and methodologies found in the Dunning school of thought was far-reaching: *influencing hundreds of historians in one form or another and receiving positive reviews from the public*. When reflecting upon Reconstruction historiography, Revisionist historians label this era of historical scholarship: **The Dunning Era**.
 
 {% include figure.html
-  class="img-left"
+  class="left"
   width="52%"
   caption="The March on Washington, 1963. The Civil Rights era worked towards un-doing much of the wrongs that had been commited against black Americans. They demanded equal rights on both a cultural and legal level. Rhetoric during this era influenced many Americans and that influence can be seen through the formation of historical Revisonists.  "
   image-url="March_on_washington_Aug_28_1963.jpg"

@@ -13,7 +13,7 @@ toc-section: medieval
 ## Introduction and historical context
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="The Venerable Bede, from *The Last Chapter*, c. 1902, by James Doyle Penrose. there are no surviving contemporary images of Bede, and so all depictions of him are thus figments of various artists' imaginations."
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
@@ -26,7 +26,7 @@ What year is it? As I write this, 2019 is nearing its end. But why is this year 
 In some cases in the study of historiography, as in M. C. Lemon’s *The Philosophy of History* or Eileen Ka-Mey Cheng’s Historiography: An Introductory Guide*, the whole medieval period from the fall of the Western Roman Empire (476 AD) to the beginning of the Renaissance (circa 1350) are ignored. Lemon in particular might argue that Bede’s work was not part of a major philosophical shift in Historiography. ‘Historians’ in the medieval era are often pictured as mere chroniclers doing little more than listing events, or else seen as so biased or backwards that their finished works and methodology alike are considered unworthy of notice. It is true that many well-known works of history do fit this model, such as the [Anglo-Saxon Chronicles]( https://en.wikipedia.org/wiki/Anglo-Saxon_Chronicle). However, this is not always the case. There were many medieval historians whose methods and works might be thought of as ‘ahead of their time’. One such scholar is [Bede](https://en.wikipedia.org/wiki/Bede) (c. 672-735), commonly known as the ‘Venerable Bede.’
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="The Kingdom of Northumbria, around 700 AD, comprising northern england and part of present-day Scotland. Wearmouth and Jarrow, where Bede spent his adult life, were located near the coast, just north of Durham."
   image-url="Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg"
@@ -37,7 +37,7 @@ Bede was born in the north of England, in what was then the independent kingdom 
 
 Bede would remain in Jarrow, or its neighboring twin monastery, Wearmouth, for the rest of his life, making only occasional trips to other parts of England to visit other members of the church. Among his contemporaries, Bede was well known and respected for his writing and his other intellectual pursuits. He died on the 26th of May, 735, and soon after his death he was considered a saint, with the day of his death celebrated as a feast day. in 1899, he was declared a [Doctor of the Church](https://en.wikipedia.org/wiki/Doctor_of_the_Church), a title awarded by the Catholic Church to celebrate noteworthy contributions to theological, doctrinal, or other fields of learning, alongside such other scholars as St. Augustine of Hippo and Thomas Aquinas.
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="A rather fanciful depiction of Bede's death in 735, taken from *Our Catholic Heritage in English Literature of Pre-Conquest Days* by Emily Henrietta Hickey, published in 1910"
   image-url="Death_of_St_Bede_-_Project_Gutenberg_eText_16785.jpg"
@@ -60,7 +60,7 @@ Some of Bede’s sources were narrative in form, stories told to him by Albinus,
 Bede clearly states his purpose in writing his history. For Bede, there are no questions about speculative philosophy of history, which in part poses the question of what history is for, of what purpose it serves. Bede provides a clear answer to the question of what history, or at least his history, is for. Dedicated to [Ceolwulf]( https://en.wikipedia.org/wiki/Ceolwulf_of_Northumbria), then king of Northumbria, Bede states unequivocally that “if history records good things of good men, the thoughtful hearer is encouraged to imitate what is good: or if it records evil of wicked men, the devout, religious listener or reader is encouraged to avoid all that is sinful and perverse and to follow what he knows to be good” (Ecclesiastical History, 41).  
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="The Venerable Bede, from the *Nuremberg Chronicle*, 1493. The fact that the English Bede is depicted in a German chronicle shows how widespread his works and influence was, even more than 750 years after his death."
   image-url="Nuremberg_Chronicle_Venerable_Bede.jpg"
@@ -80,7 +80,7 @@ It’s worth pointing that the *anno Domini* system itself is just as reliant on
 It is difficult for modern readers to understand how important Bede’s championing of *anno Domini* and its ensuing well-nigh worldwide adoption is to the study of history, let alone to the pragmatic concerns of everyday life in the modern world. Prior to Bede, most countries and chronicles used their own systems of dating, counting years from the founding of a dynasty or else according to how long the current ruler had reigned. Thus, different accounts of the same events would place them in different years according to where each document was written, leading to dizzying confusion for modern readers. Indeed, for many historical events in the early modern period, precise dates are scarce. The historical profession cannot overstate its gratitude to Bede for expanding the use of a universal system of numbering years, first in the Christian world, and later used across the globe.   
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="50%"
   caption="A page from a manuscript of Bede's treatise *De natura rerum* (On the nature of Things). Originally written in 703, this page is from a copy made in the 12th century."
   image-url="De_natura_rerum_Beda.jpg"

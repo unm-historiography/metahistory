@@ -67,7 +67,7 @@ If you've waited more than 5 minutes and your image is still not appearing, you 
 
 
 ### Standard Usage
-{% include figure.html class="img-right" width="33%"
+{% include figure.html class="right" width="33%"
 caption="Mesa Vista Hall is **awesome**"
 image-url="../../assets/images/default.jpg" %}
 
@@ -77,7 +77,7 @@ Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis s
 To embed the image above, we use:
 ```
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Mesa Vista Hall is **awesome**"
   image-url="default.jpg"
@@ -89,7 +89,7 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 ### Half-width
-{% include figure.html class="img-left" width="50%" image-url="../../assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
+{% include figure.html class="left" width="50%" image-url="../../assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -98,7 +98,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 To achieve the above half-width image, use:
 ```
 {%raw%}{% include figure.html
-class="img-left"
+class="left"
 width="50%"
 caption="Obviously we need a 50% image somewhere."
 image-url="Augustine_Lateran.jpg"
@@ -108,16 +108,16 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ---
 
 ### Side by side
-{% include figure.html class="img-left" width="49%" image-url="../../assets/images/Herder.jpg" caption="Here's an image on the left."%}
+{% include figure.html class="left" width="49%" image-url="../../assets/images/Herder.jpg" caption="Here's an image on the left."%}
 
-{% include figure.html class="img-left" width="49%" image-url="../../assets/images/Johann.jpg" caption="Here's an image on the right."%}
+{% include figure.html class="left" width="49%" image-url="../../assets/images/Johann.jpg" caption="Here's an image on the right."%}
 
 ---
 To achieve two images side by side use (note the 49% width for each):
 ```
 {%raw%}
 {% include figure.html
-class="img-left"
+class="left"
 width="49%"
 caption="Here's an image on the left."
 image-url="Herder.jpg"
@@ -125,7 +125,7 @@ source-url=""
 %}
 
 {% include figure.html
-class="img-left"
+class="left"
 width="49%"
 caption="Here's an image on the right."
 image-url="Johann.jpg"
