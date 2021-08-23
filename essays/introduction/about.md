@@ -4,6 +4,7 @@ title: About this site
 author: Fred Gibbs
 date: 2021-08-21
 toc-section: introductions
+home-display: false
 order: 1
 ---
 

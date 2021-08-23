@@ -15,7 +15,7 @@ date: 2016-12-02 00:00:00
 <div class="cards">
 
 {% for item in pages %}
-  {% if item.toc-section == section.name %}
+  {% if item.toc-section == section.name and item.home-display != false %}
   <a href="{{site.baseurl}}{{item.url}}">
   <div class="row">
     <div class="col-md-8">

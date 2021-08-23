@@ -67,9 +67,18 @@ h2 {
 
 h2.subtitle {
   font-family: 'Sintony', sans-serif;
-  text-transform:uppercase;
-  letter-spacing: -.02rem;
+  font-size: 1.3rem;
+  letter-spacing: -0.04rem;
   color: #666;
+  margin-top:-0.4rem;
+}
+
+h2.author {
+  font-family: 'Sintony', sans-serif;
+  text-transform:uppercase;
+  font-size: 1rem;
+  letter-spacing: -0.04rem;
+  color: #999;
   margin-top:1rem;
   margin-bottom:3rem;
 }

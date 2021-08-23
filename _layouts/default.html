@@ -65,15 +65,19 @@
 
           <h1>{{page.title}}</h1>
           <h2 class="subtitle">{{page.subtitle}}</h2>
+          {% if page.author %}
+          <h2 class="author">By {{page.author}}</h2>
+          {% endif %}
+
+          <!--
+          {% if page.editor %}
+          <h2 class="author">Edited by {{page.editor}}</h2>
+          {% endif %}
+          -->
 
           {{ content }}
 
-          <hr>
 
-          <div class="author">Written by {{page.author}}</div>
-          {% if page.editor %}
-          <div class="author">Edited by {{page.editor}}</div>
-          {% endif %}
 
 
           <!-- <p>{{ page.content | number_of_words }} words</p> -->
