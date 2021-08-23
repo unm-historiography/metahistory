@@ -21,6 +21,8 @@ date: 2019-09-25
 
 Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus](https://www.britannica.com/biography/Tacitus-Roman-historian) were influenced by greek historians like Herodutus and Thucydides whom you read about in [Greek Historiography](https://unm-historiography.github.io/intro-guide/essays/classical-antiquity/greek-historiography.html). Their approaches to history would eventually 'evolve' into national histories, as a majority of their Roman historical works emphasized the Romans' superiority in relation to the rest of the world. The inclusion of fables and myths would create new challenges as it would be harder to determine what is the 'truth' that they are setting out to find and what is the 'fictional' or unimportant details.
 
+Roman historians faced a major challenge as they worked on their writings since most of Roman history was transmitted through oral traditions. These oral histories been passed down from generation to generation so it's almost impossible to note what are the facts and what are the myths. Oral histories not only expressed the Roman historians limited number of written sources at their disposal but also the complication of having to determine what is fact and what is myth in a specific account.
+
 {% include figure.html
   class="left"
   width="43%"
@@ -28,9 +30,6 @@ Roman historians, like [Livy](https://en.wikipedia.org/wiki/Livy), and [Tacitus]
   image-url="Livy.jpg"
   source-url="https://www.google.com/search?q=livy+roman+historian&client=firefox-b-1-e&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs6JeD4ezkAhWGnp4KHSHWDbwQ_AUIEigC&biw=1920&bih=929#imgrc=mdGekKmdjnghpM:"
 %}
-
-
-Roman historians faced a major challenge as they worked on their writings since most of Roman history was transmitted through oral traditions. These oral histories been passed down from generation to generation so it's almost impossible to note what are the facts and what are the myths. Oral histories not only expressed the Roman historians limited number of written sources at their disposal but also the complication of having to determine what is fact and what is myth in a specific account.
 
 Roman Historiography would have been something that remained limited to the upper classes of Roman society. During the time of the Roman Empire, only the elite would have had the access to upper levels of education and possessed the ability to read and write. Allowing the smallest percentage of the population the opportunity to focus their history on reflecting themselves and their ancestors while leaving out the majority of the population. The fact that historical writing remained a privilege of the upper class might allude to the propagandist tendencies and the nationalist approach that Roman historians have been characterized by. The ruling class would want to maintain their power and what better way to do that than by writing themselves into the history and development of the Roman Empire itself.
 
@@ -68,11 +67,11 @@ Both Livy and Julius Caesar take on this national history form in order to conve
 ## Roman Religion, Christianity, and Historiography
 
 {% include figure.html
-  class="img-center"
+  class="right"
   width="50%"
-  caption="Depiction of the all and powerful God Jupiter. "
-  image-url="Jupiter.jpg"
-  source-url="https://www.google.com/search?client=firefox-b-1-e&biw=1140&bih=752&tbm=isch&sa=1&ei=5dqLXYPbA4X7-gTH_ZTICw&q=jupiter+roman+god&oq=jupiter+roman+god&gs_l=img.3..0l10.97842.99431..99556...0.0..0.85.764.10......0....1..gws-wiz-img.......0i67.rywGFp64aMI&ved=0ahUKEwjD4cam9OzkAhWFvZ4KHcc-BbkQ4dUDCAY&uact=5#imgrc=gOXqiibl8TK8uM:"
+  caption="Greek Gods were central to the understanding of history and day-to-day life."
+  image-url="greek-vase.jpg"
+  source-url="https://www.flickr.com/photos/69716881@N02/8097861684"
 %}
 
 
