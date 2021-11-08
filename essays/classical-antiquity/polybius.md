@@ -9,7 +9,7 @@ order: 10
 date: 2019-12-11
 ---
 
-The motivation of the victors masks the voices of the imprisoned. These words ring true for one Greek historian named Polybius. Polybius was a member of a political group within Greece who was one of the last few people attempting to push back the power of the Roman Republic. Though taken prisoner, he was allowed to travel around with generals and attend political meetings. This freedom not only allowed him to move around the known world but see historical events first hand. His literary freedom was less, though. His most famous written work, _Histories_, would be published under the watchful eyes of Roman rulers. Polybius’s circumstances forced him to write about, if not view, Rome favorably while developing theories to explain their superiority within the Mediterranean. (Eckstein, 10)
+**The motivation of the victors masks the voices of the imprisoned**. These words ring true for one Greek historian named Polybius. Polybius was a member of a political group within Greece who was one of the last few people attempting to push back the power of the Roman Republic. Though taken prisoner, he was allowed to travel around with generals and attend political meetings. This freedom not only allowed him to move around the known world but see historical events first hand. His literary freedom was less, though. His most famous written work, _Histories_, would be published under the watchful eyes of Roman rulers. Polybius’s circumstances forced him to write about, if not view, Rome favorably while developing theories to explain their superiority within the Mediterranean. (Eckstein, 10)
 
 
 {% include figure.html
