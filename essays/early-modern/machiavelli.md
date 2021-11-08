@@ -11,7 +11,7 @@ date: 2019-12-13
 
 {% include figure.html class="right" width="33%" caption="Niccolo Machiavelli (1469-1527)a mediating figure in Florentine historiography, a native Florentine and republican, he was also a secretary, commissioned historian, and man of letters" image-url="Machiavelli.jpg" source-url="https://www.britannica.com/biography/Niccolo-Machiavelli" %}
 
-* Niccolò Machiavelli * , (1469-1527) is well known for his political writings---as well as his motives for political dominance and acquisition of power---but less appreciated are his impact on the writing of history. Machiavelli is known to have an enormous influence on many writers following his time.
+Niccolò Machiavelli, (1469-1527) is well known for his political writings---as well as his motives for political dominance and acquisition of power---but less appreciated are his impact on the writing of history. Machiavelli is known to have an enormous influence on many writers following his time.
 
 Mark Phillips describes Machiavelli as, “a mediating figure in Florentine historiography, a native Florentine and republican, he was also a secretary, commissioned historian, and man of letters” (Phillips, 95). Some of Machiavelli’s greatest works titled _The Prince_ (1532) and _Discourses on Livy_ (1531), which were published after his death, intel most of his deep thoughts and opinions on the way we must view history. He shaped and developed a new outlook of being a leader, creating a state, establishing dominance through power, and how to stay in power.
 
