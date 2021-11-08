@@ -9,7 +9,7 @@ toc-section: introductions
 order: 10
 ---
 
-The notion of absolute fact is a dangerous concept.  On one hand, to believe in the existence of ultimate truth prevents oneself from critical thought and therefore limits the mind. While on the other hand, to be overly skeptical renders oneself incapable of building complex notions of the world, for a lack of foundational reason from which to work.
+The notion of absolute fact is a truly dangerous concept.  On one hand, to believe in the existence of ultimate truth prevents oneself from critical thought and therefore limits the mind. While on the other hand, to be overly skeptical renders oneself incapable of building complex notions of the world, for a lack of foundational reason from which to work.
 
 In studying history, doubt is not only healthy, but necessary to the pursuit of ‘truth’. **The most dangerous histories are those which are believed wholly and without hesitation.** That is not to say one should not accept certain narratives as fundamentally true or as reasonable explanations. Rather, one should approach history as inherently political, in existence because an individual or group sought to record an event or events as they perceived it to have happened. _“History is not indoctrination. It is a wrestling match”_ (Conway 2015).
 
