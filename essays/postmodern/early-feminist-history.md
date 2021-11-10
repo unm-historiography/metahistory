@@ -1,3 +1,5 @@
+Kelly Idali Salaiz
+
 ---
 layout: default
 title: Early Feminist History
