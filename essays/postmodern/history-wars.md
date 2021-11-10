@@ -11,7 +11,7 @@ toc-section: postmodern
 
 
 {: .abstract }
-This great essay will focus on the “History Wars” of conflicting historical narratives, different approaches to studying history and ultimately, the battle for authority, particularly the conflict between popular history and academic history (Popkin, 2016, 154). In essence, a work of popular history is written for the purpose of reaching mass audiences while academic history is written for specialists.  The historical construction of national identities is another crucial aspect of the “History Wars” as countries debate and have debated on historical themes such as nationalism and imperialism. **The debate on how historians should construct the past will have repercussions for the future of historical studies because, “he who controls the past controls the future. He who controls the present controls the past”** (Popkin, 2016, 113).
+This essay will focus on the “History Wars” of conflicting historical narratives, different approaches to studying history and ultimately, the battle for authority, particularly the conflict between popular history and academic history (Popkin, 2016, 154). In essence, a work of popular history is written for the purpose of reaching mass audiences while academic history is written for specialists.  The historical construction of national identities is another crucial aspect of the “History Wars” as countries debate and have debated on historical themes such as nationalism and imperialism. **The debate on how historians should construct the past will have repercussions for the future of historical studies because, “he who controls the past controls the future. He who controls the present controls the past”** (Popkin, 2016, 113).
 
 {% include figure.html
   class="right"
