@@ -1,3 +1,4 @@
+[bede.md.docx](https://github.com/CJBeaudet/metahistory/files/7516651/bede.md.docx)
 ---
 layout: default
 title: Bede
