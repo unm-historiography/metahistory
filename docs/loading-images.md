@@ -4,14 +4,14 @@ layout: default
 date: 2021-11-17
 ---
 
-*This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
+This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
 **• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `caption="my caption is \"so\" good."`**
 
 ---
-It is easy to embed images in our essay files, but you have to use the awkward code blocks and follow directions precisely. We do this because to maintain consistency across essays in terms of how they display images and captions.
+It is easy to embed images in our essay files, but you have to use the awkward code blocks and follow directions precisely. We do this to maintain consistency across essays in terms of how they display images and captions.
 
 ## Image Preparation
 
@@ -28,20 +28,18 @@ Here are some fun places to search that have a lot of historical images:
 Because you will need to copy the URL of where you got the image so that you paste in into your `source-url` parameter, make sure you're keeping track of the URL where you're images are from so you don't have to track them down later!
 
 ### Download and Rename Images
-When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames that make it difficult to use, even within our repository. You should rename the image so it has a more human-readable name that will make it easier to troubleshoot later. **Use only lowercase and hyphens (not underscores or spaces) in your filename!**
+When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames. You should rename the image so it has a more human-readable name that will make it easier to troubleshoot later. **Use only lowercase and hyphens (not underscores or spaces) in your filename!**
 
 ### Put Images into YOUR Repository
-Once you have all your images downloaded, put them into YOUR fork of the metahistory repository in your own GitHub account. To do this, navigate to the  `images` folder, and then drag and drop your files onto your browser windows.
+Once you have all your images downloaded, put them into YOUR fork of the metahistory repository in your own GitHub account. To do this, navigate to the  `images` folder, and then drag and drop your files onto your browser window.
 
-It is much faster to drag and drop multiple files at once, since after you commit a new image, you end up at the repository home page (not the images folder).
+It is much faster to drag and drop multiple files at once, since after you commit a file (of any kind), you end up at the repository home page (not where you were, like the images folder).
 
-**Remember to click the green "Commit Changes" button to upload your images!**
+**Remember to click the green "Commit Changes" button to upload your images after you drag and drop them!**
 
 
 ## Image Code
-As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible.
-
-You already have this code in what you grabbed from the sample essay, but below you'll find explanations of what to change.
+As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible. You already have this code in what you grabbed from the sample essay, but below you'll find explanations of what to change.
 
 ### Edit parameters carefully (IMPORTANT!)
 The parameters (class, width, caption) are self explanatory once you see the examples below, but note that:
@@ -61,7 +59,7 @@ As you modify the image code blocks, double check that you have:
 Wait a few minutes, then reload/refresh your essay's webpage. Your images should appear. If they do not, either you need to wait a little longer or you made a mistake with the code. Better to wait a little more before experimenting with code changes, which might not be necessary.
 
 ### Troubleshooting
-If you've waited more than 5 minutes and your image is still not appearing, you probably made a typo somewhere and you have to find it.
+If you've waited more than 5 minutes and your image is still not appearing, you probably made a typo somewhere and you have to find it and fix it.
 - Most common problem is a mismatch between image filename and what you put in the `image-url` field.
   - Relatedly, double check you filename extension---it might be `jpg` or `jpeg` or `png`. Make sure your code and the filename match EXACTLY.
 - Double check your code for a missing quote or bracket.
@@ -170,11 +168,11 @@ To achieve the above full-width image, use:
       <h5>Mesa Vista Hall Construction</h5>
       <p>This place was on the fringe!</p>
     </div>
-      <img class="d-block w-100" src="essays/images/mvh-construction.jpg" alt="First slide">
+      <img class="d-block w-100" src="../essays/images/mvh-construction.jpg" alt="First slide">
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="essays/images/mvh-floorplan.jpg" alt="Second slide">
+      <img class="d-block w-100" src="../essays/images/mvh-floorplan.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>The original floorplan</h5>
         <p>This floorplan is clearer than anything you can find in MVH now</p>
@@ -182,7 +180,7 @@ To achieve the above full-width image, use:
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="essays/images/mvh-history-stays.jpg" alt="Third slide">
+      <img class="d-block w-100" src="../essays/images/mvh-history-stays.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>History Stays</h5>
         <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
