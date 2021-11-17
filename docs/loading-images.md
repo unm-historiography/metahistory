@@ -1,55 +1,56 @@
 ---
 title: Loading images
 layout: default
-date: 2019-09-23
+date: 2021-11-17
 ---
 
 *This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
-**• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
+**• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `\"my caption is \"so\" good."`**
 
 ---
-There is one basic way we will embed images in our essay files. Note that it is totally different how you would it with pure Markdown. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way. Using the small code blocks make this as easy as it can be.
+It is easy to embed images in our essay files, but you have to use the awkward code blocks and follow directions precisely. We do this because to maintain consistency across essays in terms of how they display images and captions.
 
 ## Image Preparation
 
 ### Find Images
 Because our work is not merely a class project but a publication (yay internet!), we need to make sure we have sufficient permissions to use the images that we do and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it's always best to use images for which the copyright and licensing permissions are very clear.
 
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) is a great place to start.
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- [Creative Commons](https://search.creativecommons.org/)
+- [Library of Congress](http://www.loc.gov/pictures/)
+- It is also useful to peruse particular museums, like the [British Museum](https://www.britishmuseum.org/collection), or [Metropolitan Museum of New York](https://www.metmuseum.org/art/collection/search#!#!%3FshowOnly=highlights%7CwithImage%7CopenAccess&offset=0&pageSize=0&sortBy=Relevance&sortOrder=asc&perPage=20&searchField=All), or the [Getty Museum](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1). Many large international instituions have incredible digital collections that are free to use, but each institution (large or small) has its own permissions and licensing requirements, so you need to see if you can use the image or how it should be credited.
 
-You will need to copy the URL of where you got the image so that you paste in into your `source-url` parameter, so keep your browser tabs open throughout the process.
+Because you will need to copy the URL of where you got the image so that you paste in into your `source-url` parameter, make sure you're keeping track of the URL where you're images are from so you don't have to track them down later!
 
 ### Download and Rename Images
-When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames that make it difficult to use, even within our repository. You should rename the image so it has a more human readable name that will make it easier to find later. Use only lowercase and hyphens (not underscores or spaces) in your filename.
+When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames that make it difficult to use, even within our repository. You should rename the image so it has a more human-readable name that will make it easier to troubleshoot later. **Use only lowercase and hyphens (not underscores or spaces) in your filename!**
 
-### Put Images into our Repository
-Bring up a browser window of our [intro-guide repository](https://github.com/unm-historiography/intro-guide). Click on the `essays` folder, then the `images` folder. Drag and drop the file(s) you downloaded and renamed in the previous step.
+### Put Images into YOUR Repository
+Once you have all your images downloaded, put them into YOUR fork of the metahistory repository in your own GitHub account. To do this, navigate to the  `images` folder, and then drag and drop your files onto your browser windows.
 
 It is much faster to drag and drop multiple files at once, since after you commit a new image, you end up at the repository home page (not the images folder).
 
-Remember to click the green "Commit Changes" button to upload your image (just dragging and dropping does not commit the file).
+**Remember to click the green "Commit Changes" button to upload your images!**
 
 
 ## Image Code
-As mentioned, we use a small block of code to help us keep the display of images and captions consistent and flexible.
+As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible.
 
-Again, all you need to do to get images on your essay page is to copy and paste the code from the gray box onto your page wherever you want the image to appear, and adjust the parameters.
-
+You already have this code in what you grabbed from the sample essay, but below you'll find explanations of what to change.
 
 ### Edit parameters
 The parameters (class, width, caption) are self explanatory, but note that:
 - `image-url` is the ONLY the filename of the image, with appropriate extension (`.jpg`, `.png`, `.jpeg`, etc).
-  - Your filename MUST NOT start with `images/` as we saw originally.
-- `source-url` is the URL of wherever you got the image.
+- `source-url` is the URL of wherever you got the image. This is so people can go see the original and how it's published.
+- **Make sure the image filename as it appears in the code block and your repository MATCH EXACTLY.**
+- ** If you want to use DOUBLE QUOTES in your caption, you need to have a backslash in front of them, like `caption="This is my \"quote\" in my caption."`
 
-Make sure what's in the code and your file name as it appears in the repository MATCH EXACTLY.
 
 ### Double check and commit your changes
-Double check that you have:
-- the {%raw%} {% {%endraw%} and {%raw%} %} {%endraw%} at the beginning and end of your code block
+As you modify the image code blocks, double check that you have:
 - matching double quotation marks for all your parameters
 - a PERFECT EXACT match between your image filename and what's in the `image-url` field.
 - Use the green button to commit your changes as always.
@@ -58,12 +59,11 @@ Double check that you have:
 Wait a few minutes, then reload/refresh your essay's webpage. Your images should appear. If they do not, either you need to wait a little longer or you made a mistake with the code. Better to wait a little more before experimenting with code changes, which might not be necessary.
 
 ### Troubleshooting
-If you've waited more than 5 minutes and your image is still not appearing, you probably made a silly typo somewhere and you have to find it.
+If you've waited more than 5 minutes and your image is still not appearing, you probably made a typo somewhere and you have to find it.
 - Most common problem is a mismatch between image filename and what you put in the `image-url` field.
-- Relatedly, double check you filename extension---it might be `jpg` or `jpeg` or `png`. Make sure your code and the filename match EXACTLY.
-- Double check your code against the model for a missing quote or bracket.
-- Make sure you do not have double quotes anywhere in your caption.
-- Make sure your files are in the `/essays/images` folder in our repository.
+  - Relatedly, double check you filename extension---it might be `jpg` or `jpeg` or `png`. Make sure your code and the filename match EXACTLY.
+- Double check your code for a missing quote or bracket.
+- Make sure your files are in the `/essays/images` folder.
 
 
 ### Standard Usage
