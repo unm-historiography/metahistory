@@ -8,7 +8,7 @@ date: 2021-11-17
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
-**• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `\"my caption is \"so\" good."`**
+**• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `caption="my caption is \"so\" good."`**
 
 ---
 It is easy to embed images in our essay files, but you have to use the awkward code blocks and follow directions precisely. We do this because to maintain consistency across essays in terms of how they display images and captions.
@@ -16,12 +16,14 @@ It is easy to embed images in our essay files, but you have to use the awkward c
 ## Image Preparation
 
 ### Find Images
-Because our work is not merely a class project but a publication (yay internet!), we need to make sure we have sufficient permissions to use the images that we do and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it's always best to use images for which the copyright and licensing permissions are very clear.
+Because our work is not merely a class project but a publication (yay internet!), **we need to make sure we have sufficient permissions to use the images that we do** and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it's always best to use images for which the copyright and licensing permissions are very clear.
+
+Here are some fun places to search that have a lot of historical images:
 
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 - [Creative Commons](https://search.creativecommons.org/)
 - [Library of Congress](http://www.loc.gov/pictures/)
-- It is also useful to peruse particular museums, like the [British Museum](https://www.britishmuseum.org/collection), or [Metropolitan Museum of New York](https://www.metmuseum.org/art/collection/search#!#!%3FshowOnly=highlights%7CwithImage%7CopenAccess&offset=0&pageSize=0&sortBy=Relevance&sortOrder=asc&perPage=20&searchField=All), or the [Getty Museum](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1). Many large international instituions have incredible digital collections that are free to use, but each institution (large or small) has its own permissions and licensing requirements, so you need to see if you can use the image or how it should be credited.
+- It is also useful to peruse particular museum collections, like the [British Museum](https://www.britishmuseum.org/collection), or [Metropolitan Museum of New York](https://www.metmuseum.org/art/collection/search#!#!%3FshowOnly=highlights%7CwithImage%7CopenAccess&offset=0&pageSize=0&sortBy=Relevance&sortOrder=asc&perPage=20&searchField=All), or the [Getty Museum](https://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1). Many large international institutions have incredible digital collections that are free to use, but each institution (large or small) has its own permissions and licensing requirements, so you need to see if you can use the image or how it should be credited.
 
 Because you will need to copy the URL of where you got the image so that you paste in into your `source-url` parameter, make sure you're keeping track of the URL where you're images are from so you don't have to track them down later!
 
@@ -41,12 +43,12 @@ As you have already seen, we use a small block of code to help us keep the displ
 
 You already have this code in what you grabbed from the sample essay, but below you'll find explanations of what to change.
 
-### Edit parameters
-The parameters (class, width, caption) are self explanatory, but note that:
+### Edit parameters carefully (IMPORTANT!)
+The parameters (class, width, caption) are self explanatory once you see the examples below, but note that:
 - `image-url` is the ONLY the filename of the image, with appropriate extension (`.jpg`, `.png`, `.jpeg`, etc).
 - `source-url` is the URL of wherever you got the image. This is so people can go see the original and how it's published.
-- **Make sure the image filename as it appears in the code block and your repository MATCH EXACTLY.**
-- ** If you want to use DOUBLE QUOTES in your caption, you need to have a backslash in front of them, like `caption="This is my \"quote\" in my caption."`
+- Make sure the image filename as it appears in the code block and your repository MATCH EXACTLY.
+- If you want to use DOUBLE QUOTES in your caption, you need to have a backslash in front of them, like `caption="This is my \"quote\" in my caption."`
 
 
 ### Double check and commit your changes
