@@ -6,7 +6,7 @@ date: 2016-11-08 00:00:00
 author: Mara Anderson and Rob Collins
 toc-blurb:  Reformation historiography largely centered around the revision of history, removing the elites as the sole makers and consumers of history. Protestant historians attempted to write their religion into history and to provide Protestantism with authority through origin stories. In the end, the Reformation became the catalyst for secular history and the professionalization of history as a profession.  
 toc-image: reformation1.jpg
-toc-section: early-modern
+toc-section: early-modern 
 order: 2
 ---
 
