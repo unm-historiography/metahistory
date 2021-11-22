@@ -27,7 +27,10 @@ Proin lobortis condimentum velit. Duis fermentum vel est quis pulvinar. Integer 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit. Nunc vestibulum vitae nunc ut pellentesque. Donec metus dolor, sagittis consequat ipsum non, auctor commodo diam. Vivamus interdum auctor purus ac euismod. Nulla rutrum nec elit eget congue. Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi.
 
+### Subsection headings should be triple hashes in Markdown
 Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac magna condimentum ultricies. Cras egestas non dui non efficitur. Morbi sed facilisis nunc. Etiam ac neque quis enim condimentum suscipit vitae id ipsum. Vivamus sed orci in ex ullamcorper dictum. Cras lobortis justo vitae pellentesque.
+
+Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit.
 
 
 ## Bibliography
