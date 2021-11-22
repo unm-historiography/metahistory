@@ -31,10 +31,12 @@ Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac m
 
 ## Bibliography
 
-- Grazer, Brian, and Charles Fishman. A Curious Mind: The Secret to a Bigger Life. New York: Simon & Schuster, 2015.
+_Notice that we DON'T INCLUDE PLACE of publication!_
 
-- Smith, Zadie. Swing Time. New York: Penguin Press, 2016.
+- Grazer, Brian, and Charles Fishman. _A Curious Mind: The Secret to a Bigger Life_. Simon & Schuster, 2015.
 
-- Thoreau, Henry David. “Walking.” In The Making of the American Essay, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press, 2016.
+- Smith, Zadie. _Swing Time_. Penguin Press, 2016.
 
-- Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” Journal of Human Capital 11, no. 1 (Spring 2017): 1–34.
+- Thoreau, Henry David. “Walking.” In _The Making of the American Essay_, edited by John D’Agata, 167–95. Graywolf Press, 2016.
+
+- Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” _Journal of Human Capital_ 11, no. 1 (Spring 2017): 1–34.
