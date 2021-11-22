@@ -10,7 +10,8 @@ toc-section: PICK ONE
 ---
 
 
-{:.abstract} Aliquam quis lacus hendrerit tellus hendrerit laoreet porttitor et nisi. Proin dolor ipsum, egestas ut vulputate sed, molestie vitae magna. Ut tempor, massa ac porta ullamcorper, mi augue imperdiet enim, id imperdiet neque augue eget erat. Fusce vel arcu eu tellus ultricies venenatis. Curabitur bibendum elementum nulla, ac facilisis lorem ultrices eget. Proin viverra scelerisque pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis leo vehicula, sagittis quam quis, tempus risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+{:.abstract}
+Aliquam quis lacus hendrerit tellus hendrerit laoreet porttitor et nisi. Proin dolor ipsum, egestas ut vulputate sed, molestie vitae magna. Ut tempor, massa ac porta ullamcorper, mi augue imperdiet enim, id imperdiet neque augue eget erat. Fusce vel arcu eu tellus ultricies venenatis. Curabitur bibendum elementum nulla, ac facilisis lorem ultrices eget. Proin viverra scelerisque pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis leo vehicula, sagittis quam quis, tempus risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
 
 
 ## All major headings should be double hashes in Markdown
