@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YOUR TITLE
+title: EARLY SOVIET UNION
 subtitle: A DESCRIPTIVE SUBTITLE
 author: ERIC GALBISO
 date: 2021-12-13
