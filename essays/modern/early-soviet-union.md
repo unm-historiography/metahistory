@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EARLY SOVIET UNION
+title: Early Soviet Union
 subtitle: A DESCRIPTIVE SUBTITLE
 author: ERIC GALBISO
 date: 2021-12-13
