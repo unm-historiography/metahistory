@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maximilian Karl Emil Weber
-subtitle: Ideal Types, Iron Cage of Rationality, and Capitalism
+subtitle: Captialism, Charismatic Leaders, and Ideal Types
 author: Sadie Baca
 date: 2021-12-13
 toc-blurb: Max Weber (1864-1920) is well known for his social theory writings---but less appreciated are his impacts on the writing of history. His emphasis on rationalisation, secularisation, disenchantment, capitalism, and charismatic leaders changed the ways many historians approached their work.
