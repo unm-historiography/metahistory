@@ -47,7 +47,7 @@ The Manual was written during a period of significant change in the internationa
 
 {% include figure.html
   class="left"
-  width="50%"
+  width="35%"
   caption="Sir Hilary Jenkinson (1882-1961)"
   image-url="snyder-jenkinson.jpg"
   source-url="http://www.npg.org.uk/collections/search/portrait/mw246942/Sir-Charles-Hilary-Jenkinson"
@@ -65,7 +65,7 @@ Jenkinson also believed that archives were the accumulations of records to be ke
 
 {% include figure.html
   class="right"
-  width="50%"
+  width="40%"
   caption="T.R. Schellenberg (1903-1970)"
   image-url="snyder-schellenberg.jpg"
   source-url="https://www.kshs.org/research/graphics/theodore_roosevelt_schellenberg.jpg"
@@ -84,7 +84,7 @@ The rise of the professionalization of archivists has been linked to the role of
 
 {% include figure.html
   class="left"
-  width="50%"
+  width="45%"
   caption="Louisiana archivist librarian, 1936"
   image-url="snyder-librarian.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Librarian_working_at_the_Pointe_Coupee_Parish_Parish_library_in_New_Roads_Louisiana_in_1936.jpg"
