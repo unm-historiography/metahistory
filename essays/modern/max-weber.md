@@ -19,14 +19,6 @@ Proin lobortis condimentum velit. Duis fermentum vel est quis pulvinar. Integer 
 
 {% include figure.html class="right" width="33%" caption="Max Weber (1864-1920) philosopher, sociologist, and historian." image-url="Max_Weber,_1918.jpg" source-url="https://cdn.britannica.com/49/39749-050-E773E614/Max-Weber-1918.jpg" %} 
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
-  image-url="The_Venerable_Bede_translates_John_1902.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
-%}
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit. Nunc vestibulum vitae nunc ut pellentesque. Donec metus dolor, sagittis consequat ipsum non, auctor commodo diam. Vivamus interdum auctor purus ac euismod. Nulla rutrum nec elit eget congue. Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi.
 
 ### Subsection headings should be triple hashes in Markdown
