@@ -17,6 +17,8 @@ Aliquam quis lacus hendrerit tellus hendrerit laoreet porttitor et nisi. Proin d
 ## All major headings should be double hashes in Markdown
 Proin lobortis condimentum velit. Duis fermentum vel est quis pulvinar. Integer maximus euismod lectus sit amet porta. Ut quis sollicitudin diam, ut fringilla nisi. Sed nec nibh quis nibh ultrices bibendum. In convallis risus sed turpis tristique, non fermentum elit cursus. Etiam vitae libero vitae neque commodo tristique. Aliquam erat volutpat.
 
+{% include figure.html class="right" width="33%" caption="Max Weber (1864-1920) philosopher, sociologist, and historian." image-url="Max_Weber,_1918.jpg" source-url="https://cdn.britannica.com/49/39749-050-E773E614/Max-Weber-1918.jpg" %} 
+
 {% include figure.html
   class="right"
   width="50%"
