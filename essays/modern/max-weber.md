@@ -28,7 +28,7 @@ Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac m
 
 Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit.
 
-{% include figure.html class="right" width="33%" caption="Machiavelli's The Prince (1532 )was Machiavelli's most influential work. It was an examination of how a leader could gain power and stay in power. this brings out some of his most deep political and philosophical thoughts on Virtue, Human Nature, and Fortune." image-url="Max_Weber_1917.jpg" source-url="(https://web.archive.org/web/20070312115641/http://www.staff.uni-marburg.de/~kaesler/max.html" %}
+{% include figure.html class="right" width="33%" caption="The Protestant Ethic and the Spirit of Capitalism was Max Weber's most influential work. It begins to express proposals of multi-causation in historical explanation. Weber lays the foundations for impacts of cultures and religions on the development of economic systems." image-url="Max_Weber_1917.jpg" source-url="(https://web.archive.org/web/20070312115641/http://www.staff.uni-marburg.de/~kaesler/max.html" %}
 
 
 
