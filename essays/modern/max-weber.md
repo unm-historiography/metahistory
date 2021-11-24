@@ -4,8 +4,8 @@ title: Maximilian Karl Emil Weber
 subtitle: Ideal Types, Iron Cage of Rationality, and Capitalism
 author: Sadie Baca
 date: 2021-12-13
-toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
-toc-image: The_Venerable_Bede_translates_John_1902.jpg
+toc-blurb: Max Weber (1864-1920) is well known for his social theory writings---but less appreciated are his impacts on the writing of history. His emphasis on rationalisation, secularisation, disenchantment, capitalism, and charismatic leaders changed the ways many historians approached their work.
+toc-image: Max_Weber,_1918.jpg
 toc-section: modern
 ---
 
