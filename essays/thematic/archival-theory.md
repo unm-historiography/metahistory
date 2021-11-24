@@ -20,7 +20,7 @@ Since our earliest conception of a social framework, humans have desired to tran
   class="right"
   width="50%"
   caption="Municipal Archives in Aldaia, Spain."
-  image-url="snyder-aldaia-archives.jpg.jpg"
+  image-url="snyder-aldaia-archives.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Arxiu_aldaia_2_dip%C3%B2sit.jpg"
 %}
 
@@ -49,7 +49,7 @@ The Manual was written during a period of significant change in the internationa
   class="left"
   width="50%"
   caption="Sir Hilary Jenkinson (1882-1961)"
-  image-url="snyder-jenkinson.jpg.jpg"
+  image-url="snyder-jenkinson.jpg"
   source-url="http://www.npg.org.uk/collections/search/portrait/mw246942/Sir-Charles-Hilary-Jenkinson"
 %}
 
@@ -67,7 +67,7 @@ Jenkinson also believed that archives were the accumulations of records to be ke
   class="right"
   width="50%"
   caption="T.R. Schellenberg (1903-1970)"
-  image-url="snyder-schellenberg.jpg.jpg"
+  image-url="snyder-schellenberg.jpg"
   source-url="https://www.kshs.org/research/graphics/theodore_roosevelt_schellenberg.jpg"
 %}
 
@@ -86,7 +86,7 @@ The rise of the professionalization of archivists has been linked to the role of
   class="left"
   width="50%"
   caption="Louisiana archivist librarian, 1936"
-  image-url="snyder-librarian.jpg.jpg"
+  image-url="snyder-librarian.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Librarian_working_at_the_Pointe_Coupee_Parish_Parish_library_in_New_Roads_Louisiana_in_1936.jpg"
 %}
 
@@ -96,6 +96,14 @@ The continued feminization of archival professions, including museum administrat
 
 ## Modern Challenges of Archives
 Modern archives and the professional archivists involved in their care face challenges on two fronts: the need to represent diversity and inclusion of overlooked records and the quandary of digital archives and research.  These two dilemmas present the fundamental challenges to established theoretical paradigms.
+
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="Internal computer CPU"
+  image-url="snyder-inside-computer.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Computer_inside_(1).jpg"
+%}
 
 Older paradigms of theory have often (or completely) overlooked the importance of appraisal of records regarding generally excluded and culturally minimized information, leading to a sense that most archivists have been prejudiced in their practice of selecting or excluding particular archival records.  One of the most influential modern archivists was Canadian Terry Cook (1947-2014), who wrote about the increased need to create wholistic and inclusive archives by explicitly working with minority communities in order to preserve their “collective memories” (Cook, 183).  Cook saw these ‘archival silences’ as highly detrimental to the health of democracies worldwide and urged novice archivists to include community participation in archival planning as a means of granting ‘archival dignity’ to the minimized voices of the past and present.
 
