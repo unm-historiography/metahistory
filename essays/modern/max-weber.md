@@ -8,7 +8,6 @@ toc-blurb: Max Weber (1864-1920) is well known for his social theory writings---
 toc-image: Max_Weber,_1918.jpg
 toc-section: modern
 ---
-{:.abstract}
 Recognized as one of the fathers of sociology, mid-nineteenth century German historian, philosopher, and sociologist Max Weber (1864-1920) profoundly changed social theory and research with “his contributions to include: “rationalization thesis, a grand meta-historical analysis of the dominance of the west in modern times, and the Protestant Ethic thesis, a non-Marxist genealogy of modern capitalism, charisma, and ideal types” (Kim, Max Weber, plato.stanford.edu).
 “Fulbrook says Weber developed a methodology of self-aware approach to problems of the world history resulted in a highly sophisticated set of concepts and theses, and how Weber sought to combine the systematic pursuit of valid historical generalizations with an emphasis on the need for an interpretative understanding of the internal meanings of human behavior, both in the sense of individual motives for action and in the wider sense of collective belief systems which could not be reduced, as in Marx’s work, to some underlying material base, Weber sought to separate academic analysis from political prescriptions, with his notion of value neutral and objectivity” (Fulbrook, 15).
 
