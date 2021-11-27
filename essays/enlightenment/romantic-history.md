@@ -6,17 +6,10 @@ author: JACKIE TRUITT
 date: 2021-12-13
 toc-blurb: 
 toc-image: 
-toc-section: ENLIGHTENMENT
+toc-section: Enlightenment
 ---
 
-
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="An example of nationalistic romanticism in art. *Liberty Leading the People* by Eugène Delacroix, 1830”
-  image-url="truitt-delacroix-liberty-leading-the-people-1830"
-  source-url="https://en.wikipedia.org/wiki/Romanticism#/media/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg"
-%}
+Add image here
 
 ## What Is Romanticism? 
 Romanticism is a broad term. If you were to ask multiple people to define it, they would likely provide you with all different answers. In the early 1940s, American historian and philosopher Arthur O. Lovejoy stated that “the trouble with them [ideas of romanticism] is not that they lack meaning, but that they have too many meanings, so that, when they are used without qualification or explanation, it is impossible to know what the user is talking about” (Lovejoy, 257). While this can make the study of romanticism and romantic historiography difficult, it also provides insight into the wide variety of intellectual and artistic thought which prevailed during the late 18th to mid-19th centuries.
@@ -43,13 +36,7 @@ Historians living during the so-called Romantic Age ( 1770-1850) showcased varyi
 
 ### Johann Gottfried von Herder
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="Johann Gottfried von Herder. The so called ‘Father of Romanticism’.”
-  image-url="truitt-johann-gottfried-herder.jpg"
-  source-url="https://nat.museum-digital.de/singleimage.php?imagenr=1292"
-%}
+add image here
 
 German philosopher [Johann Gottfried von Herder]( https://plato.stanford.edu/entries/herder/) (1744-1803) is often referred to as the “Father of Romanticism”. Despite being a devout theologian and student of [Immanuel Kant]( https://plato.stanford.edu/entries/kant/), who championed universality, Herder began to question the rationalist ideals of the Enlightenment in which he lived. Liisa Steinby, author of “The Rehabilitation of Myth: Enlightenment and Romanticism in Johann Gottfried von Herder’s *Vom Geist der Ebräischen Poesie*,” explains that von Herder’s intellectual viewpoints of the world, in tandem with his writings, were significantly more focused on cultural and anthropological issues rather than those of wars and politics. Von Herder became interested in literature, and specifically how linguistics impacts the evolution of knowledge, and in 1772 he published *Abhandlung über den Ursprung der Sprache* (Treatise on the Origin of Language). “Our whole life is in a sense a poetics: we do not see, but create pictures for ourselves” (von Herder; Steinby, 59). Steinby reminds us that although he lived in the Age of Enlightenment, von Herder was an empiricist and believed that only through language, poetry, and by creating fiction could we fully reach reason. 
 
@@ -60,13 +47,7 @@ This movement was primarily rooted in literature and music rather than history, 
 
 ### Thomas Babington Macaulay
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="Lord Macaulay”
-  image-url="truitt-thomas-babington-macaulay.jpg"
-  source-url="https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay#/media/File:Thomas_Babington_Macaulay2.jpg"
-%}
+add image here
 
 [Thomas Babington Macaulay]( https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay) (1800-1859) was born into aristocracy. His father Zachary was the governor of Sierra Leone, and because of this Macaulay ran in the highest circles of British society and was allowed the freedom of exploring both his personal and professional life as he see fit. He was a parliamentary member and governmental cabinet minister and had a great interest in British History (Bentley, 30). 
 
@@ -76,17 +57,11 @@ Macaulay’s most influential and widely acknowledged work that is an example of
 
 ### Jules Michelet
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="Jules Michelet”
-  image-url="truitt-jules-michelet.jpg"
-  source-url="https://en.wikipedia.org/wiki/Jules_Michelet#/media/File:Jules_Michelet_par_Thomas_Couture_(cropped).jpg"
-%}
+add image here
 
 Unlike Thomas Macaulay, [Jules Michelet]( https://en.wikipedia.org/wiki/Jules_Michelet) (1798-1874) prided himself on being a commoner. His father was a printer, and Michelet grew up in Paris surrounded by the written (or printed) word. Eventually, he ascended the ranks, becoming a professor and historian at the prestigious Collége de France, as well as an important figure in political and social historiography (Mitzman, 667). Michelet’s historical ideas came into their own during this period. 
 
-> “To put the change in Michelet's ideas in its simplest terms, from a basic belief in the linear progress of freedom through conflict with and liberation from the natural world, he came to accept a cyclical view of nature and spiritual existence built on the principle of harmony, in which the key human values were nurturance and sociability, summed up in the concept of *fraternité*. (Mitzman, 668)
+> “To put the change in Michelet's ideas in its simplest terms, from a basic belief in the linear progress of freedom through conflict with and liberation from the natural world, he came to accept a cyclical view of nature and spiritual existence built on the principle of harmony, in which the key human values were nurturance and sociability, summed up in the concept of *fraternité*". (Mitzman, 668)
 
 According to Arthur Mitzman, Michelet represents social romanticism, and was a staunch supporter of anti-clerical republicanism, which proposed church-free and nationalist French ideologies that were at the center of the romantic movement. He was deeply involved in the movements of his time, was a critic of Napoleon, supporter of the 1848 revolution, and wrote impactful romantic works such as *Le Peuple* (The People), on marginalized “others” such as women, nature, and the common people. Similar to Macaulay, Michelet’s most popular and extensive work, *Historie de France*  spanned a whopping 19 volumes. 
 
