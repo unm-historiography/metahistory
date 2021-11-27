@@ -51,7 +51,7 @@ Unlike his predecessor Durkheim, who believed social action is objective by defi
 
 > Weber’s “ideal types are formed by the one-sided accentuation of one or more points of view and by the synthesis of a great many diffuse, discrete, more or less present and occasionally absent concrete individual phenomena, which are arranged according to those onesidedly emphasized viewpoints into a unified analytical construct…” (Shils & Finch, 90).
 
-{% include figure.html class="right" width="33%" caption="The Protestant Ethics and Rise of Captialism" image-url="Die_protestantische_Ethik_und_der_'Geist'_des_Kapitalismus_original_cover.jpg" source-url="https://en.wikipedia.org/wiki/Max_Weber#/media/File:Die_protestantische_Ethik_und_der_'Geist'_des_Kapitalismus_original_cover.jpg %}
+{% include figure.html class="right" width="33%" caption= "The Protestant Ethics and Rise of Captialism" image-url="Die_protestantische_Ethik_und_der_'Geist'_des_Kapitalismus_original_cover.jpg" source-url="https://en.wikipedia.org/wiki/Max_Weber#/media/File:Die_protestantische_Ethik_und_der_'Geist'_des_Kapitalismus_original_cover.jpg %}
 
 Weber believed that “the significance of chance, of the struggles and aspirations of men, for the process of history are problems cannot be dismissed from historical research as matters of speculation, and historical research may not be possible without an implicit or explicit philosophy of history, and since we obtain our philosophy of history from our impressions of contemporary experience, it would be helpful to make these impressions explicit and systematic” (Bendix, 526). 
 
