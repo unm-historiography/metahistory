@@ -8,8 +8,6 @@ toc-blurb: Max Weber (1864-1920) is well known for his social theory writings---
 toc-image: Max_Weber,_1918.jpg
 toc-section: modern
 ---
-
-
 {:.abstract}
 Recognized as one of the fathers of sociology, mid-nineteenth century German historian, philosopher, and sociologist Max Weber (1864-1920) profoundly changed social theory and research with “his contributions to include: “rationalization thesis, a grand meta-historical analysis of the dominance of the west in modern times, and the Protestant Ethic thesis, a non-Marxist genealogy of modern capitalism, charisma, and ideal types” (Kim, Max Weber, plato.stanford.edu).
 
@@ -19,13 +17,11 @@ His most known works, The Protestant Ethic and the Spirit of Capitalism (1904-19
 
 As a proponent of anti-positivism, Weber’s three main focused topics are understanding the origins of rationalization, secularization, and disenchantment. Weber “argued that such processes result from a new way of thinking about the world and are associated with the rise of capitalism and modernity, and the importance of cultural influences embedded in religion as a means for understanding the genesis of capitalism” and how social action should be studied through interpretive rather than empiricist methodology, basing on understanding the purpose and meaning that individuals attach to their own actions” proposing instead that for any outcome there can be multiple causes” (Fulbrook, 90) (Macionis, 88) (Habermas, 2.)(Tiryakian,. 321).
 
-
 ## INTERPRETATIONS OF THE CONDUCT OF HISTORY
 Max Weber (1864-1920) grew up in Germany during the Bismarckian era, born to a French huguenot absolutist immigrant mother and wealthy German aristocrat father who was a member of the National Liberal Party, which caused him to be obsessed with historical interpretations and explanations of cultural and social actions and theory in historiography.
 “Beginning in 1882 he attended the universities of Heidelberg, Göttingen, and Berlin; he studied law but simultaneously acquired professional competence as an economist, historian, and philosopher, where his work revealed his extraordinary intellectual tensions”(Kim, Max Weber, plato.stanford.edu).
 
 Weber’s “three case-studies are concerned with what Fulbrook calls  the 'precisionism movements' at the time of their emergence, more exactly with England 1560-1640, with Wurttemberg 1680-1780 and with Prussia 1690-1740. Weber’s “contrasted between the English puritan movement, which was obviously 'active' and 'anti-absolutist', with pietism in both Wurttemberg ('anti-absolutist' but 'passive') and Prussia ('active' but 'pro-absolutist'), the responses to absolutism of the three precisionist groups were 'influenced' or even 'determined' (the distinction is not developed) by 'the different obstacles they faced in pursuit of their specifically religious goals' “(Burke, 110). 
-
 
 {% include figure.html class="right" width="33%" caption="Max Weber (1864-1920) philosopher, sociologist, and historian." image-url="Max_Weber,_1918.jpg" source-url="https://cdn.britannica.com/49/39749-050-E773E614/Max-Weber-1918.jpg" %} 
 
@@ -55,7 +51,7 @@ Unlike his predecessor Durkheim, who believed social action is objective by defi
 
 > Weber’s “ideal types are formed by the one-sided accentuation of one or more points of view and by the synthesis of a great many diffuse, discrete, more or less present and occasionally absent concrete individual phenomena, which are arranged according to those onesidedly emphasized viewpoints into a unified analytical construct…” (Shils & Finch, 90).
 
-{% include figure.html class="right" width="33%" caption="Fortune is like a River, The rivers may rise and destroy everything in their way but when their calm we can prevent and control the river by building dams and dikes. Every person has that ability to disrupt fortune and create a better future. " image-url="Machiavelli River quote.jpg" source-url="https://www.bbc.co.uk/newsround/49771759" %}
+{% include figure.html class="right" width="33%" caption="The Protestant Ethics and Rise of Captialism" image-url="Die_protestantische_Ethik_und_der_'Geist'_des_Kapitalismus_original_cover.jpg" source-url="https://en.wikipedia.org/wiki/Max_Weber#/media/File:Die_protestantische_Ethik_und_der_'Geist'_des_Kapitalismus_original_cover.jpg %}
 
 Weber believed that “the significance of chance, of the struggles and aspirations of men, for the process of history are problems cannot be dismissed from historical research as matters of speculation, and historical research may not be possible without an implicit or explicit philosophy of history, and since we obtain our philosophy of history from our impressions of contemporary experience, it would be helpful to make these impressions explicit and systematic” (Bendix, 526). 
 
