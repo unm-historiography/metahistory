@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YOUR TITLE
+title: Microhistory
 subtitle: A DESCRIPTIVE SUBTITLE
 author: Alexander Brissette
 date: 2021-12-13
