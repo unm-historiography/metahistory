@@ -14,12 +14,28 @@ toc-section: postmodern
 ## What is Microhistory
 Microhistory can be said to have begun in the mid-1970 in Italy and most point to the publishing of Carlo Ginzburg The Cheese and the Worms in 1976 (Szijártó 1). In other views mainly that of Carlo Ginzburg the first person to use the term microhistory was George R. Stwart in 1959 and by Luiz Gonzalez a few years later (Ginzburg 10-12). But the meaning of what current microhistory is today is different then how it was used by Luiz Gonzalez where it was microhistory was a synonym for local history. Which is different than how today’s practitioners view of microhistory. As a general thought microhistory does not look at the daily life of people but rather the micro scale analysis to test larger scale explanation paradigms. These mainly being Marxism leaning historians as well as the Braudelian longue durée (Trivellato). 
 
+{% include figure.html
+  class="left"
+  width="50%"
+  caption="Italy is the home for microhistroy and from there spread across the histroical community."
+  image-url="microhistory_italy.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Italy_relief_location_map.jpg"
+%}
+
 Microhistory is a practice aimed to return to a narrative where the historians are generally concerned with overlooked persons and marginalized voices. Where the historian tries to grasp how large scale global processes and events by looking at the everyday life during the time period studied (Paul 64). This still allow the microhistory to have a higher appeal to the general public (Popkin 146).
 
 Microhistory is a broad subject for conversation being that there are multiple different views on microhistory from the Italian, French, and Anglo-Saxon views on what is microhistory. Even so, Microhistory can be described as being a detective and putting together clues about something that does not seem right and investigate into the event to try to explain why that weird event happened. 
 ## Multiple Practices of Microhistory 
 
 The Italian thought of microhistory or microstoria is that it is a tool to discard deterministic history which is the viewpoint of one Italian microhistorian Levi.  Another characteristic of Italian microhistory is instead of focusing on the great structures or the Longue durée is “to elucidate historical causation at the level of small groups where most of life takes place and to open history up to peoples who would be left out by other methods” (Szijártó 17). This can be looked at either culturally or social line of thinking. Even with the thought of history looking like it was a sort of school Italian scholars would have rejected the thought (Trivellato 125). In Italy the divide between the cultural and socio-economic did not coexist peacefully and it took two different publications from Cerutti and Ginzburg that argued against the idea that Italian microstoria could be split because of from the actors involved they most often shared intentions between cultural and socio-economic reasoning (Trivellato 125).
+
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="Giocanni Levi is one of the founding thinkers of microstoria which has normally been at odds with Ginzburg on how to approach microhistory"
+  image-url="giovanni_levi_microhistoria.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:(Giovanni_Levi)_Casa_de_Vel%C3%A1zquez._El_pasado_y_el_futuro_de_la_microhistoria.jpg"
+%}
 
 French microhistory on the took what the Italian microhistory is that similar to the Italian thought but was more about theoretical reflection and changing the scale that actors appear in different context, depending on the scale, at the same time (Szijártó 31). The receptivity of the Italian style of micro history was because of the convergence of structural and contingent factors. Another factor is that one of the themes of looking at the socio-economics was a theme that the French historians were interested in (Trivellato 126).  German thought was very similar to the French but tries to reconstruct the social interactions of the individuals or what Levi thought on microstoria (Szijártó 34). 
 
@@ -40,6 +56,14 @@ Another point of point is that microhistory does not tell the whole life story o
 ## How The _Cheese and the Worm_ Came to Being
 
 As The Cheese and the Worm is one of the founding books of microhistory and to get a clear picture of what a microhistory looks like and some of the thought processes that went into the book. Carlo Ginzburg back in the 1960s began to look at Inquisitorial traits and realized that the nonethnocentric approach would need an anthropologist (Ginzburg 21-22).  Carlo Ginzburg did not restrict his writing by only reconstructing the past, but he narrated the events. As he thought about the relationship between research and narrative strategies, he decided to reconstruct the intellectual, moral, and fantastic world of the miller Menocchio based on sources from the people who condemned him to death (Ginzburg 23). The first hurdle that Carlo Ginzburg had faced were constituent elements of in the documentation and the hesitations and silences of Menocchio in the face of persecution. This led Ginzburg to place the doubts and uncertainties as part of the narration as the search for truth also became part of the narration even if the truth was incomplete (Ginzburg 23-24).
+
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="He is the author of _The Worm and the Cheeze_ which has be called one of the founding books of microhistory."
+  image-url="microhistory_carlo_ginzburg.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Carlo_Ginzburg_par_Claude_Truong-Ngoc_mars_2013.jpg"
+%}
 
 This look at how Carlo Ginzburg thought is help show both what a microhistory is but also helps formulate some of the ideas that goes into writing a microhistory. That he had a question on the trats that the inquisitors would have which you can argue is the macro level and from there he narrowed down to a single person persecuted and killed to answer how the miller’s life could be an example of the people who have been persecuted but also the local population thought process and what they believed. 
 
