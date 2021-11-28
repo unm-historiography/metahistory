@@ -38,7 +38,7 @@ The shift from Enlightenment ideals to Romantic ideals was not coincidental. Thr
 
 In “What is Romanticism and Where Did it Come From?” author and professor Azade Seyhan argues that romantic nationalism is a direct response to the chaos and change of the time period (5). Following the rationality and order so prevalent in the Enlightenment period, and the political and social turbulence that surrounded the revolutions, romanticism was viewed as having erupted from the peoples merged anxieties regarding the crises (6). With a more concrete sense of political and social unity in place in terms of both physical and loyalist boundaries, nationalistic histories could now be written from the romantic perspective, incorporating these new representative ideals. 
 
-##Historians of the Romantic Age
+## Historians of the Romantic Age
 Historians living during the so-called Romantic Age ( 1770-1850) showcased varying degrees of the typical romantic beliefs, outlined above, and utilized those ideals in their written works. Romanticism is said to have its philosophical beginnings in Germany, but quickly spread across Europe and even across the Atlantic to the United States. This section highlights three European historians of the time, German Johann Gottfried Herder, British Thomas Babington Macaulay, and French Jules Michelet. 
 
 ### Johann Gottfried von Herder
