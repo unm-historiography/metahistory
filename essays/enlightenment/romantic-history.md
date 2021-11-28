@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ROMANTIC HISTORY
-subtitle: I have no idea what I want my subtitle to be
+title: Romantic History
+subtitle: Subtitle pending
 author: JACKIE TRUITT
 date: 2021-11-27
 toc-blurb: 
@@ -9,9 +9,16 @@ toc-image:
 toc-section: enlightenment
 ---
 
-Add image here
 
 ## What Is Romanticism? 
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="An example of nationalistic romanticism in art. *Liberty Leading the People* by Eugène Delacroix, 1830"
+  image-url="truitt-delacroix-liberty-leading-the-people-1830.jpg"
+  source-url="https://en.wikipedia.org/wiki/Romanticism#/media/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg"
+%}
+
 Romanticism is a broad term. If you were to ask multiple people to define it, they would likely provide you with all different answers. In the early 1940s, American historian and philosopher Arthur O. Lovejoy stated that “the trouble with them [ideas of romanticism] is not that they lack meaning, but that they have too many meanings, so that, when they are used without qualification or explanation, it is impossible to know what the user is talking about” (Lovejoy, 257). While this can make the study of romanticism and romantic historiography difficult, it also provides insight into the wide variety of intellectual and artistic thought which prevailed during the late 18th to mid-19th centuries.
 
 Stylistically and intellectually, romantic attitudes characterize works of art, literature, music, and history, and these attitudes emerged and came to prevalence as a push back against the rigidity and overt rationality of enlightenment ideals. Within these romantic practices, universal human nature was disregarded, and while the foundational components of the scientific revolution and critical analysis remained, concepts of artistic narrative, beauty, emotions, imagination, and actions of the individual and “the other” (typically marginalized peoples), came to the forefront. 
@@ -36,7 +43,13 @@ Historians living during the so-called Romantic Age ( 1770-1850) showcased varyi
 
 ### Johann Gottfried von Herder
 
-add image here
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="Johann Gottfried von Herder"
+  image-url="truitt-johann-gottfried-herder.jpg"
+  source-url="https://nat.museum-digital.de/singleimage.php?imagenr=1292"
+%}
 
 German philosopher [Johann Gottfried von Herder]( https://plato.stanford.edu/entries/herder/) (1744-1803) is often referred to as the “Father of Romanticism”. Despite being a devout theologian and student of [Immanuel Kant]( https://plato.stanford.edu/entries/kant/), who championed universality, Herder began to question the rationalist ideals of the Enlightenment in which he lived. Liisa Steinby, author of “The Rehabilitation of Myth: Enlightenment and Romanticism in Johann Gottfried von Herder’s *Vom Geist der Ebräischen Poesie*,” explains that von Herder’s intellectual viewpoints of the world, in tandem with his writings, were significantly more focused on cultural and anthropological issues rather than those of wars and politics. Von Herder became interested in literature, and specifically how linguistics impacts the evolution of knowledge, and in 1772 he published *Abhandlung über den Ursprung der Sprache* (Treatise on the Origin of Language). “Our whole life is in a sense a poetics: we do not see, but create pictures for ourselves” (von Herder; Steinby, 59). Steinby reminds us that although he lived in the Age of Enlightenment, von Herder was an empiricist and believed that only through language, poetry, and by creating fiction could we fully reach reason. 
 
@@ -45,7 +58,13 @@ Von Herder was also a member of a transitional period between the Enlightenment 
 
 ### Thomas Babington Macaulay
 
-add image here
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="Lord Macaulay"
+  image-url="truitt-thomas-babington-macaulay.jpg"
+  source-url="https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay#/media/File:Thomas_Babington_Macaulay2.jpg"
+%}
 
 [Thomas Babington Macaulay]( https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay) (1800-1859) was born into aristocracy. His father Zachary was the governor of Sierra Leone, and because of this Macaulay ran in the highest circles of British society and was allowed the freedom of exploring both his personal and professional life as he see fit. He was a parliamentary member and governmental cabinet minister and had a great interest in British History (Bentley, 30). 
 
@@ -55,7 +74,14 @@ Macaulay’s most influential and widely acknowledged work that is an example of
 
 ### Jules Michelet
 
-add image here
+{% include figure.html
+  class="right"
+  width="50%"
+  caption="Jules Michelet"
+  image-url="truitt-jules-michelet.jpg"
+  source-url="https://en.wikipedia.org/wiki/Jules_Michelet#/media/File:Jules_Michelet_par_Thomas_Couture_(cropped).jpg"
+%}
+
 
 Unlike Thomas Macaulay, [Jules Michelet]( https://en.wikipedia.org/wiki/Jules_Michelet) (1798-1874) prided himself on being a commoner. His father was a printer, and Michelet grew up in Paris surrounded by the written (or printed) word. Eventually, he ascended the ranks, becoming a professor and historian at the prestigious Collége de France, as well as an important figure in political and social historiography (Mitzman, 667). Michelet’s historical ideas came into their own during this period. 
 
