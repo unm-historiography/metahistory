@@ -10,37 +10,87 @@ toc-section: postmodern
 ---
 
 
-{:.abstract}
-Aliquam quis lacus hendrerit tellus hendrerit laoreet porttitor et nisi. Proin dolor ipsum, egestas ut vulputate sed, molestie vitae magna. Ut tempor, massa ac porta ullamcorper, mi augue imperdiet enim, id imperdiet neque augue eget erat. Fusce vel arcu eu tellus ultricies venenatis. Curabitur bibendum elementum nulla, ac facilisis lorem ultrices eget. Proin viverra scelerisque pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis leo vehicula, sagittis quam quis, tempus risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
 
+## What is Microhistory
+Microhistory can be said to have begun in the mid-1970 in Italy and most point to the publishing of Carlo Ginzburg The Cheese and the Worms in 1976 (Szijártó 1). In other views mainly that of Carlo Ginzburg the first person to use the term microhistory was George R. Stwart in 1959 and by Luiz Gonzalez a few years later (Ginzburg 10-12). But the meaning of what current microhistory is today is different then how it was used by Luiz Gonzalez where it was microhistory was a synonym for local history. Which is different than how today’s practitioners view of microhistory. As a general thought microhistory does not look at the daily life of people but rather the micro scale analysis to test larger scale explanation paradigms. These mainly being Marxism leaning historians as well as the Braudelian longue durée (Trivellato). 
 
-## All major headings should be double hashes in Markdown
-Proin lobortis condimentum velit. Duis fermentum vel est quis pulvinar. Integer maximus euismod lectus sit amet porta. Ut quis sollicitudin diam, ut fringilla nisi. Sed nec nibh quis nibh ultrices bibendum. In convallis risus sed turpis tristique, non fermentum elit cursus. Etiam vitae libero vitae neque commodo tristique. Aliquam erat volutpat.
+Microhistory is a practice aimed to return to a narrative where the historians are generally concerned with overlooked persons and marginalized voices. Where the historian tries to grasp how large scale global processes and events by looking at the everyday life during the time period studied (Paul 64). This still allow the microhistory to have a higher appeal to the general public (Popkin 146).
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
-  image-url="The_Venerable_Bede_translates_John_1902.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
-%}
+Microhistory is a broad subject for conversation being that there are multiple different views on microhistory from the Italian, French, and Anglo-Saxon views on what is microhistory. Even so, Microhistory can be described as being a detective and putting together clues about something that does not seem right and investigate into the event to try to explain why that weird event happened. 
+## Multiple Practices of Microhistory 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit. Nunc vestibulum vitae nunc ut pellentesque. Donec metus dolor, sagittis consequat ipsum non, auctor commodo diam. Vivamus interdum auctor purus ac euismod. Nulla rutrum nec elit eget congue. Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi.
+The Italian thought of microhistory or microstoria is that it is a tool to discard deterministic history which is the viewpoint of one Italian microhistorian Levi.  Another characteristic of Italian microhistory is instead of focusing on the great structures or the Longue durée is “to elucidate historical causation at the level of small groups where most of life takes place and to open history up to peoples who would be left out by other methods” (Szijártó 17). This can be looked at either culturally or social line of thinking. Even with the thought of history looking like it was a sort of school Italian scholars would have rejected the thought (Trivellato 125). In Italy the divide between the cultural and socio-economic did not coexist peacefully and it took two different publications from Cerutti and Ginzburg that argued against the idea that Italian microstoria could be split because of from the actors involved they most often shared intentions between cultural and socio-economic reasoning (Trivellato 125).
 
-### Subsection headings should be triple hashes in Markdown
-Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac magna condimentum ultricies. Cras egestas non dui non efficitur. Morbi sed facilisis nunc. Etiam ac neque quis enim condimentum suscipit vitae id ipsum. Vivamus sed orci in ex ullamcorper dictum. Cras lobortis justo vitae pellentesque.
+French microhistory on the took what the Italian microhistory is that similar to the Italian thought but was more about theoretical reflection and changing the scale that actors appear in different context, depending on the scale, at the same time (Szijártó 31). The receptivity of the Italian style of micro history was because of the convergence of structural and contingent factors. Another factor is that one of the themes of looking at the socio-economics was a theme that the French historians were interested in (Trivellato 126).  German thought was very similar to the French but tries to reconstruct the social interactions of the individuals or what Levi thought on microstoria (Szijártó 34). 
 
-Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit.
+The Anglo-Saxon views of microhistory is that they do not tend to actually try to arrive at any macro-level conclusions but try to interpret the actors’ experiences that they had. Making the Anglo-Saxon closer to Historical anthropology then others. They also have a tendency to define microhistory very loosely. In America the style of microhistory began to look like a divergence from the styles of the French and Italian microhistory. There were some factors for this being agency and narrative history. In which agency is an individual will to resist and change the world around them and narrative history being the fact that it can reach a larger audience and recover the subjectivity of the subject (Trivellato 127).  
 
+## Micro vs Macro
+
+The importance in understanding the differences between micro-macro context is one of the main reasons for microhistory coming out where at the time there some historians were just looking at the macro history and not the fine details of local history. The Mico-Macro link is one of the cores of microhistory. Which was stated as part of the general paradigm of microhistory. 
+
+ The change in thinking to thinking of history on a micro level comes from the changing from temporal to spatial thinking in methodological issues (Peltonen 108-109). The issue with micro is to figure out what is micro is which can only be answered by what questions are being asked because microhistory is not just looking a single village or individual which are just local history and biographies. An example was Le Roy Ladurie’s Montaillou which is an analysis of peculiar data created by the inquisition in the region during the fourteenth century (Peltonen 114). With the general idea of what is micro in microhistory it comes to another potential flaw in microhistory which is the difference between biography and microhistory. 
+
+## Biography and Microhistory
+
+Another difference that has to be taken into account is that microhistory can be about a singular person and their life which sounds like it is nothing more than a biography of that person. Which can rase the question is a biography a microhistory. When you remember one of the ideas of microhistory which is to focus on obscure people and their lives to understand the experience and mentalities of ordinary people it does look like there is no difference between the two which is a falsehood. Robert Skidelsly stated, “Biography had its roots in Romantic view of the artist as Hero and in the Great Man theory of history” and even in modern times biography has not changed its roots even with a change in writing styles (Lepore 131). 
+
+Another point of point is that microhistory does not tell the whole life story of the person in focus just the key events in their life. Unlike how the biography tend to chronicle the whole life. Which is because microhistory is trying to answer a historical or historiographical question (Lepore 132-133). With the different questions and that most subjects are not living, a microhistorian do not have to worry about some of the issues that biographers have to deal with for example getting too close to their subject the microhistorian can stay at an arm’s length. 
+
+## How The _Cheese and the Worm_ Came to Being
+
+As The Cheese and the Worm is one of the founding books of microhistory and to get a clear picture of what a microhistory looks like and some of the thought processes that went into the book. Carlo Ginzburg back in the 1960s began to look at Inquisitorial traits and realized that the nonethnocentric approach would need an anthropologist (Ginzburg 21-22).  Carlo Ginzburg did not restrict his writing by only reconstructing the past, but he narrated the events. As he thought about the relationship between research and narrative strategies, he decided to reconstruct the intellectual, moral, and fantastic world of the miller Menocchio based on sources from the people who condemned him to death (Ginzburg 23). The first hurdle that Carlo Ginzburg had faced were constituent elements of in the documentation and the hesitations and silences of Menocchio in the face of persecution. This led Ginzburg to place the doubts and uncertainties as part of the narration as the search for truth also became part of the narration even if the truth was incomplete (Ginzburg 23-24).
+
+This look at how Carlo Ginzburg thought is help show both what a microhistory is but also helps formulate some of the ideas that goes into writing a microhistory. That he had a question on the trats that the inquisitors would have which you can argue is the macro level and from there he narrowed down to a single person persecuted and killed to answer how the miller’s life could be an example of the people who have been persecuted but also the local population thought process and what they believed. 
+
+## Benefits For the Use of Microhistory
+
+With microhistory being told in a narrative style it can be considered a benefit allowing a larger audience to be able to read and be more interesting to read than traditional style of social history. Microhistory is also connected though the use of piece of facts from sources and that microhistory is built more directly on the pieces of facts than that of larger social histories. Which gives the reader a feeling that the words that they are reading are coming from the people of the time. Which is because a microhistorian can gain more intimate knowledge of the person that they are researching but also of the past society as well.  
+
+Another strength of microhistory is that it can potentially show the context of a person world without falling into adding the historian’s own agenda or personal paradigms because of the limited frame of reality and investigation (Szijártó 210-211). Overall, the reduction of scale for microhistory is can also be seen as a benefit because it limits the amount of repetitive information and allows the isolation and testing of social thought (Bandia 85).
+
+## Criticism of Microhistory
+
+One of the many criticisms that microhistory is that mictohistorians have failed to escape modernization and that the French and Italian microhistorians want to write a total history but from the ground up which has brought criticism that it is more exclusionary (Magnússon 122). Another issue with microhistory will have to be that because of the narrative style the historian can tend to drift there writing to attract attention and appeal to the general public. This can also lead to historians going to far into the lived experience of the research which can draw the historian to psychologizing. (Szijártó 211-212). 
+
+With the one of the goals of microhistory being generalities of the past allows the question of the validity of the microhistory argument as a valid argument based on a single case (Magnússon 129). This also brings up the question of scale of representations which is that if you look to closer you can lose all representation of the subject that you are researching. Another criticism of microhistory is that they try to in the words of Matti Peltonen, “are actually trying to discover very big things with their microscopes”. Meaning that some historians believe that the microhistory claims are over inflated and exaggerated (Brown 14). 
+
+## Microhistory and The future
+
+With the amount of criticism, and the difficulty that they have with connecting with the larger context of history, that microhistory has one can seem to believe that microhistory is falling out of favor. But some believe that there is still a place for microhistory in the time of Global history. One of the ways that microhistory can still have relevancy for the future is that microhistory can be applied to any source of subject as well as be combined into a micro-macro scale, meaning that you take the ideas from the micro scale and connect them with the bigger picture of society. This can be the transformation of microhistory into a narrative history with global themes through a biographical lens. (Trivellato). Another way that microhistory can be used today is with how microhistory has a synchronic approach that can be a counterweight to the fast pace of macro historical accounts and is able to add details and analysis of comparison to the topic (Trivellato). 
+
+There has been a change to a new type of microhistory from Poni and Ginzburg to follow personal names across multiple records. This transformation is able to occur because of new technologies and digitization of archives and libraries. The reasons for microhistory being a paradigm that can potentially stand in the postmodern era is that at the basic point microhistory is asking question about how social and cultural system emerge and evolve (Trivellato).  With these points there can be a future for microhistory even as the landscape of historiography changes with time. 
+
+## Conclusion
+
+Microhistory has brought into light many new ideas of how history can be written. From looking at the massive overview macro structures that has been used in the past, microhistory can give a new way that the social life of people lived. This is because microhistory asks questions that looking at history from a larger scale can overlook and not give attention to, which the answers that microhistory uncovers can be a whole new way of understanding how people in the past lived and the social connection of everyday people and their lives.
 
 ## Bibliography
 
-_Notice that we DON'T INCLUDE PLACE of publication!_
+Adamo, Sergia. “Microhistory of Translation.” _In Charting the Future of Translation History,_ edited by GEORGES L. BASTIN and PAUL F. BANDIA, 81–100. University of Ottawa Press, 2006.
 
-- Grazer, Brian, and Charles Fishman. _A Curious Mind: The Secret to a Bigger Life_. Simon & Schuster, 2015.
+Brown, Richard D. “Microhistory and the Post-Modern Challenge.” _Journal of the Early Republic 23,_ no. 1 (2003): 1–20. 
 
-- Smith, Zadie. _Swing Time_. Penguin Press, 2016.
+Brewer, John. “Microhistory and the Histories of Everyday Life.” _Cultural and Social History 7,_ no. 1 (2010): 87–109. 
 
-- Thoreau, Henry David. “Walking.” In _The Making of the American Essay_, edited by John D’Agata, 167–95. Graywolf Press, 2016.
+Ginzburg, Carlo, John Tedeschi, and Anne C. Tedeschi. “Microhistory: Two or Three Things That I Know about It.” _Critical Inquiry 20,_ no. 1 (1993): 10–35. 
 
-- Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” _Journal of Human Capital_ 11, no. 1 (Spring 2017): 1–34.
+Lepore, Jill. “Historians Who Love Too Much: Reflections on Microhistory and Biography.” _The Journal of American History 88,_ no. 1 (2001): 129–44. 
+
+Magnusson, Sigurur Gylfi, and Istvan M. Szijarto. _What Is Microhistory?: Theory and Practice._ Florence: Taylor and Francis, 2013.
+
+Paul, Jesse. 2018. “What Is Microhistory?” _Social Evolution & History_ 17 (2): 64–82. 
+
+Peltonen, Matti. “What Is Micro in Microhistory?” _Theoretical Discussions of Biography,_ 2014, 103–18.
+
+Popkin, Jeremy D. _From Herodotus to H-Net: The Story of Historiography._ New York, NY: Oxford University Press, 2021. 
+
+Renders, Hans, Binne De Haan, and Matti Peltonen. “What Is Micro in Microhistory?” Essay. In _Theoretical Discussions of Biography: Approaches from History, Microhistory, and Life Writing,_ 157–78. Leiden: Brill, 2014.
+
+Simon, Zoltán Boldizsár. “Microhistory: In General.” _Journal of Social History 49,_ no. 1 (2015): 237–48.
+
+Szijártó, István. “Four Arguments for Microhistory.” _Rethinking History 6,_ no. 2 (2002): 209–15. 
+
+Trivellato, Francesca. “Is There a Future for Italian Microhistory in the Age of Global History?” _California Italian Studies 2_, no. 1 (2011).
+
+Trivellato, Francesca. “Microstoria/Microhistoire/Microhistory.” _French Politics, Culture & Society 33,_ no. 1 (2015): 122–34.
