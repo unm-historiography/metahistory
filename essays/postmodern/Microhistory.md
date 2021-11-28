@@ -13,7 +13,7 @@ toc-section: postmodern
 
 ## What is Microhistory
 
-Microhistory can be said to have begun in the mid-1970 in Italy and most point to the publishing of Carlo Ginzburg The Cheese and the Worms in 1976 (Szijártó 1). However, Carlo Ginzburg’s was often stated that the first person to use the term microhistory was George R. Stewart in 1959 and then a few years later by Luiz Gonzalez (Ginzburg 10-12). But the meaning of current microhistory today is different than how it was used by Luiz Gonzalez where it was microhistory was a synonym for local history.This is different than how today’s practitioners view of microhistory. As a general thought microhistory does not look at the daily life of people but rather the micro scale analysis to test larger scale explanation paradigms. These mainly being Marxism leaning historians as well as the Braudelian longue durée (Trivellato). 
+Microhistory can be said to have begun in the mid-1970 in Italy and most point to the publishing of Carlo Ginzburg The Cheese and the Worms in 1976 (Szijártó 1). However, Carlo Ginzburg’s was often stated that the first person to use the term microhistory was George R. Stewart in 1959 and then a few years later by Luiz Gonzalez (Ginzburg 10-12). But the meaning of current microhistory today is different than how it was used by Luiz Gonzalez where it was microhistory was a synonym for local history. This is different than how today’s practitioners view of microhistory. As a general thought microhistory does not look at the daily life of people but rather the micro scale analysis to test larger scale explanation paradigms. These mainly being Marxism leaning historians as well as the Braudelian longue durée (Trivellato). 
 
 {% include figure.html
   class="left"
