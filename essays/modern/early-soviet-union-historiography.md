@@ -48,7 +48,8 @@ The Short Course became the basis of all Soviet history and was supposed to be u
 
 
 ### Conclusion: Stalinist Repudiation
-Not long after the death of Stalin in 1953 did the Short Course fall out of favor. When Nikita Khrushchev came into power, he called for new history books to be created and for the Short Course to be removed from educational institutions. He felt that 
+Not long after the death of Stalin in 1953 did the Short Course fall out of favor. When Nikita Khrushchev came into power, he called for new history books to be created and for the Short Course to be removed from educational institutions. Khrushchev's efforts to destalinize Soviet society helped the profession of history by allowing historians, including a few outsiders, to finally reenter the archives that were shut during Stalin's reign.
+
 
 ### Subsection headings should be triple hashes in Markdown
 Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac magna condimentum ultricies. Cras egestas non dui non efficitur. Morbi sed facilisis nunc. Etiam ac neque quis enim condimentum suscipit vitae id ipsum. Vivamus sed orci in ex ullamcorper dictum. Cras lobortis justo vitae pellentesque.
