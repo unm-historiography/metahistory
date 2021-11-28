@@ -3,10 +3,10 @@ layout: default
 title: ROMANTIC HISTORY
 subtitle: I have no idea what I want my subtitle to be
 author: JACKIE TRUITT
-date: 2021-12-13
+date: 2021-11-27
 toc-blurb: 
 toc-image: 
-toc-section: Enlightenment
+toc-section: enlightenment
 ---
 
 Add image here
