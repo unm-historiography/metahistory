@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Romantic History
-subtitle: Subtitle pending
+title: Romanticism 
+subtitle: A Brief Introduction to Romantic History
 author: JACKIE TRUITT
 date: 2021-11-27
 toc-blurb: 
@@ -28,13 +28,13 @@ During the Age of Enlightenment, history was primarily studied with the intentio
 
 Romantic historians perceived history as an art form, applying aesthetic principles relating to beauty and the natural world in their works. Romantic historians were heavily influenced by novel writers, and although their writing styles were similar, historians were more recognized as being legitimate and traditional professionals (Orr, 3 ). Literature professor Lionel Gossman states, that romantic history writing was “designed to make the reader feel that there was no barrier between him and the object, that what he beheld in his mind's eye was not a conventional representation, but the object resurrected” (27 ). By utilizing components of literature, historians could not only market their works to a wider audience, but also move away from the linear anthologies of the past that were focused only on relaying hard facts and absolute truths. “Like poetry, moreover, romantic history was afflicted by structure and the question how best to arrange the writing to make its point tell” (Bentley, 27). Despite this viewpoint and primacy on the visual and structural components of history, romantics did not completely disregard a commitment to the analysis of objective historical sources. By embracing both methods of historical study, it was the romantic historian’s responsibility to use their art as a lamp, in which to illuminate the truth.
 
->“Its truth would be poetic and not merely expository. Its method would embrace intuition as much as analysis; its explanations would turn on the particularities of persons, the unrepeatability of events.” (Bentley, 26)
+> “Its truth would be poetic and not merely expository. Its method would embrace intuition as much as analysis; its explanations would turn on the particularities of persons, the unrepeatability of events.” (Bentley, 26)
 
 
-## Romantic History and Nationalism
+## Nationalism and Romantic History
 The shift from Enlightenment ideals to Romantic ideals was not coincidental. Throughout Europe during the late 18th and early 19th centuries, social and political uprisings, such as the French Revolution, and the ratification of the English Reform Act of 1832 (Baár, 3), caused a collective questioning of ideals. The concept of a united history no longer had to be rooted in the monarchy or landed gentry, and history writers shifted from focusing on members of the nobility and upper classes, as well as their political interests, to utilizing the lives of the everyman and individual to incorporate and fuel the idea of national pride on a more inclusive level. The people had shown that they could inflict serious change, and it was time for them to be included in the conversation. 
 
->“The concept of nationhood in early modern Europe was associated less with common ethnic bonds than with certain feudal privileges, which only a small segment of the population, usually the nobility and clergy, enjoyed. Liberal historians redefined the privileges of political representation and property ownership as rights that should be bestowed upon a much wider sphere of the population.” (Baár, 2).
+> “The concept of nationhood in early modern Europe was associated less with common ethnic bonds than with certain feudal privileges, which only a small segment of the population, usually the nobility and clergy, enjoyed. Liberal historians redefined the privileges of political representation and property ownership as rights that should be bestowed upon a much wider sphere of the population.” (Baár, 2).
 
 In “What is Romanticism and Where Did it Come From?” author and professor Azade Seyhan argues that romantic nationalism is a direct response to the chaos and change of the time period (5). Following the rationality and order so prevalent in the Enlightenment period, and the political and social turbulence that surrounded the revolutions, romanticism was viewed as having erupted from the peoples merged anxieties regarding the crises (6). With a more concrete sense of political and social unity in place in terms of both physical and loyalist boundaries, nationalistic histories could now be written from the romantic perspective, incorporating these new representative ideals. 
 
@@ -44,8 +44,8 @@ Historians living during the so-called Romantic Age ( 1770-1850) showcased varyi
 ### Johann Gottfried von Herder
 
 {% include figure.html
-  class="right"
-  width="50%"
+  class="left"
+  width="25%"
   caption="Johann Gottfried von Herder"
   image-url="truitt-johann-gottfried-herder.jpg"
   source-url="https://nat.museum-digital.de/singleimage.php?imagenr=1292"
@@ -60,7 +60,7 @@ Von Herder was also a member of a transitional period between the Enlightenment 
 
 {% include figure.html
   class="right"
-  width="50%"
+  width="25%"
   caption="Lord Macaulay"
   image-url="truitt-thomas-babington-macaulay.jpg"
   source-url="https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay#/media/File:Thomas_Babington_Macaulay2.jpg"
@@ -75,8 +75,8 @@ Macaulay’s most influential and widely acknowledged work that is an example of
 ### Jules Michelet
 
 {% include figure.html
-  class="right"
-  width="50%"
+  class="left"
+  width="25%"
   caption="Jules Michelet"
   image-url="truitt-jules-michelet.jpg"
   source-url="https://en.wikipedia.org/wiki/Jules_Michelet#/media/File:Jules_Michelet_par_Thomas_Couture_(cropped).jpg"
@@ -85,7 +85,7 @@ Macaulay’s most influential and widely acknowledged work that is an example of
 
 Unlike Thomas Macaulay, [Jules Michelet]( https://en.wikipedia.org/wiki/Jules_Michelet) (1798-1874) prided himself on being a commoner. His father was a printer, and Michelet grew up in Paris surrounded by the written (or printed) word. Eventually, he ascended the ranks, becoming a professor and historian at the prestigious Collége de France, as well as an important figure in political and social historiography (Mitzman, 667). Michelet’s historical ideas came into their own during this period. 
 
->“To put the change in Michelet's ideas in its simplest terms, from a basic belief in the linear progress of freedom through conflict with and liberation from the natural world, he came to accept a cyclical view of nature and spiritual existence built on the principle of harmony, in which the key human values were nurturance and sociability, summed up in the concept of *fraternité*". (Mitzman, 668)
+> “To put the change in Michelet's ideas in its simplest terms, from a basic belief in the linear progress of freedom through conflict with and liberation from the natural world, he came to accept a cyclical view of nature and spiritual existence built on the principle of harmony, in which the key human values were nurturance and sociability, summed up in the concept of *fraternité*". (Mitzman, 668)
 
 According to Arthur Mitzman, Michelet represents social romanticism, and was a staunch supporter of anti-clerical republicanism, which proposed church-free and nationalist French ideologies that were at the center of the romantic movement. He was deeply involved in the movements of his time, was a critic of Napoleon, supporter of the 1848 revolution, and wrote impactful romantic works such as *Le Peuple* (The People), on marginalized “others” such as women, nature, and the common people. Similar to Macaulay, Michelet’s most popular and extensive work, *Historie de France*  spanned a whopping 19 volumes. 
 
