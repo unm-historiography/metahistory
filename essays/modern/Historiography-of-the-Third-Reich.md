@@ -142,6 +142,14 @@ Medieval history was especially distorted to these ends, an idealized pre-Christ
 
 The mythologizing of history was not restricted to academic circles. Historical films were especially prized by the Nazis as a means of communicating National Socialist ideals to a mass audience by relying heavily on symbolism. Screenwriters were directed to focus on “the progress of the Nordic man in history. The end of Antiquity, starting point of the alien mind… priests and kings in a struggle for world hegemony… the elements of degenerescence… (liberalism, capitalism, Marxism, confessionalism)...” (Ayçoberry, 10). The film *The Eternal Forest* (1936) extolled the soil as source of Germanic values, depicting Germanic forests as having endured hardship through war and industrial deforestation but also “humiliated by the occupation of Negro soldiers” (a reference to the occupation of the Rhineland by French colonial soldiers between 1918 and 1930) just as the German people had been (11). The idealization and romanticism of pastoralism (“soil”) juxtaposed with militant struggle and industrial warfare (“blood”) reveals one of the many contradictions inherent to the Nazi *Weltanschauung*. Though the source of Germanic values was supposedly the soil and the peasant, the heroes of National Socialism would come from the cities, bedecked in an intensely materialist racist ideology (8-9).
 
+{% include figure.html
+  class="right"
+  width="60%"
+  caption="The premier filmmaker of the Third Reich Leni Riefenstahl films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely hugh and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
+  image-url="mmendoza-leni.jpg"
+  source-url="https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg"
+%}
+
 ### Tacit Resistance
 
 In spite of mounting pressure from various Nazified organizations to incorporate *Volksgeschichte* into all forms of historical scholarship, no unified “Nazi Historiography” ever emerged. As in other aspects of the Third Reich, Hitler preferred to leave the jurisdictions of subordinate organizations intentionally vague, promoting infighting that prevented any one agent from gaining too much power; as such the term “Nazi School” is misleading. There were many voices of authority on such matters, among them the Education Ministry, the “Institute of New Germany,” Alfred Rosenberg (a leading Nazi ideologist), and the SS under Himmler (6). Understandings of history from a volk-centered approach proliferated, but never completely overtook state-centered approaches (Schönwälder, 148). The methodologies of professional historians proved resistant to the efforts of ideologues to assimilate complex and sophisticated scholarship into crudely-defined Nazi concepts (Evans, “In Power” 312).
@@ -209,3 +217,5 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 ["Propaganda Shirley"](https://www.flickr.com/photos/35468140263@N01/9028101) by Kim P. Flickr, 2005. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 [Beautiful German woman sitting in a forest](https://www.flickr.com/photos/95329455@N02/17445301782) by simpleinsomnia. Flickr, 2015. Taken 1930. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
+[Riefenstahl filming a difficult scene with the help of two assistants, 1936](https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
