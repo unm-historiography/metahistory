@@ -144,7 +144,7 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 ---
 
->"No one has repudiated German history more than the Nazi ideologists." (Ayçoberry, 7)
+>"No one has repudiated German history more than the Nazi ideologists."           (Ayçoberry, 7)
 
 >---K.F. Werner
 
