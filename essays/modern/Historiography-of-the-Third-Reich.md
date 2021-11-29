@@ -15,6 +15,14 @@ toc-section: modern
 
 For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (ca. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism. Though many historians managed to keep themselves aloof of the new regime’s agenda, they did so at a cost, and the discipline did not escape the Nazi phenomenon unscathed.
 
+{% include figure.html
+  class="left"
+  width="50%"
+  caption="Historian Heinrich von Treitschke (1834-1896) in a lecture hall in 1879. Professors were particularly exalted by the German public, but most did not wield their influence when the Republic collapsed into dictatorship."
+  image-url="mmendoza-treischke.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Heinrich_von_Treitschke_im_H%C3%B6rsaal.jpg"
+%}
+
 German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, university professor was chosen as the most prestigious profession (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247). German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association.
 
 In spite of this, the reaction of historians to the crumbling of German democracy and the establishment of a one-party dictatorship was rather muted. Although not a single professor of history was a member of the Nazi party before 1933 (Lambert, 555), none left voluntarily after the takeover and there were only very limited dismissals by Nazi officials, mostly of Jewish professors (Schulze, 25, 28). There was no need for a widespread “purge.” Only a handful of historians deviated from the conservative consensus of the profession, a consensus that proved amply compatible with the National Socialist movement.
@@ -133,6 +141,8 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 
 ### Images
+
+[Heinrich von Treitschke im Hörsaal](https://commons.wikimedia.org/wiki/File:Heinrich_von_Treitschke_im_H%C3%B6rsaal.jpg).
 
 [german_losses_after_WWI](https://upload.wikimedia.org/wikipedia/commons/8/85/German_losses_after_WWI.svg). CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5/deed.en
 
