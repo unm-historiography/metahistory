@@ -39,6 +39,14 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
 
 The Weimar Republic, itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine, and created a corpus of so-called “border research” that aimed revanchist sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
 
+---
+
+>"The historical discipline does not come empty-handed to the new German state and its youth."
+
+>--- Karl Alexander von Müller, 1936 (Schulze, 27)
+
+---
+
 {% include figure.html
   class="right"
   width="30%"
@@ -83,8 +91,9 @@ Historical objectivity was conceived as being embodied by the methodologies of h
 
 ---
 
->"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces." 
->---Karl Radek (Ayçoberry, 3)
+>"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces."
+
+>---Karl Radek, 1930 (Ayçoberry, 3)
 
 ---
 
