@@ -15,7 +15,7 @@ Early Soviet historiography was shaped by various conflicts, Russian Revolution 
 
 {% include figure.html
   class="right"
-  width="35%"
+  width="33%"
   caption="Vladimir Lenin, the man whose ideology was the center of all Soviet society"
   image-url="vladimir-lenin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-71043-0003,_Wladimir_Iljitsch_Lenin.jpg"
@@ -39,7 +39,7 @@ Leon Trotsky was a leading Russian revolutionary and not a trained historian, bu
 
 {% include figure.html
   class="left"
-  width="50%"
+  width="55%"
   caption="Leon Trotsky, the man that felt that his place in history should be higher"
   image-url="leon-trotsky.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Leon_Trotsky_at_his_desk.jpg"
@@ -62,7 +62,7 @@ In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian 
 
 {% include figure.html
   class="right"
-  width="35%"
+  width="40%"
   caption="Joseph Stalin, the man that wanted all Soviet society to revolve around him"
   image-url="joseph-stalin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Stalin_Full_Image.jpg"
