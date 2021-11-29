@@ -33,7 +33,7 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
 
 The Weimar Republic, itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine, and created a corpus of so-called “border research” that aimed revanchist sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
 
-### “*Volkische*” History
+### *“Volkische”* History
 
 {% include figure.html
   class="left"
