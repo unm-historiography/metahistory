@@ -1,7 +1,8 @@
 # Creating History Through Narrative
+
 ## _Exploring the possibilites of emotional connections and social memory through story_
 
-Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim and expected by many readers for many within the academic study of history. 
+Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim, and expected by many readers, within the academic study of history. 
 However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp.
 
 This essay seeks to understand the ways in which Narrative history can remain an important aspect of the more scientific gathering of source material, analyzed details, and the postmodern view of history we work with now in the development of history as a discipline.
