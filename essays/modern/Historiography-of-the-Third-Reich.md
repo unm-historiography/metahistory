@@ -132,7 +132,7 @@ Historians who wholeheartedly embraced Nazism simply discarded the past. Nations
 
 {% include figure.html
   class="left"
-  width="60%"
+  width="55%"
   caption="'We are living in the most remote generations of our father... We are but the riverbed where the eternal blood roars on.' (Ayçoberry, 8)"
   image-url="mmendoza-forest.png"
   source-url="https://www.flickr.com/photos/95329455@N02/17445301782"
