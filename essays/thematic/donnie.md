@@ -11,6 +11,7 @@ Balance evolution is part of the history of history as a discipline and can be s
 It is a slippery slope that must be walked delicately.  
 Historians often look at the media of the past for source details.
 Today’s media has a responsibility to present the facts in a way that will provide clarity to the audience of today, and hopefully that clarity will continue for the historians in years to come
+
 Yet, nowhere more suitable for a narrative approach to historical studies is the newspaper. This same source is ripe for Narrative distortion. Meta history websites fall within the paramotor for the purpose of this essay. 
 In Rewriting the Newspaper, Thomas R. Schmidt explores the use of narrative history in the news.  
 It is an overview of the improvements story telling brought to the newspaper industry.
