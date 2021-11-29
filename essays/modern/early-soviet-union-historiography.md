@@ -42,7 +42,7 @@ Leon Trotsky was a leading Russian revolutionary and not a trained historian, bu
 
 {% include figure.html
   class="left"
-  width="35%"
+  width="50%"
   caption="Leon Trotsky, the man that felt that his place in history should be higher"
   image-url="leon-trotsky.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Leon_Trotsky_at_his_desk.jpg"
