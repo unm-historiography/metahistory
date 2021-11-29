@@ -230,7 +230,7 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 [Thousands of books smoulder in a huge bonfire as Germans give the Nazi salute during the wave of book-burnings](https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif).
 
-["Propaganda Shirley"](https://www.flickr.com/photos/35468140263@N01/9028101) by Kim P. Flickr, 2005. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+["Propaganda Shirley"](https://www.flickr.com/photos/35468140263@N01/9028101) by Kim P. Flickr, 2005. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/). (This contemporary photograph is not Nazi propaganda but affects the same symbolism: extolling the virtues of the European peasant farmer.)
 
 [Beautiful German woman sitting in a forest](https://www.flickr.com/photos/95329455@N02/17445301782) by simpleinsomnia. Flickr, 2015. Taken 1930. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
