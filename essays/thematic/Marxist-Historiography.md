@@ -10,7 +10,19 @@ toc-section: thematic
 ---
 
 
+{% include figure.html 
 
+  class="right" 
+
+  width="50%" 
+
+  caption= "Karl Marx (Left) and Fredrich Engles. (Right) These two men founded the Marxist ideology with Marx being the primary philosopher and Engles acting almost as a benefactor." 
+
+  image-url= "Skroch-Marx-and-Engles.jpg" 
+
+  source-url="https://commons.wikimedia.org/wiki/File:Marx_and_Engels.jpg" 
+
+%} 
 
 
 
@@ -29,10 +41,40 @@ This Marxist progressivism ties together many historical events especially those
 ### Marxism and Government
 As previously stated, Marxism holds a certain degree of contempt for any capitalist society’s government. This can best be explained in Marx’s own words in the preface to his 1859 writing, A Contribution to the Critique of Political Economy. Here he states: “Legal relation as well as forms of state are to be grasped neither by themselves nor from the so-called general development of the human mind, but rather have their roots in the material conditions of life...” Marx explains that it is the material conditions of life, otherwise known as the social and economic class are what ultimately shape the laws and government of a society. He then connects this to the writing of history saying, “Economic production and the structure of society uprising there from constitute the foundation for the political and intellectual history of that epoch...” Problems around the writing of history, such as the purpose of writing and bias of the author, were nothing new; however, Marxist Historiography places this criticism at the core of its beliefs, going as far as to differentiate itself from “regular history’ by calling it “bourgeois history.” In this case Marxists assert that this “bourgeois history” is created by the government in order to justify the capitalist system. It is for this reason that for Marxists, non-Marxist historians should be, first and foremost, "denounced" as ‘falsifiers of history’—made positive evaluation of bourgeois authors dependent on their politics and on their affinity to an orthodox materialistic understanding of history. (Mogilnitsky) 
 
+{% include figure.html 
+
+  class="right" 
+
+  width="50%" 
+
+  caption=" \"The Pope of Marxism"\ A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
+
+  image-url="Skroch-Karl-Kautski" 
+
+  source-url="https://commons.wikimedia.org/wiki/File:Karl_Kautsky_01.jpg" 
+
+%} 
+
 ### Kautskism
 Karl Kautsky was a Marxist theoretician who lived from the mid 19th century to the mid 20th century. Despite disapproval by Karl Marx, who used the word “mediocrity” to describe him, Kautsky was a leader within the Marxist community. He began his career as an editor for Marx working on such publications as Theories of Surplus Value, he did such an impressive job that he later became the editor of Marx’s estate after Fredrich Engles’ death. He was so effective at his job that he quickly became known as the most important theorists in the Marxist World; who did so much to popularize Marxism in the west that he earned the title “The Pope of Marxism.” Kautsky wouldn’t hold a high title in the Marxist party for long as several disagreements with Lenin over the Bolshevik rebellion and support of the first world war led to the end of his political career.  It was due to his more available schedule that he would be able to write more philosophy and ultimately create a new branch of Marxism that is often called Kautskism. 
 
 Kautskism can be seen as a more strict adherence to the historiographical belief that society was ever progressing towards a lower class uprising. This originated from Kautsky’s claim that Russia was not ready for a socialist revolution as the country had never had an unrestricted capitalist economy. This embodies the linear history of his ideology as, in his opinion, a country couldn’t skip a step on the path to communism, especially if it surpassed his own. This view lead many critics of his time to label Kautsky as a “determinist” or “Darwinist.” Kautsky made sure to emphasize that his position was grounded in the human agency throughout history being the driving force behind the inevitable Proletarian uprising. Kautskism only slightly avoids the label of determinist in that it doesn’t advocate for “inevitable, linear history” but rather that the workers of the proletariat would eventually overthrow the upper class. 
+
+{% include figure.html 
+
+  class="right" 
+
+  width="50%" 
+
+  caption=" A peace of Marxist propeganda, the top reads \"long live Marxism-Leninism-Maoism!"\ At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!"\ The bottom reads \"the Revolutionary Internationalist Movement."\ 
+
+  image-url="Skroch-Marxist-Propeganda.jpg" 
+
+  source-url="https://commons.wikimedia.org/wiki/File:Long_Live_Marxism-Leninism-Maoism!.jpg" 
+
+   
+
+%} 
 
 ### Marxist History in China
 For the vast majority of history in China, dynastic monarchy was the only form of government. This system of government was shortly broken by the Republic of China from 1912-1949, before ultimately being succeeded by a communist state. Marxism greatly expanded in the two decades before the Chinese Communist revolution. Fan Wenlan lead the Marxist view of Chinese History, opposing historians who followed a more nationalist view. Firstly, Wenlan believed in the classic linear Marxist view of history, believing that the communist revolution would be the culmination of the centuries long struggle of the Chinese people against feudalism and imperialism. (Li) Oddly enough, in a way the short period of The Republic of China was required for this linear history to work. In juxtaposition of Kautsky’s view of the Russian Marxist Revolution, China had fully experienced the “steps” to becoming a communist state.   
