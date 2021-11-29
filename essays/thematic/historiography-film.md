@@ -20,6 +20,14 @@ Holding the attention of an audience, especially during a film can be difficult.
 
 Ramirez’s example of this “filmic treatment” comes from his view of D.W. Griffith’s 1915 silent epic drama *The Birth of a Nation* where the movie deals with the Civil War and “heroic” rise of the Ku Klux Klan. This was a film in which Griffith, a filmmaker, not a historian, seemed to want to impart a history lesson of the Civil War, choosing to include battle sequences, political intrigue, and a romantic subplot (because it is a movie after all). As the filmmaker, D.W. Griffith made specific filmic choices such as scenes and sequences with written quotations from historical personalities such as President Abraham Lincoln and contemporary historians such as Woodrow Wilson, while using historically accurate locations pertaining to the history of the film.
 
+{% include figure.html
+class="left"
+width="50%"
+caption="Poster for D.W. Griffith's 1915 silent American film *The Birth of a Nation* for a showing at the Academy of Music. Based on the book by Thomas Dixon, tells the story of the  Stoneman and Cameron family, both affected by the Civil War, fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan."
+image-url="salaiz-birth-of-nation.jpeg"
+source-url="https://commons.wikimedia.org/wiki/File:Birth_of_a_Nation_-_Academy.jpg"
+%}
+
 Still, Ramirez believed that there were repercussions of the film’s historical theme and treatment of historical narrative that *The Birth of a Nation* “signaled the irreversible entry of historical motion picture into the American universe of cinema.” (Ramirez, 4) The history was essentially being simplified and diluted by Griffith to create the narrative of an epic Civil War drama that captivated audiences, not really informing as was the filmmaker’s initial intention. So, when does it become the responsibility of the filmmaker to take on the role of a historian?
 
 ### Filmmakers as the Occasional Historian ###
