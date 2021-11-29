@@ -6,7 +6,7 @@ author: Heath Skroch
 date: 2021-12-13
 toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
 toc-image: The_Venerable_Bede_translates_John_1902.jpg
-toc-section: PICK ONE
+toc-section: thematic
 ---
 
 
@@ -16,7 +16,7 @@ toc-section: PICK ONE
   class="right"
   width="50%"
   caption= "Karl Marx (Left) and Fredrich Engles. (Right) These two men founded the Marxist ideology with Marx being the primary philosopher and Engles acting almost as a benefactor."
-  image-url= "Skroch_Marx_and_Engles.jpg"
+  image-url="Skroch_Marx_and_Engles.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Marx_and_Engels.jpg"
 %}
 
