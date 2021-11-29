@@ -52,7 +52,16 @@ Film as a medium is about creating a narrative from the perspective of a filmmak
 
 It has become increasingly important that historians who wish to break into filmmaking are aware of what kind of narrative, framework, paradigm, etc. they are going to work through. For historian filmmakers Barbara Abrash and Daniel J. Walkowitz, the focus on historical narrative presentation became apparent for them while working in public television, creating documentaries for public television, remaining conscious of the fact that “there *are* historical truths that have profound political consequences.” (Abrash & Walkowtiz, 203) While working in U.S television, Abrash and Walkowitz realized that there were limits to the types of historical narrative and filmmaking they could present, as “television—including public television—serves corporate agendas far from their own, and that its programming is cast primarily as entertainment.” (Abrash & Walkowtiz, 203) They understood that when it comes to the relationship between filmmaking and the role of the historian, telling the “truth” was going to be subjective as it pertained to what medium (public television, mass media consumption as major film releases, independent documentaries, etc.) was presenting that history. Historian filmmakers must ultimately make the decision; sacrifice the historiographical narrative for means of funding and audience, or acquire personal funding and ensure that the historiographical narrative the filmmaker wishes to make is done well?
 
+### Historical Narrative and Persuasion ###
+When it comes to narratives, “they are thought to persuade by presenting information in a ‘story format’ such that audience members accept the attitudes and beliefs presented while engaging the story.” (Cui et al, 2743) Take for instance, take the 2006 colorful, historical drama film written and directed by Sophia Coppola *Marie Antoinette*. A film whose narrative is highly driven by the excited and “bratty” nature of Austrian-teenager-turned-French-queen, the film is not historically accurate, but the narrative of Marie Antoinette made the ill-fated queen likeable and tragic. But how does the narrative persuasion of Sophia Coppola’s script compare to the work historians do? And although it can be argued that what filmmakers present for historiography is a form of [public history]. (https://ncph.org/what-is-public-history/about-the-field/)
 
+{% include figure.html
+  class="left"
+  width="40%"
+  caption="Promotional photograph from Sophia Coppola's historical drama *Marie Antoinette*. A colorful and charming movie that proves how narrative can be persuasive in its simplification of certain histories translated on film. Property of Sony Pictures, photo credit to Leigh Johnson."
+  image-url="salaiz-marie-antoinette.jpeg"
+  source-url="https://search.creativecommons.org/photos/deb799bf-949d-4653-bab0-ff10502a7b70"
+%}
 
 ## Bibliography
 
