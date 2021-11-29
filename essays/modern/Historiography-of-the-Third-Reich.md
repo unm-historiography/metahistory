@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HISTORIOGRAPHY OF THE THIRD REICH
+title: Historiography of the Third Reich
 subtitle: 
 author: MICHAEL MENDOZA
 date: 2021-11-28
