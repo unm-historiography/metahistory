@@ -24,8 +24,8 @@ In spite of this, the reaction of historians to the crumbling of German democrac
 Historiography of the interwar years in Germany was dominated by the trauma of the First World War, but especially by the offspring of its conclusion: the Treaty of Versailles. In the minds of German historians, as well as much of the German people, the Treaty represented an inconceivable humiliation for a country which had been at the high point of its power just four years before. Not only was it considered an extremely harsh punishment, but also an unjust one as it pinned the blame for the war unfairly, it was thought, on Germany alone (Evans, “The Coming” 60).
 
 {% include figure.html
-  class="right"
-  width="60%"
+  class="left"
+  width="55%"
   caption="The Treaty of Versailles and the resulting territorial losses were considered a national humiliation by the vast majority of Germans, historians included, which contributed to conservative-nationalist conceptions of German history."
   image-url="mmendoza-german-losses-after-ww1.png"
   source-url="https://en.wikipedia.org/wiki/Weimar_Republic#/media/File:German_losses_after_WWI.svg"
