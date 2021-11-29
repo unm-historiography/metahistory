@@ -81,6 +81,13 @@ Another German historian, Heinrich von Sybel, who had studied under Ranke and fo
 
 Historical objectivity was conceived as being embodied by the methodologies of historical investigation -- it was through a systematic process of '**_Quellenkritik_' (source criticism)** that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as Heinrich von Treitschke as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
 
+---
+
+>**"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces." 
+>---Karl Radek, 1930** (Ayçoberry, 3)
+
+---
+
 
 ## Historiography Under the Nazis
 
@@ -110,7 +117,8 @@ Historians who wholeheartedly embraced Nazism simply discarded the past. Nations
 
 ---
 
->**"No one has repudiated German history more than the Nazi ideologists." ---K.F. Werner** (Ayçoberry, 7)
+>**"No one has repudiated German history more than the Nazi ideologists." 
+>---K.F. Werner** (Ayçoberry, 7)
 
 ---
 
