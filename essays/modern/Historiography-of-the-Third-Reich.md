@@ -30,7 +30,7 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
   width="50%"
   caption="The Treaty of Versailles and the resulting territorial losses were considered a national humiliation by the vast majority of Germans, historians included, which contributed to conservative-nationalist conceptions of German history."
   image-url="mmendoza-german-losses-after-ww1.png"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
+  source-url="https://en.wikipedia.org/wiki/Weimar_Republic#/media/File:German_losses_after_WWI.svg"
 %}
 
 The Weimar Republic, itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine, and created a corpus of so-called “border research” that aimed revanchist sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
