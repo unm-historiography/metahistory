@@ -21,8 +21,7 @@ Early Soviet historiography was shaped by various conflicts, Russian Revolution 
   source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-71043-0003,_Wladimir_Iljitsch_Lenin.jpg"
 %}
 
-A great deal of Soviet historiography has to do with the role of Marxism. Many historians adopted Marxist ideologies and tried to fit their views into not only Soviet history, but Russian history as a whole. This essay seeks to explore several historians (including one would be historian), institutions, and how they attempted to justify their actions during the aforementioned conflicts and the power of resulting government.
-
+A great deal of Soviet historiography has to do with the role of Marxism, specifically the Marxist-Leninist interpretation, throughout history. Many historians adopted Marxist ideologies and tried to fit their views into not only Soviet history, but Russian history as a whole. Soviet historians were tasked by the Communist Party to interpret history as favorable to the rise of the Communist Party and to silence history that could contradict the narrative. This essay seeks to explore several historians, including the would be historians, institutions, and how they attempted to justify their actions during the aforementioned conflicts and the power wielded by the resulting government.
 
 ## Marxists and non-Marxists
 The entirety of post revolution Soviet society was supposed to be built on Marxism but it was not a simple task to rid non-Marxists from educational institutions. The Soviet Marxists were guided by the principles of Marxism-Leninism which was an evolutionary process that was built on a series of socioeconomic formations including primitive communism, slave-holding society, feudalism, capitalism, and communism. Marxist historians preferred to not work with non-Marxists because they felt that the non-Marxists could still be a threat to the Communist Party through their interpretations of history. The Communist Party allowed the non-Marxists to continue their work, but it heavily monitored. Several competing institutions of both ideologies were created to formulate Soviet history, with Marxist leadership.
@@ -49,7 +48,7 @@ Trotsky’s main focus was on the Revolution of 1917. His first work on the subj
 
 Even after falling out of favor with the Communist Party and getting deported from the USSR, Trotsky wrote some of his seminal works about the Revolution, including The History of the Russian Revolution and his autobiography My Life. Although My Life is an autobiography, this book was a great tool for Soviet history because it is a firsthand account of many of the revolutionary events that led to the eventual rise of the Soviet Union.
 
-There had been several other works about the Revolution but none that were as extensive as Trotsky’s History. History was the preeminent historical work that took into account the entire Revolution of 1917, from February to October. His underlying purpose was to elevate his position as being the other true leader of the Revolution alongside Lenin and to call out other Soviet leaders, especially Stalin, as being unworthy of leading the Communist Party.
+There had been several other works about the Revolution but none that were as extensive as Trotsky’s History. History was the preeminent historical work that took into account the entire Revolution of 1917, from February to October, with a . His underlying purpose was to elevate his position as being the other true leader of the Revolution alongside Lenin and to call out other Soviet leaders, especially Stalin, as being unworthy of leading the Communist Party.
 
 It would be worth reiterating that Trotsky was not a trained historian. He relied on his own memory to formulate his works and the publications of the Istpar. To say that his writings were completely biased due to his sources being Communist Party approved would be an understatement. With that being said, Trotsky’s contributions to this period of Soviet historical writing were enormous.
 
@@ -58,7 +57,7 @@ Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder a
 
 Although Pokrovsky had a certain amount of latitude when it came to his work, he still had to fall under the party line as the as the Communist Party gained more control. Like many other historians of the time, he had to cite Lenin in almost every piece of his work to show his loyalty to the Communist Party and that he was a true believer of Marxism. For example, "For any correct interpretation of Russian history must be based on Lenin's interpretation of it”. (Eissenstat, pg 610)
 
-It would be surprising to learn that a historian under such a repressive regime would have such strict ethical standards when it came to sources, but Pokrovsky felt it was his duty to the proletariat to make sure documents were not altered because thought the people deserved to know the truth. 
+It would be surprising to learn that a historian under such a repressive regime that was attempting to rewrite history to fit their narrative would have such strict ethical standards when it came to sources, but Pokrovsky felt it was his duty to the proletariat to make sure documents were not altered because thought the people deserved to know the truth. 
 
 ## Stalin and the Short Course
 In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
@@ -95,3 +94,5 @@ The early era of Soviet historiography was one of tumult, but it is fair to say 
 - Baron, Samuel H. _Plekhanov, Trotsky, and the Development of Soviet Historiography_. Soviet Studies, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
 
 - Banerji, Arup. _Notes on the Histories of History in the Soviet Union_. Economic and Political Weekly, Vol. 41, No. 9 (Mar. 4-10, 2006), pp. 826-833
+
+- Mazour, Anatole G. _Modern Russian Historiography_. Greenwood Press, 1975.
