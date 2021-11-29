@@ -1,4 +1,4 @@
-#Understanding History Through Narrative 
+# Understanding History Through Narrative 
 ## _Exploring the possibilites of emotional connections and social memory through story_
 
 Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim, and expected by many readers, within the academic study of history. 
