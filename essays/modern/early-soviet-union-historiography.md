@@ -17,9 +17,9 @@ Early Soviet historiography was shaped by various conflicts, Russian Revolution 
 {% include figure.html
   class="right"
   width="50%"
-  caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
-  image-url="The_Venerable_Bede_translates_John_1902.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
+  caption="Vladimir Lenin, the man whose ideology was the center of all Soviet society"
+  image-url="vladimir-lenin.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-71043-0003,_Wladimir_Iljitsch_Lenin.jpg"
 %}
 
 A great deal of Soviet historiography has to do with the role of Marxism. Many historians adopted Marxist ideologies and tried to fit their views into not only Soviet history, but Russian history as a whole. This essay seeks to explore several historians (including one would be historian), institutions, and how they attempted to justify their actions during the aforementioned conflicts and the power of resulting government.
