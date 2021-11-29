@@ -83,8 +83,8 @@ Historical objectivity was conceived as being embodied by the methodologies of h
 
 ---
 
->**"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces." 
->---Karl Radek, 1930** (Ayçoberry, 3)
+>"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces." 
+>---Karl Radek (Ayçoberry, 3)
 
 ---
 
@@ -115,14 +115,14 @@ In the Nazi '*Weltanschauung*' (worldview), history was conceived of as a Manich
 
 Historians who wholeheartedly embraced Nazism simply discarded the past. Nations had no real progression in history, as “they are already there, prefigured” and could only degenerate (Ayçoberry, 6). Thus, Charlemagne was considered unequivocally German, having “created the Empire” a thousand years before the unification (Evans, “In Power 312). The Germanic migrations were supposedly proof of German racial superiority (Ayçoberry, 7). According to Moritz Edelmann in 1937, editor of a historical journal, historical investigation should “liberate" itself from the dependence on the written source” (Schulze, 26). 
 
----
-
->**"No one has repudiated German history more than the Nazi ideologists." 
->---K.F. Werner** (Ayçoberry, 7)
-
----
-
 Medieval history was especially distorted to these ends, an idealized pre-Christian “empire” of Charlemagne virtuous only as a prefigurement of the new Reich, the Teutonic knights revered as a model of German expansion to the east. As the philosopher and sociologist Max Horkheimer explained, “fascism, by its very exaltation of the past, is antihistorical. The Nazis' references to history mean only that the powerful must rule and that there is no emancipation from the eternal laws which guide humanity. When they say history, they mean its very opposite: mythology” (Ayçoberry, 7).
+
+---
+
+>"No one has repudiated German history more than the Nazi ideologists." 
+>---K.F. Werner (Ayçoberry, 7)
+
+---
 
 The mythologizing of history was not restricted to academic circles. Historical films were especially prized by the Nazis as a means of communicating National Socialist ideals to a mass audience by relying heavily on symbolism. Screenwriters were directed to focus on “the progress of the Nordic man in history. The end of Antiquity, starting point of the alien mind… priests and kings in a struggle for world hegemony… the elements of degenerescence… (liberalism, capitalism, Marxism, confessionalism)...” (Ayçoberry, 10). The film *The Eternal Forest* (1936) extolled the soil as source of Germanic values, depicting Germanic forests as having endured hardship through war and industrial deforestation but also “humiliated by the occupation of Negro soldiers” (a reference to the occupation of the Rhineland by French colonial soldiers between 1918 and 1930) just as the German people had been (11). The idealization and romanticism of pastoralism (“soil”) juxtaposed with militant struggle and industrial warfare (“blood”) reveals one of the many contradictions inherent to the Nazi *Weltanschauung*. Though the source of Germanic values was supposedly the soil and the peasant, the heroes of National Socialism would come from the cities, bedecked in an intensely materialist racist ideology (8-9).
 
