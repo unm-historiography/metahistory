@@ -16,7 +16,7 @@ For scholars and students of the history of the Third Reich, a striking aspect o
 {% include figure.html
   class="right"
   width="50%"
-  caption="Historian Heinrich von Treitschke (1834-1896) in a lecture hall in 1879. Professors were particularly exalted by the German public, but most chose not to wield their influence when the Republic collapsed into dictatorship."
+  caption="Historian Heinrich von Treitschke (c. 1834-1896) in a lecture hall in 1879. Professors were particularly exalted by the German public, but most chose not to wield their influence when the Republic collapsed into dictatorship."
   image-url="mmendoza-treischke.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Heinrich_von_Treitschke_im_H%C3%B6rsaal.jpg"
 %}
