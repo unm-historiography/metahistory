@@ -73,3 +73,4 @@ When it comes to narratives, “they are thought to persuade by presenting infor
 - Toplin, Robert Brent, and Jason Eudy. “The Historian Encounters Film: A Historiography.” OAH Magazine of History 16, no. 4 (2002): 7–12
 - Klenotic, Jeffrey F. “The Place of Rhetoric in ‘New’ Film Historiography: The Discourse of Corrective Revisionism.” Film History 6, no. 1 (1994): 45–58
 - Library of Congress, “History & the Movies: An Historian Writes a Screenplay.” Video.
+- Jacoby, Faith “Let Them Eat Fake – FHCtoday.Com.”
