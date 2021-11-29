@@ -157,7 +157,7 @@ In spite of mounting pressure from various Nazified organizations to incorporate
 {% include figure.html
   class="left"
   width="40%"
-  caption="Boys in the Hitler Youth practice shooting on the firing line in 1943. The application of the 'Führer Principle' in schools and universities regimented the education system into a strict hierarchy. Educators chafed under the military discipline, worried that the schools would become just another part of the military training pipeline, funnelling children into the meat-grinder that had become the front by 1943. In the end, this is precisely what happened."
+  caption="Boys in the Hitler Youth practice shooting at a firing range in 1943. The application of the 'Führer Principle' in schools and universities regimented the education system into a strict hierarchy. Educators chafed under the military discipline, worried that the schools would become just another part of the military training pipeline, funnelling children into the meat-grinder that had become the front by 1943. In the end, this is precisely what happened."
   image-url="mmendoza-youth.jpg"
   source-url="https://en.wikipedia.org/wiki/Hitler_Youth#/media/File:Bundesarchiv_Bild_146-1978-013-27,_Hitlerjugend,_vormilit%C3%A4rische_Ausbildung.jpg"
 %}
@@ -176,6 +176,14 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 
 ## Post-War Nazi Influences
+
+{% include figure.html
+  class="right"
+  width="60%"
+  caption="The ruins of the German town of Heilbronn, one of the most devastated cities in Europe, lay quiet, April 1945. After the conflagration of the Second World War had ended, it truly felt to Germans that their world had come to an end. Germany as a unified state was no more. Historians and the public at large struggled with what that meant for the continuation of German history."
+  image-url="mmendoza-ruins.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Heilbronn_in_a_panorama._It_was_one_of_the_three_or_four_most_devastated_cities_in_all_Europe._Germany,_ca._April_1945._-_NARA_-_559236.tif"
+%}
 
 The cataclysmic end of the war for Germany resulted in a crisis of historical scholarship. There were widespread calls to reexamine conventional historical theses. In this respect, 1945 really did seem like a complete break with the past, “the end of traditional history” (Schulze, 31). What did “German history” mean in an era without Germany? West German historians insisted that modern scholarship could continue as “true” history released from the trappings of Nazi rhetoric, as it was claimed that many had simply paid lip-service to Nazi ideology to retain their jobs. But the extent to which Nazi-era historiography affected post-war methodologies was indeed in question.
 
@@ -229,3 +237,5 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 [Riefenstahl filming a difficult scene with the help of two assistants, 1936](https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
 
 [Hitler Youth at rifle practice, c. 1943](https://en.wikipedia.org/wiki/Hitler_Youth#/media/File:Bundesarchiv_Bild_146-1978-013-27,_Hitlerjugend,_vormilit%C3%A4rische_Ausbildung.jpg). Bottom of the image cropped. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
+
+[Heilbronn in a panorama](https://commons.wikimedia.org/wiki/File:Heilbronn_in_a_panorama._It_was_one_of_the_three_or_four_most_devastated_cities_in_all_Europe._Germany,_ca._April_1945._-_NARA_-_559236.tif).
