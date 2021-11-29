@@ -121,7 +121,7 @@ For the Nazi program of radical mass political indoctrination to suceed it neede
 {% include figure.html
   class="right"
   width="40%"
-  caption="University students display the Nazi salute as thousands of books burn in Berlin in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was especially censored, especially in the lower grades."
+  caption="The Nazi's foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on *Mitteleuropa*. (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
 %}
