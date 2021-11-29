@@ -12,7 +12,7 @@ toc-blurb:
 Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
 toc-image: The_Venerable_Bede_translates_John_1902.jpg
 
-toc-section: medieval
+toc-section: Medieval
 ---
 
 
