@@ -119,7 +119,7 @@ And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.o
 For the Nazi program of radical mass political indoctrination to suceed it needed a commanding influence in the schools, and history education was to be at the forefront of this effort, as in fact directed by the Reich Minister of the Interior on May 9, 1933. Another decree later in the same year established new “Guidelines for History Textbooks” that emphasized race as the driving factor underlying history and focused on leadership and heroism in the struggle between peoples and nations (Evans, “In Power” 263). {% include figure.html
   class="right"
   width="55%"
-  caption="The Nazi's foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on *Mitteleuropa*. (Schönwälder, 137-138)"
+  caption="The Nazi's foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
 %}
