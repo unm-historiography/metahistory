@@ -79,18 +79,10 @@ The Short Course was supposed to be a textbook that exemplified the Marxist theo
 
 The Short Course became the basis of all Soviet history and was supposed to be used by all Soviets and non-Soviets alike as a guide to Leninism-Marxism. It was distributed and taught throughout the government and education system. No other histories were allowed to be produced without the consent of the Communist Party.
 
-
-
 ### Conclusion: Stalinist Repudiation
-Not long after the death of Stalin in 1953 did the Short Course fall out of favor. When Nikita Khrushchev came into power, he called for new history books to be created and for the Short Course to be removed from educational institutions. Khrushchev's efforts to destalinize Soviet society helped the profession of history by allowing historians, including a few outsiders, to finally reenter the archives that were shut during Stalin's reign.
+Not long after the death of Stalin in 1953 did the Short Course fall out of favor. When Nikita Khrushchev came into power, he called for new history books to be created and for the Short Course to be removed from educational institutions. Khrushchev’s efforts to de-Stalinize Soviet society helped the profession of history by allowing historians, including non-Russian outsiders, to finally reenter the archives that were shut during Stalin’s reign. 
 
-
-### Subsection headings should be triple hashes in Markdown
-Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac magna condimentum ultricies. Cras egestas non dui non efficitur. Morbi sed facilisis nunc. Etiam ac neque quis enim condimentum suscipit vitae id ipsum. Vivamus sed orci in ex ullamcorper dictum. Cras lobortis justo vitae pellentesque.
-
-Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit.
-
-
+The early era of Soviet historiography was one of tumult, but it is fair to say that Stalin brought about a sense of peace to the profession when he solidified his power. There was less fighting amongst historians but there was too much appeasement towards Stalin and the Communist Party. What would follow would be a more open form of historiography but one not without its own faults.
 
 ## Bibliography
 
