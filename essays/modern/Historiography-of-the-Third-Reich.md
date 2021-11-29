@@ -145,7 +145,7 @@ The mythologizing of history was not restricted to academic circles. Historical 
 {% include figure.html
   class="right"
   width="60%"
-  caption="The premier filmmaker of the Third Reich [Leni Riefenstahl](https://en.wikipedia.org/wiki/Leni_Riefenstahl) films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely high and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
+  caption="The premier filmmaker of the Third Reich [Leni Riefenstahl](https://en.wikipedia.org/wiki/Leni_Riefenstahl) (c. 1902-2003) films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely high and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
   image-url="mmendoza-leni.jpg"
   source-url="https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg"
 %}
