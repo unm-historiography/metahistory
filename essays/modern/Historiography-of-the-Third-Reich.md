@@ -33,13 +33,13 @@ It was in this intellectual climate post-1918 that the late-nineteenth century n
 
 A new methodology was required to explore this emerging historical paradigm. Methods were adopted from ethnography, settlement studies, and more detailed analysis was made of local customs, social, and economic histories (22). German historians of the Weimar years thus combined a more empirical methodology with revisionist political ends (22), a trend that expanded from 1918 onward and especially after 1933 under the auspices of the Nazi state (Schleier, 181).
 
-## Conservative-Nationalist Objectivity?
+### Conservative-Nationalist Objectivity?
 
 All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century positivist thought and greatly influenced by two German intellectual titans: the sociologist Max Weber and the historian Leopold von Ranke. Both promoted objectivity in scholarship and warned against the imposition of personal, contemporary values on times past. Political partisanship in the classroom was also looked down upon, Weber himself stating publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
 
 For German historians of the interwar years, conservative-nationalist proclivities thus lined up conspicuously well with notions of “objectivity” in historical scholarship. It was self-evident to them that the Weimar Republic represented a clear break with German history. Democracy, republicanism, and liberalism were not compatible with the German sense of volk and country, as was supposedly “proved” by the social unrest and political chaos that succeeded the collapse of the Wilhelmine Reich. “The Kaiser-less time,” was widely considered “the terrible time,” in the words of historian Conrad Bornhak (Sims, 253).
 
-## Objectivity Versus Impartiality
+### Objectivity Versus Impartiality
 
 All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian Gustav Droysen proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). Another German historian, Heinrich von Sybel, who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian Georg Gervinus simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
