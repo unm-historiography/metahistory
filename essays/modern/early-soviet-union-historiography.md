@@ -53,11 +53,24 @@ It would be worth reiterating that Trotsky was not a trained historian. He relie
 Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. 
 
 ### Stalin and the Short Course
-In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians, A. G. Slutskii and Volosevich, portrayed Lenin and Party history. This would not be the last time Stalin and party members would intervene in the writing of history. A main criticism Stalin had was the way previous histories were framed chronologically. Stalin called for a new textbook to be written, under his framework, with the party’s guidance that would focus on the history of the party. In 1938 the textbook was published titled History of the All-Union Communist Party (Bolsheviks): Short Course.
+In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
+
+A main criticism Stalin had was the way previous histories had been written, especially the way they were framed chronologically. Stalin called for a new textbook to be written, under his framework and with the Communist Party’s guidance, that would focus on the history of the Communist Party. 
+
+In 1938 the textbook was published, titled _History of the All-Union Communist Party (Bolsheviks): Short Course_. The Short Course was primarily written by historians Vilhelm Knorin, Pyotr Pospelov and Yemelyan Yaroslavsky with an essay being authored by Stalin himself. The authorship would eventually change because Stalin would take credit for writing the entire book himself.
+
+{% include figure.html
+  class="left"
+  width="35%"
+  caption="Joseph Stalin, the man that wanted all Soviet society to revolve around him"
+  image-url="vladimir-lenin.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Stalin_Full_Image.jpg"
+%}
 
 The Short Course was supposed to be a textbook that exemplified the Marxist theory of history by speaking to the collective as drivers of history but ended up elevating individuals, Lenin and Stalin, as the creators of history. The Short Course made Stalin into the hero of the Soviet Union which further solidified his standing with the public.
 
-The Short Course became the basis of all Soviet history and was supposed to be used by all Soviets and non-Soviets alike as a guide to Leninism-Marxism. It was distributed and taught throughout the government and education system. No other histories were allowed to be produced without the consent of the party
+The Short Course became the basis of all Soviet history and was supposed to be used by all Soviets and non-Soviets alike as a guide to Leninism-Marxism. It was distributed and taught throughout the government and education system. No other histories were allowed to be produced without the consent of the Communist Party.
+
 
 
 ### Conclusion: Stalinist Repudiation
