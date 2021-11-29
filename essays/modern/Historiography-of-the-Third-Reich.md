@@ -132,7 +132,7 @@ Historians who wholeheartedly embraced Nazism simply discarded the past. Nations
 
 {% include figure.html
   class="left"
-  width="55%"
+  width="52%"
   caption="'We are living in the most remote generations of our father... We are but the riverbed where the eternal blood roars on.' (Ayçoberry, 8)"
   image-url="mmendoza-forest.png"
   source-url="https://www.flickr.com/photos/95329455@N02/17445301782"
@@ -145,7 +145,7 @@ The mythologizing of history was not restricted to academic circles. Historical 
 {% include figure.html
   class="right"
   width="60%"
-  caption="The premier filmmaker of the Third Reich Leni Riefenstahl films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely hugh and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
+  caption="The premier filmmaker of the Third Reich Leni Riefenstahl films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely high and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
   image-url="mmendoza-leni.jpg"
   source-url="https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg"
 %}
