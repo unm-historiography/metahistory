@@ -33,15 +33,15 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
 
 The Weimar Republic, itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine, and created a corpus of so-called “border research” that aimed revanchist sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
 
-### *“Volkische”* History
-
 {% include figure.html
-  class="left"
+  class="right"
   width="30%"
   caption="Nazi 'Blood and Soil' propaganda like this ca. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgeschichte* emphasized their historical importance."
   image-url="mmendoza-blood-and-soil-propaganda.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
 %}
+
+### *“Volkische”* History
 
 It was in this intellectual climate post-1918 that the late-nineteenth century notion of ‘*Volk*’ (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (180). ‘*Volksgeschichte*’ (people’s or ethnic history) was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
 
