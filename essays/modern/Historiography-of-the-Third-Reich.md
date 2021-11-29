@@ -11,7 +11,7 @@ toc-section: modern
 
 ## Weimar Historiography
 
-For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (ca. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism. Though many historians managed to keep themselves aloof of the new regime’s agenda, they did so at a cost, and the discipline did not escape the Nazi phenomenon unscathed.
+For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (c. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism. Though many historians managed to keep themselves aloof of the new regime’s agenda, they did so at a cost, and the discipline did not escape the Nazi phenomenon unscathed.
 
 {% include figure.html
   class="right"
