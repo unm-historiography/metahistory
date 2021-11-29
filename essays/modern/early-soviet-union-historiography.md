@@ -11,7 +11,7 @@ toc-section: modern
 
 {:.abstract}
 
-Early Soviet historiography was shaped by various conflicts, Russian Revolution of 1905, February and October Revolutions of 1917, Russian Civil War, as well as political controversies of Soviet Party leadership. Starting in the late nineteenth century, Russians began to embrace the ideas of Marxism, which helped create change in society and country leadership. The main figure in this early change was the revolutionary leader, Vladimir Lenin. Lenin was the central character which all of society, including historiography, would revolve around through his own will and through the will of the Communist Party that he helped found and lead.  
+Early Soviet historiography was shaped by various conflicts, Russian Revolution of 1905, February and October Revolutions of 1917, Russian Civil War, as well as political controversies of Soviet Party leadership. Starting in the late nineteenth century, Russians began to embrace the ideas of Marxism, which helped create change in society and country leadership. The main figure in this early change was the revolutionary leader, [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin). Lenin was the central character which all of society, including historiography, would revolve around through his own will and through the will of the Communist Party that he helped found and lead.  
 
 {% include figure.html
   class="right"
@@ -34,7 +34,7 @@ The non- and semi-Marxist institutions includes the Academy of Sciences in Lenin
 [Section pertaining to the development of Russian Civilization. Did the Vikings play a part? How could historians believe that Russian developed independently of Europe and with some influence from Asia?]
 
 ## Leon Trotsky
-Leon Trotsky was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
+[Leon Trotsky](https://en.wikipedia.org/wiki/Leon_Trotsky) was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
 
 {% include figure.html
   class="left"
@@ -53,14 +53,14 @@ There had been several other works about the Revolution but none that were as ex
 It would be worth reiterating that Trotsky was not a trained historian. He relied on his own memory to formulate his works and the publications of the Istpar. To say that his writings were completely biased due to his sources being Communist Party approved would be an understatement. With that being said, Trotsky’s contributions to this period of Soviet historical writing were enormous.
 
 ## The Father of Soviet Historiography
-Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. Pokrovsky believed in the Marxist theory that economics was the main driver of history and living people had a part to play but it was the collective and not the individual that made history. He used this theory to show that the Revolutions of 1905 and 1917 were living proof that Marxism was the correct ideology because the Bolsheviks were victorious.
+[Mikhail Pokrovsky](https://en.wikipedia.org/wiki/Mikhail_Pokrovsky) was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. Pokrovsky believed in the Marxist theory that economics was the main driver of history and living people had a part to play but it was the collective and not the individual that made history. He used this theory to show that the Revolutions of 1905 and 1917 were living proof that Marxism was the correct ideology because the Bolsheviks were victorious.
 
 Although Pokrovsky had a certain amount of latitude when it came to his work, he still had to fall under the party line as the as the Communist Party gained more control. Like many other historians of the time, he had to cite Lenin in almost every piece of his work to show his loyalty to the Communist Party and that he was a true believer of Marxism. For example, "For any correct interpretation of Russian history must be based on Lenin's interpretation of it”. (Eissenstat, pg 610)
 
 It would be surprising to learn that a historian under such a repressive regime that was attempting to rewrite history to fit their narrative would have such strict ethical standards when it came to sources, but Pokrovsky felt it was his duty to the proletariat to make sure documents were not altered because thought the people deserved to know the truth. 
 
 ## Stalin and the Short Course
-In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
+In 1931 [Joseph Stalin](https://en.wikipedia.org/wiki/Joseph_Stalin) wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
 
 A main criticism Stalin had was the way previous histories had been written, especially the way they were framed chronologically. Stalin called for a new textbook to be written, under his framework and with the Communist Party’s guidance, that would focus on the history of the Communist Party. 
 
