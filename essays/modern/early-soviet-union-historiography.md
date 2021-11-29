@@ -62,7 +62,7 @@ In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian 
 
 {% include figure.html
   class="right"
-  width="40%"
+  width="33%"
   caption="Joseph Stalin, the man that wanted all Soviet society to revolve around him"
   image-url="joseph-stalin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Stalin_Full_Image.jpg"
