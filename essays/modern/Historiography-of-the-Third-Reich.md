@@ -43,7 +43,7 @@ The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a c
 
 >"The historical discipline does not come empty-handed to the new German state and its youth." (Schulze, 27)
 
->---Karl Alexander von Müller, 1936
+>---Dr. Karl Alexander von Müller (c. 1882-1964, German historian), 1936
 
 ---
 
@@ -63,7 +63,7 @@ A new methodology was required to explore this emerging historical paradigm. Met
 
 ### Conservative-Nationalist "Objectivity"
 
-All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century positivist thought and greatly influenced by two German intellectual titans: the sociologist **Max Weber** and the historian **Leopold von Ranke**. Both promoted **objectivity** in scholarship and warned against the imposition of personal, contemporary values on times past. Political partisanship in the classroom was also looked down upon, Weber himself stating publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
+All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century positivist thought and greatly influenced by two German intellectual titans: the sociologist **Max Weber** (c. 1864-1920) and the historian **Leopold von Ranke** (c. 1795-1886). Both promoted **objectivity** in scholarship and warned against the imposition of personal, contemporary values on times past. Political partisanship in the classroom was also looked down upon, Weber himself stating publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
 
 {% include figure.html
   class="left"
@@ -93,14 +93,14 @@ Historical objectivity was conceived as being embodied by the methodologies of h
 
 >"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces." (Ayçoberry, 3)
 
->---Karl Radek, 1930
+>---Karl Radek (c. 1885-1939, Polish marxist and social democrat), 1930
 
 ---
 
 
 ## Historiography Under the Nazis
 
-Through the death throes of the Weimar Republic as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
+Through the death throes of the Weimar Republic as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
 
 {% include figure.html
   class="left"
@@ -119,7 +119,7 @@ And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.o
 For the Nazi program of radical mass political indoctrination to suceed it needed a commanding influence in the schools, and history education was to be at the forefront of this effort, as in fact directed by the Reich Minister of the Interior on May 9, 1933. Another decree later in the same year established new “Guidelines for History Textbooks” that emphasized race as the driving factor underlying history and focused on leadership and heroism in the struggle between peoples and nations (Evans, “In Power” 263). {% include figure.html
   class="right"
   width="55%"
-  caption="The Nazi's foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
+  caption="The Nazis' foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
 %}
@@ -170,7 +170,7 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 >"No one has repudiated German history more than the Nazi ideologists." (Ayçoberry,7)
 
->---K.F. Werner
+>---Dr. Karl Ferdinand Werner (c. 1924-2008, German historian)
 
 ---
 
@@ -187,7 +187,7 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 The cataclysmic end of the war for Germany resulted in a crisis of historical scholarship. There were widespread calls to reexamine conventional historical theses. In this respect, 1945 really did seem like a complete break with the past, “the end of traditional history” (Schulze, 31). What did “German history” mean in an era without Germany? West German historians insisted that modern scholarship could continue as “true” history released from the trappings of Nazi rhetoric, as it was claimed that many had simply paid lip-service to Nazi ideology to retain their jobs. But the extent to which Nazi-era historiography affected post-war methodologies was indeed in question.
 
-Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of continuity with post-war scholarship. *Volksgeschichte* in particular retained a powerful influence on the social sciences post-war (Schönwälder, 142-143). No longer were historical shifts primarily conceptualized as arising from politics and the state, but rather from society---a tradition firmly rooted in volkish analysis, drawing a clear connection between paradigms of the 1930s and those of the 1960s (Schulze, 20).
+Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of continuity with post-war scholarship. *Volksgeschichte* in particular retained a powerful influence on the social sciences post-war (Schönwälder, 142-143). No longer were historical shifts primarily conceptualized as arising from politics and the state, but rather from society---a tradition firmly rooted in *volkish* analysis, drawing a clear connection between paradigms of the 1930s and those of the 1960s (Schulze, 20).
 
 
 ## Bibliography
