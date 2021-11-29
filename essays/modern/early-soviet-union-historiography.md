@@ -63,7 +63,7 @@ In 1938 the textbook was published, titled _History of the All-Union Communist P
   class="left"
   width="35%"
   caption="Joseph Stalin, the man that wanted all Soviet society to revolve around him"
-  image-url="vladimir-lenin.jpg"
+  image-url="joseph-stalin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Stalin_Full_Image.jpg"
 %}
 
