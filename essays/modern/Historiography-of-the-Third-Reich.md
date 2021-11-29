@@ -11,8 +11,6 @@ toc-section: modern
 
 ## Weimar Historiography
 
-### Nazi Affinities
-
 For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (ca. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism. Though many historians managed to keep themselves aloof of the new regime’s agenda, they did so at a cost, and the discipline did not escape the Nazi phenomenon unscathed.
 
 {% include figure.html
@@ -55,7 +53,7 @@ It was in this intellectual climate post-1918 that the late-nineteenth century n
 
 A new methodology was required to explore this emerging historical paradigm. Methods were adopted from ethnography, settlement studies, and more detailed analysis was made of local customs, social, and economic histories (22). German historians of the Weimar years thus combined a more empirical methodology with revisionist political ends (22), a trend that expanded from 1918 onward and especially after 1933 under the auspices of the Nazi state (Schleier, 181).
 
-### Conservative-Nationalist Objectivity?
+### Conservative-Nationalist "Objectivity"
 
 All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century positivist thought and greatly influenced by two German intellectual titans: the sociologist Max Weber and the historian Leopold von Ranke. Both promoted objectivity in scholarship and warned against the imposition of personal, contemporary values on times past. Political partisanship in the classroom was also looked down upon, Weber himself stating publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
 
@@ -79,7 +77,13 @@ For German historians of the interwar years, conservative-nationalist procliviti
   source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
 %}
 
-All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian Gustav Droysen proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). Another German historian, Heinrich von Sybel, who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian Georg Gervinus simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
+All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian Gustav Droysen proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). Another German historian, {% include figure.html
+  class="right"
+  width="33%"
+  caption="Leopold von Ranke (1795-1886) as he looked at about 82 years old in 1877. His notion of historical objectivity weighed heavily on German historians. For many, a German nationalist worldview was inherently objective."
+  image-url="mmendoza-leopold-von-ranke.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
+%} Heinrich von Sybel, who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian Georg Gervinus simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
 Historical objectivity was conceived as being embodied by the methodologies of historical investigation--it was through a systematic process of '*Quellenkritik*' (source criticism) that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as Heinrich von Treitschke as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
 
@@ -91,7 +95,7 @@ Through the death throes of the Weimar Republic as the Nazis gained steadily in 
 {% include figure.html
   class="left"
   width="60%"
-  caption="Germans display the Nazi salute as thousands of books burn in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was especially censored, especially in the lower grades."
+  caption="University students display the Nazi salute as thousands of books burn in Berlin in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was especially censored, especially in the lower grades."
   image-url="mmendoza-book-burning.png"
   source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
 %}
