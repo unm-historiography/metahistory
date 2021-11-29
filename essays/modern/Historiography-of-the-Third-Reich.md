@@ -120,7 +120,7 @@ For the Nazi program of radical mass political indoctrination to suceed it neede
 
 {% include figure.html
   class="right"
-  width="40%"
+  width="60%"
   caption="The Nazi's foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on *Mitteleuropa*. (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
