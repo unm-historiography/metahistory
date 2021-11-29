@@ -10,12 +10,10 @@ toc-section: thematic
 ---
 
 
-{:.abstract}
-Aliquam quis lacus hendrerit tellus hendrerit laoreet porttitor et nisi. Proin dolor ipsum, egestas ut vulputate sed, molestie vitae magna. Ut tempor, massa ac porta ullamcorper, mi augue imperdiet enim, id imperdiet neque augue eget erat. Fusce vel arcu eu tellus ultricies venenatis. Curabitur bibendum elementum nulla, ac facilisis lorem ultrices eget. Proin viverra scelerisque pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis leo vehicula, sagittis quam quis, tempus risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+One of the best forms of media to present history has been film. Whether the film’s purpose is to inform, then entertain (*Lincoln, 1917, Dunkirk, 42*) or to take historical events and create a narrative that is solely to entertain and engage (*Troy, 300, The Pianist, Braveheart*). Film is visual, fun, engaging for an audience to watch and “learn” from, but it must be asked to what degree does a filmmaker have responsibility to present a historiographical, accurate final product?
 
-
-## All major headings should be double hashes in Markdown
-Proin lobortis condimentum velit. Duis fermentum vel est quis pulvinar. Integer maximus euismod lectus sit amet porta. Ut quis sollicitudin diam, ut fringilla nisi. Sed nec nibh quis nibh ultrices bibendum. In convallis risus sed turpis tristique, non fermentum elit cursus. Etiam vitae libero vitae neque commodo tristique. Aliquam erat volutpat.
+### Inform, then entertain ###
+Historical movies, such as *Lincoln, 1917, Dunkirk, and 47*, have been films where the main purpose seems to be entertainment as a form of biographical, historiographic media. But films are flawed, as Hollywood has the tendency to take a sound historical narrative and perpetuate it to make a profit. Author and historian James Reston Jr. has brought up this “tension” between historian and dramatist when “compressing history” to create a narrative to get “what sells and holds the attention of an audience.” Therefore, films like *Lincoln, 1917, Dunkirk, and 47* do just enough to inform, then entertain with overly dramatized events, addition of fictional (nonexistent historically) characters, and cinematic elements such as wardrobe, makeup, action, and performance. Holding the attention of an audience is important, but just how much simplification of history harm the overall historiographic significance of the subject?
 
 {% include figure.html
   class="right"
@@ -25,22 +23,32 @@ Proin lobortis condimentum velit. Duis fermentum vel est quis pulvinar. Integer 
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit. Nunc vestibulum vitae nunc ut pellentesque. Donec metus dolor, sagittis consequat ipsum non, auctor commodo diam. Vivamus interdum auctor purus ac euismod. Nulla rutrum nec elit eget congue. Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi.
+### Simplifying History ###
+Holding the attention of an audience, especially during a film can be difficult. Filmmakers only have at most two hours and thirty minutes to provide and establish a historical narrative that captivates an audience and (hopefully) informs that audience. In order to do this, filmmakers must simplify history to create the narrative of their film for the screen. But how does simplifying a history to create a filmable narrative affect the position of the historian? Bruno Ramirez has had this dilemma presented to him as a historian and moviegoer and eventually filmmaker. Ramirez poses the question, **“Was filmic treatment of the past in itself bound to distort renditions of the past because of the technical imperative that the film (as opposed to the typical historical monograph) imposed?”** (Ramirez, 5) 
 
-### Subsection headings should be triple hashes in Markdown
-Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac magna condimentum ultricies. Cras egestas non dui non efficitur. Morbi sed facilisis nunc. Etiam ac neque quis enim condimentum suscipit vitae id ipsum. Vivamus sed orci in ex ullamcorper dictum. Cras lobortis justo vitae pellentesque.
+Ramirez’s example of this “filmic treatment” comes from his view of D.W. Griffith’s 1915 silent epic drama *The Birth of a Nation* where the movie deals with the Civil War and “heroic” rise of the Ku Klux Klan. This was a film in which Griffith, a filmmaker, not a historian, seemed to want to impart a history lesson of the Civil War, choosing to include battle sequences, political intrigue, and a romantic subplot (because it is a movie after all). As the filmmaker, D.W. Griffith made specific filmic choices such as scenes and sequences with written quotations from historical personalities such as President Abraham Lincoln and contemporary historians such as Woodrow Wilson, while using historically accurate locations pertaining to the history of the film.
 
-Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit.
+Still, Ramirez believed that there were repercussions of the film’s historical theme and treatment of historical narrative that *The Birth of a Nation* “signaled the irreversible entry of historical motion picture into the American universe of cinema.” (Ramirez, 4) The history was essentially being simplified and diluted by Griffith to create the narrative of an epic Civil War drama that captivated audiences, not really informing as was the filmmaker’s initial intention. So, when does it become the responsibility of the filmmaker to take on the role of a historian?
 
+### Filmmakers as the Occasional Historian ###
+It is naïve to think that history is only for historians; history is for all to take, interpret and present. Which is why filmmakers find themselves working in historical films, because the histories are there—but to what degree are filmmakers responsible for providing a historically accurate account? When do filmmakers take on the role of the historian?
+
+Take for instance, 2013 when Quentin Tarantino’s *Django Unchained* and Steven Spielberg’s *Lincoln* are released; both are films centered on slavery, but Tarantino’s film was more of a “play” on history under the guise of a “spaghetti western”, whereas Spielberg’s film was a biographical historical drama about Abraham Lincoln that was serious yet highly revered. (Bonilla, 6) Spielberg was even praised by University of Virginia Professor of History, Philip Zelikow, for “offering new insights” into the Emancipation period of American history, although it was quite apparent that Spielberg had also “silenced” the role of African Americans in that history as well. There was no questioning that Spielberg had gotten the Lincoln side of history correct, but had he done his part as a historian in presenting **as much** of the history as he could? The answer is yes and no.
 
 ## Bibliography
 
-_Notice that we DON'T INCLUDE PLACE of publication!_
+- Ramirez, Bruno. *Inside the Historical Film*. 2014: 42-84
 
-- Grazer, Brian, and Charles Fishman. _A Curious Mind: The Secret to a Bigger Life_. Simon & Schuster, 2015.
+- Cui, Di, Zihan Wang, and Arthur A. Raney. “Narrative Persuasion in Historical Films: Examining the Importance of Prior Knowledge, Existing Attitudes, and Culture.” *International Journal of Communication* (2017): 2741–59
 
-- Smith, Zadie. _Swing Time_. Penguin Press, 2016.
+- Abrash, Barbara, and Daniel J. Walkowitz. “Sub/Versions of History: A Meditation on Film and Historical Narrative.” History Workshop, no. 38 (1994): 203–14
 
-- Thoreau, Henry David. “Walking.” In _The Making of the American Essay_, edited by John D’Agata, 167–95. Graywolf Press, 2016.
+- Bonilla. “History Unchained.” Transition, no. 112 (2013): 68
 
-- Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” _Journal of Human Capital_ 11, no. 1 (Spring 2017): 1–34.
+- Bell, Jeffrey A., Claire Colebrook, and James Williams. Deleuze and History. 2009
+
+- Toplin, Robert Brent, and Jason Eudy. “The Historian Encounters Film: A Historiography.” OAH Magazine of History 16, no. 4 (2002): 7–12
+
+- Klenotic, Jeffrey F. “The Place of Rhetoric in ‘New’ Film Historiography: The Discourse of Corrective Revisionism.” Film History 6, no. 1 (1994): 45–58
+
+- Library of Congress, “History & the Movies: An Historian Writes a Screenplay.” Video.
