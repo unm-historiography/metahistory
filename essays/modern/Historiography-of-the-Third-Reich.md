@@ -55,7 +55,7 @@ The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a c
   source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
 %}
 
-### *“Volkische”* History
+### *Volkische* History
 
 It was in this intellectual climate post-1918 that the late-nineteenth century notion of [‘*Volk*’](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (180). ‘**_Volksgeschichte_’ (people’s or ethnic history)** was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
 
