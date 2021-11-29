@@ -105,7 +105,7 @@ Through the death throes of the Weimar Republic as the Nazis gained steadily in 
 {% include figure.html
   class="left"
   width="60%"
-  caption="University students display the Nazi salute as thousands of books burn in Berlin in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was especially censored, especially in the lower grades."
+  caption="University students display the Nazi salute as thousands of books burn in Berlin in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was censored, especially in the lower grades."
   image-url="mmendoza-book-burning.png"
   source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
 %}
