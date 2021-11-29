@@ -98,3 +98,5 @@ The early era of Soviet historiography was one of tumult, but it is fair to say 
 - Banerji, Arup. _Notes on the Histories of History in the Soviet Union_. Economic and Political Weekly, Vol. 41, No. 9 (Mar. 4-10, 2006), pp. 826-833
 
 - Mazour, Anatole G. _Modern Russian Historiography_. Greenwood Press, 1975.
+
+- Enteen, George M. _Marxists versus Non-Marxists: Soviet Historiography in the 1920s_. Slavic Review, Vol. 35, No. 1 (Mar., 1976), pp. 91-110
