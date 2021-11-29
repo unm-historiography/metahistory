@@ -58,6 +58,8 @@ Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder a
 
 Although Pokrovsky had a certain amount of latitude when it came to his work, he still had to fall under the party line as the as the Communist Party gained more control. Like many other historians of the time, he had to cite Lenin in almost every piece of his work to show his loyalty to the Communist Party and that he was a true believer of Marxism. For example, "For any correct interpretation of Russian history must be based on Lenin's interpretation of it”. (Eissenstat, pg 610)
 
+It would be surprising to learn that a historian under such a repressive regime would have such strict ethical standards when it came to sources, but Pokrovsky felt it was his duty to the proletariat to make sure documents were not altered because thought the people deserved to know the truth. 
+
 ## Stalin and the Short Course
 In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
 
