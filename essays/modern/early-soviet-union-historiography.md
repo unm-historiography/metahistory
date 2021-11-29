@@ -37,7 +37,7 @@ The non- and semi-Marxist institutions includes the Academy of Sciences in Lenin
 The Marxist institutions included, the Society of Marxist Historians (part of the Communist Academy), the Commission for the Study of the October Revolution, and the Russian Communist Party (Istpar), and the Institute of Red Professors. All of these institutions had the main mission of promoting Marxist history and were headed by M.N. Pokrovsky. These institutions were used to collect materials pertaining to party history, have historical discussions, and to contain non-Marxist histories.
 The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment.
 
-### Leon Trotsky
+## Leon Trotsky
 Leon Trotsky was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
 
 {% include figure.html
@@ -57,10 +57,10 @@ There had been several other works about the Revolution but none that were as ex
 It would be worth reiterating that Trotsky was not a trained historian. He relied on his own memory to formulate his works and the publications of the Istpar. To say that his writings were completely biased due to his sources being Communist Party approved would be an understatement. With that being said, Trotsky’s contributions to this period of Soviet historical writing were enormous.
 
 
-### The Father of Soviet Historiography
+## The Father of Soviet Historiography
 Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. 
 
-### Stalin and the Short Course
+## Stalin and the Short Course
 In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
 
 {% include figure.html
@@ -79,7 +79,7 @@ The Short Course was supposed to be a textbook that exemplified the Marxist theo
 
 The Short Course became the basis of all Soviet history and was supposed to be used by all Soviets and non-Soviets alike as a guide to Leninism-Marxism. It was distributed and taught throughout the government and education system. No other histories were allowed to be produced without the consent of the Communist Party.
 
-### Conclusion: Stalinist Repudiation
+## Conclusion: Stalinist Repudiation
 Not long after the death of Stalin in 1953 did the Short Course fall out of favor. When Nikita Khrushchev came into power, he called for new history books to be created and for the Short Course to be removed from educational institutions. Khrushchev’s efforts to de-Stalinize Soviet society helped the profession of history by allowing historians, including non-Russian outsiders, to finally reenter the archives that were shut during Stalin’s reign. 
 
 The early era of Soviet historiography was one of tumult, but it is fair to say that Stalin brought about a sense of peace to the profession when he solidified his power. There was less fighting amongst historians but there was too much appeasement towards Stalin and the Communist Party. What would follow would be a more open form of historiography but one not without its own faults.
