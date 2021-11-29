@@ -73,7 +73,7 @@ All of this appears to be in contradiction of the values of the self-professed �
   source-url="https://www.loc.gov/pictures/item/2014710858/"
 %}
 
-For German historians of the interwar years, conservative-nationalist proclivities thus lined up conspicuously well with notions of “objectivity” in historical scholarship. It was self-evident to them that the Weimar Republic represented a clear break with German history. Democracy, republicanism, and liberalism were not compatible with the German sense of *volk* and country, as was supposedly “proved” by the social unrest and political chaos that succeeded the collapse of the Wilhelmine Reich. “The Kaiser-less time,” was widely considered “the terrible time,” in the words of historian Conrad Bornhak (Sims, 253).
+For German historians of the interwar years, conservative-nationalist proclivities thus lined up conspicuously well with notions of “objectivity” in historical scholarship. It was self-evident to them that the Weimar Republic represented a clear break with German history. Democracy, republicanism, and liberalism were not compatible with the German sense of *volk* and country, as was supposedly “proved” by the social unrest and political chaos that followed the collapse of the Wilhelmine Reich. “The Kaiser-less time,” was widely considered “the terrible time,” in the words of historian Conrad Bornhak (Sims, 253).
 
 ### Objectivity Versus Impartiality
 
@@ -110,7 +110,7 @@ Through the death throes of the Weimar Republic as the Nazis gained steadily in 
   source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
 %}
 
-Even these protestations were hardly the flames of fierce resistance; Meinecke wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong autocratic leadership. 
+Even these protestations were hardly the flames of fierce resistance. Meinecke wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong autocratic leadership. 
 
 And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.org/wiki/Gleichschaltung) (coordination) of the universities and 15% of the teaching staff in Germany was dismissed following a new law promulgated on April 7, 1933, there was no public, collective opposition on the part of historians nor intellectuals in general (253-254). Outwardly, historians were effectively cowed, either by threat of joblessness or by some measure of approval of the Third Reich. The conquest of the German historian’s body complete, the Nazis moved on to conquer the mind, though this turned out to be a far more formidable task.
 
