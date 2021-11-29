@@ -22,7 +22,7 @@ Ramirez’s example of this “filmic treatment” comes from his view of D.W. G
 
 {% include figure.html
 class="left"
-width="50%"
+width="30%"
 caption="Poster for D.W. Griffith's 1915 silent American film *The Birth of a Nation* for a showing at the Academy of Music. Based on the book by Thomas Dixon, tells the story of the  Stoneman and Cameron family, both affected by the Civil War, fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan."
 image-url="salaiz-birth-of-nation.jpeg"
 source-url="https://commons.wikimedia.org/wiki/File:Birth_of_a_Nation_-_Academy.jpg"
@@ -35,7 +35,7 @@ It is naïve to think that history is only for historians; history is for all to
 
 {% include figure.html
   class="right"
-  width="30%"
+  width="25%"
   caption="Movie poster for Steven Spielberg's *Lincoln* starring Daniel Day-Lewis as Abraham Lincoln. Although the film is centered around Abraham Lincoln and the Emancipation of slaves, Spielberg made the choice to not include the narratives of African American slaves and freemen of the time: simplifying history and stunting the accuracy of the history."
   image-url="lincoln-metahistory.jpeg"
   source-url="https://ew.com/article/2012/08/22/lincoln-poster/"
