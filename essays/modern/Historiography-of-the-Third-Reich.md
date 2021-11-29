@@ -43,7 +43,7 @@ The Weimar Republic, itself a consequence of the defeat and the years of chaos a
 
 >"The historical discipline does not come empty-handed to the new German state and its youth." (Schulze, 27)
 
->--- Karl Alexander von Müller, 1936
+>---Karl Alexander von Müller, 1936
 
 ---
 
