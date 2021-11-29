@@ -59,6 +59,8 @@ Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder a
 ## Stalin and the Short Course
 In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
 
+A main criticism Stalin had was the way previous histories had been written, especially the way they were framed chronologically. Stalin called for a new textbook to be written, under his framework and with the Communist Party’s guidance, that would focus on the history of the Communist Party. 
+
 {% include figure.html
   class="right"
   width="33%"
@@ -66,8 +68,6 @@ In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian 
   image-url="joseph-stalin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Stalin_Full_Image.jpg"
 %}
-
-A main criticism Stalin had was the way previous histories had been written, especially the way they were framed chronologically. Stalin called for a new textbook to be written, under his framework and with the Communist Party’s guidance, that would focus on the history of the Communist Party. 
 
 In 1938 the textbook was published, titled _[History of the All-Union Communist Party (Bolsheviks): Short Course](https://en.wikipedia.org/wiki/History_of_the_Communist_Party_of_the_Soviet_Union_(Bolsheviks))_. The Short Course was primarily written by historians Vilhelm Knorin, Pyotr Pospelov and Yemelyan Yaroslavsky with an essay being authored by Stalin himself. The authorship would eventually change because Stalin would take credit for writing the entire book himself.
 
