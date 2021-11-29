@@ -12,13 +12,7 @@ toc-section: thematic
 
 
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption= "Karl Marx (Left) and Fredrich Engles. (Right) These two men founded the Marxist ideology with Marx being the primary philosopher and Engles acting almost as a benefactor."
-  image-url="Skroch_Marx_and_Engles.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Marx_and_Engels.jpg"
-%}
+
 
 ## Karl Marx and Fredrich Engles 
 Karl Marx and Fredrich Engles were two German philosophers who lived in the 19th century. The two met in Cologne, Germany and would ultimately become close friends and partners with the goal of furthering the growing socialist movement. The two were instrumental in helping with the formation of the Communist League; and later at the second communist congress in London they drafted the Communist Manifesto. After this, the two continued to work towards the full implementation of their ideologies across Europe. The Revolutions of 1848, attempts by the Germans to overthrow their authoritarian government, proved to be an opportunity for spreading their economic and political beliefs that ultimately failed along with the Revolutions themselves. The two continued publishing books on Marxism and spreading their thoughts until their deaths.  
