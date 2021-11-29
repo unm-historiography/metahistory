@@ -40,6 +40,14 @@ The non- and semi-Marxist institutions includes the Academy of Sciences in Lenin
 ### Leon Trotsky
 Leon Trotsky was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
 
+{% include figure.html
+  class="left"
+  width="35%"
+  caption="Leon Trotsky, the man that felt that his place in history should be higher"
+  image-url="leon-trotsky.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Leon_Trotsky_at_his_desk.jpg"
+%}
+
 Trotsky’s main focus was on the Revolution of 1917. His first work on the subject was a historical pamphlet, History of the Russian Revolution to Brest-Litovsk, about the October Revolution that sought to justify the actions of the Bolsheviks. Trotsky wanted to show that the Bolsheviks were not usurpers of power and they were successful because their revolution was inevitable, through the lens of Marxism, and they had wide support of the people. This Lenin approved pamphlet became an early official history of the Revolution which defined how all others were to be written.
 
 Even after falling out of favor with the Communist Party and getting deported from the USSR, Trotsky wrote some of his seminal works about the Revolution, including The History of the Russian Revolution and his autobiography My Life. Although My Life is an autobiography, this book was a great tool for Soviet history because it is a firsthand account of many of the revolutionary events that led to the eventual rise of the Soviet Union.
@@ -60,7 +68,7 @@ A main criticism Stalin had was the way previous histories had been written, esp
 In 1938 the textbook was published, titled _History of the All-Union Communist Party (Bolsheviks): Short Course_. The Short Course was primarily written by historians Vilhelm Knorin, Pyotr Pospelov and Yemelyan Yaroslavsky with an essay being authored by Stalin himself. The authorship would eventually change because Stalin would take credit for writing the entire book himself.
 
 {% include figure.html
-  class="left"
+  class="right"
   width="35%"
   caption="Joseph Stalin, the man that wanted all Soviet society to revolve around him"
   image-url="joseph-stalin.jpg"
