@@ -51,6 +51,14 @@ A new methodology was required to explore this emerging historical paradigm. Met
 
 All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century positivist thought and greatly influenced by two German intellectual titans: the sociologist Max Weber and the historian Leopold von Ranke. Both promoted objectivity in scholarship and warned against the imposition of personal, contemporary values on times past. Political partisanship in the classroom was also looked down upon, Weber himself stating publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
 
+{% include figure.html
+  class="left"
+  width="50%"
+  caption="Soldiers guard the entrance to the Reichstag in Berlin, the seat of the National Assembly of the Weimar Republic during the nationalist Kapp Putsch of mid-March 1920. The political street violence, numerous uprisings, and putsch attempts that characterized the Weimar period led many to long for more stable governance."
+  image-url="mmendoza-berlin-defending-natl-assembly.jpg"
+  source-url="https://www.loc.gov/pictures/item/2014710858/"
+%}
+
 For German historians of the interwar years, conservative-nationalist proclivities thus lined up conspicuously well with notions of “objectivity” in historical scholarship. It was self-evident to them that the Weimar Republic represented a clear break with German history. Democracy, republicanism, and liberalism were not compatible with the German sense of volk and country, as was supposedly “proved” by the social unrest and political chaos that succeeded the collapse of the Wilhelmine Reich. “The Kaiser-less time,” was widely considered “the terrible time,” in the words of historian Conrad Bornhak (Sims, 253).
 
 ### Objectivity Versus Impartiality
@@ -130,3 +138,4 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 [Franz Eichhorst 1885-1948 war painter Rathaus Berlin-Schöneberg Bürgersaal fresco 1935–38 Nazi propaganda "Bauer" Galleria](https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg). CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
+[Berlin defending Nat'l Assembly](https://www.loc.gov/pictures/item/2014710858/).
