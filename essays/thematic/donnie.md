@@ -1,4 +1,4 @@
-# Creating History Through Narrative
+# Understanding History Through Narrative 
 
 ## _Exploring the possibilites of emotional connections and social memory through story_
 
