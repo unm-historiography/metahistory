@@ -13,7 +13,7 @@ Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultric
 toc-image: 
 The_Venerable_Bede_translates_John_1902.jpg
 
-toc-section: Medieval
+Medieval
 ---
 
 
