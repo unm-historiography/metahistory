@@ -88,6 +88,14 @@ Historical objectivity was conceived as being embodied by the methodologies of h
 
 Through the death throes of the Weimar Republic as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably Gerhard Ritter and Friedrich Meinecke, both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
 
+{% include figure.html
+  class="left"
+  width="60%"
+  caption="Germans display the Nazi salute as thousands of books burn in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was especially censored, especially in the lower grades."
+  image-url="mmendoza-book-burning.png"
+  source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
+%}
+
 Even these protestations were hardly the flames of fierce resistance; Meinecke wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong authoritarian leadership. 
 
 And so, as the new regime began the '*Gleichschaltung*' (coordination) of the universities and 15% of the teaching staff in Germany was dismissed following a new law promulgated on April 7, 1933, there was no public collective opposition on the part of historians nor intellectuals in general (253-254). Outwardly, historians were effectively cowed, either by threat of joblessness or by some measure of approval of the Third Reich. The conquest of the German historian’s body complete, the Nazis moved on to conquer the mind, though this turned out to be a far more formidable task.
@@ -158,4 +166,6 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 [Berlin defending Nat'l Assembly](https://www.loc.gov/pictures/item/2014710858/).
 
-[Leopold Von Ranke 1877](https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg)
+[Leopold Von Ranke 1877](https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg).
+
+[Thousands of books smoulder in a huge bonfire as Germans give the Nazi salute during the wave of book-burnings](https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif).
