@@ -41,28 +41,21 @@ It is naïve to think that history is only for historians; history is for all to
   source-url="https://ew.com/article/2012/08/22/lincoln-poster/"
 %}
 
-Take for instance, 2013 when Quentin Tarantino’s *Django Unchained* and Steven Spielberg’s *Lincoln* are released; both are films centered on slavery, but Tarantino’s film was more of a “play” on history under the guise of a “spaghetti western”, whereas Spielberg’s film was a biographical historical drama about Abraham Lincoln that was serious yet highly revered. (Bonilla, 6) Spielberg was even praised by University of Virginia Professor of History, Philip Zelikow, for “offering new insights” into the Emancipation period of American history, although it was quite apparent that Spielberg had also “silenced” the role of African Americans in that history as well. There was no questioning that Spielberg had gotten the Lincoln side of history correct, but had he done his part as a historian in presenting **as much** of the history as he could? The answer is yes and no.
+Take for instance, 2013 when Quentin Tarantino’s *Django Unchained* and Steven Spielberg’s *Lincoln* are released; both are films centered on slavery, but Tarantino’s film was more of a “play” on history under the guise of a “spaghetti western”, whereas Spielberg’s film was a biographical historical drama about Abraham Lincoln that was serious yet highly revered. (Bonilla, 72) Spielberg was even praised by University of Virginia Professor of History, Philip Zelikow, for “offering new insights” into the Emancipation period of American history, although it was quite apparent that Spielberg had also “silenced” the role of African Americans in that history as well. There was no questioning that Spielberg had gotten the Lincoln side of history correct, but had he done his part as a historian in presenting **as much** of the history as he could? The answer is yes and no.
 
 What Spielberg was able to do with *Lincoln* was provide a narrative about Abraham Lincoln, during the Emancipation of slaves, that stays with *just* Lincoln, his cabinet administration, and those close to him. But it is an injustice in both historiography and film to exclude the narrative of African American slaves or freemen who were also a part of the Emancipation history. It goes back to Bruno Ramirez’s belief that simplification of history for filmic purposes distorts the rendition of the past. The history being presented is not as accurate as it should be—it is entertaining, informative, but not as informative as it should be to provide accurate representation.
 
-Where Spielberg went for an authentic film, Tarantino went for “inauthentic” historical narrative with his film, *Django Unchained*, because his purpose was to write a film that “speaks to us about the contemporary era of black power.” (Bonilla, 7) Tarantino knew that he was responsible for filming a history that the “political present” set the stage for, and Tarantino was especially aware that “the dynamics of the country are changing, and people are talking about that… This time in history is a part of that conversation.” (Bonilla, 7) Tarantino is aware that he is writing a film, that although perpetuated a western drama, has validity in its history both in the past and in its contemporary. Something that Spielberg was not able to do with *Lincoln* because although the history is (mostly) accurately portrayed, Spielberg had shortfalls as a historian in not providing the whole history and connecting that history to the contemporary.
+Where Spielberg went for an authentic film, Tarantino went for “inauthentic” historical narrative with his film, *Django Unchained*, because his purpose was to write a film that “speaks to us about the contemporary era of black power.” (Bonilla, 73) Tarantino knew that he was responsible for filming a history that the “political present” set the stage for, and Tarantino was especially aware that “the dynamics of the country are changing, and people are talking about that… This time in history is a part of that conversation.” (Bonilla, 73) Tarantino is aware that he is writing a film, that although perpetuated a western drama, has validity in its history both in the past and in its contemporary. Something that Spielberg was not able to do with *Lincoln* because although the history is (mostly) accurately portrayed, Spielberg had shortfalls as a historian in not providing the whole history and connecting that history to the contemporary.
 
 
 
 ## Bibliography
 
 - Ramirez, Bruno. *Inside the Historical Film*. 2014: 42-84
-
 - Cui, Di, Zihan Wang, and Arthur A. Raney. “Narrative Persuasion in Historical Films: Examining the Importance of Prior Knowledge, Existing Attitudes, and Culture.” *International Journal of Communication* (2017): 2741–59
-
 - Abrash, Barbara, and Daniel J. Walkowitz. “Sub/Versions of History: A Meditation on Film and Historical Narrative.” History Workshop, no. 38 (1994): 203–14
-
 - Bonilla. “History Unchained.” Transition, no. 112 (2013): 68
-
 - Bell, Jeffrey A., Claire Colebrook, and James Williams. Deleuze and History. 2009
-
 - Toplin, Robert Brent, and Jason Eudy. “The Historian Encounters Film: A Historiography.” OAH Magazine of History 16, no. 4 (2002): 7–12
-
 - Klenotic, Jeffrey F. “The Place of Rhetoric in ‘New’ Film Historiography: The Discourse of Corrective Revisionism.” Film History 6, no. 1 (1994): 45–58
-
 - Library of Congress, “History & the Movies: An Historian Writes a Screenplay.” Video.
