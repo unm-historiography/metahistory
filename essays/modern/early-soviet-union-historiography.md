@@ -3,7 +3,7 @@ layout: default
 title: Early Soviet Union Historiography
 author: ERIC GALBISO
 date: 2021-12-13
-toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
+toc-blurb: Historiography in the early years of the Soviet Union was a battle to fit the Marxist ideology into the Communist Party’s idea of what Soviet history should say.
 toc-image: soviet-propaganda.jpg
 toc-section: modern
 ---
