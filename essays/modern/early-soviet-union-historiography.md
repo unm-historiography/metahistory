@@ -81,4 +81,4 @@ Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget
 
 - Baron, Samuel H. _Plekhanov, Trotsky, and the Development of Soviet Historiography_. Soviet Studies, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
 
-- Baron, Samuel H. _Plekhanov, Trotsky, and the Development of Soviet Historiography_. Soviet Studies, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
+- Banerji, Arup. _Notes on the Histories of History in the Soviet Union_. Economic and Political Weekly, Vol. 41, No. 9 (Mar. 4-10, 2006), pp. 826-833
