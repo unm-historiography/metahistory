@@ -77,6 +77,8 @@ Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget
 
 - White, James D. _Leon Trotsky and Soviet Historiography of the Russian Revolution (1918–1931)_. Routledge, 2021.
 
-- Thoreau, Henry David. “Walking.” In _The Making of the American Essay_, edited by John D’Agata, 167–95. Graywolf Press, 2016.
+- Eissenstat, Bernard W. _M. N. Pokrovsky and Soviet Historiography: Some Reconsiderations_. Slavic Review, Vol. 28, No. 4 (Dec., 1969), pp. 604-618.
 
-- Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” _Journal of Human Capital_ 11, no. 1 (Spring 2017): 1–34.
+- Baron, Samuel H. _Plekhanov, Trotsky, and the Development of Soviet Historiography_. Soviet Studies, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
+
+- Baron, Samuel H. _Plekhanov, Trotsky, and the Development of Soviet Historiography_. Soviet Studies, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
