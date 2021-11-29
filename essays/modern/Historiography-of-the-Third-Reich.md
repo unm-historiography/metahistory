@@ -35,6 +35,14 @@ The Weimar Republic, itself a consequence of the defeat and the years of chaos a
 
 ### “*Volkische*” History
 
+{% include figure.html
+  class="left"
+  width="25%"
+  caption="Nazi 'Blood and Soil' propaganda like this ca. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgesichte* emphasized their historical importance."
+  image-url="mmendoza-blood-and-soil-propaganda.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
+%}
+
 It was in this intellectual climate post-1918 that the late-nineteenth century notion of ‘*Volk*’ (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (180). ‘*Volksgeschichte*’ (people’s or ethnic history) was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
 
 A new methodology was required to explore this emerging historical paradigm. Methods were adopted from ethnography, settlement studies, and more detailed analysis was made of local customs, social, and economic histories (22). German historians of the Weimar years thus combined a more empirical methodology with revisionist political ends (22), a trend that expanded from 1918 onward and especially after 1933 under the auspices of the Nazi state (Schleier, 181).
@@ -118,5 +126,7 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 ### Images
 
-https://upload.wikimedia.org/wikipedia/commons/8/85/German_losses_after_WWI.svg. CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5/deed.en
+[german_losses_after_WWI](https://upload.wikimedia.org/wikipedia/commons/8/85/German_losses_after_WWI.svg). CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5/deed.en
+
+[Franz Eichhorst 1885-1948 war painter Rathaus Berlin-Schöneberg Bürgersaal fresco 1935–38 Nazi propaganda "Bauer" Galleria](https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg). CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
