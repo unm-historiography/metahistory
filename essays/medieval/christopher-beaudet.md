@@ -71,7 +71,7 @@ As opposed to the decentralizing narratives of the late Kievan Rus’, the reign
 class="left"
 width="33%"
 caption="Tsar Ivan IV Grozny"
-image-url="Beaudet-ivan-iv.jpg"
+image-url="beaudet-ivan-iv.jpg"
 source-url=" https://commons.wikimedia.org/wiki/File:Ivan_IV_by_anonim_(18th_c.,_GIM).jpg"
 %}
  
