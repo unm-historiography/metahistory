@@ -73,7 +73,7 @@ For German historians of the interwar years, conservative-nationalist procliviti
 
 {% include figure.html
   class="right"
-  width="35%"
+  width="33%"
   caption="Leopold von Ranke (1795-1886) as he looked at about 82 years old in 1877. His notion of historical objectivity weighed heavily on German historians. For many, a German nationalist worldview was inherently objective."
   image-url="mmendoza-leopold-von-ranke.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
