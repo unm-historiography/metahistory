@@ -31,11 +31,8 @@ The Marxist institutions included, the Society of Marxist Historians (part of th
 
 The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment where all works could be edited to the Communist Party’s liking.
 
-
-
-
-The Marxist institutions included, the Society of Marxist Historians (part of the Communist Academy), the Commission for the Study of the October Revolution, and the Russian Communist Party (Istpar), and the Institute of Red Professors. All of these institutions had the main mission of promoting Marxist history and were headed by M.N. Pokrovsky. These institutions were used to collect materials pertaining to party history, have historical discussions, and to contain non-Marxist histories.
-The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment.
+## Slavophile Controversy
+[Section pertaining to the development of Russian Civilization. Did the Vikings play a part? How could historians believe that Russian developed independently of Europe and with some influence from Asia?]
 
 ## Leon Trotsky
 Leon Trotsky was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
