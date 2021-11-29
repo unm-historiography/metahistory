@@ -60,41 +60,41 @@ Weber believed that “the significance of chance, of **the struggles and aspira
 Weber’s works helped reshape and open new avenues for historical explanations, interpretations, and paradigms. “Against the anti-scientific particularism of the historicist school, Weber was able to legitimize the scientific approach both by recognizing and delimiting the subjective dimension of the cultural significance of historical studies and by emphasizing the indispensability of concepts in historical analysis” (Shills & Finch, 17). His works were inspired by, what he felt, lacked in the writings and historical inquiries of his predecessors such as Marxist and Kantian views and “his analysis of modernity and rationalization significantly influenced the critical theory associated with the Frankfurt School” (Löwy,  431–446). Weber’s  **“ideal-types"** became his attempt to analyze historically unique configurations or their individual components by means of genetic concepts, which permits historians to assert the possibility of arriving at a scientific study of society by separating personal evaluation from scientific judgements” (Shills & Finch, 77 & 115). Furthermore, “Weber's interpretation of the "social" in its relation to his view of historical causation, it deals, further, with his method of historical inquiry, his view of the relation between history and sociology, and the significance of his theory and method for his interpretation of history” (Bendix, 518). Overall, “Weber pried open contemporary narratives (e.g., historicism), and by employing a unique historical causal analysis he made way for refined concepts to offer a model of interpretation that gave hope for a more feasible, practice-oriented approach to historical research than the epistemological discussions had hitherto offered” (Ernst, 77).
 
 ### Bibliography
+Bendix,Reinhard _Max Weber’s Interpretation of Conduct and History_, American Journal of Sociology 51, no. 6, 1946.
 
-Max Weber, _Economy and Society_, 1922.
- 
-Max Weber, _The Protestant Ethic and the Spirit of Capitalism_, 1905.
- 
-Mary Fulbrook, _Historical Theory_ (1st ed.). Routledge, 2002. 
- 
-Peter Burke, _Social History 10_, no. 1, 1985.
- 
-Reinhard Bendix, _Max Weber’s Interpretation of Conduct and History_, American Journal of Sociology 51, no. 6, 1946.
- 
-David,Goddard, _Max Weber and the Objectivity of Social Science_,  History and Theory 12, no. 1, 1973. 
- 
-Edward A. Shils & Henry A. Finch,  _The Methodology of the Social Sciences_ (1903–17), 1997.
+Burke, Peter _Social History 10_, no. 1, 1985.
 
-John J. Macionis, _Sociology_, 14th ed., 2012.
+Duus, Henrik Johannsen _E-learning Paradigms and The Development of E-learning Strategy_, 2006.
 
-Jürgen Habermas, _The Philosophical Discourse of Modernity_, 1985.
-
-Henrik Johannsen Duus, _E-learning Paradigms and The Development of E-learning Strategy_, 2006.
-
-Richard Swedberg; _Ola Agevall’s. The Max Weber Dictionary_, 2005. 
-
-Edward A. Tiryakian, _For Durkheim: Essays in Historical and Cultural Sociology_, 2009.
+Ernst, Florian _Gedankenexperimente in Historiographischer Funktion: Max Weber ber Eduard Meyer und die Frage der Kontrafaktizität_,  2015.
  
-Michael Löwy,_Figures of Weberian Marxism Theory and Society 25_, 1996.
+Fulbrook, Mary _Historical Theory_ (1st ed.). Routledge, 2002. 
 
-Sung Ho Kim, _Max Weber, The Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.)_, 2021. 
+Goddard,David  _Max Weber and the Objectivity of Social Science_,  History and Theory 12, no. 1, 1973. 
+
+Habermas, Jürgen _The Philosophical Discourse of Modernity_, 1985.
+
+Kim, Sung Ho _Max Weber, The Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.)_, 2021. 
  
-S. L. Snyder,_Modernity_ Encyclopedia Britannica, May 20, 2016. 
+Löwy, Michael _Figures of Weberian Marxism Theory and Society 25_, 1996.
+
+Macionis, John J. _Sociology_, 14th ed., 2012.
+
+Shils, Edward A. & Finch, Henry A. _The Methodology of the Social Sciences_ (1903–17), 1997.
+
+Snyder, S. L. _Modernity_ Encyclopedia Britannica, May 20, 2016.
+
+Swedberg, Richard; _Ola Agevall’s. The Max Weber Dictionary_, 2005. 
+
+Tiryakian, Edward A. _For Durkheim: Essays in Historical and Cultural Sociology_, 2009.
+ 
+Weber,Max  _Economy and Society_, 1922.
+ 
+Weber,Max  _The Protestant Ethic and the Spirit of Capitalism_, 1905.
 
 Wikipedia contributors, _Max Weber_ Wikipedia, The Free Encyclopedia, 2021.
 
 Wikipedia contributors, _Historiography of Germany_ Wikipedia, The Free Encyclopedia, 2021.
  
 International Encyclopedia of the Social Sciences. _Max Weber_ Encyclopedia.com., 2021.
- 
-Florian Ernst, _Gedankenexperimente in Historiographischer Funktion: Max Weber ber Eduard Meyer und die Frage der Kontrafaktizität_,  2015.
+
