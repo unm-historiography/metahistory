@@ -59,6 +59,8 @@ Although Pokrovsky had a certain amount of latitude when it came to his work, he
 
 It would be surprising to learn that a historian under such a repressive regime that was attempting to rewrite history to fit their narrative would have such strict ethical standards when it came to sources, but Pokrovsky felt it was his duty to the proletariat to make sure documents were not altered because thought the people deserved to know the truth. 
 
+While Pokrovsky wielded a great amount of power as essentially the dean of Soviet history, his reputation and works were ignored and condemned after he died in 1932. Many critics accused him of not being a true Marxist and that his style of teaching was running counter to the demands of the Communist Party. 
+
 ## Stalin and the Short Course
 In 1931 [Joseph Stalin](https://en.wikipedia.org/wiki/Joseph_Stalin) wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
 
