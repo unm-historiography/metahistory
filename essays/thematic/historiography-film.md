@@ -12,7 +12,7 @@ toc-section: thematic
 
 One of the best forms of media to present history has been film. Whether the film’s purpose is to inform, then entertain (*Lincoln, 1917, Dunkirk, 42*) or to take historical events and create a narrative that is solely to entertain and engage (*Troy, 300, The Pianist, Braveheart*). Film is visual, fun, engaging for an audience to watch and “learn” from, but it must be asked to what degree does a filmmaker have responsibility to present a historiographical, accurate final product?
 
-### Inform, then entertain ###
+### Inform, then Entertain ###
 Historical movies, such as *Lincoln, 1917, Dunkirk, and 47*, have been films where the main purpose seems to be entertainment as a form of biographical, historiographic media. But films are flawed, as Hollywood has the tendency to take a sound historical narrative and perpetuate it to make a profit. Author and historian James Reston Jr. has brought up this “tension” between historian and dramatist when “compressing history” to create a narrative to get “what sells and holds the attention of an audience.” Therefore, films like *Lincoln, 1917, Dunkirk, and 47* do just enough to inform, then entertain with overly dramatized events, addition of fictional (nonexistent historically) characters, and cinematic elements such as wardrobe, makeup, action, and performance. Holding the attention of an audience is important, but just how much simplification of history harm the overall historiographic significance of the subject?
 
 ### Simplifying History ###
@@ -46,6 +46,8 @@ Take for instance, 2013 when Quentin Tarantino’s *Django Unchained* and Steven
 What Spielberg was able to do with *Lincoln* was provide a narrative about Abraham Lincoln, during the Emancipation of slaves, that stays with *just* Lincoln, his cabinet administration, and those close to him. But it is an injustice in both historiography and film to exclude the narrative of African American slaves or freemen who were also a part of the Emancipation history. It goes back to Bruno Ramirez’s belief that simplification of history for filmic purposes distorts the rendition of the past. The history being presented is not as accurate as it should be—it is entertaining, informative, but not as informative as it should be to provide accurate representation.
 
 Where Spielberg went for an authentic film, Tarantino went for “inauthentic” historical narrative with his film, *Django Unchained*, because his purpose was to write a film that “speaks to us about the contemporary era of black power.” (Bonilla, 7) Tarantino knew that he was responsible for filming a history that the “political present” set the stage for, and Tarantino was especially aware that “the dynamics of the country are changing, and people are talking about that… This time in history is a part of that conversation.” (Bonilla, 7) Tarantino is aware that he is writing a film, that although perpetuated a western drama, has validity in its history both in the past and in its contemporary. Something that Spielberg was not able to do with *Lincoln* because although the history is (mostly) accurately portrayed, Spielberg had shortfalls as a historian in not providing the whole history and connecting that history to the contemporary.
+
+
 
 ## Bibliography
 
