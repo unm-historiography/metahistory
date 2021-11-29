@@ -39,7 +39,7 @@ The Marxist institutions included, the Society of Marxist Historians (part of th
 The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment.
 
 ### Leon Trotsky
-Leon Trotsky was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution.
+Leon Trotsky was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
 
 Trotsky’s main focus was on the Revolution of 1917. His first work on the subject was a historical pamphlet, History of the Russian Revolution to Brest-Litovsk, about the October Revolution that sought to justify the actions of the Bolsheviks. Trotsky wanted to show that the Bolsheviks were not usurpers of power and they were successful because their revolution was inevitable, through the lens of Marxism, and they had wide support of the people. This Lenin approved pamphlet became an early official history of the Revolution which defined how all others were to be written.
 
@@ -50,9 +50,8 @@ There had been several other works about the Revolution but none that were as ex
 It would be worth reiterating that Trotsky was not a trained historian. He relied on his own memory to formulate his works and the publications of the Istpar. To say that his writings were completely biased due to his sources being Communist Party approved would be an understatement. With that being said, Trotsky’s contributions to this period of Soviet historical writing were enormous.
 
 
-
 ### The Father of Soviet Historiography
-M. N. Pokrovsky, 
+Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. 
 
 ### Stalin and the Short Course
 In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians, A. G. Slutskii and Volosevich, portrayed Lenin and Party history. This would not be the last time Stalin and party members would intervene in the writing of history. A main criticism Stalin had was the way previous histories were framed chronologically. Stalin called for a new textbook to be written, under his framework, with the party’s guidance that would focus on the history of the party. In 1938 the textbook was published titled History of the All-Union Communist Party (Bolsheviks): Short Course.
