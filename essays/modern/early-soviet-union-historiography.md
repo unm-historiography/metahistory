@@ -11,13 +11,7 @@ toc-section: modern
 
 
 {:.abstract}
-Early Soviet historiography was shaped by various conflicts, Russian Revolution of 1905, February and October Revolutions of 1917, Russian Civil War, as well as political controversies of Soviet Party leadership.
-
-A great deal of Soviet historiography has to do with the role of Marxism. Many historians adopted Marxist ideologies and tried to fit their views into not only Soviet history, but Russian history as a whole. This essay seeks to explore several historians (including one would be historian), institutions, and how they attempted to justify their actions during the aforementioned conflicts and ___.
-
-
-## Marxists and non-Marxists
-The entirety of post revolution Soviet society was supposed to be built on Marxism but it was not a simple task to rid non-Marxists from educational institutions. Marxist historians preferred to not work with non-Marxists and wanted to do away with them, but the party allowed them to continue their work. Several competing institutions were created to formulate Soviet history.
+Early Soviet historiography was shaped by various conflicts, Russian Revolution of 1905, February and October Revolutions of 1917, Russian Civil War, as well as political controversies of Soviet Party leadership. Starting in the late nineteenth century, Russians began to embrace the ideas of Marxism, which helped create change in society and country leadership. The main figure in this early change was the revolutionary leader, Vladimir Lenin. Lenin was the central character which all of society, including historiography, would revolve around through his own will and through the will of the Communist Party that he helped found and lead.  
 
 {% include figure.html
   class="right"
@@ -26,6 +20,19 @@ The entirety of post revolution Soviet society was supposed to be built on Marxi
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}
+
+A great deal of Soviet historiography has to do with the role of Marxism. Many historians adopted Marxist ideologies and tried to fit their views into not only Soviet history, but Russian history as a whole. This essay seeks to explore several historians (including one would be historian), institutions, and how they attempted to justify their actions during the aforementioned conflicts and the power of resulting government.
+
+
+## Marxists and non-Marxists
+The entirety of post revolution Soviet society was supposed to be built on Marxism but it was not a simple task to rid non-Marxists from educational institutions. The Soviet Marxists were guided by the principles of Marxism-Leninism which was an evolutionary process that was built on a series of socioeconomic formations including primitive communism, slave-holding society, feudalism, capitalism, and communism. Marxist historians preferred to not work with non-Marxists because they felt that the non-Marxists could still be a threat to the Communist Party through their interpretations of history. The Communist Party allowed the non-Marxists to continue their work, but it heavily monitored. Several competing institutions of both ideologies were created to formulate Soviet history, with Marxist leadership.
+
+The Marxist institutions included, the Society of Marxist Historians (part of the Communist Academy), the Commission for the Study of the October Revolution, and the Russian Communist Party (Istpar), and the Institute of Red Professors. All of these institutions had the main mission of promoting Marxist history and were headed by M.N. Pokrovsky. These institutions were used to collect materials pertaining to party history, have historical discussions, and to contain non-Marxist histories.
+
+The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment where all works could be edited to the Communist Party’s liking.
+
+
+
 
 The Marxist institutions included, the Society of Marxist Historians (part of the Communist Academy), the Commission for the Study of the October Revolution, and the Russian Communist Party (Istpar), and the Institute of Red Professors. All of these institutions had the main mission of promoting Marxist history and were headed by M.N. Pokrovsky. These institutions were used to collect materials pertaining to party history, have historical discussions, and to contain non-Marxist histories.
 The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment.
