@@ -71,6 +71,14 @@ For German historians of the interwar years, conservative-nationalist procliviti
 
 ### Objectivity Versus Impartiality
 
+{% include figure.html
+  class="right"
+  width="33%"
+  caption="Leopold von Ranke (1795-1886) as he looked at about 82 years old in 1877. His notion of historical objectivity weighed heavily on German historians. For many, a German nationalist worldview was inherently objective."
+  image-url="mmendoza-leopold-von-ranke.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
+%}
+
 All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian Gustav Droysen proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). Another German historian, Heinrich von Sybel, who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian Georg Gervinus simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
 Historical objectivity was conceived as being embodied by the methodologies of historical investigation--it was through a systematic process of '*Quellenkritik*' (source criticism) that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as Heinrich von Treitschke as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
@@ -149,3 +157,5 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 [Franz Eichhorst 1885-1948 war painter Rathaus Berlin-Schöneberg Bürgersaal fresco 1935–38 Nazi propaganda "Bauer" Galleria](https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 [Berlin defending Nat'l Assembly](https://www.loc.gov/pictures/item/2014710858/).
+
+[Leopold Von Ranke 1877](https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg)
