@@ -15,7 +15,7 @@ Early Soviet historiography was shaped by various conflicts, Russian Revolution 
 
 {% include figure.html
   class="right"
-  width="50%"
+  width="35%"
   caption="Vladimir Lenin, the man whose ideology was the center of all Soviet society"
   image-url="vladimir-lenin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-71043-0003,_Wladimir_Iljitsch_Lenin.jpg"
