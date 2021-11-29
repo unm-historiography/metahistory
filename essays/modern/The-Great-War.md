@@ -6,7 +6,7 @@ author: RED HART
 date: 2021-11-28
 toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
 toc-image: The_Venerable_Bede_translates_John_1902.jpg
-toc-section: MODERN
+toc-section: modern
 ---
 ## INTRODUCTION
 The tales and entries pertaining to the World Wars, specifically World War I, have always been the subject of story. It’s many differing events and battles have changed the courses of history for many a ‘country. Many peoples and persons have been writing in the texts in time in both the famous and infamous intervals. These texts today are a window in a time since pasted and aren’t always linear in their delivery of this story as there are many factors that have shape the perspectives of those who were involved.
