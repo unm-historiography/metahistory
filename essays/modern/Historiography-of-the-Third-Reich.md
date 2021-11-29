@@ -68,7 +68,7 @@ All of this appears to be in contradiction of the values of the self-professed �
 {% include figure.html
   class="left"
   width="50%"
-  caption="Soldiers guard the entrance to the Reichstag in Berlin, the seat of the National Assembly of the Weimar Republic during the nationalist Kapp Putsch of mid-March 1920. The political street violence, numerous uprisings, and putsch attempts that characterized the Weimar period led many to long for more stable governance."
+  caption="Soldiers guard the entrance to the Reichstag in Berlin, the seat of the National Assembly of the Weimar Republic during the nationalist [Kapp Putsch](https://en.wikipedia.org/wiki/Kapp_Putsch) of mid-March 1920. The political street violence, numerous uprisings, and putsch attempts that characterized the Weimar period led many to long for more stable governance."
   image-url="mmendoza-berlin-defending-natl-assembly.jpg"
   source-url="https://www.loc.gov/pictures/item/2014710858/"
 %}
@@ -77,7 +77,7 @@ For German historians of the interwar years, conservative-nationalist procliviti
 
 ### Objectivity Versus Impartiality
 
-All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian Gustav Droysen proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
+All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
 {% include figure.html
   class="right"
   width="33%"
@@ -85,9 +85,9 @@ All this was contemporaneous to the professionalization of history as a discipli
   image-url="mmendoza-leopold-von-ranke.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
 %}
-Another German historian, Heinrich von Sybel, who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian Georg Gervinus simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
+Another German historian, [Heinrich von Sybel](https://en.wikipedia.org/wiki/Heinrich_von_Sybel), who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian [Georg Gervinus](https://en.wikipedia.org/wiki/Georg_Gottfried_Gervinus) simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
-Historical objectivity was conceived as being embodied by the methodologies of historical investigation--it was through a systematic process of '**_Quellenkritik_' (source criticism)** that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as Heinrich von Treitschke as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
+Historical objectivity was conceived as being embodied by the methodologies of historical investigation--it was through a systematic process of '**_Quellenkritik_' (source criticism)** that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
 
 ---
 
@@ -110,7 +110,7 @@ Through the death throes of the Weimar Republic as the Nazis gained steadily in 
   source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
 %}
 
-Even these protestations were hardly the flames of fierce resistance; Meinecke wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong authoritarian leadership. 
+Even these protestations were hardly the flames of fierce resistance; Meinecke wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong autocratic leadership. 
 
 And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.org/wiki/Gleichschaltung) (coordination) of the universities and 15% of the teaching staff in Germany was dismissed following a new law promulgated on April 7, 1933, there was no public collective opposition on the part of historians nor intellectuals in general (253-254). Outwardly, historians were effectively cowed, either by threat of joblessness or by some measure of approval of the Third Reich. The conquest of the German historian’s body complete, the Nazis moved on to conquer the mind, though this turned out to be a far more formidable task.
 
@@ -145,7 +145,7 @@ The mythologizing of history was not restricted to academic circles. Historical 
 {% include figure.html
   class="right"
   width="60%"
-  caption="The premier filmmaker of the Third Reich Leni Riefenstahl films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely high and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
+  caption="The premier filmmaker of the Third Reich [Leni Riefenstahl](https://en.wikipedia.org/wiki/Leni_Riefenstahl) films olympic scenes in Berlin for the 1936 Summer Olympics. This footage would later become the film _Olympia_. Riefenstahl pioneered the art of film propaganda, heavily utilizing symbolism and novel filmmaking techniques such as slow motion, extremely high and low angles, sweeping panoramas, and tracking shots, which can be seen here. The eclectic and crude psuedotheories of the Nazis proved amply compatible with the style of Riefenstahl."
   image-url="mmendoza-leni.jpg"
   source-url="https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg"
 %}
