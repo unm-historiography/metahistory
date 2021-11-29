@@ -41,9 +41,9 @@ The Weimar Republic, itself a consequence of the defeat and the years of chaos a
 
 ---
 
->"The historical discipline does not come empty-handed to the new German state and its youth."
+>"The historical discipline does not come empty-handed to the new German state and its youth." (Schulze, 27)
 
->--- Karl Alexander von Müller, 1936 (Schulze, 27)
+>--- Karl Alexander von Müller, 1936
 
 ---
 
@@ -91,9 +91,9 @@ Historical objectivity was conceived as being embodied by the methodologies of h
 
 ---
 
->"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces."
+>"Nothing is more characteristic than to note that neither the bourgeois literature nor the socialist literature has said anything about this party, which ranks second in German politics. It is a party without a history, which has suddenly risen up in the political life of Germany, like an island that emerges in the middle of an ocean through the effect of volcanic forces." (Ayçoberry, 3)
 
->---Karl Radek, 1930 (Ayçoberry, 3)
+>---Karl Radek, 1930
 
 ---
 
@@ -118,6 +118,14 @@ And so, as the new regime began the '*Gleichschaltung*' (coordination) of the un
 
 For the Nazi program of radical mass political indoctrination to suceed it needed a commanding influence in the schools, and history education was to be at the forefront of this effort, as in fact directed by the Reich Minister of the Interior on May 9, 1933. Another decree later in the same year established new “Guidelines for History Textbooks” that emphasized race as the driving factor underlying history and focused on leadership and heroism in the struggle between peoples and nations (Evans, “In Power” 263).
 
+{% include figure.html
+  class="right"
+  width="40%"
+  caption="University students display the Nazi salute as thousands of books burn in Berlin in 1933. The *Gleichschaltung* ('coordination') of the country included raids and public burnings of books deemed 'degenerate,' mostly related to sexual education but also those by Jewish, socialist, liberal, or pacifist authors. Later, bans and new textbook guidelines sought to limit and control the educational materials available to Germans. History education was especially censored, especially in the lower grades."
+  image-url="mmendoza-mitteleuropa.jpg"
+  source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
+%}
+
 In the Nazi '*Weltanschauung*' (worldview), history was conceived of as a Manichean struggle between mutually antagonistic racial forces of the natural versus the parasitic (invariably equated especially with the Jews), an almost impossible struggle that could only be won through the contributions of heroic deeds (Ayçoberry, 5). Everything was subordinated to the service of the German *volk* in this struggle, including history itself, which was wielded as a cudgel to mold a new generation of young Germans in the National Socialist image. The notion that history should have any pretenses of objectivity at all were jettisoned as a “liberal fallacy” (Evans, “In Power” 263). Curriculums were slimmed to exclude “pointless detail” and focus instead on promoting nationalism (273).
 
 ### “Obliterate the Traces”
@@ -138,9 +146,9 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 ---
 
->"No one has repudiated German history more than the Nazi ideologists." 
+>"No one has repudiated German history more than the Nazi ideologists." (Ayçoberry, 7)
 
->---K.F. Werner (Ayçoberry, 7)
+>---K.F. Werner
 
 ---
 
@@ -191,3 +199,5 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 [Leopold Von Ranke 1877](https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg).
 
 [Thousands of books smoulder in a huge bonfire as Germans give the Nazi salute during the wave of book-burnings](https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif).
+
+["Propaganda Shirley"](https://www.flickr.com/photos/35468140263@N01/9028101) by Kim P. Flickr, 2005. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
