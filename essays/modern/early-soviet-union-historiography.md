@@ -73,11 +73,9 @@ Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget
 
 ## Bibliography
 
-_Notice that we DON'T INCLUDE PLACE of publication!_
+- Avrich, Paul H. _The Short Course and Soviet Historiography_. Political Science Quarterly, Vol. 75, No. 4 (Dec., 1960), pp. 539-553.
 
-- Grazer, Brian, and Charles Fishman. _A Curious Mind: The Secret to a Bigger Life_. Simon & Schuster, 2015.
-
-- Smith, Zadie. _Swing Time_. Penguin Press, 2016.
+- White, James D. _Leon Trotsky and Soviet Historiography of the Russian Revolution (1918–1931)_. Routledge, 2021.
 
 - Thoreau, Henry David. “Walking.” In _The Making of the American Essay_, edited by John D’Agata, 167–95. Graywolf Press, 2016.
 
