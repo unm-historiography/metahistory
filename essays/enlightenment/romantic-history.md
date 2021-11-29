@@ -46,7 +46,7 @@ Historians living during the so-called Romantic Age ( 1770-1850) showcased varyi
 {% include figure.html
   class="left"
   width="25%"
-  caption="Johann Gottfried von Herder (1744-1803), the father of Romanticism"
+  caption="Johann Gottfried von Herder (1744-1803), the father of German Romanticism."
   image-url="truitt-johann-gottfried-herder.jpg"
   source-url="https://nat.museum-digital.de/singleimage.php?imagenr=1292"
 %}
@@ -61,7 +61,7 @@ Von Herder was also a member of a transitional period between the Enlightenment 
 {% include figure.html
   class="right"
   width="25%"
-  caption="Lord Thomas Babington Macaulay (1800-1859). An aristocratic romantic historian."
+  caption="Lord Thomas Babington Macaulay (1800-1859). An English aristocratic romantic historian and politician."
   image-url="truitt-thomas-babington-macaulay.jpg"
   source-url="https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay#/media/File:Thomas_Babington_Macaulay2.jpg"
 %}
@@ -77,7 +77,7 @@ Macaulay’s most influential and widely acknowledged work that is an example of
 {% include figure.html
   class="left"
   width="25%"
-  caption="Jules Michelet (1798-1874). A historical representative of the common people."
+  caption="Jules Michelet (1798-1874). A historical representative of the French common people."
   image-url="truitt-jules-michelet.jpg"
   source-url="https://en.wikipedia.org/wiki/Jules_Michelet#/media/File:Jules_Michelet_par_Thomas_Couture_(cropped).jpg"
 %}
