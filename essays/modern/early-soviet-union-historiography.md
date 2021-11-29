@@ -53,9 +53,8 @@ There had been several other works about the Revolution but none that were as ex
 
 It would be worth reiterating that Trotsky was not a trained historian. He relied on his own memory to formulate his works and the publications of the Istpar. To say that his writings were completely biased due to his sources being Communist Party approved would be an understatement. With that being said, Trotsky’s contributions to this period of Soviet historical writing were enormous.
 
-
 ## The Father of Soviet Historiography
-Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. 
+Mikhail Pokrovsky was the preeminent Soviet historian. Pokrovsky was a founder and leader of several of the historical institutions (previously mentioned), historical journals, and the training of historians. Pokrovsky believed in the Marxist theory that economics was the main driver of history and living people had a part to play but it was the collective and not the individual that made history. He used this theory to show that the Revolutions of 1905 and 1917 were living proof that Marxism was the correct ideology because the Bolsheviks were victorious. 
 
 ## Stalin and the Short Course
 In 1931 Joseph Stalin wrote a letter to Proletarskaia Revoliutsiia (Proletarian Revolution) criticizing the way historians had portrayed Lenin and Communist Party history. This letter was the first public admission that Stalin was not happy with the way historiography was performed and it would not be the last time Stalin and party members would intervene in the writing of history. 
