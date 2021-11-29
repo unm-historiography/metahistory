@@ -37,8 +37,8 @@ The Weimar Republic, itself a consequence of the defeat and the years of chaos a
 
 {% include figure.html
   class="left"
-  width="25%"
-  caption="Nazi 'Blood and Soil' propaganda like this ca. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgesichte* emphasized their historical importance."
+  width="30%"
+  caption="Nazi 'Blood and Soil' propaganda like this ca. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgeschichte* emphasized their historical importance."
   image-url="mmendoza-blood-and-soil-propaganda.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
 %}
