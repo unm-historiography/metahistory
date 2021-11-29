@@ -15,13 +15,13 @@ Aliquam quis lacus hendrerit tellus hendrerit laoreet porttitor et nisi. Proin d
 
 
 ## What about Spain? 
-When we think about the Enlightenment  what comes to mind? Its usually names like Voltaire, John Locke, and Immanuel Kant. And when we think of geologically about where the Enlightenmet took place we usally go in our minds to England, France and Germany, and even Scotland and the Scottish Enlightenment. While there is alot of meat to chew on with these major Elghtenment Figures we have to wonder for a second where is Spains place in the Enlightenment? Or was there Enlightenment Ideas taking place in Spain at all? Was Spain some sort of dark space where teh rest of Europe was lighting up with Enlightennment ideas whille Spain was toiling in darkeness. 
+When we think about the Enlightenment  what comes to mind? Its usually names like Voltaire, John Locke, and Immanuel Kant. And when we think of geologically about where the Enlightenmet took place we usally go in our minds to England, France and Germany, and even Scotland and the Scottish Enlightenment. While there is alot of meat to chew on with these major Elghtenment Figures and where they were from in Europe, we have to wonder for a second where is Spains place in the Enlightenment? Or was there Enlightenment Ideas taking place in Spain at all? Was Spain some sort of dark space where teh rest of Europe was lighting up with Enlightennment ideas whille Spain was toiling in darkeness. In fact Spain Spain did ahve a place in the Enlighten ment but jsut in a different way that was nuanced and under the radar but it did in fact happen as we go though this metahistory we will see some of the major historical writers who influnced Spain during teh enliughtinenment like Guizot, and Vico and father Benito Feijoo 
 
 {% include figure.html
   class="right"
   width="50%"
   caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
-  image-url="The_Venerable_Bede_translates_John_1902.jpg"
+  image-url=""
   source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
 %}
 
