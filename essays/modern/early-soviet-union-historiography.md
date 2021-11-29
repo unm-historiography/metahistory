@@ -11,6 +11,7 @@ toc-section: modern
 
 
 {:.abstract}
+
 Early Soviet historiography was shaped by various conflicts, Russian Revolution of 1905, February and October Revolutions of 1917, Russian Civil War, as well as political controversies of Soviet Party leadership. Starting in the late nineteenth century, Russians began to embrace the ideas of Marxism, which helped create change in society and country leadership. The main figure in this early change was the revolutionary leader, Vladimir Lenin. Lenin was the central character which all of society, including historiography, would revolve around through his own will and through the will of the Communist Party that he helped found and lead.  
 
 {% include figure.html
