@@ -130,6 +130,14 @@ In the Nazi '*Weltanschauung*' (worldview), history was conceived of as a Manich
 
 Historians who wholeheartedly embraced Nazism simply discarded the past. Nations had no real progression in history, as “they are already there, prefigured” and could only degenerate (Ayçoberry, 6). Thus, Charlemagne was considered unequivocally German, having “created the Empire” a thousand years before the unification (Evans, “In Power 312). The Germanic migrations were supposedly proof of German racial superiority (Ayçoberry, 7). According to Moritz Edelmann in 1937, editor of a historical journal, historical investigation should “liberate" itself from the dependence on the written source” (Schulze, 26). 
 
+{% include figure.html
+  class="left"
+  width="60%"
+  caption="'We are living in the most remote generations of our father... We are but the riverbed where the eternal blood roars on.' (Ayçoberry, 8)"
+  image-url="mmendoza-forest.png"
+  source-url="https://www.flickr.com/photos/95329455@N02/17445301782"
+%}
+
 Medieval history was especially distorted to these ends, an idealized pre-Christian “empire” of Charlemagne virtuous only as a prefigurement of the new Reich, the Teutonic knights revered as a model of German expansion to the east. As the philosopher and sociologist Max Horkheimer explained, “fascism, by its very exaltation of the past, is antihistorical. The Nazis' references to history mean only that the powerful must rule and that there is no emancipation from the eternal laws which guide humanity. When they say history, they mean its very opposite: mythology” (Ayçoberry, 7).
 
 The mythologizing of history was not restricted to academic circles. Historical films were especially prized by the Nazis as a means of communicating National Socialist ideals to a mass audience by relying heavily on symbolism. Screenwriters were directed to focus on “the progress of the Nordic man in history. The end of Antiquity, starting point of the alien mind… priests and kings in a struggle for world hegemony… the elements of degenerescence… (liberalism, capitalism, Marxism, confessionalism)...” (Ayçoberry, 10). The film *The Eternal Forest* (1936) extolled the soil as source of Germanic values, depicting Germanic forests as having endured hardship through war and industrial deforestation but also “humiliated by the occupation of Negro soldiers” (a reference to the occupation of the Rhineland by French colonial soldiers between 1918 and 1930) just as the German people had been (11). The idealization and romanticism of pastoralism (“soil”) juxtaposed with militant struggle and industrial warfare (“blood”) reveals one of the many contradictions inherent to the Nazi *Weltanschauung*. Though the source of Germanic values was supposedly the soil and the peasant, the heroes of National Socialism would come from the cities, bedecked in an intensely materialist racist ideology (8-9).
@@ -199,3 +207,5 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 [Thousands of books smoulder in a huge bonfire as Germans give the Nazi salute during the wave of book-burnings](https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif).
 
 ["Propaganda Shirley"](https://www.flickr.com/photos/35468140263@N01/9028101) by Kim P. Flickr, 2005. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
+[Beautiful German woman sitting in a forest](https://www.flickr.com/photos/95329455@N02/17445301782) by simpleinsomnia. Flickr, 2015. Taken 1930. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
