@@ -117,13 +117,6 @@ Historians who wholeheartedly embraced Nazism simply discarded the past. Nations
 
 Medieval history was especially distorted to these ends, an idealized pre-Christian “empire” of Charlemagne virtuous only as a prefigurement of the new Reich, the Teutonic knights revered as a model of German expansion to the east. As the philosopher and sociologist Max Horkheimer explained, “fascism, by its very exaltation of the past, is antihistorical. The Nazis' references to history mean only that the powerful must rule and that there is no emancipation from the eternal laws which guide humanity. When they say history, they mean its very opposite: mythology” (Ayçoberry, 7).
 
----
-
->"No one has repudiated German history more than the Nazi ideologists." 
->---K.F. Werner (Ayçoberry, 7)
-
----
-
 The mythologizing of history was not restricted to academic circles. Historical films were especially prized by the Nazis as a means of communicating National Socialist ideals to a mass audience by relying heavily on symbolism. Screenwriters were directed to focus on “the progress of the Nordic man in history. The end of Antiquity, starting point of the alien mind… priests and kings in a struggle for world hegemony… the elements of degenerescence… (liberalism, capitalism, Marxism, confessionalism)...” (Ayçoberry, 10). The film *The Eternal Forest* (1936) extolled the soil as source of Germanic values, depicting Germanic forests as having endured hardship through war and industrial deforestation but also “humiliated by the occupation of Negro soldiers” (a reference to the occupation of the Rhineland by French colonial soldiers between 1918 and 1930) just as the German people had been (11). The idealization and romanticism of pastoralism (“soil”) juxtaposed with militant struggle and industrial warfare (“blood”) reveals one of the many contradictions inherent to the Nazi *Weltanschauung*. Though the source of Germanic values was supposedly the soil and the peasant, the heroes of National Socialism would come from the cities, bedecked in an intensely materialist racist ideology (8-9).
 
 ### Tacit Resistance
@@ -133,6 +126,13 @@ In spite of mounting pressure from various Nazified organizations to incorporate
 Historians resistant to Nazism who chose not to emigrate often dealt with the onslaught through an outward demeanor of conformity to the new regime -- an “unpolitical” affectation that was familiar to historians of the Rankean tradition. One educator modified the Nazi greeting to his students in thinly-veiled sarcasm as “Hail, you Ancient Germanic Tribesmen!” (Evans, “In Power” 266). Historians more often avoided controversial subjects and preferred instead to focus their energies on eras far removed from present politics (Schulze, 27). Prominent examples of this “inner emigration” included that of Friedrich Meinecke’s *The Rise of Historicism* and Gerhard Ritter’s books on Martin Luther and Frederick the Great, two figures exalted by the Nazis -- though Ritter in defiance formulated these works as repudiations of Nazi ideology (Sims, 257). As noted by the SS in 1938, the vast majority of historians continued their research unabated by political events, carrying on “compiling old scholarly encyclopedias” and delivering “new scholarly contributions to the illumination of individual epochs” (Evans, “In Power” 313).
 
 On the whole, therefore, efforts to Nazify the history profession were largely unsuccessful within the academic sphere. Nazi psuedotheories did not hold up to the methodological and theoretical rigor of professional historians. Even the *Historische Zeitschrift*, though compromised in some respects (publishing articles like those on the “Jewish Question”) continued to publish conventional articles untainted by Nazism. When the premier national, annual historical conference became dominated by committed Nazis, most historians simply did not attend any longer (313). Even those initially pleased with the new regime eventually became involved in conflict with local Nazi appointees or zealous student organizations. It is not always so clear where compliance ends and dissent begins. However, seen from outside of Germany, historical scholarship was nonetheless severely curtailed in areas that criticized far-right conceptions of history (Schulze, 29).
+
+---
+
+>"No one has repudiated German history more than the Nazi ideologists." 
+>---K.F. Werner (Ayçoberry, 7)
+
+---
 
 
 ## Post-War Nazi Influences
