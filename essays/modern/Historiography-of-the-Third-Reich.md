@@ -111,7 +111,7 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 The cataclysmic end of the war for Germany resulted in a crisis of historical scholarship. There were widespread calls to reexamine conventional historical theses. In this respect, 1945 really did seem like a complete break with the past, “the end of traditional history” (Schulze, 31). What did “German history” mean in an era without Germany? West German historians insisted that modern scholarship could continue as “true” history released from the trappings of Nazi rhetoric, as it was claimed that many had simply paid lip-service to Nazi ideology to retain their jobs. But the extent to which Nazi-era historiography affected post-war methodologies was indeed in question.
 
-Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of continuity with post-war scholarship. *Volksgeschichte* in particular retained a powerful influence on the social sciences post-war (Schönwälder, 142-143). No longer were historical shifts primarily conceptualized as arising from politics and the state, but rather from society--a tradition firmly rooted in volkish analysis, drawing a clear connection between paradigms of the 1930s and those of the 1960s (Schulze, 20).
+Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of continuity with post-war scholarship. *Volksgeschichte* in particular retained a powerful influence on the social sciences post-war (Schönwälder, 142-143). No longer were historical shifts primarily conceptualized as arising from politics and the state, but rather from society -- a tradition firmly rooted in volkish analysis, drawing a clear connection between paradigms of the 1930s and those of the 1960s (Schulze, 20).
 
 
 ## Bibliography
@@ -144,8 +144,8 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 [Heinrich von Treitschke im Hörsaal](https://commons.wikimedia.org/wiki/File:Heinrich_von_Treitschke_im_H%C3%B6rsaal.jpg).
 
-[german_losses_after_WWI](https://upload.wikimedia.org/wikipedia/commons/8/85/German_losses_after_WWI.svg). CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5/deed.en
+[german_losses_after_WWI](https://upload.wikimedia.org/wikipedia/commons/8/85/German_losses_after_WWI.svg). [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
 
-[Franz Eichhorst 1885-1948 war painter Rathaus Berlin-Schöneberg Bürgersaal fresco 1935–38 Nazi propaganda "Bauer" Galleria](https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg). CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/deed.en
+[Franz Eichhorst 1885-1948 war painter Rathaus Berlin-Schöneberg Bürgersaal fresco 1935–38 Nazi propaganda "Bauer" Galleria](https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 [Berlin defending Nat'l Assembly](https://www.loc.gov/pictures/item/2014710858/).
