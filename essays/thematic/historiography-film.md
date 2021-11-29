@@ -15,14 +15,6 @@ One of the best forms of media to present history has been film. Whether the fil
 ### Inform, then entertain ###
 Historical movies, such as *Lincoln, 1917, Dunkirk, and 47*, have been films where the main purpose seems to be entertainment as a form of biographical, historiographic media. But films are flawed, as Hollywood has the tendency to take a sound historical narrative and perpetuate it to make a profit. Author and historian James Reston Jr. has brought up this “tension” between historian and dramatist when “compressing history” to create a narrative to get “what sells and holds the attention of an audience.” Therefore, films like *Lincoln, 1917, Dunkirk, and 47* do just enough to inform, then entertain with overly dramatized events, addition of fictional (nonexistent historically) characters, and cinematic elements such as wardrobe, makeup, action, and performance. Holding the attention of an audience is important, but just how much simplification of history harm the overall historiographic significance of the subject?
 
-{% include figure.html
-  class="right"
-  width="50%"
-  caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
-  image-url="The_Venerable_Bede_translates_John_1902.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
-%}
-
 ### Simplifying History ###
 Holding the attention of an audience, especially during a film can be difficult. Filmmakers only have at most two hours and thirty minutes to provide and establish a historical narrative that captivates an audience and (hopefully) informs that audience. In order to do this, filmmakers must simplify history to create the narrative of their film for the screen. But how does simplifying a history to create a filmable narrative affect the position of the historian? Bruno Ramirez has had this dilemma presented to him as a historian and moviegoer and eventually filmmaker. Ramirez poses the question, **“Was filmic treatment of the past in itself bound to distort renditions of the past because of the technical imperative that the film (as opposed to the typical historical monograph) imposed?”** (Ramirez, 5) 
 
@@ -32,6 +24,14 @@ Still, Ramirez believed that there were repercussions of the film’s historical
 
 ### Filmmakers as the Occasional Historian ###
 It is naïve to think that history is only for historians; history is for all to take, interpret and present. Which is why filmmakers find themselves working in historical films, because the histories are there—but to what degree are filmmakers responsible for providing a historically accurate account? When do filmmakers take on the role of the historian?
+
+{% include figure.html
+  class="right"
+  width="30%"
+  caption="Movie poster for Steven Spielberg's *Lincoln* starring Daniel Day-Lewis as Abraham Lincoln. Although the film is centered around Abraham Lincoln and the Emancipation of slaves, Spielberg made the choice to not include the narratives of African American slaves and freemen of the time: simplifying history and stunting the accuracy of the history."
+  image-url="lincoln-metahistory.jpeg"
+  source-url="https://ew.com/article/2012/08/22/lincoln-poster/"
+%}
 
 Take for instance, 2013 when Quentin Tarantino’s *Django Unchained* and Steven Spielberg’s *Lincoln* are released; both are films centered on slavery, but Tarantino’s film was more of a “play” on history under the guise of a “spaghetti western”, whereas Spielberg’s film was a biographical historical drama about Abraham Lincoln that was serious yet highly revered. (Bonilla, 6) Spielberg was even praised by University of Virginia Professor of History, Philip Zelikow, for “offering new insights” into the Emancipation period of American history, although it was quite apparent that Spielberg had also “silenced” the role of African Americans in that history as well. There was no questioning that Spielberg had gotten the Lincoln side of history correct, but had he done his part as a historian in presenting **as much** of the history as he could? The answer is yes and no.
 
