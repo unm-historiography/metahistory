@@ -107,8 +107,10 @@ In the Nazi '*Weltanschauung*' (worldview), history was conceived of as a Manich
 ### “Obliterate the Traces”
 
 Historians who wholeheartedly embraced Nazism simply discarded the past. Nations had no real progression in history, as “they are already there, prefigured” and could only degenerate (Ayçoberry, 6). Thus, Charlemagne was considered unequivocally German, having “created the Empire” a thousand years before the unification (Evans, “In Power 312). The Germanic migrations were supposedly proof of German racial superiority (Ayçoberry, 7). According to Moritz Edelmann in 1937, editor of a historical journal, historical investigation should “liberate" itself from the dependence on the written source” (Schulze, 26). 
+
 ---
-#### "No one has repudiated German history more than the Nazi ideologists." -K.F. Werner (Ayçoberry, 7)
+#### "No one has repudiated German history more than the Nazi ideologists." 
+-K.F. Werner (Ayçoberry, 7)
 ---
 Medieval history was especially distorted to these ends, an idealized pre-Christian “empire” of Charlemagne virtuous only as a prefigurement of the new Reich, the Teutonic knights revered as a model of German expansion to the east. As the philosopher and sociologist Max Horkheimer explained, “fascism, by its very exaltation of the past, is antihistorical. The Nazis' references to history mean only that the powerful must rule and that there is no emancipation from the eternal laws which guide humanity. When they say history, they mean its very opposite: mythology” (Ayçoberry, 7).
 
