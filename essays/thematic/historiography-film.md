@@ -18,8 +18,6 @@ Historical movies, such as *Lincoln, 1917, Dunkirk, and 47*, have been films whe
 ### Simplifying History ###
 Holding the attention of an audience, especially during a film can be difficult. Filmmakers only have at most two hours and thirty minutes to provide and establish a historical narrative that captivates an audience and (hopefully) informs that audience. In order to do this, filmmakers must simplify history to create the narrative of their film for the screen. But how does simplifying a history to create a filmable narrative affect the position of the historian? Bruno Ramirez has had this dilemma presented to him as a historian and moviegoer and eventually filmmaker. Ramirez poses the question, **“Was filmic treatment of the past in itself bound to distort renditions of the past because of the technical imperative that the film (as opposed to the typical historical monograph) imposed?”** (Ramirez, 5) 
 
-Ramirez’s example of this “filmic treatment” comes from his view of D.W. Griffith’s 1915 silent epic drama *The Birth of a Nation* where the movie deals with the Civil War and “heroic” rise of the Ku Klux Klan. This was a film in which Griffith, a filmmaker, not a historian, seemed to want to impart a history lesson of the Civil War, choosing to include battle sequences, political intrigue, and a romantic subplot (because it is a movie after all). As the filmmaker, D.W. Griffith made specific filmic choices such as scenes and sequences with written quotations from historical personalities such as President Abraham Lincoln and contemporary historians such as Woodrow Wilson, while using historically accurate locations pertaining to the history of the film.
-
 {% include figure.html
 class="left"
 width="30%"
@@ -27,6 +25,8 @@ caption="Poster for D.W. Griffith's 1915 silent American film *The Birth of a Na
 image-url="salaiz-birth-of-nation.jpeg"
 source-url="https://commons.wikimedia.org/wiki/File:Birth_of_a_Nation_-_Academy.jpg"
 %}
+
+Ramirez’s example of this “filmic treatment” comes from his view of D.W. Griffith’s 1915 silent epic drama *The Birth of a Nation* where the movie deals with the Civil War and “heroic” rise of the Ku Klux Klan. This was a film in which Griffith, a filmmaker, not a historian, seemed to want to impart a history lesson of the Civil War, choosing to include battle sequences, political intrigue, and a romantic subplot (because it is a movie after all). As the filmmaker, D.W. Griffith made specific filmic choices such as scenes and sequences with written quotations from historical personalities such as President Abraham Lincoln and contemporary historians such as Woodrow Wilson, while using historically accurate locations pertaining to the history of the film.
 
 Still, Ramirez believed that there were repercussions of the film’s historical theme and treatment of historical narrative that *The Birth of a Nation* “signaled the irreversible entry of historical motion picture into the American universe of cinema.” (Ramirez, 4) The history was essentially being simplified and diluted by Griffith to create the narrative of an epic Civil War drama that captivated audiences, not really informing as was the filmmaker’s initial intention. So, when does it become the responsibility of the filmmaker to take on the role of a historian?
 
