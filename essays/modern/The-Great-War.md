@@ -48,6 +48,7 @@ _“Now, as then, the national, racial, and institutional prejudices of historic
 There was absolutely prejudice amongst the people, especially back in war times as there were many posters and pamphlets made to arouse the citizens to rise in support of the war effort and against their adversarial armies.
 # Propaganda
 To the will of the people to follow your cause, you must advertise your word and convince them to follow.
+
 {% include figure.html
   class="right"
   width="50%"
