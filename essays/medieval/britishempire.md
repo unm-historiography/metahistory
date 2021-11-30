@@ -22,7 +22,7 @@ class="left"
 width="50%"
 caption="The Shah of Russia another nation imperial superpower sitting with the British royal family."
 image-url="The_Shah_and_the_British_Royal_Family.jpg"
-source-url="https://commons.wikimedia.org/wiki/File:The_Shah_and_the_British_Royal_Family.jpg"
+source-url=""
 %}
 
 ## Europe Expanding
@@ -44,8 +44,8 @@ In the end, who could deny that Great Britain throughout its run from small to i
 class="left"
 width="50%"
 caption="Women working in amunition factories during the First World War."
-image-url="industral-britian.jpg"
-source-url="https://commons.wikimedia.org/wiki/File:THE_ARMS_PRODUCTION_IN_BRITAIN_IN_THE_FIRST_WORLD_WAR_Q27847.jpg"
+image-url="THE_ARMS_PRODUCTION_IN_BRITAIN_IN_THE_FIRST_WORLD_WAR_Q27847"
+source-url="http://media.iwm.org.uk/ciim5/39/341/large_000000.jpg"
 %} 
 
 ## Bibliography
