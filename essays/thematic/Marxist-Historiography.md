@@ -47,7 +47,7 @@ As previously stated, Marxism holds a certain degree of contempt for any capital
 
   width="50%" 
 
-  caption=" \"The Pope of Marxism"\ A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
+  caption="\"The Pope of Marxism\ " A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
 
   image-url="Skroch-Karl-Kautski" 
 
