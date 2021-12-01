@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historiography of the Third Reich
+title: Historiography Under the Third Reich
 subtitle: 
 author: MICHAEL MENDOZA
 date: 2021-11-29
@@ -13,6 +13,8 @@ toc-section: modern
 
 For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (c. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism. Though many historians managed to keep themselves aloof of the new regime’s agenda, they did so at a cost, and the discipline did not escape the Nazi phenomenon unscathed.
 
+German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association. German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, the most prestigious profession was chosen by Germans as that of the university professor (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later to the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247).
+
 {% include figure.html
   class="right"
   width="50%"
@@ -20,8 +22,6 @@ For scholars and students of the history of the Third Reich, a striking aspect o
   image-url="mmendoza-treischke.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Heinrich_von_Treitschke_im_H%C3%B6rsaal.jpg"
 %}
-
-German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, university professor was chosen as the most prestigious profession (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247). German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association.
 
 In spite of this, the reaction of historians to the crumbling of German democracy and the establishment of a one-party dictatorship was rather muted. Although not a single professor of history was a member of the Nazi party before 1933 (Lambert, 555), none left voluntarily after the takeover and there were only very limited dismissals by Nazi officials, mostly of Jewish professors (Schulze, 25, 28). There was no need for a widespread “purge.” Only a handful of historians deviated from the conservative consensus of the profession, a consensus that proved amply compatible with the National Socialist movement.
 
@@ -37,7 +37,7 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
   source-url="https://en.wikipedia.org/wiki/Weimar_Republic#/media/File:German_losses_after_WWI.svg"
 %}
 
-The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine (a border region ceded to France in 1918), and created a corpus of so-called “border research” that aimed revanchist sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
+The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine (a border region ceded to France in 1918), and created a corpus of so-called “border research” that aimed [revanchist](https://en.wikipedia.org/wiki/Revanchism) sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
 
 ---
 
@@ -55,7 +55,7 @@ The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a c
   source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
 %}
 
-### *Volkische* History
+### *Völkische* History
 
 It was in this intellectual climate post-1918 that the late-nineteenth century notion of [‘*Volk*’](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (180). ‘**_Volksgeschichte_’ (people’s or ethnic history)** was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
 
@@ -77,7 +77,7 @@ For German historians of the interwar years, conservative-nationalist procliviti
 
 ### Objectivity Versus Impartiality
 
-All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting positivism in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
+All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting [positivism](https://en.wikipedia.org/wiki/Positivism) in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
 {% include figure.html
   class="right"
   width="33%"
