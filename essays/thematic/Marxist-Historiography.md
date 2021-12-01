@@ -61,7 +61,21 @@ Karl Kautsky was a Marxist theoretician who lived from the mid 19th century to t
 Kautskism can be seen as a more strict adherence to the historiographical belief that society was ever progressing towards a lower class uprising. This originated from Kautsky’s claim that Russia was not ready for a socialist revolution as the country had never had an unrestricted capitalist economy. This embodies the linear history of his ideology as, in his opinion, a country couldn’t skip a step on the path to communism, especially if it surpassed his own. This view lead many critics of his time to label Kautsky as a “determinist” or “Darwinist.” Kautsky made sure to emphasize that his position was grounded in the human agency throughout history being the driving force behind the inevitable Proletarian uprising. Kautskism only slightly avoids the label of determinist in that it doesn’t advocate for “inevitable, linear history” but rather that the workers of the proletariat would eventually overthrow the upper class. 
 
 
+{% include figure.html 
 
+  class="right" 
+
+  width="50%" 
+
+  caption="A peace of Marxist propeganda, the top reads \"long live Marxism-Leninism-Maoism!\" At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!\" The bottom reads \"the Revolutionary Internationalist Movement.\" 
+
+  image-url="Skroch-Marxist-Propeganda.jpg" 
+
+  source-url="https://commons.wikimedia.org/wiki/File:Long_Live_Marxism-Leninism-Maoism!.jpg" 
+
+   
+
+%} 
 ### Marxist History in China
 For the vast majority of history in China, dynastic monarchy was the only form of government. This system of government was shortly broken by the Republic of China from 1912-1949, before ultimately being succeeded by a communist state. Marxism greatly expanded in the two decades before the Chinese Communist revolution. Fan Wenlan lead the Marxist view of Chinese History, opposing historians who followed a more nationalist view. Firstly, Wenlan believed in the classic linear Marxist view of history, believing that the communist revolution would be the culmination of the centuries long struggle of the Chinese people against feudalism and imperialism. (Li) Oddly enough, in a way the short period of The Republic of China was required for this linear history to work. In juxtaposition of Kautsky’s view of the Russian Marxist Revolution, China had fully experienced the “steps” to becoming a communist state.   
 
