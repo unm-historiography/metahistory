@@ -13,6 +13,7 @@ For scholars and students of the history of the Third Reich, a striking aspect o
 
 ## Weimar Historiography
 
+
 German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association. German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, the most prestigious profession was chosen by Germans as that of the university professor (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later to the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247).
 
 {% include figure.html
@@ -77,7 +78,7 @@ For German historians of the interwar years, conservative-nationalist procliviti
 
 ### Objectivity Versus Impartiality
 
-All this was contemporaneous to the professionalization of history as a discipline, which more and more required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting [positivism](https://en.wikipedia.org/wiki/Positivism) in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
+All this was contemporaneous to the professionalization of history as a discipline, which more often required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting [positivism](https://en.wikipedia.org/wiki/Positivism) in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
 {% include figure.html
   class="right"
   width="33%"
@@ -87,7 +88,7 @@ All this was contemporaneous to the professionalization of history as a discipli
 %}
 Another German historian, [Heinrich von Sybel](https://en.wikipedia.org/wiki/Heinrich_von_Sybel), who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian [Georg Gervinus](https://en.wikipedia.org/wiki/Georg_Gottfried_Gervinus) simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
-Historical objectivity was conceived as being embodied by the methodologies of historical investigation--it was through a systematic process of '**_Quellenkritik_' (source criticism)** that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
+Historical objectivity was conceived as embodied by the methodologies of historical investigation--it was through a systematic process of '**_Quellenkritik_' (source criticism)** that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
 
 ---
 
@@ -100,7 +101,7 @@ Historical objectivity was conceived as being embodied by the methodologies of h
 
 ## Historiography Under the Nazis
 
-Through the death throes of the Weimar Republic as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
+Through the death throes of the Weimar Republic, as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
 
 {% include figure.html
   class="left"
@@ -140,7 +141,9 @@ Historians who wholeheartedly embraced Nazism simply discarded the past. Nations
 
 Medieval history was especially distorted to these ends, an idealized pre-Christian “empire” of Charlemagne virtuous only as a foreshadowing of the new *Reich*, the Teutonic knights revered as a model of German expansion to the east. As the philosopher and sociologist [Max Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer) explained, “fascism, by its very exaltation of the past, is antihistorical. The Nazis' references to history mean only that the powerful must rule and that there is no emancipation from the eternal laws which guide humanity. When they say history, they mean its very opposite: mythology” (Ayçoberry, 7).
 
-The mythologizing of history was not restricted to academic circles. Historical films were especially prized by the Nazis as a means of communicating National Socialist ideals to a mass audience by relying heavily on symbolism. Screenwriters were directed to focus on “the progress of the Nordic man in history. The end of Antiquity, starting point of the alien mind… priests and kings in a struggle for world hegemony… the elements of degenerescence… (liberalism, capitalism, Marxism, confessionalism)...” (Ayçoberry, 10). The film *The Eternal Forest* (1936) extolled the soil as source of Germanic values, depicting Germanic forests as having endured hardship through war and industrial deforestation but also “humiliated by the occupation of Negro soldiers” (a reference to the [Occupation of the Rhineland](https://en.wikipedia.org/wiki/Occupation_of_the_Rhineland) by French colonial soldiers between 1918 and 1930) just as the German people had been (11). The idealization and romanticism of pastoralism (“soil”) juxtaposed with militant struggle and industrial warfare (“blood”) reveals one of the many contradictions inherent to the Nazi *Weltanschauung*. Though the source of Germanic values was supposedly the soil and the peasant, the heroes of National Socialism would come from the cities, bedecked in an intensely materialist, racist ideology (8-9).
+The mythologizing of history was not restricted to academic circles. Historical films were especially prized by the Nazis as a means of communicating National Socialist ideals to a mass audience by relying heavily on symbolism. Screenwriters were directed to focus on “the progress of the Nordic man in history. The end of Antiquity, starting point of the alien mind… priests and kings in a struggle for world hegemony… the elements of degenerescence… (liberalism, capitalism, Marxism, confessionalism)...” (Ayçoberry, 10).
+
+The film *The Eternal Forest* (1936) extolled the soil as source of Germanic values, depicting Germanic forests as having endured hardship through war and industrial deforestation but also “humiliated by the occupation of Negro soldiers” (a reference to the [Occupation of the Rhineland](https://en.wikipedia.org/wiki/Occupation_of_the_Rhineland) by French colonial soldiers between 1918 and 1930) just as the German people had been (11). The idealization and romanticism of pastoralism (“soil”) juxtaposed with militant struggle and industrial warfare (“blood”) reveals one of the many contradictions inherent to the Nazi *Weltanschauung*. Though the source of Germanic values was supposedly the soil and the peasant, the heroes of National Socialism would come from the cities, bedecked in an intensely materialist, racist ideology (8-9).
 
 {% include figure.html
   class="right"
@@ -195,7 +198,7 @@ Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of c
 
 Ayçoberry, Pierre. *The Nazi Question : An Essay on the Interpretations of National Socialism (1922-1975)*. Pantheon Books, 1981.
 
-Dahrendorf, Ralf. *Society and democracy in Germany*. Norton. 1979.
+Dahrendorf, Ralf. *Society and democracy in Germany*. Norton, 1979.
 
 Daston, Lorraine. “Objectivity and Impartiality: Epistemic Virtues in the Humanities.” In *The Making of the Humanities: Volume III: The Modern Humanities*, edited by Rens Bod, Jaap Maat, and Thijs Weststeijn. Amsterdam University Press, 2014. 27-42.
 
