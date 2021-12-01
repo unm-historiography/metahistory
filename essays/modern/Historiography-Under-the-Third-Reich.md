@@ -9,9 +9,9 @@ toc-image: The_Venerable_Bede_translates_John_1902.jpg
 toc-section: modern 
 ---
 
-## Weimar Historiography
-
 For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (c. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism. Though many historians managed to keep themselves aloof of the new regime’s agenda, they did so at a cost, and the discipline did not escape the Nazi phenomenon unscathed.
+
+## Weimar Historiography
 
 German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association. German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, the most prestigious profession was chosen by Germans as that of the university professor (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later to the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247).
 
