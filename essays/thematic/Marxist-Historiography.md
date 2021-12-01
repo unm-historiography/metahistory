@@ -92,7 +92,7 @@ Oddly enough, the recent Marxist revolution in China served as an example for th
 
 
 
-## Bibliography
+###Bibliography
 
 Blackledge, Paul, and School of Social Sciences. “Karl Kautsky and Marxist Historiography.”  1 Aug. 2006 
 
@@ -133,5 +133,4 @@ Nolte, Ernst. “The Relationship between ‘Bourgeois’ and ‘Marxist’ Hist
 Wang, Q. “Marxist Historiographies: A Global Perspective.”  
 
  
-
- Zahoor, Muhammad Abrar, and Fakhar Bilal. “Marxist Historiography: An Analytical Exposition of Major Themes and Premises .”  2013. 
+Zahoor, Muhammad Abrar, and Fakhar Bilal. “Marxist Historiography: An Analytical Exposition of Major Themes and Premises .”  2013. 
