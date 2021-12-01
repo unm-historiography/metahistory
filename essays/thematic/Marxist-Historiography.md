@@ -41,6 +41,7 @@ This Marxist progressivism ties together many historical events especially those
 ### Marxism and Government
 As previously stated, Marxism holds a certain degree of contempt for any capitalist society’s government. This can best be explained in Marx’s own words in the preface to his 1859 writing, A Contribution to the Critique of Political Economy. Here he states: “Legal relation as well as forms of state are to be grasped neither by themselves nor from the so-called general development of the human mind, but rather have their roots in the material conditions of life...” Marx explains that it is the material conditions of life, otherwise known as the social and economic class are what ultimately shape the laws and government of a society. He then connects this to the writing of history saying, “Economic production and the structure of society uprising there from constitute the foundation for the political and intellectual history of that epoch...” Problems around the writing of history, such as the purpose of writing and bias of the author, were nothing new; however, Marxist Historiography places this criticism at the core of its beliefs, going as far as to differentiate itself from “regular history’ by calling it “bourgeois history.” In this case Marxists assert that this “bourgeois history” is created by the government in order to justify the capitalist system. It is for this reason that for Marxists, non-Marxist historians should be, first and foremost, "denounced" as ‘falsifiers of history’—made positive evaluation of bourgeois authors dependent on their politics and on their affinity to an orthodox materialistic understanding of history. (Mogilnitsky) 
 
+
 {% include figure.html 
 
   class="right" 
@@ -74,8 +75,8 @@ Kautskism can be seen as a more strict adherence to the historiographical belief
   source-url="https://commons.wikimedia.org/wiki/File:Long_Live_Marxism-Leninism-Maoism!.jpg" 
 
    
-
 %} 
+
 ### Marxist History in China
 For the vast majority of history in China, dynastic monarchy was the only form of government. This system of government was shortly broken by the Republic of China from 1912-1949, before ultimately being succeeded by a communist state. Marxism greatly expanded in the two decades before the Chinese Communist revolution. Fan Wenlan lead the Marxist view of Chinese History, opposing historians who followed a more nationalist view. Firstly, Wenlan believed in the classic linear Marxist view of history, believing that the communist revolution would be the culmination of the centuries long struggle of the Chinese people against feudalism and imperialism. (Li) Oddly enough, in a way the short period of The Republic of China was required for this linear history to work. In juxtaposition of Kautsky’s view of the Russian Marxist Revolution, China had fully experienced the “steps” to becoming a communist state.   
 
