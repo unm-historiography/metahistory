@@ -19,7 +19,7 @@ toc-section: thematic
 
   caption="Karl Marx (Left) and Fredrich Engles. (Right) These two men founded the Marxist ideology with Marx being the primary philosopher and Engles acting almost as a benefactor." 
 
-  image-url="Skroch-Marx-and-Engles.jpg" 
+  image-url="Skroch-Marx-and-Engels.jpg" 
 
   source-url="https://commons.wikimedia.org/wiki/File:Marx_and_Engels.jpg" 
 
@@ -47,9 +47,9 @@ As previously stated, Marxism holds a certain degree of contempt for any capital
 
   width="50%" 
 
-  caption="\"The Pope of Marxism\ " A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
+  caption=" \"The Pope of Marxism\" A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
 
-  image-url="Skroch-Karl-Kautski" 
+  image-url="Skroch-Karl-Kautski.jpg" 
 
   source-url="https://commons.wikimedia.org/wiki/File:Karl_Kautsky_01.jpg" 
 
