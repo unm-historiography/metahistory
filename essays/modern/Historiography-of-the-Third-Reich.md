@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historiography Under the Third Reich
+title: History Under the Third Reich
 subtitle: 
 author: MICHAEL MENDOZA
 date: 2021-11-29
@@ -192,6 +192,7 @@ The cataclysmic end of the war for Germany resulted in a crisis of historical sc
 
 Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of continuity with post-war scholarship. *Volksgeschichte* in particular retained a powerful influence on the social sciences post-war (Schönwälder, 142-143). No longer were historical shifts primarily conceptualized as arising from politics and the state, but rather from society---a tradition firmly rooted in *volkish* analysis, drawing a clear connection between paradigms of the 1930s and those of the 1960s (Schulze, 20).
 
+---
 
 ## Bibliography
 
