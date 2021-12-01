@@ -11,7 +11,19 @@ toc-section: thematic
 
 
 
+{% include figure.html 
 
+  class="right" 
+
+  width="50%" 
+
+  caption="Karl Marx (Left) and Fredrich Engles. (Right) These two men founded the Marxist ideology with Marx being the primary philosopher and Engles acting almost as a benefactor." 
+
+  image-url="Skroch-Marx-and-Engles.jpg" 
+
+  source-url="https://commons.wikimedia.org/wiki/File:Marx_and_Engels.jpg" 
+
+%} 
 
 
 ## Karl Marx and Fredrich Engles 
