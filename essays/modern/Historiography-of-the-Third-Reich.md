@@ -101,8 +101,6 @@ Historical objectivity was conceived as embodied by the methodologies of histori
 
 ## Historiography Under the Nazis
 
-Through the death throes of the Weimar Republic, as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
-
 {% include figure.html
   class="left"
   width="60%"
@@ -111,19 +109,23 @@ Through the death throes of the Weimar Republic, as the Nazis gained steadily in
   source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
 %}
 
+Through the death throes of the Weimar Republic, as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
+
 Even these protestations were hardly the flames of fierce resistance. Meinecke even wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong autocratic leadership. 
 
 And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.org/wiki/Gleichschaltung) (coordination) of the universities and 15% of the teaching staff in Germany was dismissed following a new law promulgated on April 7, 1933, there was no public, collective opposition on the part of historians nor intellectuals in general (253-254). Outwardly, historians were effectively cowed, either by threat of joblessness or by some measure of approval of the Third Reich. The conquest of the German historians' body complete, the Nazis moved on to conquer the mind. This turned out to be a far more formidable task.
 
 ### The “Nazi School” of History
 
-For the Nazi program of radical mass political indoctrination to suceed it needed a commanding influence in the schools, and history education was to be at the forefront of this effort, as in fact directed by the Reich Minister of the Interior on May 9, 1933. Another decree later in the same year established new “Guidelines for History Textbooks” that emphasized race as the driving factor underlying history and focused on leadership and heroism in the struggle between peoples and nations (Evans, “In Power” 263). {% include figure.html
+{% include figure.html
   class="right"
   width="55%"
   caption="The Nazis' foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
 %}
+
+For the Nazi program of radical mass political indoctrination to suceed it needed a commanding influence in the schools, and history education was to be at the forefront of this effort, as in fact directed by the Reich Minister of the Interior on May 9, 1933. Another decree later in the same year established new “Guidelines for History Textbooks” that emphasized race as the driving factor underlying history and focused on leadership and heroism in the struggle between peoples and nations (Evans, “In Power” 263).
 
 In the Nazi '*Weltanschauung*' (worldview), history was conceived of as a Manichean struggle between mutually antagonistic racial forces of the natural versus the parasitic (invariably equated especially with the Jews), an almost impossible struggle that could only be won through the contributions of heroic deeds (Ayçoberry, 5). Everything was subordinated to the service of the German *volk* in this struggle, including history itself, which was wielded as a cudgel to mold a new generation of young Germans in the National Socialist image. The notion that history should have any pretenses of objectivity at all were jettisoned as a “liberal fallacy” (Evans, “In Power” 263). Curriculums were slimmed to exclude “pointless detail” and focus instead on promoting nationalism (273).
 
