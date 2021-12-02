@@ -120,7 +120,7 @@ And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.o
 For the Nazi program of radical mass political indoctrination to suceed it needed a commanding influence in the schools, and history education was to be at the forefront of this effort, as in fact directed by the Reich Minister of the Interior on May 9, 1933. Another decree later in the same year established new “Guidelines for History Textbooks” that emphasized race as the driving factor underlying history and focused on leadership and heroism in the struggle between peoples and nations (Evans, “In Power” 263). {% include figure.html
   class="right"
   width="55%"
-  caption="The Nazis' foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were also quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
+  caption="The Nazis' foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
 %}
@@ -191,6 +191,8 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 The cataclysmic end of the war for Germany resulted in a crisis of historical scholarship. There were widespread calls to reexamine conventional historical theses. In this respect, 1945 really did seem like a complete break with the past, “the end of traditional history” (Schulze, 31). What did “German history” mean in an era without Germany? West German historians insisted that modern scholarship could continue as “true” history released from the trappings of Nazi rhetoric, as it was claimed that many had simply paid lip-service to Nazi ideology to retain their jobs. But the extent to which Nazi-era historiography affected post-war methodologies was indeed in question.
 
 Undoubtedly, paradigm shifts initiated during the Nazi era found some forms of continuity with post-war scholarship. *Volksgeschichte* in particular retained a powerful influence on the social sciences post-war (Schönwälder, 142-143). No longer were historical shifts primarily conceptualized as arising from politics and the state, but rather from society---a tradition firmly rooted in *völkish* analysis, drawing a clear connection between paradigms of the 1930s and those of the 1960s (Schulze, 20).
+
+There was a widespread post-war consensus among both historians and the general public that a thorough revision of German history was needed, the search for the "junction" where German history "began to err from its path" (30). But this began to wane as the new West German Federal Republic gained solid political standing. From this emerged the beginnings of a decades-long "Historians Debate" that continues to smolder in certain respects even today, as German historians struggled to come to terms with their profession's complicity in the origins and the genocidal actions of the Nazi regime in the darkest years of German history.
 
 ---
 
