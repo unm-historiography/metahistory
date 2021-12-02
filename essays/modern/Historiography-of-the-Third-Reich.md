@@ -101,6 +101,8 @@ Historical objectivity was conceived as embodied by the methodologies of histori
 
 ## Historiography Under the Nazis
 
+Through the death throes of the Weimar Republic, as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
+
 {% include figure.html
   class="left"
   width="60%"
@@ -108,8 +110,6 @@ Historical objectivity was conceived as embodied by the methodologies of histori
   image-url="mmendoza-book-burning.png"
   source-url="https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif"
 %}
-
-Through the death throes of the Weimar Republic, as the Nazis gained steadily in the polls and political violence escalated on the streets, German historians became gradually more uneasy. But Rankean ideals of impartiality alongside a general contempt for democracy subdued most as the Republic collapsed. Few spoke out against the Nazis, notably the historians [Gerhard Ritter](https://en.wikipedia.org/wiki/Gerhard_Ritter) (c. 1888-1967) and [Friedrich Meinecke](https://en.wikipedia.org/wiki/Friedrich_Meinecke) (c. 1862-1954), both of whom broke their silence to urge people to vote for Hindenburg over Hitler. Hans Rothfels, himself dismissed from a chair at Königsberg by the Nazis in 1934, condemned as “deeply shameful” what he called the “voluntary coordination” of silence among professors (Sims, 250-251).
 
 Even these protestations were hardly the flames of fierce resistance. Meinecke even wrote in an article for a newspaper that “there are many worthwhile ideas, strengths, and men in this movement” (252). Underappreciation of the threat of Nazism characterized the early attitude of historians. In fact, Hitler promised much of what most wanted: a revitalized *Reich* under strong autocratic leadership. 
 
