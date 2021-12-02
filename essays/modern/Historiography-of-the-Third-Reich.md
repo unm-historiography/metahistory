@@ -26,6 +26,14 @@ German universities were world-renowned and long considered some of the best as 
 
 In spite of this, the reaction of historians to the crumbling of German democracy and the establishment of a one-party dictatorship was rather muted. Although not a single professor of history was a member of the Nazi party before 1933 (Lambert, 555), none left voluntarily after the takeover and there were only very limited dismissals by Nazi officials, mostly of Jewish professors (Schulze, 25, 28). There was no need for a widespread “purge.” Only a handful of historians deviated from the conservative consensus of the profession, a consensus that proved amply compatible with the fiercely nationalist, virulently anti-semitic National Socialist (_Nationalsozialismus_ or "Nazi") movement.
 
+---
+
+>"The historical discipline does not come empty-handed to the new German state and its youth." (Schulze, 27)
+
+>---Karl Alexander von Müller (c. 1882-1964, German historian), 1936
+
+---
+
 ### A Bitter Defeat
 
 Historiography of the interwar years in Germany was dominated by the trauma of the First World War, but especially by the offspring of its conclusion: the [Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles). In the minds of German historians, as well as much of the German people, the Treaty represented an inconceivable humiliation for a country which had been at the high point of its power just four years before. Not only was it considered an extremely harsh punishment, but also an unjust one as it pinned the blame for the war unfairly, it was thought, on Germany alone (Evans, “The Coming” 60).
@@ -39,14 +47,6 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
 %}
 
 The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine (a border region ceded to France in 1918), and created a corpus of so-called “border research” that aimed [revanchist](https://en.wikipedia.org/wiki/Revanchism) sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21).
-
----
-
->"The historical discipline does not come empty-handed to the new German state and its youth." (Schulze, 27)
-
->---Karl Alexander von Müller (c. 1882-1964, German historian), 1936
-
----
 
 {% include figure.html
   class="right"
