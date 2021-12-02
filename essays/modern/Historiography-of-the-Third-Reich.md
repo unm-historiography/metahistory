@@ -209,9 +209,9 @@ Dahrendorf, Ralf. *Society and democracy in Germany*. Norton, 1979.
 
 Daston, Lorraine. “Objectivity and Impartiality: Epistemic Virtues in the Humanities.” In *The Making of the Humanities: Volume III: The Modern Humanities*, edited by Rens Bod, Jaap Maat, and Thijs Weststeijn. Amsterdam University Press, 2014. 27-42.
 
-Evans, Richard J. *The Coming of the Third Reich*. New York: The Penguin Press, 2004.
+Evans, Richard J. *The Coming of the Third Reich*. The Penguin Press, 2004.
 
-Evans, Richard J. *The Third Reich In Power*. New York: The Penguin Press, 2005.
+Evans, Richard J. *The Third Reich In Power*. The Penguin Press, 2005.
 
 Iggers, Georg G. “Nationalism and historiography, 1789-1996: The German example in historical perspective.” In *Writing National Histories: Western Europe Since 1800*, edited by Stefan Berger, Mark Donovan, and Kevin Passmore. Taylor & Francis Group, 1999. 15-29.
 
