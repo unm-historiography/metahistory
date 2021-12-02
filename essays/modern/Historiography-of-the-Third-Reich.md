@@ -44,7 +44,7 @@ The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a c
 
 >"The historical discipline does not come empty-handed to the new German state and its youth." (Schulze, 27)
 
->---Dr. Karl Alexander von Müller (c. 1882-1964, German historian), 1936
+>---Karl Alexander von Müller (c. 1882-1964, German historian), 1936
 
 ---
 
@@ -173,7 +173,7 @@ On the whole, therefore, efforts to Nazify the history profession were largely u
 
 >"No one has repudiated German history more than the Nazi ideologists." (Ayçoberry,7)
 
->---Dr. Karl Ferdinand Werner (c. 1924-2008, German historian)
+>---Karl Ferdinand Werner (c. 1924-2008, German historian)
 
 ---
 
