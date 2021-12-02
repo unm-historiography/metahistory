@@ -24,7 +24,7 @@ German universities were world-renowned and long considered some of the best as 
   source-url="https://commons.wikimedia.org/wiki/File:Heinrich_von_Treitschke_im_H%C3%B6rsaal.jpg"
 %}
 
-In spite of this, the reaction of historians to the crumbling of German democracy and the establishment of a one-party dictatorship was rather muted. Although not a single professor of history was a member of the Nazi party before 1933 (Lambert, 555), none left voluntarily after the takeover and there were only very limited dismissals by Nazi officials, mostly of Jewish professors (Schulze, 25, 28). There was no need for a widespread “purge.” Only a handful of historians deviated from the conservative consensus of the profession, a consensus that proved amply compatible with the National Socialist movement.
+In spite of this, the reaction of historians to the crumbling of German democracy and the establishment of a one-party dictatorship was rather muted. Although not a single professor of history was a member of the Nazi party before 1933 (Lambert, 555), none left voluntarily after the takeover and there were only very limited dismissals by Nazi officials, mostly of Jewish professors (Schulze, 25, 28). There was no need for a widespread “purge.” Only a handful of historians deviated from the conservative consensus of the profession, a consensus that proved amply compatible with the fiercely nationalist, virulently anti-semitic National Socialist (_Nationalsozialismus_ or "Nazi") movement.
 
 ### A Bitter Defeat
 
