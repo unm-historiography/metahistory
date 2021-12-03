@@ -64,7 +64,7 @@ A new methodology was required to explore this emerging historical paradigm. Met
 
 ### Conservative-Nationalist "Objectivity"
 
-All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century positivist thought and greatly influenced by two German intellectual titans: the sociologist **Max Weber** (c. 1864-1920) and the historian **Leopold von Ranke** (c. 1795-1886). Both promoted **objectivity** in scholarship and warned against the imposition of personal, contemporary values on times past. Political partisanship in the classroom was also looked down upon, Weber himself stating publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
+All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century [positivist](https://en.wikipedia.org/wiki/Positivism) thought and greatly influenced by two German intellectual titans: the sociologist **Max Weber** (c. 1864-1920) and the historian **Leopold von Ranke** (c. 1795-1886). Both promoted **impartiality**, warning against the imposition of personal, contemporary values on times past, as well as **objectivity** in historical scholarship, urging the limitation of historical concern to a "strict presentation of the facts" (Cheng, 75). Weber statied publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the unification of Germany as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
 
 {% include figure.html
   class="left"
@@ -74,11 +74,12 @@ All of this appears to be in contradiction of the values of the self-professed �
   source-url="https://www.loc.gov/pictures/item/2014710858/"
 %}
 
-For German historians of the interwar years, conservative-nationalist proclivities thus lined up conspicuously well with notions of “objectivity” in historical scholarship. It was self-evident to them that the Weimar Republic represented a clear break with German history. Democracy, republicanism, and liberalism were not compatible with the German sense of *volk* and country, as was supposedly “proved” by the social unrest and political chaos that followed the collapse of the Wilhelmine Reich. “The Kaiser-less time,” was widely considered “the terrible time,” in the words of historian Conrad Bornhak (Sims, 253).
+For German historians of the interwar years, conservative-nationalist proclivities thus lined up conspicuously well with notions of “objectivity." It was self-evident to them that the Weimar Republic represented a clear break with German history. Democracy, republicanism, and liberalism were not compatible with the German sense of *volk* and country, as was supposedly “proved” by the social unrest and political chaos that followed the collapse of the Wilhelmine Reich. “The Kaiser-less time,” was widely considered “the terrible time,” in the words of historian Conrad Bornhak (Sims, 253).
 
 ### Objectivity Versus Impartiality
 
-All this was contemporaneous to the professionalization of history as a discipline, which more often required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), defending objectivity on the one hand while rejecting [positivism](https://en.wikipedia.org/wiki/Positivism) in historical scholarship (the search for deterministic historical laws) on the other (Daston, 32). 
+All this was contemporaneous to the professionalization of history as a discipline, which more often required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), though he rejected the positivist search for deterministic historical laws (Daston, 32). Another German historian, [Heinrich von Sybel](https://en.wikipedia.org/wiki/Heinrich_von_Sybel), who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian [Georg Gervinus](https://en.wikipedia.org/wiki/Georg_Gottfried_Gervinus) simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
+
 {% include figure.html
   class="right"
   width="33%"
@@ -86,9 +87,8 @@ All this was contemporaneous to the professionalization of history as a discipli
   image-url="mmendoza-leopold-von-ranke.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
 %}
-Another German historian, [Heinrich von Sybel](https://en.wikipedia.org/wiki/Heinrich_von_Sybel), who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian [Georg Gervinus](https://en.wikipedia.org/wiki/Georg_Gottfried_Gervinus) simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
-Historical objectivity was conceived as embodied by the methodologies of historical investigation--it was through a systematic process of '**_Quellenkritik_' (source criticism)** that perspectives, context, and bias were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was the methodological rigor of the historian’s process that made the work “objective” (32). Though the notion of impartiality was mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
+Historical objectivity was conceived as embodied by the methodologies of historical investigation--it was through a systematic process of '**_Quellenkritik_' (source criticism)** that the perspectives, context, and bias of historical sources were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was believed that the methodological rigor of the historian’s process that made the work “objective” (32). In imploring historians to restrict historical work to a sterile rendering of "the facts," the historian's ability to challenge the status quo was neutered. Impartiality was mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” but this did not preclude them from imagining their historical work as fundamentally objective (33). Utilizing history in the service of present realities was an idea that would only grow in the coming years.
 
 ---
 
@@ -204,6 +204,8 @@ It was from this tug-of-war between traditionalist historians and the younger ge
 
 
 Ayçoberry, Pierre. *The Nazi Question : An Essay on the Interpretations of National Socialism (1922-1975)*. Pantheon Books, 1981.
+
+Cheng, Eileen K. *Historiography: An Introductory Guide*. Continuum, 2012.
 
 Dahrendorf, Ralf. *Society and democracy in Germany*. Norton, 1979.
 
