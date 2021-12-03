@@ -18,18 +18,18 @@ Since our earliest conception of a social framework, humans have desired to tran
 
 {% include figure.html
   class="right"
-  width="50%"
-  caption="Municipal Archives in Aldaia, Spain."
+  width="65%"
+  caption="Municipal Archives in Aldaia, Spain. Many national records and documents were stored in large centralized archive repositories beginning in the 17th century."
   image-url="snyder-aldaia-archives.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Arxiu_aldaia_2_dip%C3%B2sit.jpg"
 %}
 
 Classical Greeks and Romans wrote many of their records on wooden boards, parchment, and papyri scrolls, all of which eventually supplanted the older traditions of orally transmitting information and committing it to memory.  The emergence of physical, tangible records prompted the creation of physical repositories.  The ancient Athenians created a building called the Metroon between 390 and 370 BCE, which was dedicated to collecting and storing their citiy's public and private administrative records.  Ancient Romans followed suit and erected buildings to house transcripts of the Roman Senate’s proceedings beginning in 59 BCE.  Many records were stored in the Tabularium, a prominent building in Rome that overlooked the forum (Delsalle, 17-24).
 
-Classical record-keeping practices influenced how and what was archived from the Middle Ages to the Industrial Era in Western Europe.  According to Paul DeSalle, the centuries between the end of antiquity (fifth century coinciding with the fall of Rome) and 1100 lacked in systematic record-keeping, or it simply did not exist (Desalle, 65).  Beginning in the twelfth century, churches and cathedrals became repositories for records dealing in law codes and private transactions, particularly those related to church property and bookkeeping records.  Eventually, chanceries (offices where notaries drew up various documents) would become the repositories of most non-religious documents, especially those related to royal decrees and legislation.  The Englishman, Walter Stapledon (who was Treasurer of England and Bishop of Exeter in the early 1320s) was tasked with reorganizing all of the records of the English royal archives held in the Tower of London.  Because of the records confusing lack of organization, he introduced finding aids to index and reference particular documents for easy access.
+Classical record-keeping practices influenced how and what was archived from the Middle Ages to the Industrial Era in Western Europe.  According to Paul Delsalle, the centuries between the end of antiquity (fifth century coinciding with the fall of Rome) and 1100 lacked in systematic record-keeping, or it simply did not exist (Desalle, 65).  Beginning in the twelfth century, churches and cathedrals became repositories for records dealing in law codes and private transactions, particularly those related to church property and bookkeeping records.  Eventually, chanceries (offices where notaries drew up various documents) would become the repositories of most non-religious documents, especially those related to royal decrees and legislation.  The Englishman, Walter Stapledon (who was Treasurer of England and Bishop of Exeter in the early 1320s) was tasked with reorganizing all of the records of the English royal archives held in the Tower of London.  Because of the records confusing lack of organization, he introduced finding aids to index and reference particular documents for easy access.
 
 
-Due to various social and political developments, European archival management became local and centralized between the sixteenth and eighteenth centuries.  The movement to create a central repository of state and private records first appeared in Florence, Italy, under the rule of the Medici family and their establishment of the legal and administrative offices of the Uffizi.  The most extensive national collection began with the Spanish colonial archives housed in the *Archivo General de Indias* in Seville.  The *Archivo* became the repository of the massive amounts of information kept on the colonies of the Spanish Habsburg empire and its extensive business and administrative matters.  Central national collections were also created for the Dutch colonial archives, which reflected the Netherlands' business and accounting records from the country’s widespread trade and colonial enterprises (Desalle, 113-114).
+Due to various social and political developments, European archival management became local and centralized between the sixteenth and eighteenth centuries.  The movement to create a central repository of state and private records first appeared in Florence, Italy, under the rule of the Medici family and their establishment of the legal and administrative offices of the Uffizi.  The most extensive national collection began with the Spanish colonial archives housed in the *Archivo General de Indias* in Seville.  The *Archivo* became the repository of the massive amounts of information kept on the colonies of the Spanish Habsburg empire and its extensive business and administrative matters.  Central national collections were also created for the Dutch colonial archives, which reflected the Netherlands' business and accounting records from the country’s widespread trade and colonial enterprises (Delsalle, 113-114).
 
 ## The Establishment of Archival Theories
 Once archives and the records they housed were centrally located and run by state bureaucracies, the need for dedicated archivists emerged.  Along with the rise of the archival profession came the necessity of deciding on what formal organizational rules needed to be established and what records were worth preserving.  Archivists began using more scientific methods to address the organization and sorting of records that arose during the 19th and early 20th centuries.  In order to understand how these theoretical methods developed, it is essential to identify the central theoretical ideas behind them and to appreciate the contexts in which they were formed.
@@ -54,8 +54,8 @@ The *Manual’s* primary theoretical practices establish three main archival rul
 
 {% include figure.html
   class="left"
-  width="33%"
-  caption="Sir Hilary Jenkinson (1882-1961)"
+  width="40%"
+  caption="Sir Hilary Jenkinson (1882-1961), noted British archivist and paleographer, proposed that archivists should act a custodians for the records and documents they care for, and warned against the uses of archival appraisal to destory otherwise important materials in an archive."
   image-url="snyder-jenkinson.jpg"
   source-url="http://www.npg.org.uk/collections/search/portrait/mw246942/Sir-Charles-Hilary-Jenkinson"
 %}
@@ -72,8 +72,8 @@ Jenkinson also believed that archives were the accumulations of records to be ke
 
 {% include figure.html
   class="right"
-  width="40%"
-  caption="T.R. Schellenberg (1903-1970)"
+  width="45%"
+  caption="T.R. Schellenberg (1903-1970), American archivist, grappled with the inundation of records created in the post World War II years in America.  The need to address issues surrounding storage and space drove Schellenberg to rally for the implementation of archival appraisal in the modern profession."
   image-url="snyder-schellenberg.jpg"
   source-url="https://www.kshs.org/research/graphics/theodore_roosevelt_schellenberg.jpg"
 %}
@@ -91,8 +91,8 @@ The rise of the professionalization of archivists has been linked to the role of
 
 {% include figure.html
   class="left"
-  width="45%"
-  caption="Louisiana archivist librarian, 1936"
+  width="50%"
+  caption="Louisiana archivist librarian, 1936.  The role of women in the fields of archival and library sciences was established in the late 19th century, establishing a trend that is still relevant today."
   image-url="snyder-librarian.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Librarian_working_at_the_Pointe_Coupee_Parish_Parish_library_in_New_Roads_Louisiana_in_1936.jpg"
 %}
@@ -107,7 +107,7 @@ Modern archives and the professional archivists involved in their care face chal
 {% include figure.html
   class="right"
   width="50%"
-  caption="Internal computer CPU"
+  caption="Future challenges of archives include the use of new and evolving technologies.  The rise in personal computers and the internet created the need for modern archivists to question who accesses information, for what reasons, and how archival records will be made available for everyone."
   image-url="snyder-inside-computer.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Computer_inside_(1).jpg"
 %}
@@ -135,3 +135,4 @@ The archives and the theoretical methods used to create, categorize and use them
 - Ridener, John. *From Polders to Postmodernism: A Concise History of Archival Theory.* Litwin Books, 2009.
 - Schellenberg, T.R. (Theodore R.). *Modern Archives: Principles and Techniques.* University of Chicago Press, 1956.
 - Sternfeld, Joshua. “Archival Theory and Digital Historiography: Selection, Search, and Metadata as Archival Processes for Assessing Historical Contextualization.” *The American Archivist* 74, no. 2 (2011): 544–75.
+
