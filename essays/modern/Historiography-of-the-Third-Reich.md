@@ -119,7 +119,7 @@ And so, as the new regime began the ['*Gleichschaltung*'](https://en.wikipedia.o
 
 {% include figure.html
   class="right"
-  width="55%"
+  width="50%"
   caption="The Nazis' foreign policy garnered the most widespread approval of German historians. Once Poland was conquered, historians were quick to imagine a 'better Europe' under a 'new order' centered on [*Mitteleuropa*](https://en.wikipedia.org/wiki/Mitteleuropa). (Schönwälder, 137-138)"
   image-url="mmendoza-mitteleuropa.jpg"
   source-url="https://www.flickr.com/photos/35468140263@N01/9028101"
@@ -131,7 +131,7 @@ In the Nazi '*Weltanschauung*' (worldview), history was conceived of as a Manich
 
 ### “Obliterate the Traces”
 
-Historians who wholeheartedly embraced Nazism simply discarded the past. Nations had no real progression in history, as “they are already there, prefigured” and could only degenerate (Ayçoberry, 6). Thus, Charlemagne was considered unequivocally German, having “created the Empire” a thousand years before the unification (Evans, “In Power" 312). The [Germanic migrations](https://en.wikipedia.org/wiki/Migration_Period) were supposedly proof of German racial superiority (Ayçoberry, 7). According to Moritz Edelmann in 1937, editor of a historical journal, historical investigation should “liberate itself from the dependence on the written source” (Schulze, 26). As Carl Schmitt (c. 1888-1985, jurist, political theorist and enthusiastic Nazi) put it on the day Hitler was sworn in as Chancellor (January 30, 1933), "Once can say that on this day, 'Hegel died' " (Ayçoberry, 13).
+Historians who wholeheartedly embraced Nazism simply discarded the past. Nations had no real progression in history, as “they are already there, prefigured” and could only degenerate (Ayçoberry, 6). Thus, Charlemagne was considered unequivocally German, having “created the Empire” a thousand years before the unification (Evans, “In Power" 312). The [Germanic migrations](https://en.wikipedia.org/wiki/Migration_Period) were supposedly proof of German racial superiority (Ayçoberry, 7). According to Moritz Edelmann in 1937, editor of a historical journal, historical investigation should “liberate itself from the dependence on the written source” (Schulze, 26). As Carl Schmitt (c. 1888-1985, jurist, political theorist, and enthusiastic Nazi) put it on the day Hitler was sworn in as Chancellor (January 30, 1933), "Once can say that on this day, 'Hegel died' " (Ayçoberry, 13).
 
 {% include figure.html
   class="left"
