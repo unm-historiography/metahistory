@@ -4,9 +4,11 @@ title: Bede
 subtitle: A Case Study in Medieval Historiography
 author: Eamon Bisbee
 date: 2019-11-25
-toc-blurb: Were the so-called "Dark Ages" really all that dark? Despite what many scholars would have you think, there were histriographic advancements taking place before the Rennaisance in Medieval Europe.
+toc-blurb: Were the so-called "Dark Ages" really all that dark? Despite popular conceptions, there were significant histriographic advancements taking place before the Rennaisance in Medieval Europe.
 toc-image: The_Venerable_Bede_translates_John_1902.jpg
 toc-section: medieval
+---
+
 
 ## Introduction and historical context
 
