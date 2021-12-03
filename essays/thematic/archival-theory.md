@@ -92,7 +92,7 @@ The rise of the professionalization of archivists has been linked to the role of
 {% include figure.html
   class="left"
   width="50%"
-  caption="Louisiana archivist librarian, 1936.  The role of women in the fields of archival and library sciences was established in the late 19th century, establishing a trend that is still relevant today."
+  caption="Louisiana archivist librarian, 1936.  The role of women in the fields of archival and library sciences was established in the late 19th century, continuing a trend that is still relevant today."
   image-url="snyder-librarian.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Librarian_working_at_the_Pointe_Coupee_Parish_Parish_library_in_New_Roads_Louisiana_in_1936.jpg"
 %}
