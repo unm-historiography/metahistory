@@ -40,15 +40,15 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
 
  After the Procopian period, and between the next period to discuss, there is less historiographical content to be discussed. However, despite the sparseness, generally, of historical writing at this time, there is one figure whom is to be discussed is the Emperor Constantine VII Porphyrogenitus (Κωνσταντῖνος Πορφυρογέννητος). 
  
- Constantine VII is significant in that as historical writing in Byzantium had waned, he had commissioned the assembly of a fifty-three subject collection of the works of Greek authors spanning back to the ancient period. According to G. L. Huxley, "The scholarship of Constantine and of those who worked at his direction was... encyclopaedic: their main purpose was to preserve the learning of the past by making it more accessible." Furthermore, Huxley credits Constantine VII with preserving "numerous fragments of a universal history by Nikolaos of Damascus, the court historian of Herod the Great", as well as the work of otherwise lost or unknown historians such as Menander Protector. The preservation of the latter work, called *Excerpta de legationibus* or the "Excerpts on Embassies", are according once again to Huxley, "sources of worth for the diplomatic history of sixth-century Byzantium."
- 
-  {% include figure.html
+   {% include figure.html
   class="right"
-  width="100%"
+  width="50%"
   caption="Constantine VII is called Porphyrogenitus, denoting that he was born while his parents reigned."
   image-url="Constantine_VII_Porphyrogenitus.jpg"
   source-url="https://en.wikipedia.org/wiki/Constantine_VII#/media/File:Constantine_VII_Porphyrogenitus.jpg"
 %}
+
+ Constantine VII is significant in that as historical writing in Byzantium had waned, he had commissioned the assembly of a fifty-three subject collection of the works of Greek authors spanning back to the ancient period. According to G. L. Huxley, "The scholarship of Constantine and of those who worked at his direction was... encyclopaedic: their main purpose was to preserve the learning of the past by making it more accessible." Furthermore, Huxley credits Constantine VII with preserving "numerous fragments of a universal history by Nikolaos of Damascus, the court historian of Herod the Great", as well as the work of otherwise lost or unknown historians such as Menander Protector. The preservation of the latter work, called *Excerpta de legationibus* or the "Excerpts on Embassies", are according once again to Huxley, "sources of worth for the diplomatic history of sixth-century Byzantium."
  
  ## The Comnenian/Polaiologan Era
  
@@ -62,9 +62,9 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
  A contemporary of Cinnamus is one Niketas Choniates (Νικήτας Χωνιάτης). The most significant work of Choniates is probably his *Historia*. According to Alicia J. Simpson, it "is the single most important source for the crucial era in Byzantine history that begins with the death of Alexios I Komnenos in 1118 and culminates with the capture of Constantinople by the armies of the Fourth Crusade in 1204," being the only narrative of the time covering the end of the 12th century, and the only first hand account of what had come next. Furthermore, "the significance of the work as a historical source is equally matched by the insightfulness, sophistication, and stylistic brilliance of its author." As is evident by the words of Simpson, Choniates is an important contributer to Byzantine historical writing. Also being a contemporary of Cinnamus, Choniates fits squarely in the Comnenian camp of historians.
  
-   {% include figure.html
+    {% include figure.html
   class="right"
-  width="100%"
+  width="50%"
   caption="The Comnenian dynasty is one which was the subject of many contemporary Byzantine histories"
   image-url="Alexius_I.jpg"
   source-url="https://en.wikipedia.org/wiki/Komnenos#/media/File:Alexius_I.jpg"
@@ -80,7 +80,7 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
     {% include figure.html
   class="right"
-  width="100%"
+  width="50%"
   caption="John VI Kantakouzenos is an example of an emperor who was at the same time a historian."
   image-url="John_VI_Kantakouzenos.jpg"
   source-url="https://en.wikipedia.org/wiki/Palaiologos#/media/File:John_VI_Kantakouzenos.jpg"
