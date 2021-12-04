@@ -22,22 +22,21 @@ This significance comes in large part from the mysterious nature of his characte
 Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθίας σχολαστικός), who had also been a poet. Agathias fits firmly into the Procopian period, as according once again to Averil Cameron, this time alongside one Alan Cameron, in his work, Agathias had "only included the work of contemporaries." This inclusion of Agathias into the Procopian period, however, does not mean that Procopius and Agathias necessarily agreed on the character of Justinian's reign. As Charles Pazdernik states "members of this group will speak approvingly (or not) of other
  members, even if they are not personally acquainted with them, in terms of the extent of an erudition which has little or nothing to do with the technical aspects of their official positions; see, for example, the remarks of... Agathias on Procopius". Just as today there is much scholarly disagreement on the characters of public figures, so too in sixth century Byzantium was there also this disagreement.
  
+  {% include figure.html
+  class="right"
+  width="50%"
+  caption="The Emperor Justinian was one of Procopius's favorite topics in his writing."
+  image-url="Justinian.jpg"
+  source-url="https://en.wikipedia.org/wiki/Procopius#/media/File:Meister_von_San_Vitale_in_Ravenna.jpg"
+%}
+ 
  The next, extremely important historian of this period is one Theophylact Simocatta (Θεοφύλακτος Σιμοκάττης). In a review for Theophylact's work, the *History*, Michael and Mary Whitby state that the work is "the most important single source for the last two decades of sixth-century
  Byzantine and Balkan history and is also indispensable for those years of Sassanian
  Persian history, namely, the reign of Emperor Mauricius (582-602)." Being that the *History* of Theophylact is so encompassing, giving insight into the happenings of three different regions of the world for twenty years, it reaches a contemporary audience with critical acclaim, being regarded as one of the most important primary sources of the late sixth century.
  
  Other historians at this time wrote not necessarily about secular matters such as the Byzantine state and its administration, but about religious matters, such as the history of the church. One such historian, and the last one of the Procopian period to be discussed, was one Evagrius Scholasticus (Εὐάγριος Σχολαστικός), who had written the *Ecclesiastical History* or *Historia Ecclesiastica*. This work documents the history of the Christian Church from the year 431 (marked by the occurence of the Council of Ephesus), to the year 594, the year which saw Evagrius's death. Being that apart from political affairs, religion was also a very important aspect of Eastern Roman public life, for the most part, it is also fitting that histories written at the time also be religious histories.
  
- {% include figure.html
-  class="right"
-  width="100%"
-  caption="The Emperor Justinian was one of Procopius's favorite topics in his writing."
-  image-url="Justinian.jpg"
-  source-url="https://en.wikipedia.org/wiki/Procopius#/media/File:Meister_von_San_Vitale_in_Ravenna.jpg"
-%}
- 
  ## 10th Century Constantinian Historiography
- 
  After the Procopian period, and between the next period to discuss, there is less historiographical content to be discussed. However, despite the sparseness, generally, of historical writing at this time, there is one figure whom is to be discussed is the Emperor Constantine VII Porphyrogenitus (Κωνσταντῖνος Πορφυρογέννητος). 
  
  Constantine VII is significant in that as historical writing in Byzantium had waned, he had commissioned the assembly of a fifty-three subject collection of the works of Greek authors spanning back to the ancient period. According to G. L. Huxley, "The scholarship of Constantine and of those who worked at his direction was... encyclopaedic: their main purpose was to preserve the learning of the past by making it more accessible." Furthermore, Huxley credits Constantine VII with preserving "numerous fragments of a universal history by Nikolaos of Damascus, the court historian of Herod the Great", as well as the work of otherwise lost or unknown historians such as Menander Protector. The preservation of the latter work, called *Excerpta de legationibus* or the "Excerpts on Embassies", are according once again to Huxley, "sources of worth for the diplomatic history of sixth-century Byzantium."
