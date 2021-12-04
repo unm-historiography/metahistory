@@ -30,7 +30,7 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
  {% include figure.html
   class="right"
-  width="50%"
+  width="100%"
   caption="The Emperor Justinian was one of Procopius's favorite topics in his writing."
   image-url="Justinian.jpg"
   source-url="https://en.wikipedia.org/wiki/Procopius#/media/File:Meister_von_San_Vitale_in_Ravenna.jpg"
@@ -44,7 +44,7 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
   {% include figure.html
   class="right"
-  width="50%"
+  width="100%"
   caption="Constantine VII is called Porphyrogenitus, denoting that he was born while his parents reigned."
   image-url="Constantine_VII_Porphyrogenitus.jpg"
   source-url="https://en.wikipedia.org/wiki/Constantine_VII#/media/File:Constantine_VII_Porphyrogenitus.jpg"
@@ -64,7 +64,7 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
    {% include figure.html
   class="right"
-  width="50%"
+  width="100%"
   caption="The Comnenian dynasty is one which was the subject of many contemporary Byzantine histories"
   image-url="Alexius_I.jpg"
   source-url="https://en.wikipedia.org/wiki/Komnenos#/media/File:Alexius_I.jpg"
@@ -80,7 +80,7 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
     {% include figure.html
   class="right"
-  width="50%"
+  width="100%"
   caption="John VI Kantakouzenos is an example of an emperor who was at the same time a historian."
   image-url="John_VI_Kantakouzenos.jpg"
   source-url="https://en.wikipedia.org/wiki/Palaiologos#/media/File:John_VI_Kantakouzenos.jpg"
