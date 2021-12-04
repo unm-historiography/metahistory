@@ -56,6 +56,11 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  
  The next Comnenian historian is none other than the husband of Anna Comnena herself, one Nicephorus Bryennius (Νικηφόρος Βρυέννιος). In fact, besides Anna herself, Bryennius is next the next closest "Comnenian" historian, as the two worked in communion with one another. In describing Anna's Alexiad, T.C. Lounghis states the following, "The aim of the work is to record the deeds of her father, completing a history commissioned by Anna’s mother and begun by Bryennius." This does not mean, however, that Bryennius's intellectual capabilities were somehow dependent on or "piggybacking" off of those of his wife. According once again to Lounghis, John (Anna's brother and Byzantine emperor) felt threatened by Bryennius as he had viewed "Anna and her husband as a learned and formidable couple, and Bryennius in particular as so powerful" to the point of being particularly formidable in the eyes of John.
  
+ 
+ 
+ 
+ 
+ 
      {% include figure.html
   class="right"
   width="50%"
@@ -74,15 +79,15 @@ Another historian from this Procopian period is Agathias Scholasticus (Ἀγαθ
  ## The Palailogan Era
  The first truly Palailogan historian is one George Pachymeres (Γεώργιος Παχυμέρης). Though he is largely contemporary to George Akropolites, he is labelled here as as "truly Palailogan" because his works deal largely with the Palaiologan emperors, for example, his work *De Andronico Palaeologo* dealing with Andronicus II Palaeologus. Pachymeres is notable for his impartiality, as it was largely a rarity as far as Byzantine historography goes, being that most of the works described herein are very much biased, either in favor or against, the various figures they discuss. To this end, V. Laurent (having been translated from French), states the following, "George Pachymeres, impartial as much as a Byzantine could was to be, whose honest face is almost an exception in the gallery of historians of Constantinople, has more than any of his followers suffered from the oblivion and indifference of his compatriots." By stating this, Laurent is claiming that those who followed in the impartial style of Pachymeres had faced a degree of scorn from their contemporaries. This claim is evident by the discussion of the Byzantine historians featured herein. 
  
-     {% include figure.html
+ The next Paloiologan historian is the emperor John VI Kantakouzenos (Ἰωάννης Ἄγγελος Παλαιολόγος), who, according to Shaun Tougher, wrote his *History* as an apologetic work, defending his own actions as the Eastern Roman emperor. This is because "Cantacuzene... can be seen as contributing to the deterioration of the condition of the empire, particularly with regard to his part in two civil wars and his Ottoman policy." As such, it is obvious that in this writing, some details may have been spared, faults been downplayed, and achievements exaggerated so as to bolster his own reputation with the Eastern Roman public, and for his own personal legacy as a figure subject to the trials of time and history.
+ 
+      {% include figure.html
   class="right"
   width="50%"
   caption="John VI Kantakouzenos is an example of an emperor who was at the same time a historian."
   image-url="John_VI_Kantakouzenos.jpg"
   source-url="https://en.wikipedia.org/wiki/Palaiologos#/media/File:John_VI_Kantakouzenos.jpg"
 %}
- 
- The next Paloiologan historian is the emperor John VI Kantakouzenos (Ἰωάννης Ἄγγελος Παλαιολόγος), who, according to Shaun Tougher, wrote his *History* as an apologetic work, defending his own actions as the Eastern Roman emperor. This is because "Cantacuzene... can be seen as contributing to the deterioration of the condition of the empire, particularly with regard to his part in two civil wars and his Ottoman policy." As such, it is obvious that in this writing, some details may have been spared, faults been downplayed, and achievements exaggerated so as to bolster his own reputation with the Eastern Roman public, and for his own personal legacy as a figure subject to the trials of time and history.
  
  The final historian to be discussed herein is one Nicephorus Gregoras (Νικηφόρος Γρηγορᾶς). Gregoras is a contemporary of Cantacuzene, and as such fits firmly into the "Palailogan" camp. As a historian Gregoras is one which represents, at the same time, traditional and non-traditional approaches to Byzantine historiography. As Teresa Hart describes his work on the Hesychast Controversy, "This work is an example of the traditional school of Byzantine historial writing in that it consists of an introductory summary of earlier history and a much fuller account of events contemporary with the author. But it departs from tradition in that it deals as much, or more, with ecclesiastical as with civil affairs." In saying this,Hart characterizes traditional Byzantine historiography as having been of practical matters relating to the state, essentially as current events being contextualized by a narrative of the past. This is in contrast with less practical, more theoretical, more philosophical, and obviously more theological, ecclesiastical history.
  
