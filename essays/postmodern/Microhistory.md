@@ -62,7 +62,7 @@ As The Cheese and the Worm is one of the founding books of microhistory and to g
 {% include figure.html
   class="right"
   width="40%"
-  caption="He (1939-) is the author of _The Cheese and the Worms_ which has be called one of the founding books of microhistory."
+  caption="Carlo Ginzburg (1939-) is the author of _The Cheese and the Worms_ which has be called one of the founding books of microhistory."
   image-url="microhistory_carlo_ginzburg.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Carlo_Ginzburg_par_Claude_Truong-Ngoc_mars_2013.jpg"
 %}
