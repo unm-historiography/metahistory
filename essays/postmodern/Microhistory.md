@@ -33,7 +33,7 @@ The Italian thought of microhistory or microstoria is that it is a tool to disca
 {% include figure.html
   class="right"
   width="50%"
-  caption="Giocanni Levi is one of the founding thinkers of microstoria which has normally been at odds with Ginzburg on how to approach microhistory"
+  caption="Giocanni Levi (1939-) is one of the founding thinkers of microstoria which has normally been at odds with Ginzburg on how to approach microhistory"
   image-url="giovanni_levi_microhistoria.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:(Giovanni_Levi)_Casa_de_Vel%C3%A1zquez._El_pasado_y_el_futuro_de_la_microhistoria.jpg"
 %}
@@ -61,8 +61,8 @@ As The Cheese and the Worm is one of the founding books of microhistory and to g
 
 {% include figure.html
   class="right"
-  width="50%"
-  caption="He is the author of _The Worm and the Cheeze_ which has be called one of the founding books of microhistory."
+  width="40%"
+  caption="He (1939-) is the author of _The Cheese and the Worms_ which has be called one of the founding books of microhistory."
   image-url="microhistory_carlo_ginzburg.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Carlo_Ginzburg_par_Claude_Truong-Ngoc_mars_2013.jpg"
 %}
