@@ -9,7 +9,7 @@ order: 10
 date: 2019-12-11
 ---
 
-_"The motivation of the victors masks the voices of the imprisoned."_ These words ring true for one Greek historian named Polybius. He was one of the last, few members of a political group within Greece attempting to push back against the power of the Roman Republic. Though taken prisoner, he was allowed to travel with generals and attend political meetings. With this freedom, he witnessed historical events first-hand. He was granted considerably less literary freedom, though: his most famous written work, _Histories_, would be published under watchful Roman eyes. Polybius’s circumstances as a captive forced him to write favorably about Rome while he developed theories to explain their dominance of the Mediterranean (Eckstein, 10).
+_"The motivation of the victors masks the voices of the imprisoned."_ These words ring true for one Greek historian named Polybius. He was one of the last members of a political group within Greece attempting to push back against the power of the Roman Republic. Though taken prisoner, he was allowed to travel with generals and attend political meetings. With this freedom, he witnessed historical events first-hand. He was granted considerably less literary freedom, though: his most famous written work, _Histories_, would be published under watchful Roman eyes. Polybius’s circumstances as a captive forced him to write favorably about Rome while he developed theories to explain their dominance of the Mediterranean (Eckstein, 10).
 
 
 {% include figure.html
@@ -21,12 +21,12 @@ source-url="https://en.wikipedia.org/wiki/Polybius#/media/File:Stele_des_Polybio
 %}
 
 ## The Rise of a Historian
-**Polybius** (c. 208-125 BC) was a Greco-Roman philosopher born in Megalopolis, a city-state in the _Achaean League_, a federation of city-states within the remaining autonomous Greek land which was allied with Rome until their forced dissolution in 146 BC. At the time, the League was in a war with Antigonid Macedon, ruled by a tyrannical king. Polybius’s father, Lycortas, had attracted the attention of the Romans when he began expressing anti-Roman beliefs. Lycortas believed that the Achaean League was the last Greek power that could stop the expansion of Rome.
+[Polybius](https://en.wikipedia.org/wiki/Polybius) (c. 208-125 BCE) was a Greco-Roman philosopher born in Megalopolis, a city-state in the _Achaean League_, a federation of city-states within the remaining autonomous Greek land which was allied with Rome until their forced dissolution in 146 BC. At the time, the League was in a war with Antigonid Macedon, ruled by a tyrannical king. Polybius’s father, Lycortas, had attracted the attention of the Romans when he began expressing anti-Roman beliefs. Lycortas believed that the Achaean League was the last Greek power that could stop the expansion of Rome.
 
 In 146 BC, a thousand citizens of the League, including Polybius, were taken as hostages. He was taken in by Publius Cornelius Scipio, a Roman Consul. Polybius was allowed to move around relatively freely in his captive state, leading him to learn about Roman history and travel with Scipio during the Punic Wars, which he recorded in his _Histories_. Though Polybius was not able to express negative views on Rome, his book was used to explain the expansion of Roman control over the Mediterranean as the Republic gained control of vast amounts of land following the conclusion of the Punic Wars.
 
 ## From Greece to Rome
-The **Hellenistic period** is often characterized as the time between Alexander the Great and the conquering of the Greek city-states by Rome. It was during this time between 220 BC and 167 BC that Rome emerged as the preeminent power in the Mediterranean. This was in stark contrast to Greece's main rivals the Persians and the Spartans, who had tried for centuries to conquer the known world without luck. It was this power that lead Polybius to develop an explanation for Rome's power and the reason behind their success when all others failed.
+The Hellenistic period is often characterized as the time between Alexander the Great and the conquering of the Greek city-states by Rome. It was during this time between 220 BC and 167 BC that Rome emerged as the preeminent power in the Mediterranean. This was in stark contrast to Greece's main rivals the Persians and the Spartans, who had tried for centuries to conquer the known world without luck. It was this power that lead Polybius to develop an explanation for Rome's power and the reason behind their success when all others failed.
   {% include figure.html
 class="left"
 width="50%"
@@ -36,7 +36,7 @@ source-url="https://en.wikipedia.org/wiki/The_Histories_(Polybius)#/media/File:P
 %}
 
 ## The _Histories_
-While Polybius was a captive in Rome, he wrote his _Histories_ which encompassed the history of Rome from 264 to 146 BC with a primary focus on the [Punic Wars](https://en.wikipedia.org/wiki/Punic_Wars) along with commentary on the historical profession and methodology. He was allowed to travel with Scipio and gained first-hand experience as an eyewitness to the sacking of Carthage and numerous other battles.
+While Polybius was a captive in Rome, he wrote his _Histories_, which encompassed the history of Rome from 264 to 146 BC with a primary focus on the [Punic Wars](https://en.wikipedia.org/wiki/Punic_Wars) along with commentary on the historical profession and methodology. He was allowed to travel with Scipio and gained first-hand experience as an eyewitness to the sacking of Carthage and numerous other battles.
 
 The seventh book of _Histories_ is the most historiographically important of the entire collection as it is this book that outlines Polybius's historical methodology. His main ideas concern source analysis, universal history, cyclical theories, and factual integrity of historical writing. At the time of writing, Polybius was still a captive of Rome and some of his writings are heavily favorable towards the Romans. He utilized his experience of Roman power to justify his advocation of universal history. This type of historiographical work would not have been possible if the known world had not been unified under Roman authority.
 
@@ -61,7 +61,7 @@ In the _Histories_, Polybius voiced his opinion of _who_ he believed should be w
 > how to bear the vicissitudes of fortune bravely is the recollection of
 > other people’s calamities.” (McGing, 209)
 
- The opinion expressed above corresponds to a rising belief at the time in the benefits of pragmatic history. A historical tale would be expressed through political and military events represented as individual deeds. This mode of writing would make sense to an audience of privileged and powerful citizens who would often end up in political office or military command.
+The opinion expressed above corresponds to a rising belief at the time in the benefits of pragmatic history. A historical tale would be expressed through political and military events represented as individual deeds. This mode of writing would make sense to an audience of privileged and powerful citizens who would often end up in political office or military command.
 
 ## Universal History
 With Rome the master of the known world, it appeared to Polybius that it was possible to write a universal history. He wrote that _"anyone who thinks that they can understand the whole of history by reading monographs on individual subjects is like the person who thinks he can appreciate the beauty and grace of a live animal from looking at the different parts of its dissected corpse”_ (McGing, 155). He believed that microhistories or case studies did not contribute at all to the learning of history as these did not help to explain the whole.
@@ -82,6 +82,7 @@ Throughout his _Histories_, Polybius expressed his dislike of monographs, or the
 > to a single end.” (Eckstein, 330)
 
 
+
 ## Bibliography
 Eckstein, Arthur M. “Polybius, Phylarchus, and Historiographical Criticism.” Classical Philology 108, no. 4 (October 1, 2013): 314–38.
 
@@ -89,6 +90,7 @@ Inglis, David, and Robertson, Roland. “From Republican Virtue to Global Imagin
 
 Lemon, Michael C. _Philosophy of History: A Guide for Students_. Routledge, 2008.
 
-McGing, B. C. _Polybius’ Histories (Oxford Approaches to Classical Literature)_. Oxford University Press, 2010.
+McGing, B. C. _Polybius’ Histories_ (Oxford Approaches to Classical Literature). Oxford University Press, 2010. 
 
 Popkin, Jeremy D. _From Herodotus to H-Net : The Story of Historiography_. Oxford University Press, 2015.
+
