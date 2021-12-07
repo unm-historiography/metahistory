@@ -4,8 +4,8 @@ title: History Under the Third Reich
 subtitle: 
 author: MICHAEL MENDOZA
 date: 2021-11-29
-toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
-toc-image: The_Venerable_Bede_translates_John_1902.jpg
+toc-blurb: For scholars and students of the history of the Third Reich, a striking aspect of the period remains the degree of compliance and even complicity exhibited by the German people as a whole. Intellectuals were not exempt in this regard. Far from simply being swept-away by events beyond their control, they and historians in particular held great power in shaping the cultural milieu of the Weimar era (c. 1918-1933). The conservative, anti-republican atmosphere they helped foster ultimately proved to be amenable to takeover by far-right authoritarianism.
+toc-image: mmendoza-book-burning.png
 toc-section: modern 
 ---
 
