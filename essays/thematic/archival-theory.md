@@ -4,7 +4,7 @@ title: History of Archival Theory
 subtitle: A Brief History of Archives and Archival Practices
 author: Karli Snyder
 date: 2021-12-13
-toc-blurb: Archival sciences emerged in the 1890s which professionalized the practice. But how did we get “from then to now” with the practice of archival record-keeping, and who were the key figures responsible for establishing the modern methods of archival theory?  As an important component of historiography, understanding the development of archival theories and how they impact modern historical research is key to historical writing and research today.
+toc-blurb: Archival sciences emerged in the 1890s which professionalized the practice. But how did we get “from then to now” with the practice of archival record-keeping, and who were the key figures responsible for establishing the modern methods of archival theory?  As an important component of historiography, understanding the development of archival theories and how they impact modern historical research is key to historical writing today.
 toc-image: snyder-aldaia-archives.jpg
 toc-section: thematic
 ---
