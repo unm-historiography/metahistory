@@ -42,7 +42,7 @@ As interesting as it can be to look and study the influence of empire through th
 In the end, who could deny that Great Britain throughout its run from small to industrial superpower influenced many of the future governmental and economic developments throughout the world into the modern age of technological imperial power. The history of Great Britain became the focal point of how to study history through the lenses of one of the greatest economical and industrial dominions of the world. The advances of the empire locked in the idea of the influence from other outside empires became the influencer in modern times. There's no debate that while this empire had many revolutionary advances, they, like many others, had flaws that ultimately led to their decline in power, but nevertheless became the blueprint for historians to view empires in a new and modern way. Great Britain earned its name and is today still a major influence and will always be a superpower in the world even through smaller and shadowed ways, such as through music, medicine, and military forces
 
 {% include figure.html
-class="left"
+class="right"
 width="50%"
 caption="Women working in amunition factories during the First World War."
 image-url="industrial-britian.jpg.jpg"
