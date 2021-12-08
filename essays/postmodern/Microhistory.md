@@ -4,7 +4,7 @@ title: Microhistory
 subtitle: Looking at History under a microscope
 author: Alexander Brissette
 date: 2021-12-13
-toc-blurb: Microhistory is the style of looking at the past by looking at a smaller scale than standard history writing
+toc-blurb: Microhistory is the style of looking at the past by looking at a smaller scale than standard history writing.
 toc-image: microhistory_carlo_ginzburg.jpg
 toc-section: postmodern
 ---
