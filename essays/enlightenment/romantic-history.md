@@ -14,7 +14,7 @@ toc-section: enlightenment
 {% include figure.html
   class="right"
   width="50%"
-  caption="An example of nationalistic romanticism in art. *Liberty Leading the People* by Eugène Delacroix, 1830"
+  caption="*Liberty Leading the People* by Eugène Delacroix, 1830. An example of nationalistic romanticism in art."
   image-url="truitt-delacroix-liberty-leading-the-people-1830.jpg"
   source-url="https://en.wikipedia.org/wiki/Romanticism#/media/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg"
 %}
@@ -39,7 +39,7 @@ The shift from Enlightenment ideals to Romantic ideals was not coincidental. Thr
 In “What is Romanticism and Where Did it Come From?” author and professor Azade Seyhan argues that romantic nationalism is a direct response to the chaos and change of the time period (Seyhan, 5). Following the rationality and order so prevalent in the Enlightenment period, and the political and social turbulence that surrounded the revolutions, romanticism was viewed as having erupted from the peoples merged anxieties regarding the crises (Seyhan, 6). With a more concrete sense of political and social unity in place in terms of both physical and loyalist boundaries, nationalistic histories could now be written from the romantic perspective, incorporating these new representative ideals. 
 
 ## Historians of the Romantic Age
-Historians living during the Romantic Age (1770-1850) showcased varying degrees of the typical romantic beliefs, outlined above, and utilized those ideals in their written works. Romanticism is said to have its philosophical beginnings in Germany, but quickly spread trhoughout Europe and even across the Atlantic to the United States. This section highlights three European romantics, German Johann Gottfried von Herder, British Thomas Babington Macaulay, and French Jules Michelet. 
+Historians living during the Romantic Age (1770-1850) showcased varying degrees of romantic beliefs and utilized those ideals in their written works. Romanticism is said to have its philosophical beginnings in Germany, but quickly spread trhoughout Europe and even across the Atlantic to the United States. This section highlights three European romantics, German Johann Gottfried von Herder, British Thomas Babington Macaulay, and French Jules Michelet. 
 
 ### Johann Gottfried von Herder
 
