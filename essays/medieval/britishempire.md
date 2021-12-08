@@ -31,8 +31,9 @@ One of the major influences that empires all over the world demonstrated more th
 class="left"
 width="50%"
 caption="British coins used as currency for trade."
-image-url="british-trade.jpg"
-source-url="https://commons.wikimedia.org/wiki/File:1_trade_dollar_British_-_1899.png"
+image-url="britiah-trade.jpg.png"
+source-url="https://user-images.githubusercontent.com/89545594/145287592-c44ede8e-71c0-4140-b138-20d3f928cba5.png"
+
 %}
 ## Empire to Modern
 As interesting as it can be to look and study the influence of empire through the lenses and chapters of military, industrial, and royal policies, it's even more interesting to look at how the empire expanded its cultural influence and how other empires influenced Great Britain through trade routes and the materials and good that traveled to place to place. From a journal article entitled, The History of Empire by author and scholar J. W. Davidson “The rapid rise of Great Britain to supremacy and industry led her in this period to conserve and not to dissipate the technical skill of her artisans and her producers of food and to look for vaster markets than her own people could ever create by settlement. She planned a great commercial ‘empire’ in the Mississippi basin and another in Spanish America, were British manufacturers could be exchanged for raw materials without incurring the burden and friction of political responsibilities” (Davidson. 72). In a way, the rise of the military and the expansion of industrialization wouldn't have been possible without the outside trade routes and the development of modern cultural influence. Great Britain established that they were a force not to be messed with and that they had staked their claim to power and development even through the advances of technology, music, military strength, and cultural infrastructure. As stated from the beginning, the British empire established that they were the head of imperial power and that they were the influence for other developments in other empires in the growing and changing world. The empire started small and then grew into one of the largest and longest running empires in the world and even though their egos were bigger than its territories, the influence can be felt from anywhere in the world and that still holds true today.
@@ -44,8 +45,8 @@ In the end, who could deny that Great Britain throughout its run from small to i
 class="left"
 width="50%"
 caption="Women working in amunition factories during the First World War."
-image-url="THE_ARMS_PRODUCTION_IN_BRITAIN_IN_THE_FIRST_WORLD_WAR_Q27847"
-source-url="http://media.iwm.org.uk/ciim5/39/341/large_000000.jpg"
+image-url="industrial-britian.jpg.jpg"
+source-url="(https://user-images.githubusercontent.com/89545594/145287405-70809fd9-6977-4c86-82b6-cf8c362051c8.jpg)"
 %} 
 
 ## Bibliography
