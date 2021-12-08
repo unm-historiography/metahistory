@@ -74,7 +74,7 @@ As opposed to the decentralizing narratives of the late Kievan Rus’, the reign
 {% include figure.html
 class="left"
 width="33%"
-caption="Tsar Ivan IV Vasilyevich, the Formidable (Russian: Царь Иван Васильевич, прозванный Гро́зным)"
+caption="Tsar Ivan IV Vasilyevich, the Formidable (Russian: Царь Иван IV Васильевич, прозванный Гро́зным)"
 image-url="beaudet-ivan-iv.jpg"
 source-url=" https://commons.wikimedia.org/wiki/File:Ivan_IV_by_anonim_(18th_c.,_GIM).jpg"
 %}
