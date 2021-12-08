@@ -18,11 +18,11 @@ There's no denying that Great Britain was a national superpower, and during the 
 Growing from this, was the advancement and influence felt all over the world of literary works. This new imperial insight of language being more than words, rocked the empire and increased its influence on the world. As Peter Marshall, an author of the journal article Archives In History explains that this new rise in industrial development was processed and digested as a continuation of British power, “The new imperial history, however, goes far beyond these overt systems of mental domination. An imperial presence is revealed in central works of the English literary canon, such as Mansfield Park or Jane Eyre. Virtually all claims to knowledge about the non-western world and all attempts to ‘represent’ its peoples in descriptive writing or in any form of art are exercises of power and are assumed to be tainted by imperial assumptions. Underlying such arguments is a rejection of claims to knowledge that purport to reveal an objective reality. Such claims constitute no more than the prevailing ‘discourses’ about a subject, which ultimately reflect the dominant power in society. The mapping of colonial territories, the writing of the history of their peoples or the collection of information about them through ethnographical or anthropological researches – all were (and for many critics still are) exercises of power” (Marshall. 2004). For Britain, it wasn't just about military or cultural strength that caused the empire to hit a peak in terms of imperial power, it was the hidden gems of the arts that led to the power reaching superpower status.
 
 {% include figure.html
-class="left"
+class="right"
 width="50%"
 caption="The Shah of Russia another nation imperial superpower sitting with the British royal family."
 image-url="[The-Shah-and-the-British-Royal-Family]"
-source-url="(https://user-images.githubusercontent.com/89545594/145286378-4d9dd81a-7da1-47ab-a501-f902e38d6e42.jpg)"
+source-url="https://user-images.githubusercontent.com/89545594/145286378-4d9dd81a-7da1-47ab-a501-f902e38d6e42.jpg"
 %}
 
 ## Europe Expanding
