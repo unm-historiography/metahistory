@@ -18,11 +18,11 @@ There's no denying that Great Britain was a national superpower, and during the 
 Growing from this, was the advancement and influence felt all over the world of literary works. This new imperial insight of language being more than words, rocked the empire and increased its influence on the world. As Peter Marshall, an author of the journal article Archives In History explains that this new rise in industrial development was processed and digested as a continuation of British power, “The new imperial history, however, goes far beyond these overt systems of mental domination. An imperial presence is revealed in central works of the English literary canon, such as Mansfield Park or Jane Eyre. Virtually all claims to knowledge about the non-western world and all attempts to ‘represent’ its peoples in descriptive writing or in any form of art are exercises of power and are assumed to be tainted by imperial assumptions. Underlying such arguments is a rejection of claims to knowledge that purport to reveal an objective reality. Such claims constitute no more than the prevailing ‘discourses’ about a subject, which ultimately reflect the dominant power in society. The mapping of colonial territories, the writing of the history of their peoples or the collection of information about them through ethnographical or anthropological researches – all were (and for many critics still are) exercises of power” (Marshall. 2004). For Britain, it wasn't just about military or cultural strength that caused the empire to hit a peak in terms of imperial power, it was the hidden gems of the arts that led to the power reaching superpower status.
 
 {% include figure.html
-class="left"
+class="right"
 width="50%"
 caption="The Shah of Russia another nation imperial superpower sitting with the British royal family."
-image-url="The_Shah_and_the_British_Royal_Family.jpg"
-source-url=""
+image-url="The-Shah-and-the-British-Royal-Family.jpg.jpg"
+source-url="https://user-images.githubusercontent.com/89545594/145286378-4d9dd81a-7da1-47ab-a501-f902e38d6e42.jpg"
 %}
 
 ## Europe Expanding
@@ -31,8 +31,9 @@ One of the major influences that empires all over the world demonstrated more th
 class="left"
 width="50%"
 caption="British coins used as currency for trade."
-image-url="british-trade.jpg"
-source-url="https://commons.wikimedia.org/wiki/File:1_trade_dollar_British_-_1899.png"
+image-url="britiah-trade.jpg.png"
+source-url="https://user-images.githubusercontent.com/89545594/145287592-c44ede8e-71c0-4140-b138-20d3f928cba5.png"
+
 %}
 ## Empire to Modern
 As interesting as it can be to look and study the influence of empire through the lenses and chapters of military, industrial, and royal policies, it's even more interesting to look at how the empire expanded its cultural influence and how other empires influenced Great Britain through trade routes and the materials and good that traveled to place to place. From a journal article entitled, The History of Empire by author and scholar J. W. Davidson “The rapid rise of Great Britain to supremacy and industry led her in this period to conserve and not to dissipate the technical skill of her artisans and her producers of food and to look for vaster markets than her own people could ever create by settlement. She planned a great commercial ‘empire’ in the Mississippi basin and another in Spanish America, were British manufacturers could be exchanged for raw materials without incurring the burden and friction of political responsibilities” (Davidson. 72). In a way, the rise of the military and the expansion of industrialization wouldn't have been possible without the outside trade routes and the development of modern cultural influence. Great Britain established that they were a force not to be messed with and that they had staked their claim to power and development even through the advances of technology, music, military strength, and cultural infrastructure. As stated from the beginning, the British empire established that they were the head of imperial power and that they were the influence for other developments in other empires in the growing and changing world. The empire started small and then grew into one of the largest and longest running empires in the world and even though their egos were bigger than its territories, the influence can be felt from anywhere in the world and that still holds true today.
@@ -41,11 +42,11 @@ As interesting as it can be to look and study the influence of empire through th
 In the end, who could deny that Great Britain throughout its run from small to industrial superpower influenced many of the future governmental and economic developments throughout the world into the modern age of technological imperial power. The history of Great Britain became the focal point of how to study history through the lenses of one of the greatest economical and industrial dominions of the world. The advances of the empire locked in the idea of the influence from other outside empires became the influencer in modern times. There's no debate that while this empire had many revolutionary advances, they, like many others, had flaws that ultimately led to their decline in power, but nevertheless became the blueprint for historians to view empires in a new and modern way. Great Britain earned its name and is today still a major influence and will always be a superpower in the world even through smaller and shadowed ways, such as through music, medicine, and military forces
 
 {% include figure.html
-class="left"
+class="right"
 width="50%"
 caption="Women working in amunition factories during the First World War."
-image-url="THE_ARMS_PRODUCTION_IN_BRITAIN_IN_THE_FIRST_WORLD_WAR_Q27847"
-source-url="http://media.iwm.org.uk/ciim5/39/341/large_000000.jpg"
+image-url="industrial-britian.jpg.jpg"
+source-url="(https://user-images.githubusercontent.com/89545594/145287405-70809fd9-6977-4c86-82b6-cf8c362051c8.jpg)"
 %} 
 
 ## Bibliography
