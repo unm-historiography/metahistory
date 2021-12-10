@@ -68,7 +68,7 @@ Kautskism can be seen as a more strict adherence to the historiographical belief
 
   width="50%" 
 
-  caption="A peace of Marxist propeganda, the top reads \"long live Marxism-Leninism-Maoism!\" At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!\" The bottom reads \"the Revolutionary Internationalist Movement.\" 
+  caption="A peace of Marxist propeganda, the top reads \"long live Marxism-Leninism-Maoism!\" At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!\" The bottom reads \"the Revolutionary Internationalist Movement.\" "
 
   image-url="Skroch-Marxist-Propeganda.jpg" 
 
