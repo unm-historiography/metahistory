@@ -20,13 +20,13 @@ Looking at the ways Narrative has been used to explain the past and even present
  
  As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
  
- # The Story Tellers of the Past
+ ## The Story Tellers of the Past
  
  Historian Alun Munslow explores the academic approaches to history that have developed over the years. Included in this book is his thoughts on Narrative portals of history. His explanation of the approach spreads light on the human need for a story construct to re-represent historical events to bring a modern understanding of those events. Modern understanding being that of any given present time reflecting upon another. 
  
  Careful not to overlook the actual function of Narrative, rather than to only entertain possibilities and the audience, the historian’s usage of narrative requires much in the way of historical skills. The ability to organize events into time and place, with use of creative tempo is used to create historical meaning and emotional connection with the audience and the past. (Munslow, p51)
  
- # Advancing the Narrative
+ ## Advancing the Narrative
  
  Literary endeavors natural intersect with historical events, and likewise historical representation folds easily into literary motifs. Historian Alun Munslow agrees that as humans we seek a story before clarity can be accepted, “history and fiction, as well as writing and reception, are imaginatively organized.” (Munslow, p6) The writer of each organizes the source materials and players into a systematic, organized, and animated set of circumstances that unfold in a logical way. That logical way is often far to defined by current understandings.  That is a natural problem inherent in Narrative history. 
  
