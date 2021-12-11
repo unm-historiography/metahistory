@@ -1,5 +1,6 @@
 # Creating Story Space
 ## the art of creating story spaces without losing sight of the facts
+
 Donnie Daugherty
 
 ---
@@ -46,6 +47,8 @@ Looking at the ways Narrative has been used to explain the past and even present
  History, and especially the stories told of events and people, change the collective memory of societies. Peter Seixas compiled and edited a collection of essays by historians on the collective memory of society and the historian contribution to this memory. In the collection of essays, bound together under the title, Theorizing Historical Consciousness, Seixas speculates that, “a common past, preserved through institutions, traditions, and symbols, is a crucial instrument-perhaps the crucial instrument -in the construction of collective identities in the present.” (Seixas, p5) Story about the past informs those of today who we are. 
  
  Within the collection from Seixas, we have an examination of the long-ascribed notion to history given by Paul Valery that history, “is the most dangerous product the chemist of the brain has ever created.” (Seixas, p165) This product is created and recreated thought the narrative process and runs the risk of creating ideas that never happened. At the same time, creating depth to events that did happen. The route taken is in the hands of the historian. 
+ 
+ 
 
  
  
