@@ -46,7 +46,7 @@ Historians living during the Romantic Age showcased varying degrees of romantic 
 {% include figure.html
   class="left"
   width="40%"
-  caption="Johann Gottfried von Herder (1744-1803), the father of German Romanticism."
+  caption="Johann Gottfried von Herder (1744-1803), the father of German Romanticism. Herder often questioned and went against the mainstream ideals of his day."
   image-url="truitt-johann-gottfried-herder.jpg"
   source-url="https://nat.museum-digital.de/singleimage.php?imagenr=1292"
 %}
@@ -63,7 +63,7 @@ In terms of historiography, Herder is considered ahead of his time. He severely 
 {% include figure.html
   class="right"
   width="40%"
-  caption="Lord Thomas Babington Macaulay (1800-1859). An English aristocratic romantic historian and politician."
+  caption="Lord Thomas Babington Macaulay (1800-1859). An English aristocratic romantic historian and politician. Macaulay authored extensive nationalistic works about British history."
   image-url="truitt-thomas-babington-macaulay.jpg"
   source-url="https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay#/media/File:Thomas_Babington_Macaulay2.jpg"
 %}
@@ -79,7 +79,7 @@ Macaulay’s most influential and widely acknowledged work that is an example of
 {% include figure.html
   class="left"
   width="40%"
-  caption="Jules Michelet (1798-1874). A historical representative of the French common people."
+  caption="Jules Michelet (1798-1874). Born a commoner himself, Michelet was a historical representative of the French common people."
   image-url="truitt-jules-michelet.jpg"
   source-url="https://en.wikipedia.org/wiki/Jules_Michelet#/media/File:Jules_Michelet_par_Thomas_Couture_(cropped).jpg"
 %}
