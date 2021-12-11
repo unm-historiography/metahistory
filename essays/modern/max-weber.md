@@ -8,7 +8,6 @@ toc-blurb: Max Weber (1864-1920) is well known for his social theory writings---
 toc-image: Max_Weber,_1918.jpg
 toc-section: modern
 ---
-
 Recognized as one of the fathers of sociology, mid-nineteenth century German historian, economist, philosopher, and lawyer Max Weber (1864-1920) profoundly changed historical causation and research with his delimited narratives. Weber's biggest contribution to historical writing was his historical analysis of religious and cultural connections to the rise of capitalism, authority, and social actions. 
 
  {% include figure.html class="right" width="33%" caption="Max Weber (1864-1920) philosopher, sociologist, and historian." image-url="Max_Weber,_1918.jpg" source-url="https://cdn.britannica.com/49/39749-050-E773E614/Max-Weber-1918.jpg" %} 
