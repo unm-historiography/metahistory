@@ -105,9 +105,9 @@ Romanticism was a brief transitional period between an intensely rational histor
 - Bentley, Michael. "Romanticism," in *Modern Historiography: An Introduction*. Routledge, 1999.
 - Cheng, Eileen K. “Romantic and Critical History,” in *Historiography: An Introductory Guide.* Continuum, 2012.
 - Gossman, Lionel. “History as Decipherment: Romantic Historiography and the Discovery of the Other.” *New Literary History* 18, vol. 1. Johns Hopkins University Press, 1986. 
-- Lovejoy, Arthur O. “The Meaning of Romanticism for the Historian of Ideas.” *Journal of the History of Ideas* 2, no. 3 (1941): 257–78. https://doi.org/10.2307/2707131.
-- Mitzman, Arthur. “Michelet and Social Romanticism: Religion, Revolution, Nature.” *Journal of the History of Ideas* 57, no. 4 (1996): 659–82. https://doi.org/10.2307/3654087.
-- Orr, Linda. “The Revenge of Literature: A History of History.” *New Literary History* 18, no. 1 (1986): 1–22. https://doi.org/10.2307/468653. 
+- Lovejoy, Arthur O. “The Meaning of Romanticism for the Historian of Ideas.” *Journal of the History of Ideas* 2, no. 3 (1941): 257–78. 
+- Mitzman, Arthur. “Michelet and Social Romanticism: Religion, Revolution, Nature.” *Journal of the History of Ideas* 57, no. 4 (1996): 659–82. 
+- Orr, Linda. “The Revenge of Literature: A History of History.” *New Literary History* 18, no. 1 (1986): 1–22.  
 - Seyhan, Azade. “What is Romanticism and Where Did it Come From?” in *The Cambridge Companion to German Romanticism.* Cambridge University Press, 2009. 
 - Wohlgemut, Esther. “Southey, Macaulay and the Idea of a Picturesque History.” *Romanticism on the Net*, no. 32–33 (2003). https://doi.org/10.7202/009261ar.
 - Zammito, John H., Karl Menges, and Ernest A. Menze. “Johann Gottfried Herder Revisited: The Revolution in Scholarship in the Last Quarter Century.” Journal of the History of Ideas 71, no. 4 (2010): 661–84.
