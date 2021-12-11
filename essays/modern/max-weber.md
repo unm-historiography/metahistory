@@ -10,10 +10,10 @@ toc-section: modern
 ---
 
 Recognized as one of the fathers of sociology, mid-nineteenth century German historian, economist, philosopher, and lawyer Max Weber (1864-1920) profoundly changed historical causation and research with his delimited narratives. Weber's biggest contribution to historical writing was his historical analysis of religious and cultural connections to the rise of capitalism, authority, and social actions. 
+
+ {% include figure.html class="right" width="33%" caption="Max Weber (1864-1920) philosopher, sociologist, and historian." image-url="Max_Weber,_1918.jpg" source-url="https://cdn.britannica.com/49/39749-050-E773E614/Max-Weber-1918.jpg" %} 
  
 The historical school of thought at the time, Marxism and modernization, oversimplified and dismissed cultural and religious influence on driving the development of social action and economic structures.  Weber “focused on the cultures we create rather than dismissing structural and other issues'' (Giddens, 1970, 289–310). Weber sought to validate the relevance of both religion and culture by demonstrating how these institutions are responsible for the creating and maintaining capitalistic systems that dismiss their usefulness when explaining historical events. Weber changed historical analysis of his time due to his ability to understand that religion and cultural ideals cannot be scientifically reduced; they have importance and meaning in historical events that we use to explain human nature and the driving forces of how the structures around us came into existence. Weber saw that reducing historical events to just materialism and social structures, as Marxist and modernist did at the time, limited, devalued, and discounted the importance and impact of culture and religion on the development of economic structures.
- 
- {% include figure.html class="right" width="33%" caption="Max Weber (1864-1920) philosopher, sociologist, and historian." image-url="Max_Weber,_1918.jpg" source-url="https://cdn.britannica.com/49/39749-050-E773E614/Max-Weber-1918.jpg" %} 
  
 His most known works, The Protestant Ethic and the Spirit of Capitalism (1904) and the Economy and Society (1922), published after his death, shaped new ideas about how influences are ingrained in religion and cultures and can be attributed directly to the origins of capitalism and materialism in the modern era. To describe the aspects of modernity and the rise of captialism, Weber focuses on understanding the origins and effects of rationalization, secularization, and disenchantment. 
 
