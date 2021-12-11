@@ -1,12 +1,12 @@
+# Creating Story Space
+## the art of creating story spaces without losing sight of the facts
+Donnie Daugherty
+
 ---
-layout: default
-title: Creating Story Space
-subtitle: the art of creating story spaces without losing sight of the facts
-author: Donnie Daugherty
-date: 2021-12-13
-toc-blurb:Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim and expected by many readers for many within the academic study of history. However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp. 
-toc-image: The_Venerable_Bede_translates_John_1902.jpg
-toc-section: PICK ONE
+Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim and expected by many readers for many within the academic study of history. However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp. 
+
+This essay seeks to understand the ways in which Narrative history can remain an important aspect of the more scientific gathering of source material, analyzed details, and the postmodern view of history we work with now in the development of history as a discipline. 
+
 ---
 
 ## Taking a Good Idea, and Keeping it Factual 
@@ -24,6 +24,8 @@ Looking at the ways Narrative has been used to explain the past and even present
  Historian Alun Munslow explores the academic approaches to history that have developed over the years. Included in this book is his thoughts on Narrative portals of history. His explanation of the approach spreads light on the human need for a story construct to re-represent historical events to bring a modern understanding of those events. Modern understanding being that of any given present time reflecting upon another. 
  
  Careful not to overlook the actual function of Narrative, rather than to only entertain possibilities and the audience, the historian’s usage of narrative requires much in the way of historical skills. The ability to organize events into time and place, with use of creative tempo is used to create historical meaning and emotional connection with the audience and the past. (Munslow, p51)
+ 
+ #### Advancing the Narrative
  
  Literary endeavors natural intersect with historical events, and likewise historical representation folds easily into literary motifs. Historian Alun Munslow agrees that as humans we seek a story before clarity can be accepted, “history and fiction, as well as writing and reception, are imaginatively organized.” (Munslow, p6) The writer of each organizes the source materials and players into a systematic, organized, and animated set of circumstances that unfold in a logical way. That logical way is often far to defined by current understandings.  That is a natural problem inherent in Narrative history. 
  
