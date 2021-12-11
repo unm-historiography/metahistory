@@ -1,4 +1,5 @@
 # Understanding History Through Story
+
 ## _Exploring the art of narrative without losing sight of the facts_
 Donnie Daugherty
 
@@ -16,14 +17,6 @@ Looking at the ways Narrative has been used to explain the past and even present
  
  In Rewriting the Newspaper, Thomas R. Schmidt explores the use of narrative history in the news.  It is an overview of the improvements story telling brought to the newspaper industry. Narrative history techniques were used to develop a style of reporting that ultimately became common practice. In an industry that relies on source material, facts, and data to build a reputation, this information is bland in the hands of the reader and serves no purpose. This looks at the induction of storytelling in reporting chronicles evolution of an art form that revitalized the newspaper industry and possibly makes narrative history more accessible and accurate to the future historian. 
  
- {% include figure.html
-  class="right"
-  width="50%"
-  caption="Newspapers have a responsibility to go beyond the headline into a more detailed story."
-  image-url="daugherty-newspaper headline.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
-%}
-
  As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
  
  Historian Alun Munslow explores the academic approaches to history that have developed over the years. Included in this book is his thoughts on Narrative portals of history. His explanation of the approach spreads light on the human need for a story construct to re-represent historical events to bring a modern understanding of those events. Modern understanding being that of any given present time reflecting upon another. 
