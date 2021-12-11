@@ -10,6 +10,7 @@ This essay seeks to understand the ways in which Narrative history can remain an
 ---
 
 ## Taking a Good Idea, and Keeping it Factual 
+
 Looking at the ways Narrative has been used to explain the past and even present situations, we want to see how the form has progressed in the ways of providing true detail and not a proposed view from a single source perspective. Balance evolution is part of the history of history as a discipline and can be seen throughout the practice of Narrative. It is a slippery slope that must be walked delicately.  
 
  Historians often look at the media of the past for source details. Today’s media has a responsibility to present the facts in a way that will provide clarity to the audience of today, and hopefully that clarity will continue for the historians in years to come. Yet, nowhere more suitable for a narrative approach to historical studies is the newspaper. This same source is ripe for Narrative distortion. Meta history websites fall within the paramotor for the purpose of this essay. 
@@ -17,6 +18,8 @@ Looking at the ways Narrative has been used to explain the past and even present
  In Rewriting the Newspaper, Thomas R. Schmidt explores the use of narrative history in the news.  It is an overview of the improvements story telling brought to the newspaper industry. Narrative history techniques were used to develop a style of reporting that ultimately became common practice. In an industry that relies on source material, facts, and data to build a reputation, this information is bland in the hands of the reader and serves no purpose. This looks at the induction of storytelling in reporting chronicles evolution of an art form that revitalized the newspaper industry and possibly makes narrative history more accessible and accurate to the future historian. 
  
  As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
+ 
+ ### The Story Tellers of the Past
  
  Historian Alun Munslow explores the academic approaches to history that have developed over the years. Included in this book is his thoughts on Narrative portals of history. His explanation of the approach spreads light on the human need for a story construct to re-represent historical events to bring a modern understanding of those events. Modern understanding being that of any given present time reflecting upon another. 
  
