@@ -5,7 +5,7 @@ subtitle: A Brief Introduction to Romantic History
 author: JACKIE TRUITT
 date: 2021-11-27
 toc-blurb: Romantic thought and historical writing during the 18th and 19th centuries emphasized concepts of beauty, feeling and emotion, and individual human action. Often, but not exclusively opposed to Enlightenment ideals, Romanticism was a short lived but fiery and influential period in history, components of which are still practiced today. 
-toc-image: truitt-delacroix-liberty-leading-the-people-1830.jpg
+toc-image: "truitt-delacroix-liberty-leading-the-people-1830.jpg"
 toc-section: enlightenment
 ---
 
