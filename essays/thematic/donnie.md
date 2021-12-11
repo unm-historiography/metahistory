@@ -1,14 +1,12 @@
 ---
-# Historical Narratives
----
-## _the art of creating story spaces without losing sight of the facts_
-Donnie Daugherty
-
----
-Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim and expected by many readers for many within the academic study of history. However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp. 
-
-This essay seeks to understand the ways in which Narrative history can remain an important aspect of the more scientific gathering of source material, analyzed details, and the postmodern view of history we work with now in the development of history as a discipline. 
-
+layout: default
+title: Creating Story Space
+subtitle: the art of creating story spaces without losing sight of the facts
+author: Donnie Daugherty
+date: 2021-12-13
+toc-blurb:Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim and expected by many readers for many within the academic study of history. However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp. 
+toc-image: The_Venerable_Bede_translates_John_1902.jpg
+toc-section: PICK ONE
 ---
 
 ## Taking a Good Idea, and Keeping it Factual 
