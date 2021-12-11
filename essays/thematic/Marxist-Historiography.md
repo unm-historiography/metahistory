@@ -25,6 +25,7 @@ toc-section: thematic
 
 %} 
 
+From the bloodshed of the Bolshevik Revolution to the fall of dynastic China, Marxist values have had a massive impact on the course of human history. This economic theory requires a deep understanding of social interactions throughout history. 
 
 ## Karl Marx and Fredrich Engles 
 Karl Marx and Fredrich Engles were two German philosophers who lived in the 19th century. The two met in Cologne, Germany and would ultimately become close friends and partners with the goal of furthering the growing socialist movement. The two were instrumental in helping with the formation of the Communist League; and later at the second communist congress in London (1903) they drafted the *Communist Manifesto.* After this, the two continued to work towards the full implementation of their ideologies across Europe. The Revolutions of 1848, an attempt by the Germans to overthrow their authoritarian government, proved to be an opportunity for spreading their economic and political beliefs that ultimately failed along with the Revolutions themselves. The two continued publishing books on Marxism and spreading their thoughts until their deaths.  
@@ -46,7 +47,7 @@ Problems around the writing of history, such as the purpose of writing and bias 
 
 {% include figure.html 
 
-  class="right" 
+  class="left" 
 
   width="50%" 
 
@@ -78,6 +79,28 @@ Kautskism can be seen as a more strict adherence to the historiographical belief
 
    
 %} 
+
+###Marxism-Leninism 
+
+Almost the entire twentieth century of Russian History was defined by Marxism. This reign of Marxist ideology began in 1917 with the Bolshevik Revolution, (also known as the Russian Revolution) lead by Vladamir Lenin. This event is extremely important as it led to the rise of the Union of Soviet Socialist Republics (USSR or Soviet Union). Lenin placed himself as dictator of this new government and pushed for the classic Marxist support of a proletarian democracy. Additionally, he pushed to nationalize banks and much of the Russian economy. 
+
+ 
+{% include figure.html 
+
+  class="left" 
+
+  width="50%" 
+
+  caption="Joseph Stalin (1878-1953) sitting in his office."
+
+  image-url="Skroch-Stalin.jpg" 
+
+  source-url="https://commons.wikimedia.org/wiki/File:Stalin_office.jpg" 
+
+   
+%} 
+
+Shortly after Lenin’s death in 1924, Joseph Stalin rose to replace him as Soviet dictator. Propaganda under the new dictator became extremely common, all of which sought to justify Stalin’s position and Marxism as the correct ideology. With the use of a police state Stalin was able to nationalize agriculture and industrialize Russia; with the threat of death for all those who refused to comply. Additionally, Stalin pushed for rewrites of history, mythologizing his early life and increasing his role in the Bolshevik Revolution. 
 
 ### Marxist History in China
 For the vast majority of history in China, dynastic monarchy was the only form of government. This system of government was shortly broken by the Republic of China from 1912-1949, before ultimately being succeeded by a communist state. Marxism greatly expanded in the two decades before the Chinese Communist revolution. Fan Wenlan lead the Marxist view of Chinese History, opposing historians who followed a more nationalist view. Firstly, Wenlan believed in the classic linear Marxist view of history, believing that the communist revolution would be the culmination of the centuries long struggle of the Chinese people against feudalism and imperialism. (Li, pg 272) Oddly enough, in a way the short period of The Republic of China was required for this linear history to work. In juxtaposition of Kautsky’s view of the Russian Marxist Revolution, China had fully experienced the “steps” to becoming a communist state.   
