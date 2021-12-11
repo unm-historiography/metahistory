@@ -1,4 +1,4 @@
-# Historical Narratives 
+# Historical Narratives
 ## _Exploring the art of creating story spaces without losing sight of the facts_
 Donnie Daugherty
 
