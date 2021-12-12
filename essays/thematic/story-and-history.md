@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating Narrativie from Source Material
+title: Creating Narrativity from Source Material
 subtitle: Examing the use of story spaces within historical research
 author: Donnie Daugherty
 date: 2021-12-13
