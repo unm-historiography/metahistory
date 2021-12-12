@@ -59,5 +59,5 @@ It is likely an impossible endeavor, although at times valiantly fought, the att
 
 - Tucker, Aviezer. _Our Knowledge of the Past_, Cambridge Press 2004
 
-- White, Hayden. _The Fiction of Narrative_, John Hopkins University Press 2010
+- White, Hayden. _The Fiction of Narrative_, John Hopkins University Press 2010 
 
