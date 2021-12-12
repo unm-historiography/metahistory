@@ -33,10 +33,8 @@ In an industry that relies on source material, facts, and data to build a reputa
 {% include figure.html
   class="right"
   width="50%"
-  caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
-%}
+  }
 
 ### In Support of Narrativity 
 
