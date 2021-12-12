@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Narrativity from Source Material
-subtitle: Examing the use of story spaces within historical research
+subtitle: Examining the use of story spaces within historical research
 author: Donnie Daugherty
 date: 2021-12-13
 toc-blurb: Does creating a story narrative from information distort the true events of history, or will it bring clarity and understanding for today's audience?
