@@ -71,7 +71,7 @@ Kautskism can be seen as a more strict adherence to the historiographical belief
 
   width="50%" 
 
-  caption="A peace of Marxist propeganda, the top reads \"long live Marxism-Leninism-Maoism!\" At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!\" The bottom reads \"the Revolutionary Internationalist Movement.\" "
+  caption="A peace of Marxist propeganda, the top reads \"long live Marxism-Leninism-Maoism! \" At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!\" The bottom reads \"the Revolutionary Internationalist Movement.\" "
 
   image-url="Skroch-Marxist-Propeganda.jpg" 
 
@@ -80,7 +80,7 @@ Kautskism can be seen as a more strict adherence to the historiographical belief
    
 %} 
 
-###Marxism-Leninism 
+### Marxism-Leninism 
 
 Almost the entire twentieth century of Russian History was defined by Marxism. This reign of Marxist ideology began in 1917 with the Bolshevik Revolution, (also known as the Russian Revolution) lead by Vladamir Lenin. This event is extremely important as it led to the rise of the Union of Soviet Socialist Republics (USSR or Soviet Union). Lenin placed himself as dictator of this new government and pushed for the classic Marxist support of a proletarian democracy. Additionally, he pushed to nationalize banks and much of the Russian economy. 
 
@@ -114,9 +114,9 @@ With the close of the second World War, Japan found itself defeated and placed u
 
 Oddly enough, the recent Marxist revolution in China served as an example for the Japanese Marxist despite the Chinese Revolution being heavily driven by Japanese imperialism during World War II. (Gayle, pg 86) This strange colonizer and colonized relationship required Japanese Marxist historians to argue that the nation, comprised only of the people and their culture, was indeed separable from the state, or government. 
  
+###Conclusion
 
-
-
+Marxist Historiography stands at the core of Marx's economic philosophy. With its view of linear history, social class structures, and almost prophetic view of the future Marxism continues to be relevant today. This way of viewing the past and thus preparing for the future can best be seen in communist societies; and those of socialist socialist economic systems which are understood to be "on the path to communism." Its greatest impact is brining proletariat struggles to the forefront of modern thought. With many countries experiencing Marxism with various historians, the belief systems impact on the world continues to grow.
 
 
 ###Bibliography
