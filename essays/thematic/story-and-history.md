@@ -31,9 +31,9 @@ Historians often look to the media of the past for source details. Today’s Met
 
 
 ---
-Stories told of events, and people change the collective memory of societies to become History
-
+#### Stories told of events, and people change the collective memory of societies to become History
 ---
+
 The idea of story telling brought the newspaper industry an opportunity a hundred years ago that still works for them today, the ability to go in depth into a story. This is the same ability meta historians have today, with even more ability to advance the story. We can edit and add new information far more easily than a paper could. Yet, the unique ability to bring narrative and character to an event to connect the audience with history remains the same. The responsibility is there too. We have more ability to remain balanced now than times before. Within the balance of perspectives, a more representational and factual look at history could evolve. 
 
 In an industry that relies on source material, facts, and data to build a reputation, information is bland in the hands of the reader and servers no purpose as no connection can be made. Storytelling in reporting allows for a better understanding of past events in a way that on meaningful for the audience of today. Should that connection be made in an accurate and meaning way, true leaning of ourselves and the past could be achieved. 
@@ -47,7 +47,7 @@ In an industry that relies on source material, facts, and data to build a reputa
   
 As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
 
-### In Support of Narrativity 
+#### In Support of Narrativity 
 
 Historian Alun Munslow believes the need we feel as humans for a story construct to represent historical events stems from our mental process of discerning information. Narrativity creates a modern understanding of past events. 
 
@@ -55,7 +55,7 @@ The public often seeks a story for clarity, “history and fiction, as well as w
 
 
 
-#### Conclusion
+##### Conclusion
 
 It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject. Therefore, it flows into their work. Most historians construct a theoretical, yet to them possible, set of events. All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. Source material is gathered, but it is the historian’s job to construct the meaning. Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
 
