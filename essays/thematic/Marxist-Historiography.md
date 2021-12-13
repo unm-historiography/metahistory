@@ -118,7 +118,7 @@ Oddly enough, the recent Marxist revolution in China served as an example for th
 Marxist Historiography stands at the core of Marx's economic philosophy. With its view of linear history, social class structures, and almost prophetic view of the future Marxism continues to be relevant today. This way of viewing the past and thus preparing for the future can best be seen in communist societies; and those of socialist socialist economic systems which are understood to be "on the path to communism." Its greatest impact is brining proletariat struggles to the forefront of modern thought. With many countries experiencing Marxism with various historians, the belief systems impact on the world continues to grow.
 
 
-###Bibliography
+### Bibliography
 
 Blackledge, Paul, and School of Social Sciences. “Karl Kautsky and Marxist Historiography.”  1 Aug. 2006 
 
