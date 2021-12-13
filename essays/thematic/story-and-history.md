@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Narrativity from Source Material
-subtitle: using story spaces factually 
+subtitle: the art of creating story spaces without losing sight of the facts  
 author: Donnie Daugherty
 date: 2021-12-13
 toc-blurb: Does creating a story narrative from information distort the true events of history, or will it bring clarity and understanding for today's audience?
