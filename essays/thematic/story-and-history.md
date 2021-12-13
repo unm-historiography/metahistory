@@ -25,7 +25,7 @@ Looking at ways Narrative has been used to explain the past and even present sit
 
 ### The Responsible Historian
 
-Manytimes, the Narrative becomes the motion pisture. So many times, these stories do a harm to history by not paying attention to detail. Further more, they let slide that which should be removed and often add things that were never there. This is to the never ending frustration to historians and unending confusion to the audence who uses story as their only informative vehical of history. Therefore, an academic oath, silent as it may be, should be taken by the author to use as much fact as possible. 
+Many times, the Narrative becomes the motion picture. Often, these stories do harm to history by not paying attention to detail. Furthermore, they let slide that which should be removed and then to that add things that were never there. This is to the never-ending frustration to historians and unending confusion to the audience who uses story as their only informative vehicle of history. Therefore, an academic oath, silent as it may be, should be taken by the author to use as much fact as possible. 
 
 Historians often look to the media of the past for source details. Today’s Metahistorical pursuits have a responsibility to present the facts in a way that will provide clarity to the audience while remaining factual and balanced. Thereby, we hope, providing clarity to continue for the historians in years to come. One place suitable for a narrative approach to historical studies is the newspaper. Historians often depend on the reporters of the past to provide detail and source material. Yet this same source is ripe for narrative distortion.  
 
