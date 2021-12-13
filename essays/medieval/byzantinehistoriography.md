@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Byzantine Historiography
-subtitle: How History Was Written in Medieval Greece
+subtitle: Medieval Greek Historiography and Improving the History of Today
 author: Michael R Aguilar III
 date: 2021-12-13
-toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
+toc-blurb: Byzantine historiography has been largely overlooked in the general discussion of the history of history, but in fact has a lot to say about how history as it is done today can be improved in order to provide a more nuanced and potentially more accurate account of the past.
 toc-image: The_Venerable_Bede_translates_John_1902.jpg
 toc-section: medieval
 ---
