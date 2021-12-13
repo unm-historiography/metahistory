@@ -31,7 +31,7 @@ Historians often look to the media of the past for source details. Today’s Met
 
 
 ---
-#### Stories told of events, and people change the collective memory of societies to become History
+#### Stories of events, and people change the collective memory of societies to become History
 ---
 
 The idea of story telling brought the newspaper industry an opportunity a hundred years ago that still works for them today, the ability to go in depth into a story. This is the same ability meta historians have today, with even more ability to advance the story. We can edit and add new information far more easily than a paper could. Yet, the unique ability to bring narrative and character to an event to connect the audience with history remains the same. The responsibility is there too. We have more ability to remain balanced now than times before. Within the balance of perspectives, a more representational and factual look at history could evolve. 
@@ -55,9 +55,15 @@ Historian Alun Munslow believes the need we feel as humans for a story construct
 
 The public often seeks a story for clarity, “history and fiction, as well as writing and reception, are imaginatively organized.” (Munslow, p6) Writers organize source material into a plausible set of circumstances that unfold in a logical way for modern understanding. In an ironic set of circumstances, the effort to create a narrative can often led to misbalanced or even wrong portals of what really happened. It is a concern to be aware of, but not a red flag to avoid all story tellers of history. Careful work by the historian can result in accurate story spaces that inform, entertain, and bring an overall, more academic, public view of historical events. Emotional connection form in these instances. History stories can create a more compassionate society by such connections of understanding. 
 
+A sense of balance develops within the work of a good narrative. The linguistic pyramid of source, hypothesis, and story must be equally discerned. Arthur Marwick takes this challenge in, The Nature of History. He outlines the job of a story telling historian and outlines the necessity of fact, “The problem of form in historical writing is also peculiarly acute because not only must the historian represent the complexity of past experience, but [he] must also represent it in the movement of time.” (Marwick, p152)
+
+This statement is ironic in the face of history and culture with its use of strictly masculine terms for describing the historian given the essence of the statemen. It gives us a good example of how even the study of history can advance, just as the story does. The narrative historian must adapt to change and put forth a story that envelopes the past within an understanding of changing, for the better, in societies. New lessons are always available within history for evolving societies. Marwick highlights the need for evolving nature of narrative, even if unwittingly in reflection of the way we learn and live with history today. A historical story needs to bring the past into the present with meaning for today’s culture, or it is only a story of some past event with no emotional connection to today’s meta-audience.
+
 ##### Conclusion
 
 It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject. Therefore, it flows into their work. Most historians construct a theoretical, yet to them possible, set of events. All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. Source material is gathered, but it is the historian’s job to construct the meaning. Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
+
+When thinking about a story space for the telling of history, the triangle of knowledge needed to make any construct of history a valid story is not just theorized rubbish. Rather, it is supporting evedence of the plot. 
 
 
 ## Bibliography
