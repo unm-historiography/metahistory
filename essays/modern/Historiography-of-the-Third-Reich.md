@@ -76,15 +76,15 @@ All this was contemporaneous to the professionalization of history as a discipli
 
 Historical objectivity was conceived by some historians as embodied by the methodologies of historical investigation---it was through a systematic process of '**_Quellenkritik_' (source criticism)** that the perspectives, context, and bias of historical sources were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was believed that the methodological rigor of the historian’s process made the work “objective” (32). Impartiality was even mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” but this did not preclude them from imagining their historical work was fundamentally objective (33). Utilizing history in the service of present, political realities was an idea that would only grow in the coming years.
 
+### *Völkische* History
+
 {% include figure.html
-  class="right"
+  class="left"
   width="30%"
   caption="Nazi 'Blood and Soil' propaganda like this c. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgeschichte* emphasized their historical importance."
   image-url="mmendoza-blood-and-soil-propaganda.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
 %}
-
-### *Völkische* History
 
 It was in this intellectual climate post-1918 that the late-nineteenth century notion of [‘*Volk*’](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (Schleier, 180). ‘**_Volksgeschichte_’ (people’s or ethnic history)** was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
 
