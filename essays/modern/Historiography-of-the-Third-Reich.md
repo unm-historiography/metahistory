@@ -17,7 +17,7 @@ For scholars and students of the history of the Third Reich, a striking aspect o
 German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association. German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, the most prestigious profession was chosen by Germans as that of the university professor (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later to the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247).
 
 {% include figure.html
-  class="right"
+  class="left"
   width="50%"
   caption="Historian Heinrich von Treitschke (c. 1834-1896) in a lecture hall in 1879. Professors were particularly exalted by the German public, but most chose not to wield their influence when the Republic collapsed into dictatorship."
   image-url="mmendoza-treischke.jpg"
@@ -39,8 +39,8 @@ In spite of this, the reaction of historians to the crumbling of German democrac
 Historiography of the interwar years in Germany was dominated by the trauma of the First World War, but especially by the offspring of its conclusion: the [Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles). In the minds of German historians, as well as much of the German people, the Treaty represented an inconceivable humiliation for a country which had been at the high point of its power just four years before. Not only was it considered an extremely harsh punishment, but also an unjust one as it pinned the blame for the war unfairly, it was thought, on Germany alone (Evans, “The Coming” 60).
 
 {% include figure.html
-  class="left"
-  width="40%"
+  class="right"
+  width="45%"
   caption="The Treaty of Versailles and the resulting territorial losses were considered a national humiliation by the vast majority of Germans, historians included, which contributed to conservative-nationalist conceptions of German history."
   image-url="mmendoza-german-losses-after-ww1.png"
   source-url="https://en.wikipedia.org/wiki/Weimar_Republic#/media/File:German_losses_after_WWI.svg"
