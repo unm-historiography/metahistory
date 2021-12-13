@@ -40,7 +40,7 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
 
 {% include figure.html
   class="left"
-  width="60%"
+  width="40%"
   caption="The Treaty of Versailles and the resulting territorial losses were considered a national humiliation by the vast majority of Germans, historians included, which contributed to conservative-nationalist conceptions of German history."
   image-url="mmendoza-german-losses-after-ww1.png"
   source-url="https://en.wikipedia.org/wiki/Weimar_Republic#/media/File:German_losses_after_WWI.svg"
