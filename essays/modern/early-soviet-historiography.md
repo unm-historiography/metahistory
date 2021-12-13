@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Early Soviet Historiography
+subtitle: The Battle to Fit Ideaology into a Historical narrative
 author: ERIC GALBISO
 date: 2021-12-13
 toc-blurb: Historiography in the early years of the Soviet Union was a battle to fit the Marxist ideology into the Communist Party’s idea of what Soviet history should represent.
