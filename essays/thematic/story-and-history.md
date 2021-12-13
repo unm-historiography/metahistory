@@ -45,7 +45,9 @@ In an industry that relies on source material, facts, and data to build a reputa
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
   %}
   
-As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
+As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. 
+
+Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
 
 #### In Support of Narrativity 
 
