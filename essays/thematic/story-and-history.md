@@ -13,15 +13,19 @@ toc-section: thematic
 
 {:.abstract}
 
-Presenting history as a compelling story with a beginning, middle, and an end is at the heart of many historians aim and expected by many readers within the academic study of history. However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp. 
-This essay seeks to understand the ways in which Narrative history can remain an important aspect of the process of gathering source material, analyzing details, and merging story and fact within a postmodern construct of history.
+Presenting history as a compelling story with a beginning, middle, and an end is at the heart of many historians aim and expected by many readers of history. However, in pursuing an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond our present time’s grasp. That is especially true as we walk the delicate tight rope of informing in an entertaining way.
 
+This essay seeks to understand the ways in which Narrative history can remain an important aspect of gathering source material, analyzing details, and merging story with fact in a way that does not distort, but inhances the factuality of the narrative.
 
 ## Maintaining a Factual Story Concept
 
 Looking at ways Narrative has been used to explain the past and even present situations, we see how the form has progressed in the ways of providing true detail and not a proposed view from a single source perspective. Balance evolution is part of the history of history and can be seen throughout the practice of Narrative. However, it is a slippery slope that must be walked delicately.  
 
-### The Resposibile Historian 
+
+
+### The Responsible Historian
+
+Manytimes, the Narrative becomes the motion pisture. So many times, these stories do a harm to history by not paying attention to detail. Further more, they let slide that which should be removed and often add things that were never there. This is to the never ending frustration to historians and unending confusion to the audence who uses story as their only informative vehical of history. Therefore, an academic oath, silent as it may be, should be taken by the author to use as much fact as possible. 
 
 Historians often look to the media of the past for source details. Today’s Metahistorical pursuits have a responsibility to present the facts in a way that will provide clarity to the audience while remaining factual and balanced. Thereby, we hope, providing clarity to continue for the historians in years to come. One place suitable for a narrative approach to historical studies is the newspaper. Historians often depend on the reporters of the past to provide detail and source material. Yet this same source is ripe for narrative distortion.  
 
