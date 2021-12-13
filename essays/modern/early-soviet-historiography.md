@@ -28,7 +28,7 @@ The entirety of post revolution Soviet society was supposed to be built on Marxi
 
 The Marxist institutions included, the Society of Marxist Historians (part of the Communist Academy), the Commission for the Study of the October Revolution, and the Russian Communist Party (Istpar), and the Institute of Red Professors. All of these institutions had the main mission of promoting Marxist history and were headed by Mikhail Pokrovsky. These institutions were used to collect materials pertaining to party history, have historical discussions, and to keep non-Marxist histories contained.
 
-The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). The state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment where all works could be edited to the Communist Party’s liking.
+The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). These state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment where all works could be edited to the Communist Party’s liking.
 
 ## Slavophile Controversy
 [Section pertaining to the development of Russian Civilization. Did the Vikings play a part? How could historians believe that Russian developed independently of Europe and with some influence from Asia?]
