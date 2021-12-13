@@ -226,13 +226,9 @@ Sims, Amy R. “Intellectuals in Crisis: Historians Under Hitler.” *The Virgin
 
 [Berlin defending Nat'l Assembly](https://www.loc.gov/pictures/item/2014710858/).
 
-[Leopold Von Ranke 1877](https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg).
-
 [Thousands of books smoulder in a huge bonfire as Germans give the Nazi salute during the wave of book-burnings](https://commons.wikimedia.org/wiki/File:Thousands_of_books_smoulder_in_a_huge_bonfire_as_Germans_give_the_Nazi_salute_during_the_wave_of_book-burnings_that..._-_NARA_-_535791.tif).
 
 ["Propaganda Shirley"](https://www.flickr.com/photos/35468140263@N01/9028101) by Kim P. Flickr, 2005. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/). (This contemporary photograph is not Nazi propaganda but affects the same symbolism: extolling the virtues of the European peasant farmer.)
-
-[Beautiful German woman sitting in a forest](https://www.flickr.com/photos/95329455@N02/17445301782) by simpleinsomnia. Flickr, 2015. Taken 1930. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 [Riefenstahl filming a difficult scene with the help of two assistants, 1936](https://en.wikipedia.org/wiki/Leni_Riefenstahl#/media/File:Bundesarchiv_Bild_146-1988-106-29,_Leni_Riefenstahl_bei_Dreharbeiten.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
 
