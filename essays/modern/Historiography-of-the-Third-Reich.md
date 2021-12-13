@@ -40,7 +40,7 @@ The year was 1918 when the fronts collapsed and the First World War came to an e
 
 {% include figure.html
   class="right"
-  width="45%"
+  width="50%"
   caption="The Treaty of Versailles and the resulting territorial losses were considered a national humiliation by the vast majority of Germans, historians included, which contributed to conservative-nationalist conceptions of German history."
   image-url="mmendoza-german-losses-after-ww1.png"
   source-url="https://en.wikipedia.org/wiki/Weimar_Republic#/media/File:German_losses_after_WWI.svg"
@@ -54,7 +54,7 @@ All of this appears to be in contradiction of the values of the self-professed â
 
 {% include figure.html
   class="left"
-  width="50%"
+  width="55%"
   caption="Soldiers guard the entrance to the Reichstag in Berlin, the seat of the National Assembly of the Weimar Republic during the nationalist [Kapp Putsch](https://en.wikipedia.org/wiki/Kapp_Putsch) of mid-March 1920. The political street violence, numerous uprisings, and putsch attempts that characterized the Weimar period led many to long for more stable governance."
   image-url="mmendoza-berlin-defending-natl-assembly.jpg"
   source-url="https://www.loc.gov/pictures/item/2014710858/"
