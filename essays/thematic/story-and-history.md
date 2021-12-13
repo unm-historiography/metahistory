@@ -34,7 +34,7 @@ In an industry that relies on source material, facts, and data to build a reputa
   class="right"
   width="50%"
   image-url="The_Venerable_Bede_translates_John_1902.jpg"
-  }
+  %}
 
 ### In Support of Narrativity 
 
