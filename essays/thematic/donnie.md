@@ -21,7 +21,8 @@ This essay seeks to understand the ways in which Narrative history can remain an
 
 Looking at ways Narrative has been used to explain the past and even present situations, we see how the form has progressed in the ways of providing true detail and not a proposed view from a single source perspective. Balance evolution is part of the history of history and can be seen throughout the practice of Narrative. However, it is a slippery slope that must be walked delicately.  
 
-
+A sense of balance develops within the work of a good narrative. A linguistic pyramid of source, hypothesis, and story must be equally discerned.
+Therefore, it is even more critical that the work of the historian using narrative, or creating a story, is doing so with the most up to date creditable sources and a willingness to change that story when new evidence is found.
 
 ### The Responsible Historian
 
