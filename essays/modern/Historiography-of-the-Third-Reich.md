@@ -14,7 +14,7 @@ For scholars and students of the history of the Third Reich, a striking aspect o
 ## Weimar Historiography
 
 
-German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association. German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (Sims, 247). In a 1951 survey, for example, the most prestigious profession was chosen by Germans as that of the university professor (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later to the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247).
+German universities were world-renowned and long considered some of the best as pillars of serious scholarship and free association. German professors were held in great esteem by the public and could easily enter decision-making roles in German society if they wished (247). In a 1951 survey, for example, the most prestigious profession was chosen by Germans as that of the university professor (Dahrendorf, 81). In light of this commanding prestige, German professors were in prime position to encourage opposition to the Nazi movement and later to the regime, particularly historians as the foremost scholars of the relationship between power and the state (Sims, 247).
 
 {% include figure.html
   class="left"
@@ -36,7 +36,7 @@ But the reaction of historians to the crumbling of German democracy and the esta
 
 ### A Bitter Defeat
 
-The year was 1918 when the fronts collapsed and the First World War (c. 1914-1918) came to an end. From the ashes arose a new Germany, torn from the imperial power it had possessed at the height of its power not four years before. Germany emerged in a much-reduced state following the territorial and monetary concessions imposed by the [Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles). Vast swathes of German land were given to Germany’s enemies, the German armed forces were forcibly disarmed, and a vast indemnity was imposed. For much of the German people, if not the vast majority of them, this treaty was a humiliation of the first degree (Evans, “The Coming” 60).
+The year was 1918 when the fronts collapsed and the First World War came to an end. From the ashes arose a new Germany, torn from the imperial power it had possessed at the height of its power not four years before. Germany emerged in a much-reduced state following the territorial and monetary concessions imposed by the [Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles). Vast swathes of German land were given to France and a new Polish state, among other concessions, the armed forces were forcibly disarmed, had their sizes and equipment restricted, and a vast indemnity was imposed. For much of the German people, if not the vast majority of them, this treaty was a humiliation of the first degree (Evans, “The Coming” 60).
 
 {% include figure.html
   class="right"
