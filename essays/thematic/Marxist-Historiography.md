@@ -51,7 +51,7 @@ Problems around the writing of history, such as the purpose of writing and bias 
 
   width="50%" 
 
-  caption=" \"The Pope of Marxism \" A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
+  caption="A photograph of Karl Kautski, during his lifetime he would greatly aid in the spreading of Marxist ideologies across Europe." 
 
   image-url="Skroch-Karl-Kautski.jpg" 
 
@@ -71,7 +71,7 @@ Kautskism can be seen as a more strict adherence to the historiographical belief
 
   width="50%" 
 
-  caption="A peace of Marxist propeganda, the top reads \" long live Marxism-Leninism-Maoism! \" At the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. Below the image is \"celebrate the Mao Tsetung centenary!\" The bottom reads \"the Revolutionary Internationalist Movement.\" "
+  caption="A peace of Marxist propeganda, at the center is a stylized image Marx, Lenin, and Mao, three extremely important Marxists. The two captions are words of honor and celebration for the three marxist."
 
   image-url="Skroch-Marxist-Propeganda.jpg" 
 
