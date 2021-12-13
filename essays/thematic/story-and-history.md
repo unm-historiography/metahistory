@@ -61,7 +61,9 @@ This statement is ironic in the face of history and culture with its use of stri
 
 ##### Conclusion
 
-It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject. Therefore, it flows into their work. Most historians construct a theoretical, yet to them possible, set of events. All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. Source material is gathered, but it is the historian’s job to construct the meaning. Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
+It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject. Therefore, it flows into their work. 
+
+Most historians construct a theoretical, yet to them possible, set of events. All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. Source material is gathered, but it is the historian’s job to construct the meaning. Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
 
 When thinking about a story space for the telling of history, the triangle of knowledge needed to make any construct of history a valid story is not just theorized rubbish. Rather, it is supporting evedence of the plot. 
 
