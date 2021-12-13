@@ -32,6 +32,7 @@ Historians often look to the media of the past for source details. Today’s Met
 
 ---
 Stories told of events, and people change the collective memory of societies to become History
+
 ---
 The idea of story telling brought the newspaper industry an opportunity a hundred years ago that still works for them today, the ability to go in depth into a story. This is the same ability meta historians have today, with even more ability to advance the story. We can edit and add new information far more easily than a paper could. Yet, the unique ability to bring narrative and character to an event to connect the audience with history remains the same. The responsibility is there too. We have more ability to remain balanced now than times before. Within the balance of perspectives, a more representational and factual look at history could evolve. 
 
