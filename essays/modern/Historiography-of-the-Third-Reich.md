@@ -66,14 +66,6 @@ For German historians of the interwar years, conservative-nationalist procliviti
 
 All this was contemporaneous to the professionalization of history as a discipline, which more often required extensive technical training. Indeed, the historian [Gustav Droysen](https://en.wikipedia.org/wiki/Johann_Gustav_Droysen) proclaimed that history should be raised to the “rank of a science” (Iggers, 19), though he rejected the positivist search for deterministic historical laws (Daston, 32). Another German historian, [Heinrich von Sybel](https://en.wikipedia.org/wiki/Heinrich_von_Sybel), who had studied under Ranke and founded the *Historische Zeitschrift* (a leading German historical journal) rejected Ranke’s impartiality entirely, calling it “cold” and “colorless.” Along those same lines, historian [Georg Gervinus](https://en.wikipedia.org/wiki/Georg_Gottfried_Gervinus) simply said it was a sign of “political impotence” (31). At the same time as rejecting impartiality, however, these historians affirmed the objectivity of their discipline. How could this be so?
 
-{% include figure.html
-  class="right"
-  width="33%"
-  caption="Leopold von Ranke (c. 1795-1886) as he looked at about 82 years old in 1877. His notion of historical objectivity weighed heavily on German historians. For many, a German nationalist worldview was inherently objective."
-  image-url="mmendoza-leopold-von-ranke.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Leopold_Von_Ranke_1877.jpg"
-%}
-
 Historical objectivity was conceived by some historians as embodied by the methodologies of historical investigation---it was through a systematic process of '**_Quellenkritik_' (source criticism)** that the perspectives, context, and bias of historical sources were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was believed that the methodological rigor of the historian’s process made the work “objective” (32). Impartiality was even mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” but this did not preclude them from imagining their historical work was fundamentally objective (33). Utilizing history in the service of present, political realities was an idea that would only grow in the coming years.
 
 ### *Völkische* History
