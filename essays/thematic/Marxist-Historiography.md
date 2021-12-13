@@ -25,7 +25,7 @@ toc-section: thematic
 
 %} 
 
-From the bloodshed of the Bolshevik Revolution to the fall of dynastic China, Marxist values have had a massive impact on the course of human history. This economic theory requires a deep understanding of social interactions throughout history. 
+From the bloodshed of the Bolshevik Revolution to the fall of dynastic China, Marxist values have had a massive impact on the course of human history. This economic theory requires a deep understanding of social interactions. Marxist ideologies have their core in human interaction as well as the struggle between economic and social classes.
 
 ## Karl Marx and Fredrich Engles 
 Karl Marx and Fredrich Engles were two German philosophers who lived in the 19th century. The two met in Cologne, Germany and would ultimately become close friends and partners with the goal of furthering the growing socialist movement. The two were instrumental in helping with the formation of the Communist League; and later at the second communist congress in London (1903) they drafted the *Communist Manifesto.* After this, the two continued to work towards the full implementation of their ideologies across Europe. The Revolutions of 1848, an attempt by the Germans to overthrow their authoritarian government, proved to be an opportunity for spreading their economic and political beliefs that ultimately failed along with the Revolutions themselves. The two continued publishing books on Marxism and spreading their thoughts until their deaths.  
