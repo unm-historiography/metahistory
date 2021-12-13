@@ -5,7 +5,7 @@ subtitle: Medieval Greek Historiography and Improving the History of Today
 author: Michael R Aguilar III
 date: 2021-12-13
 toc-blurb: Byzantine historiography has been largely overlooked in the general discussion of the history of history, but in fact has a lot to say about how history as it is done today can be improved in order to provide a more nuanced and potentially more accurate account of the past.
-toc-image: The_Venerable_Bede_translates_John_1902.jpg
+toc-image: Justinian.jpg
 toc-section: medieval
 ---
 
