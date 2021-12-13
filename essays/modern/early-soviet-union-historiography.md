@@ -16,7 +16,7 @@ Early Soviet historiography was shaped by various conflicts, the Russian Revolut
 {% include figure.html
   class="right"
   width="33%"
-  caption="Vladimir Lenin, (1870-1924), the man whose ideology was the center of all Soviet society"
+  caption="Vladimir Lenin, (1870-1924), the man whose ideology was the center of all Soviet society."
   image-url="vladimir-lenin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-71043-0003,_Wladimir_Iljitsch_Lenin.jpg"
 %}
@@ -39,7 +39,7 @@ The non- and semi-Marxist institutions includes the Academy of Sciences in Lenin
 {% include figure.html
   class="left"
   width="55%"
-  caption="Leon Trotsky,(1879-1940), the man that felt that his place in history should be higher"
+  caption="Leon Trotsky,(1879-1940), the man that felt that his place in history should be higher."
   image-url="leon-trotsky.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Leon_Trotsky_at_his_desk.jpg"
 %}
@@ -72,7 +72,7 @@ In 1938 the textbook was published, titled _[History of the All-Union Communist 
 {% include figure.html
   class="right"
   width="33%"
-  caption="Joseph Stalin, (1878-1953), the man that wanted all Soviet society to revolve around him"
+  caption="Joseph Stalin, (1878-1953), the man that wanted all Soviet society to revolve around him."
   image-url="joseph-stalin.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Stalin_Full_Image.jpg"
 %}
