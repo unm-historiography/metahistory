@@ -54,7 +54,7 @@ All of this appears to be in contradiction of the values of the self-professed â
 
 {% include figure.html
   class="left"
-  width="60%"
+  width="55%"
   caption="Soldiers guard the entrance to the Reichstag in Berlin, the seat of the National Assembly of the Weimar Republic during the nationalist [Kapp Putsch](https://en.wikipedia.org/wiki/Kapp_Putsch) of mid-March 1920. The political street violence, numerous uprisings, and putsch attempts that characterized the Weimar period led many to long for more stable governance."
   image-url="mmendoza-berlin-defending-natl-assembly.jpg"
   source-url="https://www.loc.gov/pictures/item/2014710858/"
