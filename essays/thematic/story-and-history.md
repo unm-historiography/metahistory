@@ -53,8 +53,6 @@ Historian Alun Munslow believes the need we feel as humans for a story construct
 
 The public often seeks a story for clarity, “history and fiction, as well as writing and reception, are imaginatively organized.” (Munslow, p6) Writers organize source material into a plausible set of circumstances that unfold in a logical way for modern understanding. In an ironic set of circumstances, the effort to create a narrative can often led to misbalanced or even wrong portals of what really happened. It is a concern to be aware of, but not a red flag to avoid all story tellers of history. Careful work by the historian can result in accurate story spaces that inform, entertain, and bring an overall, more academic, public view of historical events. Emotional connection form in these instances. History stories can create a more compassionate society by such connections of understanding. 
 
-
-
 ##### Conclusion
 
 It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject. Therefore, it flows into their work. Most historians construct a theoretical, yet to them possible, set of events. All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. Source material is gathered, but it is the historian’s job to construct the meaning. Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
