@@ -48,23 +48,9 @@ Historiography of the interwar years in Germany was dominated by the trauma of t
 
 The [Weimar Republic](https://en.wikipedia.org/wiki/Weimar_Republic), itself a consequence of the defeat and the years of chaos and sociopolitical revolution that followed, thus became the target of conservative and nationalist resentments. Most historians shared these sentiments, or were at best “republicans of the head and not of the heart” (Schulze, 21). As makers and “custodians of the national memory,” historians were essential in building post-WWI national consciousness (Sims, 248-249). Historians wrote of the “hereditary enemy” of France, the return of Alsace-Lorraine (a border region ceded to France in 1918), and created a corpus of so-called “border research” that aimed [revanchist](https://en.wikipedia.org/wiki/Revanchism) sentiments at France and Poland (Schleier, 180). Many historical works of the period attempted to “revise” the Treaty, criticised democracy and the Weimar constitution, and in general demanded a revival of nationalist consciousness mixed with a militant, revanchist spirit (Schulze, 21). Conservative-nationalist orthodoxy had by 1920 given way to a "vitalist philosophy" which decried a crisis of culture, of politics, and of society. Academics of all stripes latched on to the vague but alluring and potently nationalist ideas of the "state-empire" and the "racial people" (Ayçoberry, 20).
 
-{% include figure.html
-  class="right"
-  width="30%"
-  caption="Nazi 'Blood and Soil' propaganda like this c. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgeschichte* emphasized their historical importance."
-  image-url="mmendoza-blood-and-soil-propaganda.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
-%}
-
-### *Völkische* History
-
-It was in this intellectual climate post-1918 that the late-nineteenth century notion of [‘*Volk*’](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (Schleier, 180). ‘**_Volksgeschichte_’ (people’s or ethnic history)** was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
-
-A new methodology was required to explore this emerging historical paradigm. Methods were adopted from ethnography, settlement studies, and more detailed analysis was made of local customs, social, and economic histories. German historians of the Weimar years thus combined a more empirical methodology with revisionist political ends (22), a trend that expanded from 1918 onward and especially after 1933 under the auspices of the Nazi state (Schleier, 181).
-
 ### Conservative-Nationalist "Objectivity"
 
-All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century [positivist](https://en.wikipedia.org/wiki/Positivism) thought and greatly influenced by two German intellectual titans: the sociologist **Max Weber** (c. 1864-1920) and the historian **Leopold von Ranke** (c. 1795-1886). Both promoted **impartiality**, warning against the imposition of personal, contemporary values on times past, as well as **objectivity** in historical scholarship, urging the limitation of historical concern to a "strict presentation of the facts" (Cheng, 75). Weber stated publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). Contrastingly, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the [unification of Germany](https://en.wikipedia.org/wiki/Unification_of_Germany) in 1871 as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
+All of this appears to be in contradiction of the values of the self-professed “objective” German historian, the vast majority of whom were steeped in late-nineteenth century [positivist](https://en.wikipedia.org/wiki/Positivism) thought and greatly influenced by two German intellectual titans: the sociologist **Max Weber** (c. 1864-1920) and the historian **Leopold von Ranke** (c. 1795-1886). Both promoted **impartiality**, warning against the imposition of personal, contemporary values on times past, as well as **objectivity** in historical scholarship, urging the limitation of historical concern to a "strict presentation of the facts" (Cheng, 75). Weber stated publicly in 1918 that “politics is out of place in the lecture room” (Sims, 250). And yet, twenty-three years prior at his inaugural address at Freiberg in 1895, Weber had expressed his own nationalist leanings by characterizing the [unification of Germany](https://en.wikipedia.org/wiki/Unification_of_Germany) in 1871 as a “youthful prank,” urging the young nation to continue forward after what seemed like a pause in national progress (Evans, “The Coming” 39).
 
 {% include figure.html
   class="left"
@@ -89,6 +75,20 @@ All this was contemporaneous to the professionalization of history as a discipli
 %}
 
 Historical objectivity was conceived by some historians as embodied by the methodologies of historical investigation---it was through a systematic process of '**_Quellenkritik_' (source criticism)** that the perspectives, context, and bias of historical sources were identified and critiqued. Thus, regardless of the ends to which historical investigation was applied, political or otherwise, it was believed that the methodological rigor of the historian’s process made the work “objective” (32). Impartiality was even mocked by some historians such as [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) as “eunuchry” for the “refusal to put history at the service of life,” but this did not preclude them from imagining their historical work was fundamentally objective (33). Utilizing history in the service of present, political realities was an idea that would only grow in the coming years.
+
+{% include figure.html
+  class="right"
+  width="30%"
+  caption="Nazi 'Blood and Soil' propaganda like this c. 1935-38 wall fresco by Franz Eichhorst extolled the virtues of the peasant farmer. *Volksgeschichte* emphasized their historical importance."
+  image-url="mmendoza-blood-and-soil-propaganda.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Ei08_FRANZ_EICHHORST_1885%E2%80%931948_war_painter_Rathaus_Berlin-Sch%C3%B6neberg_B%C3%BCrgersaal_fresco_1935%E2%80%9338_Nazi_propaganda_%22Bauer%22_Galleria.thule-italia.com_No_known_copyright_restrictions.jpg"
+%}
+
+### *Völkische* History
+
+It was in this intellectual climate post-1918 that the late-nineteenth century notion of [‘*Volk*’](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) (an objective grouping of people with a shared ethnicity, language and culture) became increasingly more influential (Schleier, 180). ‘**_Volksgeschichte_’ (people’s or ethnic history)** was created by the combination of racial theories with ‘*volkstum*’ (people’s character), ideas connected to traditions and culture. This “holistic folk history” became so influential as to rival the traditional grounding of the state as the preeminent object of historical analysis (Schulze, 22).
+
+A new methodology was required to explore this emerging historical paradigm. Methods were adopted from ethnography, settlement studies, as well as linguistics, and more detailed analysis was made of local customs, social, and economic histories. German historians of the Weimar years thus combined a more empirical methodology with revisionist and nationalist political ends (22), a trend that expanded from 1918 onward and especially after 1933 under the auspices of the Nazi state (Schleier, 181).
 
 ---
 
