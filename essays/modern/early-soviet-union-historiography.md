@@ -88,16 +88,16 @@ The early era of Soviet historiography was one of tumult, but it is fair to say 
 
 ## Bibliography
 
-- Avrich, Paul H. _The Short Course and Soviet Historiography_. Political Science Quarterly, Vol. 75, No. 4 (Dec., 1960), pp. 539-553.
+- Avrich, Paul H. "The Short Course and Soviet Historiography". _Political Science Quarterly_, Vol. 75, No. 4 (Dec., 1960), pp. 539-553.
 
-- White, James D. _Leon Trotsky and Soviet Historiography of the Russian Revolution (1918–1931)_. Routledge, 2021.
+- Banerji, Arup. "Notes on the Histories of History in the Soviet Union". _Economic and Political Weekly_, Vol. 41, No. 9 (Mar. 4-10, 2006), pp. 826-833
 
-- Eissenstat, Bernard W. _M. N. Pokrovsky and Soviet Historiography: Some Reconsiderations_. Slavic Review, Vol. 28, No. 4 (Dec., 1969), pp. 604-618.
+- Baron, Samuel H. "Plekhanov, Trotsky, and the Development of Soviet Historiography". _Soviet Studies_, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
 
-- Baron, Samuel H. _Plekhanov, Trotsky, and the Development of Soviet Historiography_. Soviet Studies, Vol. 26, No. 3 (Jul., 1974), pp. 380-395
+- Eissenstat, Bernard W. "M. N. Pokrovsky and Soviet Historiography: Some Reconsiderations". _Slavic Review_, Vol. 28, No. 4 (Dec., 1969), pp. 604-618.
 
-- Banerji, Arup. _Notes on the Histories of History in the Soviet Union_. Economic and Political Weekly, Vol. 41, No. 9 (Mar. 4-10, 2006), pp. 826-833
+- Enteen, George M. "Marxists versus Non-Marxists: Soviet Historiography in the 1920s". _Slavic Review_, Vol. 35, No. 1 (Mar., 1976), pp. 91-110
 
 - Mazour, Anatole G. _Modern Russian Historiography_. Greenwood Press, 1975.
 
-- Enteen, George M. _Marxists versus Non-Marxists: Soviet Historiography in the 1920s_. Slavic Review, Vol. 35, No. 1 (Mar., 1976), pp. 91-110
+- White, James D. _Leon Trotsky and Soviet Historiography of the Russian Revolution (1918–1931)_. Routledge, 2021.
