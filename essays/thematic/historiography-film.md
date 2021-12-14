@@ -36,7 +36,7 @@ Still, Ramirez believed that there were repercussions of the film’s historical
 It is naïve to think that history is only for historians; history is for all to take, interpret and present. Which is why filmmakers find themselves working in historical films, because the histories are there—but to what degree are filmmakers responsible for providing a historically accurate account? When do filmmakers take on the role of the historian? How do historical narratives present in film offer commentary on contemporary events?
 
 {% include figure.html
-  class="left"
+  class="right"
   width="35%"
   caption="Movie poster for Steven Spielberg's *Lincoln* starring Daniel Day-Lewis as Abraham Lincoln. Although the film is centered around Abraham Lincoln and the Emancipation of slaves, Spielberg made the choice to not include the narratives of African American slaves and freemen of the time: simplifying history and stunting the accuracy of the history."
   image-url="lincoln-metahistory.jpeg"
@@ -48,7 +48,7 @@ For instance, take the 2013 film releases of Quentin Tarantino’s *Django Uncha
 What Spielberg was able to do with *Lincoln* was provide a narrative about Abraham Lincoln, during the Emancipation of slaves, that stays with *just* President Lincoln, his cabinet administration, and those close to him. On the other hand, Tarantino’s *Django Unchained* was able to present a fictitious historical narrative about a freed slave who sets out to rescue his wife from a violent plantation owner with the assistance of a German bounty hunter. Where the films differ in their role as historiographic narrative is that Tarantino never wanted to present the film as historically accurate, but more of a “self-conscious meditation on the links between the past and the present” (Bonilla, 74).
 
 {% include figure.html
-  class="right"
+  class="left"
   width="45%"
   caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical fantasy that would entertain while presenting a historical narrative valuable in the contemporary of 2013. Photo credit The Weinstein Company."
   image-url="django-unchained.jpeg"
