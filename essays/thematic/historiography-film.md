@@ -18,7 +18,7 @@ Historical movies, such as *Lincoln, 1917, Dunkirk, and 47*, have been films whe
 ### Simplifying History ###
 Filmmakers only have at most two hours and thirty minutes to provide and establish a historical narrative that captivates an audience and (hopefully) informs that audience, which is why holding the attention of an audience, especially during a film can be difficult. In order to do this, filmmakers must simplify history to create the narrative of their film for the screen. But how does simplifying a history to create a filmable narrative affect the position of the historian? Bruno Ramirez has had this dilemma presented to him as a historian and moviegoer and eventually filmmaker. 
 
-> **“Was filmic treatment of the past in itself bound to distort renditions of the past because of the technical imperative that the film (as opposed to the typical historical monograph) imposed?”** (Ramirez, 5) 
+> “Was filmic treatment of the past in itself bound to distort renditions of the past because of the technical imperative that the film (as opposed to the typical historical monograph) imposed?”(Ramirez, 5) 
 
 {% include figure.html
 class="left"
@@ -39,13 +39,21 @@ For instance, take the 2013 film releases of Quentin Tarantino’s *Django Uncha
 
 {% include figure.html
   class="left"
-  width="30%"
+  width="35%"
   caption="Movie poster for Steven Spielberg's *Lincoln* starring Daniel Day-Lewis as Abraham Lincoln. Although the film is centered around Abraham Lincoln and the Emancipation of slaves, Spielberg made the choice to not include the narratives of African American slaves and freemen of the time: simplifying history and stunting the accuracy of the history."
   image-url="lincoln-metahistory.jpeg"
   source-url="https://ew.com/article/2012/08/22/lincoln-poster/"
 %}
 
 What Spielberg was able to do with *Lincoln* was provide a narrative about Abraham Lincoln, during the Emancipation of slaves, that stays with *just* President Lincoln, his cabinet administration, and those close to him. On the other hand, Tarantino’s *Django Unchained* was able to present a fictitious historical narrative about a freed slave who sets out to rescue his wife from a violent plantation owner with the assistance of a German bounty hunter. Where the films differ in their role as historiographic narrative is that Tarantino never wanted to present the film as historically accurate, but more of a “self-conscious meditation on the links between the past and the present” (Bonilla, 74).
+
+{% include figure.html
+class="right"
+width="35%"
+caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical "fantasy" that would entertain while presenting a historical narrative valuable in the contemporary of 2013. Photo credit Il Fatto Quotidiano."
+image-url="django-unchained.jpeg"
+source-url="https://www.flickr.com/photos/40186586@N02/8389313035"
+%}
 
 Where Spielberg went for an authentic film, Tarantino went for “inauthentic” historical narrative with his film, *Django Unchained*, because his purpose was to write a film that “speaks to us about the contemporary era of black power.” (Bonilla, 73) Tarantino knew that he was responsible for filming a history that the “political present” set the stage for, and Tarantino was especially aware that “the dynamics of the country are changing, and people are talking about that… This time in history is a part of that conversation.” (Bonilla, 73) Tarantino is aware that he is writing a film, that although perpetuated a western drama, has validity in its history both in the past and in its contemporary. Something that Spielberg was not able to do with *Lincoln* because although the history is (mostly) accurately portrayed, Spielberg had shortfalls as a historian in not providing the whole history and connecting that history to the contemporary.
 
