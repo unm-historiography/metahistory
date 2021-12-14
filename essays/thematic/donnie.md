@@ -1,108 +1,85 @@
-# Understanding History Through Narrative
-## _Exploring the possibilites of emotional connections and social memory through story_
+---
+layout: default
+title: Creating Narrativity from Source Material
+subtitle: the art of creating story spaces without losing sight of the facts  
+author: Donnie Daugherty
+date: 2021-12-13
+toc-blurb: Does creating a story narrative from information distort the true events of history, or will it bring clarity and understanding for today's audience?
 
-Presenting history as a compelling story with a beginning, middle, and an end, has been at the heart of many historians aim, and expected by many readers, within the academic study of history. 
-However, in the pursuing of an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond the presents time’s grasp.
+toc-image: The_Venerable_Bede_translates_John_1902.jpg
+toc-section: thematic
+---
 
-This essay seeks to understand the ways in which Narrative history can remain an important aspect of the more scientific gathering of source material, analyzed details, and the postmodern view of history we work with now in the development of history as a discipline.
 
-Looking at the ways Narrative has been used to explain the past and even present situations, we want to see how the form has progressed in the ways of providing true detail and not a proposed view from a single source perspective.
-Balance evolution is part of the history of history as a discipline and can be seen throughout the practice of Narrative. 
-It is a slippery slope that must be walked delicately.  
-Historians often look at the media of the past for source details.
-Today’s media has a responsibility to present the facts in a way that will provide clarity to the audience of today, and hopefully that clarity will continue for the historians in years to come
+{:.abstract}
 
-Yet, nowhere more suitable for a narrative approach to historical studies is the newspaper. This same source is ripe for Narrative distortion. Meta history websites fall within the paramotor for the purpose of this essay. 
-In Rewriting the Newspaper, Thomas R. Schmidt explores the use of narrative history in the news.  
-It is an overview of the improvements story telling brought to the newspaper industry.
-Narrative history techniques were used to develop a style of reporting that ultimately became common practice.
-In an industry that relies on source material, facts, and data to build a reputation, this information is bland in the hands of the reader and serves no purpose. 
-This looks at the induction of storytelling in reporting chronicles evolution of an art form that revitalized the newspaper industry and possibly makes narrative history more accessible and accurate to the future historian. 
-As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience.
-Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. 
-Narrative journalism added particular flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
+Presenting history as a compelling story with a beginning, middle, and an end is at the heart of many historians aim and expected by many readers of history. However, in pursuing an orderly account of past events, details can be exaggerated or overlooked, and the ever-elusive truth of the matter grows further beyond our present time’s grasp. That is especially true as we walk the delicate tight rope of informing in an entertaining way.
 
-Historian Alun Munslow explores the academic approaches to history that have developed over the years.
-Included in this book is his thoughts on Narrative portals of history.
-His explanation of the approach spreads light on the human need for a story construct to re-represent historical events to bring a modern understanding of those events.
-Modern understanding being that of any given present time reflecting upon another. 
- 
-Careful not to overlook the actual function of Narrative, rather than to only entertain possibilities and the audience, the historian’s usage of narrative requires much in the way of historical skills. The ability to organize events into time and place, with use of creative tempo is used to create historical meaning and emotional connection with the audience and the past. (Munslow, p51)
-Literary endeavors natural intersect with historical events, and likewise historical representation folds easily into literary motifs.
-Historian Alun Munslow agrees that as humans we seek a story before clarity can be accepted, “history and fiction, as well as writing and reception, are imaginatively organized.” (Munslow, p6)
-The writer of each organizes the source materials and players into a systematic, organized, and animated set of circumstances that unfold in a logical way. 
-That logical way is often far to defined by current understandings.  That is a natural problem inherent in Narrative history. 
+This essay seeks to understand the ways in which Narrative history can remain an important aspect of gathering source material, analyzing details, and merging story with fact in a way that does not distort, but inhances the factuality of the narrative.
 
-It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject.
-Therefore, it flows into their work. Most historians construct a theoretical, yet to them possible, set of events.
-All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. 
-Source material is gathered, but it is the historian’s job to construct the meaning.
-Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
+## Maintaining a Factual Story Concept
 
-One leading voice who is now a grandfather of the narrative approach to history is Hayden White. His perspectives are still utilized and understood as foundational. White has become known as a leader in the assessment of Narrative History.
- In, The Fiction of Narrative, a collection of Essays between 1957-2007, compiled and edited by 
-Robert Doran, is an exploration of the changing times and themes explored with the respect of adding plot and narrative to events. 
-Ways in which history is seen and recorded through the years, based on a narrative approach, are also addressed in these essays. 
- From them we can gather more information on the approach to narrative reflections and their usage in forming a realistic approach to the study of historical events. 
- 
- Robert Doran who edited the collection of White essays sites the most prolific user of citations, the inventor of the concept of footnote documentation, German Historian Leopold Von Ranke.
- Ranke shaped the view of historical source gathering in such a way that the academic approach to historical research would be unrecognizable without his influence. Ranke himself argues that history is primarily suited for narrative expression. (White, p xxiii)
+Looking at ways Narrative has been used to explain the past and even present situations, we see how the form has progressed in the ways of providing true detail and not a proposed view from a single source perspective. Balance evolution is part of the history of history and can be seen throughout the practice of Narrative. However, it is a slippery slope that must be walked delicately.  
+
+A sense of balance develops within the work of a good narrative. A linguistic pyramid of source, hypothesis, and story must be equally discerned.
+Therefore, it is even more critical that the work of the historian using narrative, or creating a story, is doing so with the most up to date creditable sources and a willingness to change that story when new evidence is found.
+
+### The Responsible Historian
+
+Many times, the Narrative becomes the motion picture. Often, these stories do harm to history by not paying attention to detail. Furthermore, they let slide that which should be removed and then to that add things that were never there. This is to the never-ending frustration of historians and unending confusion to the audience who uses story as their only informative vehicle of history. Therefore, an academic oath, silent as it may be, should be taken by the author to use as much fact as possible. 
+
+Historians often look to the media of the past for source details. Today’s Metahistorical pursuits have a responsibility to present the facts in a way that will provide clarity to the audience while remaining factual and balanced. Thereby, we hope, providing clarity to continue for the historians in years to come. One place suitable for a narrative approach to historical studies is the newspaper. Historians often depend on the reporters of the past to provide detail and source material. Yet this same source is ripe for narrative distortion.  
+
+
+---
+#### Stories of events, and people change the collective memory of societies to become History
+---
+
+The idea of story telling brought the newspaper industry an opportunity a hundred years ago that still works for them today, the ability to go in depth into a story. This is the same ability meta historians have today, with even more ability to advance the story. We can edit and add new information far more easily than a paper could. Yet, the unique ability to bring narrative and character to an event to connect the audience with history remains the same. The responsibility is there too. We have more ability to remain balanced now than times before. Within the balance of perspectives, a more representational and factual look at history could evolve. 
+
+In an industry that relies on source material, facts, and data to build a reputation, information is bland in the hands of the reader and servers no purpose as no connection can be made. Storytelling in reporting allows for a better understanding of past events in a way that on meaningful for the audience of today. Should that connection be made in an accurate and meaning way, true leaning of ourselves and the past could be achieved. 
+
+
+{% include figure.html
+  class="right"
+  width="50%"
+  image-url="The_Venerable_Bede_translates_John_1902.jpg"
+  %}
   
- White looks to Ranke for story telling structure, all of which are necessary for constructing a historical narrative.
- Those being story, plot, and argument. 
- Those being story, plot, and argument. The triangle of knowledge needed to make any construct of history a valid story and not just theorized rubbish. (White, 113)
- White, when talking about a verbal structure for the telling of history, supports the notion of plot and believes it is possible for the reader to determine what is possible application of source material based on human patterns and that of the actual source material itself.
- Meaning, one could decide for themselves if the story told could have happened. 
- Differing narratives need not to compete or contradict with one another but tell another side to the same story. This making it more complete. (White, 115)  
- 
- In, Our Knowledge of the Past, Aviezer Tucker takes a philosophical approach to the work of the historian
- In doing so, some good information for the reflective historian using the narrative approach to history is gained.
- For example, the question of how much of narrative histories hypotheses become socially acceptable fact.
- The narrative historian must not forget that in linking together source and hypothesis, the story between the two could become accepted truth by the audience.
-Therefore, it is even more critical that the work of the historian using narrative, or creating a story, is doing so with the most up to date creditable sources and a willingness to change that story when new evidence is found. 
- 
-Tucker believes in the initial work of the historian is much like that of being a reporter, investigatory, or any other fact gathering, detail-oriented worker.
-It is the story of piecing together all this information in cohesive terms that becomes the unique responsibility of the historian. 
- 
-A sense of balance develops within the work of a good narrative.
-The linguistic pyramid of source, hypothesis, and story must be equally discerned.
-Arthur Marwick takes this challenge in, The Nature of History. 
-He outlines the job of a story telling historian and outlines the necessity of fact, “The problem of form in historical writing is also peculiarly acute because not only must the historian represent the complexity of past experience, but [he] must also represent it in the movement of time.” (Marwick, p152)
-This statement is ironic in the face of history and culture with its use of strictly masculine terms for describing the historian given the essence of the statement and gives us a good example of how even the study of history can advance, just as the story does. The narrative historian must adapt to change and put forth a story that envelopes the past within an understanding of changing, for the better, societies.
-New lessons are always available within history for evolving societies. 
-Marwick highlights the need for evolving nature of narrative, even if unwittingly in reflection of the way we learn and live with history today.
-A historical story needs to bring the past into the present with meaning for todays culture, or it is only a story of some past event with no emotional connection to today’s meta-audience.
+As newspapers once adapted to changing times and brought onboard the storytelling aspects of narrative history into their product, so might the meta historian benefit from the connective possibilities of story and audience. Newspapers went from giving straight forward details, to expanding upon this information in emotional ways that tied audience and event in, “analytical, interpretive, subjective, or contextual reporting. 
 
-History, and especially the stories told of events and people, change the collective memory of societies. 
-Peter Seixas compiled and edited a collection of essays by historians on the collective memory of society and the historian contribution to this memory. 
-In the collection of essays, bound together under the title, Theorizing Historical Consciousness, Seixas speculates that, “a common past, preserved through institutions, traditions, and symbols, is a crucial instrument-perhaps the crucial instrument -in the construction of collective identities in the present.” (Seixas, p5) Story about the past informs those of today who we are. 
+Narrative journalism added flavor and texture to these changes. In essence, it bridged the gap between explanatory and interpretive writing through storytelling” (Schmidt, p105)
 
- Within the collection from Seixas, we have an examination of the long-ascribed notion to history given by Paul Valery that history, “is the most dangerous product the chemist of the brain has ever created.”(Seixas, p165) 
- This product is created and recreated thought the narrative process and runs the risk of creating ideas that never happened.
- At the same time, creating depth to events that did happen. 
- The route taken is in the hands of the historian. 
- 
-Marwick. Arthur, The Nature of History, Second Edition 1981 The MacMillan Press_
-An early look, one that becomes ironic in many descriptions of the practice of history, yet still delivers some useful information for historians using a narrative approach in today’s historical research and storytelling. 
+#### In Support of Narrativity 
 
-Munslow, Alun, Narrative and History, 2007 Palgrave Macmillan 
-Historian Alun Munslow explores the academic approaches to history that have developed over the years. Included in this book is his thoughts on Narrative portals of history. His explanation of the approach spreads light on the human need for a story construct to re-represent historical events to bring a modern understanding of those events. Modern understanding being that of any given present time reflecting upon another. 
+Historian Alun Munslow believes the need we feel as humans for a story construct to represent historical events stems from our mental process of discerning information. Narrativity creates a modern understanding of past events. 
 
-Schmidt, Thomas R., The Rewriting of the Newspaper: The Story Telling Movement in American Print Journalism. 2019 
-An overview of the improvements story telling brought to the newspaper industry. Narrative history techniques were used to develop a style of reporting that ultimately became common practice. In an industry that relies on source material, facts, and data to build a reputation, this information is bland in the hands of the reader and serves no purpose. This investigation at the induction of storytelling in reporting chronicles evolution of an art form that revitalized the newspaper industry and possibly makes narrative history more accessible and accurate to the future historian. 
+The public often seeks a story for clarity, “history and fiction, as well as writing and reception, are imaginatively organized.” (Munslow, p6) Writers organize source material into a plausible set of circumstances that unfold in a logical way for modern understanding. In an ironic set of circumstances, the effort to create a narrative can often led to misbalanced or even wrong portals of what really happened. It is a concern to be aware of, but not a red flag to avoid all story tellers of history. Careful work by the historian can result in accurate story spaces that inform, entertain, and bring an overall, more academic, public view of historical events. Emotional connection form in these instances. History stories can create a more compassionate society by such connections of understanding. 
 
-Seixas, Peter, Theorizing Historical Consciousness, 2004 University of Toronto Press
-In this collection of essays on the impact of historical research and writing on the collective consciousness of society brings clarity to the importance of accuracy and insightfulness when creating a historical story. 
+A sense of balance develops within the work of a good narrative. The linguistic pyramid of source, hypothesis, and story must be equally discerned. Arthur Marwick takes this challenge in, The Nature of History. He outlines the job of a story telling historian and outlines the necessity of fact, “The problem of form in historical writing is also peculiarly acute because not only must the historian represent the complexity of past experience, but [he] must also represent it in the movement of time.” (Marwick, p152)
+
+This statement is ironic in the face of history and culture with its use of strictly masculine terms for describing the historian given the essence of the statemen. It gives us a good example of how even the study of history can advance, just as the story does. The narrative historian must adapt to change and put forth a story that envelopes the past within an understanding of changing, for the better, in societies. New lessons are always available within history for evolving societies. Marwick highlights the need for evolving nature of narrative, even if unwittingly in reflection of the way we learn and live with history today. A historical story needs to bring the past into the present with meaning for today’s culture, or it is only a story of some past event with no emotional connection to today’s meta-audience.
+
+##### Conclusion
+
+It is likely an impossible endeavor, although at times valiantly fought, the attempt at being neutral to a degree of leaving oneself at the edge of the historical event being told, However, the truth of the matter in this instance is the near impossibility of the academic bring their own life’s understanding to a subject. Therefore, it flows into their work. 
+
+Most historians construct a theoretical, yet to them possible, set of events. All of which tend to focus on a character of the past and an attempt to answer the “why” of any action by that character. Source material is gathered, but it is the historian’s job to construct the meaning. Munslow says, “historical story spaces are as much the ethical, emotional and intellectual products of themselves, their agendas and their theories as they are reflections of and on, “what happened.” (Munslow, p18) 
+
+When thinking about a story space for the telling of history, the triangle of knowledge needed to make any construct of history a valid story is not just theorized rubbish. Rather, it is supporting evedence of the plot. 
 
 
-Tucker, Aviezer, Our Knowledge of the Past, 2004 Cambridge Press
-This book takes a philosophical approach to the gathering of source information and compiling this into a historical hypothesis that ultimately becomes common belief. The philosophical look at the work of a historian gives insight into the narrative process used by some historians and lends itself well to this essay. 
+## Bibliography
 
-White, Hayden, The Fiction of Narrative, 2010 John Hopkins University Press
-Hayden White has become known as a leader in the assessment of Narrative History. This collection of Essays between 1957-2007 explore the changing times and themes explored with the respect of adding plot and narrative to events. Ways in which history is seen and recorded through the years, based on a narrative approach, are also addressed in these essays. 
+- Marwick. Arthur. _The Nature of History_. Second Edition, The MacMillan Press, 1991.
 
+- Munslow, Alun. _Narrative and History_. Palgrave MacMillan, 2007.
 
- 
- 
-  
-  
+- Schmidt, Thomas R. _The Rewritting of the Newspaper: The Story Telling Movement in American Print Journalism_, 2019.
+
+- Seixas, Peter. _Theorizing Historical Consciousness_. 
+
+- Tucker, Aviezer. _Our Knowledge of the Past_, Cambridge Press 2004 
+
+- White, Hayden. _The Fiction of Narrative_, John Hopkins University Press 2010 
+
