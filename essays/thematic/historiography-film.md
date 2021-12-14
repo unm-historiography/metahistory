@@ -35,14 +35,6 @@ Still, Ramirez believed that there were repercussions of the film’s historical
 ### Filmmakers as the Occasional Historian ###
 It is naïve to think that history is only for historians; history is for all to take, interpret and present. Which is why filmmakers find themselves working in historical films, because the histories are there—but to what degree are filmmakers responsible for providing a historically accurate account? When do filmmakers take on the role of the historian? How do historical narratives present in film offer commentary on contemporary events?
 
-{% include figure.html
-  class="right"
-  width="20%"
-  caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical "fantasy" that would entertain while presenting a historical narrative valuable in the contemporary of 2013. Photo credit Il Fatto Quotidiano."
-  image-url="django-unchained.jpeg"
-  source-url="https://wordpress.org/openverse/photos/f6f0bb2d-0278-42d9-b16a-24e3085ea738"
-%}
-
 For instance, take the 2013 film releases of Quentin Tarantino’s *Django Unchained* and Steven Spielberg’s *Lincoln*; both films centered on slavery, but Tarantino’s film was more of a “play” on history under the guise of a “spaghetti western”, whereas Spielberg’s film was a biographical historical drama about Abraham Lincoln that was serious yet highly revered. (Bonilla, 72) Spielberg was even praised by University of Virginia Professor of History, Philip Zelikow, for “offering new insights” into the Emancipation period of American history, although it was quite apparent that Spielberg had also “silenced” the role of African Americans in that history as well. There was no questioning that Spielberg had gotten the Lincoln side of history correct, but had he done his part as a historian in presenting **as much** of the history as he could?
 
 {% include figure.html
