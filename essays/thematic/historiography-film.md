@@ -86,7 +86,7 @@ Historical movies tend to â€œfocus on the portrayal of real events and people,â€
 
 ### Conclusion ###
 As a medium, film is one of the best ways for history to be accessible to the public. 
-When it comes to the historiographic narrative that filmmakers present, accuracy and transparency should be at the forefront. Still, filmmakers must become the occasional historian so that the final product is presented for (mass) consumption by large audiences in a way that is beneficial for their learning and entertainment. This comes by presenting history as both a story of the past and of the present, as Quentin Tarantino, Barbara Abrash, Daniel J. Walkowitz, and many other filmmakers have been able to present through their work. As much as history is both a science and an art, it can be argued that so should the filmic treatment of historiographic narrative.
+When it comes to the historiographic narrative that filmmakers present, accuracy and transparency should be at the forefront. Still, filmmakers must become the occasional historian so that the final product is presented for (mass) consumption by large audiences in a way that is beneficial for their learning and entertainment. This comes by presenting history as both a story of the past and the present, as Quentin Tarantino, Barbara Abrash, Daniel J. Walkowitz, and many other filmmakers have been able to present through their work. As much as history is both a science and an art, it can be argued that so should the filmic treatment of historiographic narrative.
 
 ## Bibliography
 
