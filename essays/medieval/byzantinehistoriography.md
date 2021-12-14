@@ -24,7 +24,7 @@ Another historian from this Procopian period is a contemporary of Procopius name
   {% include figure.html
   class="right"
   width="50%"
-  caption="The Emperor Justinian was one of Procopius's favorite topics in his writing."
+  caption="The Emperor Justinian, though far from his favorite *person*, was one of Procopius's favorite topics in his writing."
   image-url="Justinian.jpg"
   source-url="https://en.wikipedia.org/wiki/Procopius#/media/File:Meister_von_San_Vitale_in_Ravenna.jpg"
 %}
@@ -39,7 +39,7 @@ Constantine VII Porphyrogenitus is considered today to be a one of the most impo
    {% include figure.html
   class="right"
   width="50%"
-  caption="Constantine VII is called Porphyrogenitus, denoting that he was born while his parents reigned."
+  caption="Constantine VII is called Porphyrogenitus, was a great historian when Byzatium was lacking in great historians."
   image-url="Constantine_VII_Porphyrogenitus.jpg"
   source-url="https://en.wikipedia.org/wiki/Constantine_VII#/media/File:Constantine_VII_Porphyrogenitus.jpg"
 %}
@@ -89,34 +89,34 @@ In sum, Byzantine historiography can be characterized as largely having been bia
 
 ## Bibliography
 
-Cameron, Averil, and Alan Cameron. “The Cycle of Agathias.” The Journal of Hellenic Studies 86 (1966): 6–25.
+Cameron, Averil, and Alan Cameron. “The Cycle of Agathias.” *The Journal of Hellenic Studies* 86 (1966): 6–25.
 
-Evans, J. A. S. “Justinian and the Historian Procopius.” Greece & Rome 17, no. 2 (1970): 218–23.
+Evans, J. A. S. “Justinian and the Historian Procopius.” *Greece & Rome* 17, no. 2 (1970): 218–23.
 
-Hart, Teresa. “Nicephorus Gregoras: Historian of the Hesychast Controversy.” The Journal of Ecclesiastical History 2, no. 2 (1951): 169–79.
+Hart, Teresa. “Nicephorus Gregoras: Historian of the Hesychast Controversy.” *The Journal of Ecclesiastical History* 2, no. 2 (1951): 169–79.
 
-Huxley, G. L. “The Scholarship of Constantine Porphyrogenitus.” Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature 80C (1980): 29–40.
+Huxley, G. L. “The Scholarship of Constantine Porphyrogenitus.” *Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature* 80C (1980): 29–40.
 
-Kaegi, Walter Emil. Speculum 63, no. 2 (1988): 478–80.
+Kaegi, Walter Emil. *Speculum* 63, no. 2 (1988): 478–80.
 
-Kaldellis, Anthony. Speculum 83, no. 2 (2008): 459–60.
+Kaldellis, Anthony. *Speculum* 83, no. 2 (2008): 459–60.
 
-K. G. The Classical Outlook 49, no. 2 (1971): 22–22.
+K. G. *The Classical Outlook* 49, no. 2 (1971): 22–22.
 
-Laurent, V. “LES MANUSCRITS DE L’HISTOIRE BYZANTINE DE GEORGES PACHYMÈRE.” Byzantion 5, no. 1 (1929): 129–205.
+Laurent, V. “Les Manuscrits De L’Histoire Byzantine De Georges Pachymere.” *Byzantion* 5, no. 1 (1929): 129–205.
 
-McCail, Ronald C. Review of Agathias Assessed, by Averil Cameron. The Classical Review 22, no. 2 (1972): 205–7.
+McCail, Ronald C. Review of Agathias Assessed, by Averil Cameron. *The Classical Review* 22, no. 2 (1972): 205–7.
 
-McLaughlin, Brian. “An Annotated Translation of John Kantakouzenos' 'Histories', Book III, Chapters 1-30,” 2017. 
+McLaughlin, Brian. “An Annotated Translation of John Kantakouzenos' *'Histories'*, Book III, Chapters 1-30,” 2017. 
 
-Procopius. Secret History. Translated by Richard Atwater. University of Michigan Press, 1963.
+Procopius. *Secret History*. Translated by Richard Atwater. University of Michigan Press, 1963.
 
-Quandahl, Ellen, and Susan C. Jarratt. “‘To Recall Him … Will Be a Subject of Lamentation’: Anna Comnena as Rhetorical Historiographer.” Rhetorica: A Journal of the History of Rhetoric 26, no. 3 (2008): 301–35.
+Quandahl, Ellen, and Susan C. Jarratt. “‘To Recall Him … Will Be a Subject of Lamentation’: Anna Comnena as Rhetorical Historiographer.” *Rhetorica: A Journal of the History of Rhetoric* 26, no. 3 (2008): 301–35.
 
-Scholasticus, Evagrius. The Ecclesiastical History of Evagrius Scholasticus. Translated by Michael Whitby. Liverpool University Press, 2001. 
+Scholasticus, Evagrius. *The Ecclesiastical History of Evagrius Scholasticus*. Translated by Michael Whitby. Liverpool University Press, 2001. 
 
-Simpson, Alicia J. “Before and After 1204: The Versions of Niketas Choniates’ ‘Historia.’” Dumbarton Oaks Papers 60 (2006): 189–221.
+Simpson, Alicia J. “Before and After 1204: The Versions of Niketas Choniates’ ‘Historia.’” *Dumbarton Oaks Papers* 60 (2006): 189–221.
 
-Stephenson, Paul. “JOHN CINNAMUS, JOHN II COMNENUS AND THE HUNGARIAN CAMPAIGN OF 1127-1129.” Byzantion 66, no. 1 (1996): 177–87.
+Stephenson, Paul. “John Cinnamus, John II Comnenus and the Hungarian Campaign of 1127-1129.” *Byzantion* 66, no. 1 (1996): 177–87.
 
-TOUGHER, SHAUN. History 82, no. 266 (1997): 297–98.
+TOUGHER, SHAUN. *History* 82, no. 266 (1997): 297–98.
