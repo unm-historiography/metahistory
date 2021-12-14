@@ -52,7 +52,7 @@ class="right"
 width="35%"
 caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical "fantasy" that would entertain while presenting a historical narrative valuable in the contemporary of 2013. Photo credit Il Fatto Quotidiano."
 image-url="django-unchained.jpeg"
-source-url=""
+source-url="https://wordpress.org/openverse/photos/f6f0bb2d-0278-42d9-b16a-24e3085ea738"
 %}
 
 Where Spielberg went for an authentic film, Tarantino went for “inauthentic” historical narrative with his film, *Django Unchained*, because his purpose was to write a film that “speaks to us about the contemporary era of black power.” (Bonilla, 73) Tarantino knew that he was responsible for filming a history that the “political present” set the stage for, and Tarantino was especially aware that “the dynamics of the country are changing, and people are talking about that… This time in history is a part of that conversation.” (Bonilla, 73) Tarantino is aware that he is writing a film, that although perpetuated a western drama, has validity in its history both in the past and in its contemporary. Something that Spielberg was not able to do with *Lincoln* because although the history is (mostly) accurately portrayed, Spielberg had shortfalls as a historian in not providing the whole history and connecting that history to the contemporary.
