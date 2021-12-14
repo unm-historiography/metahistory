@@ -38,7 +38,7 @@ It is naïve to think that history is only for historians; history is for all to
 {% include figure.html
   class="right"
   width="20%"
-  caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical "fantasy" that would entertain while presenting a historical narrative valuable in the contemporary of 2013."
+  caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical "fantasy" that would entertain while presenting a historical narrative valuable in the contemporary of 2013. Photo credit Il Fatto Quotidiano."
   image-url="django-unchained.jpeg"
   source-url="https://wordpress.org/openverse/photos/f6f0bb2d-0278-42d9-b16a-24e3085ea738"
 %}
