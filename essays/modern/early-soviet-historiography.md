@@ -32,9 +32,6 @@ The Marxist institutions included, the Society of Marxist Historians (part of th
 
 The non- and semi-Marxist institutions includes the Academy of Sciences in Leningrad, GAIMK (State Academy for the History of Material Culture), and RANION (Russian Association of Social Science Institutes). These state sanctioned institutions were used to allow bourgeois scholarship to continue in a controlled environment where all works could be edited to the Communist Party’s liking.
 
-## Slavophile Controversy
-[Section pertaining to the development of Russian Civilization. Did the Vikings play a part? How could historians believe that Russian developed independently of Europe and with some influence from Asia?]
-
 ## Leon Trotsky
 [Leon Trotsky](https://en.wikipedia.org/wiki/Leon_Trotsky) was a leading Russian revolutionary and not a trained historian, but he had great contributions to the study of Soviet history. Trotsky’s belief of the Marxist ideology, referred to as Trotskyism, differed from many other revolutionaries in that he believed in a permanent revolution where social change was constant. This difference in ideology would play a part in his eventual downfall because he believed the way the Communist Party interpreted Marxism-Leninism into government actions was out of sync with true Marxism-Leninism. There was no other greater example of this than his main rival, Stalin.
 
