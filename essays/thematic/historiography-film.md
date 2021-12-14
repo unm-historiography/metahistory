@@ -4,8 +4,8 @@ title: The Responsibility of Accuracy
 subtitle: Historiography and its Relationship with Film and Filmmakers
 author: Kelly Idali Salaiz
 date: 2021-12-13
-toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
-toc-image: The_Venerable_Bede_translates_John_1902.jpg
+toc-blurb: When it comes to creating a historical film, to what degree is the filmmaker responsible as an occassional historian? How does simplification, individual framework, and artistic agency contribute to a filmmakers ability to entertain, then inform?
+toc-image: salaiz-marie-antoinette.jpeg
 toc-section: thematic
 ---
 
