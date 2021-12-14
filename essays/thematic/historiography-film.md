@@ -22,7 +22,7 @@ Filmmakers only have at most two hours and thirty minutes to provide and establi
 
 {% include figure.html
 class="left"
-width="30%"
+width="35%"
 caption="Poster for D.W. Griffith's 1915 silent American film *The Birth of a Nation* for a showing at the Academy of Music. Based on the book by Thomas Dixon, tells the story of the  Stoneman and Cameron family, both affected by the Civil War, fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan."
 image-url="salaiz-birth-of-nation.jpeg"
 source-url="https://commons.wikimedia.org/wiki/File:Birth_of_a_Nation_-_Academy.jpg"
@@ -46,6 +46,14 @@ For instance, take the 2013 film releases of Quentin Tarantino’s *Django Uncha
 %}
 
 What Spielberg was able to do with *Lincoln* was provide a narrative about Abraham Lincoln, during the Emancipation of slaves, that stays with *just* President Lincoln, his cabinet administration, and those close to him. On the other hand, Tarantino’s *Django Unchained* was able to present a fictitious historical narrative about a freed slave who sets out to rescue his wife from a violent plantation owner with the assistance of a German bounty hunter. Where the films differ in their role as historiographic narrative is that Tarantino never wanted to present the film as historically accurate, but more of a “self-conscious meditation on the links between the past and the present” (Bonilla, 74).
+
+{% include figure.html
+  class="right"
+  width="35%"
+  caption="Actors Christoph Waltz (left) and Jamie Foxx (right) in Quentin Tarantino’s *Django Unchained*. Waltz portrayed fictional German bounty hunter Dr. King Schultz who assists Foxx's Django in an action western film. Although highly fictionalized, Tarantino was honest in wanting to provide a sort of historical \"fantasy"\ that would entertain while presenting a historical narrative valuable in the contemporary of 2013. Photo credit Il Fatto Quotidiano."
+  image-url="django-unchained.jpeg"
+  source-url="https://wordpress.org/openverse/photos/f6f0bb2d-0278-42d9-b16a-24e3085ea738"
+%}
 
 Where Spielberg went for an authentic film, Tarantino went for “inauthentic” historical narrative with his film, *Django Unchained*, because his purpose was to write a film that “speaks to us about the contemporary era of black power.” (Bonilla, 73) Tarantino knew that he was responsible for filming a history that the “political present” set the stage for, and Tarantino was especially aware that “the dynamics of the country are changing, and people are talking about that… This time in history is a part of that conversation.” (Bonilla, 73) Tarantino is aware that he is writing a film, that although perpetuated a western drama, has validity in its history both in the past and in its contemporary. Something that Spielberg was not able to do with *Lincoln* because although the history is (mostly) accurately portrayed, Spielberg had shortfalls as a historian in not providing the whole history and connecting that history to the contemporary.
 
