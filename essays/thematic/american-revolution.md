@@ -88,7 +88,7 @@ The Italian city-states during the Renaissance were not only pioneers of art and
 {% include figure.html
   class="img-center"
   width="75%"
-  caption="Washington Crossing the Delaware by Emanuel Leutze (1851). A famous painting depicting Washington as courages and talwart in the face of war."
+  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courages and talwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
 %}
