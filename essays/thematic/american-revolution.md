@@ -84,10 +84,11 @@ The Italian city-states during the Renaissance were not only pioneers of art and
 
 ## Founder's Chic and Public History
 
+
 {% include figure.html
   class="img-center"
-  width="50%"
-  caption="A victum of histography and truth. His stories of King Arther was turned from works of historical truth to fable of myth."
+  width="75%"
+  caption="Washington Crossing the Delaware by Emanuel Leutze (1851). A famous painting depicting Washington as courages and talwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
 %}
