@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Historical Truth 2.0
-subtitle: Defining Truth from Antiquity to the Enlightenment
-author: Kyle Chicharello
-date: 2016-11-19
-toc-blurb: From the scrolls of ancient Greece to the jargon packed books of the modern academic historian, historians have searched for “true histories”. In studying what constitutes history, we must focus on some themes that belong to what we call today historiography.
-toc-image: 330px-Auli_Gellii_Noctium_Atticarum_1706.jpg
+title: Historiography of the American Revolution 
+subtitle: Interpreting the War for Independence 
+author: Andrew Schumann
+date: 2021-12-16
+toc-blurb:
+toc-image: 
 toc-section: thematic
 ---
 
