@@ -75,14 +75,6 @@ The Early Middle Ages are more important for historiography than one would think
 
 Also in Europe, during the Early Middle Ages we begin to see the start of a distinction between **chroniclers**, compilers of facts and data, and the **historian**, the one whom finds the meaning behind historical events.  (Kelly, 103) Chroniclers, tell us what happened; historians tell us why it happened and why it mattered. We also begin to see the end of myth-histories near the end of this period with the **criticism and rejection** of the mythical tales of King Arthur. The tales of King Arthur were made historical by [Geoffrey of Monmouth](https://www.britannica.com/biography/Geoffrey-of-Monmouth) but were immediately assailed by his contemporary historians, and his work was label as **fiction**. (Kelly, 113) This is the **foundations for scholarship** as we know it in the west and historians became more **critical** of one another’s work. Although this scholarship still lacked a *formal academic discipline*, these actions by medieval historians laid the foundations of scholarship for later renaissance and enlightenment historians. The medieval age may not have been the most stable or prosperous, but its' historians aided historiography immensely.
 
-{% include figure.html
-  class="img-center"
-  width="50%"
-  caption="A victum of histography and truth. His stories of King Arther was turned from works of historical truth to fable of myth."
-  image-url="Geoffreymonmouth.jpg"
-  source-url="https://blogs.haverford.edu/decentered/2015/07/02/geoffrey-of-monmouth-history-or-fiction/"
-%}
-
 ## The New-Left 
 The Renaissance was especially important to historiography. It began the break between **secularism** and **religion**, which would directly lead into the challenging of traditions through the Reformation and the Enlightenment. The Renaissance lead to: revealing of forgeries,
 
@@ -91,6 +83,15 @@ Within this period we begin to see a **stronger criticism** of ancient sources a
 The Italian city-states during the Renaissance were not only pioneers of art and science, but they contributed greatly to historiography. One italian historian, [Bruni](https://www.britannica.com/biography/Leonardo-Bruni), displays Renaissance historiographical method rather well. In his **chronicle** of the city-state of Florence, he employed: *Ciceronian laws of truth*, a structured *explanatory narrative*, and only *documentary sources* of the "known history of Florence" by *rejecting mythical foundations*. His chronicle was also an example of the new **humanist** wave of historiography sweeping through Italy and a critical humanistic historiography would be continued by future Italian chroniclers.
 
 ## Founder's Chic and Public History
+
+{% include figure.html
+  class="img-center"
+  width="50%"
+  caption="A victum of histography and truth. His stories of King Arther was turned from works of historical truth to fable of myth."
+  image-url="schumann-delaware-crossing.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
+%}
+
 During the reformation movement a battle occurred between protestant and catholic historiographers. The main point of conflict was which of the two branches of christianity were more "traditional", by having closer roots to the first christians. The role of **tradition** was of paramount importance to both sides of the Christian reform movement,and history allowed for each side to attempt to legitimize their argument. (Kelly, 172) For the Catholic historiographer, [Casare Baronio](http://catholicsaints.info/catholic-encyclopedia-venerable-cesare-baronius/), his chosen form was annals because it allowed for a writing that was within the rigid requirements demanded by truth. However, the arguments presented by Baronio were quickly rejected by reformist historiographers, and the debate continued into the next few centuries. (Kelly, 173)
 
 Also during this period, the old medieval myths of Trojan origins and Carolingian creation were dismantled by historiographers during this period. (Kelly, 179) In the place of these medieval myths arose new modern myths of nationalistic foundations. (Kelly, 181) In England during this period, the historian [William Camden](https://www.britannica.com/biography/William-Camden) used a critical and impartial method to analyze the causes of historical events. (Kelly, 184) Other English historians during this period used historical scholarship and criticism to help recreate the English past. This period may not be filled with great sweeping changes of the medieval or renaissance period in terms of historiography, but it helped push along historiography into becoming an academic discipline.
