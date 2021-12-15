@@ -10,7 +10,7 @@ toc-section: thematic
 ---
 
 {:.abstract}
-Historians have always searched for truth, but what constitutes the “truth” has changed significantly, and historians have been instrumental in that change.
+For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. 
 
 
 ## Colonial Interpretations
