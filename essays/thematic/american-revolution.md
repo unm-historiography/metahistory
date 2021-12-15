@@ -5,7 +5,7 @@ subtitle: Interpreting the War for Independence
 author: Andrew Schumann
 date: 2021-12-16
 toc-blurb:
-toc-image: 
+toc-image: schumann-delaware-crossing.jpg
 toc-section: thematic
 ---
 
