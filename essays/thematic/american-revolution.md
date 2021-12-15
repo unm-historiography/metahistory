@@ -4,7 +4,7 @@ title: Historiography of the American Revolution
 subtitle: Interpreting the War for Independence 
 author: Andrew Schumann
 date: 2021-12-16
-toc-blurb:
+toc-blurb: For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding.
 toc-image: schumann-delaware-crossing.jpg
 toc-section: thematic 
 ---
