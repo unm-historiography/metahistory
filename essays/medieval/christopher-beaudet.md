@@ -22,7 +22,7 @@ Before the landings of the Varangian Rurik and the establishment of the Kievan R
 
 {% include figure.html
 class="left"
-width="40%"
+width="50%"
 caption="The extent of the Kievan Rus’, the Principalities, and the various Slavic tribes"
 image-url="beaudet-principalities-of-the-kievan-rus.jpg"
 source-url=" https://en.wikipedia.org/wiki/Principality_of_Smolensk#/media/File:Principalities_of_Kievan_Rus'_(1054-1132).jpg"
