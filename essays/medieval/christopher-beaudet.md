@@ -69,7 +69,7 @@ In 1237 A.D., the shell of the Kievan Rus’ was conquered by the Mongols, led b
 {% include figure.html
 class="left"
 width="100%"
-caption="Pavel Ryzhenko’s *The Battle of the Kalka River*"
+caption="Pavel Ryzhenko’s [*The Battle of the Kalka River*](https://en.wikipedia.org/wiki/Battle_of_the_Kalka_River) (May 31st, 1223) Illustrates the largest military death blow to the Kievan Rus' which allowed further mongol incurrsions into Rus' Territory."
 image-url="beaudet-battle-of-the-kalka-river.jpg"
 source-url=" https://i.imgur.com/KJgWYir.jpg
 "
@@ -96,8 +96,8 @@ As opposed to the decentralizing narratives of the late Kievan Rus’, the reign
 
 {% include figure.html
 class="left"
-width="33%"
-caption="Tsar Ivan IV Vasilyevich, the Formidable (Russian: Царь Иван Васильевич, прозванный Гро́зным)"
+width="40%"
+caption="Tsar Ivan IV Vasilyevich, the Formidable (1547-1584 A.D.) was Grand Prince of Moscow and Tsar of All Rus'"
 image-url="beaudet-ivan-iv.jpg"
 source-url=" https://commons.wikimedia.org/wiki/File:Ivan_IV_by_anonim_(18th_c.,_GIM).jpg"
 %}
