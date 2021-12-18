@@ -69,7 +69,7 @@ In 1237 A.D., the shell of the Kievan Rus’ was conquered by the Mongols, led b
 {% include figure.html
 class="left"
 width="100%"
-caption="Pavel Ryzhenko’s [*The Battle of the Kalka River*](https://en.wikipedia.org/wiki/Battle_of_the_Kalka_River) (May 31st, 1223) Illustrates the largest military death blow to the Kievan Rus' which allowed further mongol incurrsions into Rus' Territory."
+caption="[Pavel Ryzhenko’s](https://tsarnicholas.org/2021/07/16/pavel-viktorovich-ryzhenko-1970-2014/) (June 11th, 1970- July 16th, 2014) [*The Battle of the Kalka River*](https://en.wikipedia.org/wiki/Battle_of_the_Kalka_River) Illustrates the largest military death blow to the Kievan Rus' which allowed further mongol incurrsions into Rus' Territory."
 image-url="beaudet-battle-of-the-kalka-river.jpg"
 source-url=" https://i.imgur.com/KJgWYir.jpg
 "
