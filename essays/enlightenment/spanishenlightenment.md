@@ -5,7 +5,7 @@ subtitle: SPAINS PLACE IN THE ENLIGHTENMENT AND THE EFFECTS IT HAD ON SPANISH CO
 author: JEREMY ORTEGA 
 date: 2021-12-13
 toc-blurb: Spanish Flag 
-toc-image: 
+toc-image: Spanish Flag .svg
 toc-section: enlightenment
 ---
 
