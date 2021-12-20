@@ -53,7 +53,7 @@ Anna Comnena's most significant work is her *Alexiad*, which accounts the reign 
  
 Another example of Anna Comnena's importance is the next Comnenian historian, none other than the husband of Anna Comnena herself, one Nicephorus Bryennius. In fact, besides Anna herself, Bryennius is next the next closest "Comnenian" historian, as the discussion of the two are rather inseperable. For example, in describing Anna's Alexiad, Ellen Quandahl and Susan Jarratt state the following, "The aim of the work is to record the deeds of her father, completing a history commissioned by Anna’s mother and begun by Bryennius" (Quandahl and Jarrat, 305).The intellectual characters of the husband and wife were one of their most prominent qualities. According once again to Quandahl and Jarrat, John (Anna's brother and Byzantine emperor) felt threatened by Bryennius as he had viewed "Anna and her husband as a learned and formidable couple, and Bryennius in particular as so powerful"  to the point of being particularly threatening in the eyes of John (306). This formidability and power can be attributed less to the fact of Bryennius's intellectual capabilities and more so to the fact that he was one individual vying for the imperial throne, but Quandahl and Jarratt felt the duo's combined intellectual capabilities were significant enough to mention as their greatest qualities next to their formidability.
  
-     {% include figure.html
+{% include figure.html
   class="right"
   width="50%"
   caption="The Comnenian dynasty is one which was the subject of many contemporary Byzantine histories"
@@ -73,7 +73,7 @@ Impartiality in the writing of history is much more important to modern historia
  
 The next Paloiologan historian is the emperor John VI Kantakouzenos or Cantacuzene, who, according to Shaun Tougher, wrote his *History* as an apologetic work, defending his own actions as the Eastern Roman emperor. This is because "Cantacuzene... can be seen as contributing to the deterioration of the condition of the empire, particularly with regard to his part in two civil wars and his Ottoman policy." Cantacuzene had two ambitious sons: Matthaios and Manouel. To accomodate their ambitions, he had married his daughter to John Palailogos. This, however, did not work. This move was generally opposed by the Eartern Roman public because it was seen as a betrayal of their sacrifices in war. Furthermore, the Empire under Cantacuzene was lacking in resources and so had to rely on the Ottoman empire, which at the time was growing ever more powerful (McLaughlin, 16-17). Therefore, the History was written to defend these actions. As such, it is obvious that in this writing, some details may have been spared, faults been downplayed, and achievements exaggerated so as to bolster his own reputation with the Eastern Roman public, and for his own personal legacy as a figure subject to the trials of time and history. This again is again goes to show the degree to which impartiality was undervalued in Eastern Roman historiography.
  
-      {% include figure.html
+ {% include figure.html
   class="right"
   width="50%"
   caption="John VI Kantakouzenos is an example of an emperor who was at the same time a historian."
