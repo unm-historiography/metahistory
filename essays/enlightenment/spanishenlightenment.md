@@ -4,8 +4,8 @@ title: SPANISH ENLIGHTENMENT and COLONIALSIM
 subtitle: SPAINS PLACE IN THE ENLIGHTENMENT AND THE EFFECTS IT HAD ON SPANISH COLONIALISM 
 author: JEREMY ORTEGA 
 date: 2021-12-13
-toc-blurb: Sed sit amet tortor at erat fermentum efficitur. Aenean tristique est sed ultrices vulputate. Fusce massa felis, volutpat nec quam sit amet, accumsan lacinia justo. Donec sit amet congue mi. Ut id tellus sit amet leo venenatis porta. Maecenas lobortis nibh in maximus euismod. Aliquam erat volutpat.
-toc-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Benito_Jer%C3%B3nimo_Feijoo.jpg/256px-Benito_Jer%C3%B3nimo_Feijoo.jpg
+toc-blurb: Spanish Flag 
+toc-image: 
 toc-section: enlightenment
 ---
 
@@ -30,17 +30,15 @@ When we look at Spain we have to remember what a large and overbearing influence
 {% include figure.html
   class="right"
   width="50%"
-  caption="Donec id laoreet risus. Aenean at ante ante. Vestibulum ultrices arcu ut felis tempus dictum. Pellentesque sit amet leo auctor mauris pulvinar mollis."
+  caption="D"
   image-url=""
-  source-url="https://commons.wikimedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg"
+  source-url=""
 %}
 
-ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit. Nunc vestibulum vitae nunc ut pellentesque. Donec metus dolor, sagittis consequat ipsum non, auctor commodo diam. Vivamus interdum auctor purus ac euismod. Nulla rutrum nec elit eget congue. Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi.
+
 
 ### Subsection headings should be triple hashes in Markdown
-Nam dui nisl, sagittis eget sagittis et, dapibus a libero. Cras vitae metus ac magna condimentum ultricies. Cras egestas non dui non efficitur. Morbi sed facilisis nunc. Etiam ac neque quis enim condimentum suscipit vitae id ipsum. Vivamus sed orci in ex ullamcorper dictum. Cras lobortis justo vitae pellentesque.
 
-Fusce interdum ex odio, at eleifend felis hendrerit nec. Cras cursus, dolor eget euismod aliquet, augue nisi interdum est, ut lacinia eros dui non tellus. Cras nec dui sed diam suscipit feugiat sit amet a diam. Donec lobortis rutrum ligula eget egestas. Proin consectetur pellentesque pretium. Sed ullamcorper tincidunt metus vel ullamcorper. Vestibulum a fringilla nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In risus urna, malesuada in enim a, pharetra consectetur velit.
 
 
 ## Bibliography
