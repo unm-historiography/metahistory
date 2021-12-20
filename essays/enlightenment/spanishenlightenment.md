@@ -37,8 +37,9 @@ When we look at Spain we have to remember what a large and overbearing influence
 
 
 
-### Subsection headings should be triple hashes in Markdown
-
+### Spanish Enlightenment and the Colonial Archive 
+Next 
+Andres Gonzales de Barcia (Born 1673, Died 1743, Was a archivist Americanist he was one of the first publishers of a History of the Americas and West Indies. In Jonathan Carlyon’s book Andres Gonzales de Barcia and the Creation of the Colonial Spanish American Library. This was according to Carlyon the first phase of the creation of the first phase of scholarship on the Histography of the Indies. “ In an attempt to confront the obstacle to scholarship Gonzalez de Barcia undertook an editorial project that would result in the creation of editions of what he considered to be some of Spain’s most important Chronicles of the Indies.” (Carlyon, 19,20) Carlyon later goes on to describe how Gonzalez went about his work “Gonzalez de Barcia expected his intellectual peers to publish well-researched scholarship. He believed however, that the final product of study depended on the sources used during the investigation.” (Carlyon, 22) Gonzalez de Barcia believed strongly in well done research and that in turn helped the quality of the work that he did. However at the time of his research it was always under scrutiny of of the royal leadership. “In dedication to Phillip V in Gonzalez de Barcia 1723 edition of Il Inca Garcilaso de la Vega’s Comentarios Reales, the publisher Nicholas Rodriguez Franco, explained the importance to the Spanish monarchy of Gonzalez de Barcia’s editorial mission Of all the royal titles held by King, Rodriquez Franco stated that “the greatest, and most elegant Title is the Protection of the Heroes, who with their deeds gave Life to such a Great History, conserving for themselves the Glorious Light of Immortality, in the Royal shadow of your Excellency.” (Carlyon, 23) we see here that the state has a large influence it what ultimately makes it into the History as well and that can be a problem when we are looking for a clear picture when it comes to scholarship and clarity. 
 
 
 ## Bibliography
