@@ -43,8 +43,15 @@ Andres Gonzales de Barcia (Born 1673, Died 1743, Was a archivist Americanist he 
 
 
 ## Bibliography
+Britannica, The Editors of Encyclopaedia. "Francois Guizot". Encyclopedia Britannica, https;//www.britannica.com/biography/Francois-Guizot. 
 
-_Notice that we DON'T INCLUDE PLACE of publication!_
+iep.utm.edu/vico Internet Encylopedia of Philosophy 
+
+Carlyon, Jonathan Earl. Andrés González De Barcia and the Creation of the Colonial Spanish American Library. University of Toronto Press, 2005
+
+Paquette, Gabriel B. Enlightenment, Governance and Reform in Spain and its empire 1759-1808. Plagrave Macmillan, 2008.
+
+
 
 - Grazer, Brian, and Charles Fishman. _A Curious Mind: The Secret to a Bigger Life_. Simon & Schuster, 2015.
 
