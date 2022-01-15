@@ -10,7 +10,7 @@ toc-section: thematic
 ---
 
 {:.abstract}
-For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. 
+For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and subsequently characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations in society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in the modern day. 
 
 
 ## Colonial Interpretations
