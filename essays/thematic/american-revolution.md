@@ -4,14 +4,14 @@ title: Historiography of the American Revolution
 subtitle: Interpreting the War for Independence 
 author: Andrew Schumann
 date: 2021-12-16
-toc-blurb: For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and subsequently characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations in society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in contemporaries histories. 
+toc-blurb: For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and subsequently characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations in society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in contemporary works. 
 
 toc-image: schumann-delaware-crossing.jpg
 toc-section: thematic 
 ---
 
 {:.abstract}
-For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and subsequently characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations in society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in contemporaries histories. 
+The American Revolution is one of the most well remembered events of the late eighteenth century, especially within the history books of United States. For centuries now, historians have debated the causes and character of the War of Independence to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and thus the revolution itself has been characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations within society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in contemporary works. 
 
 
 ## Colonial Interpretations
@@ -108,7 +108,14 @@ With these pillars of history being raised we can finally get to the **scholarsh
 
 
 ## Bibliography
-Young, Alfred F., and Gregory Nobles. __Whose American Revolution Was It? : Historians Interpret the Founding__. 1st ed. New York University Press, 2011.
+Annette Gordon-Reed. “Writing Early American Lives as Biography.” _The William and Mary Quarterly_71, no. 4 (2014): 491–516.
+
+Levy, Philip. “‘Crystallized into Solid Reality’: How Mason Locke ‘Parson’ Weems Shaped George Washington’s Boyhood Home.” _The Virginia Magazine of History and Biography_ 121, no. 2 (March 22, 2013): 106.
+
+Young, Alfred F., and Gregory Nobles. _Whose American Revolution Was It? : Historians Interpret the Founding_. 1st ed. New York University Press, 2011.
+
+
+
 
 
 
