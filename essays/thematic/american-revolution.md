@@ -139,5 +139,4 @@ Warren, Mercy Otis. [*History of the Rise, Progress, and Termination of the Amer
 
 Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf), 1781. 
 
-Hutchinson, Thomas. [*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
-
+Hutchinson, Thomas.[*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
