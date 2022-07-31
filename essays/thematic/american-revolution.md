@@ -11,6 +11,7 @@ toc-section: thematic
 ---
 
 {:.abstract}
+
 For centuries now, historians have debated the causes and character of the American War of Independence to better understand the nation’s founding. People, places, and documents associated with revolution are frequently scrutinized from nearly every ideological lens. As a result, the American Revolution itself has been characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution, then, serves as a case study in how political divisions within society produce dueling historiographical paradigms. Even today, the debate over how historical figures and iconography ought to be represented in contemporary works.
 
 # 1781-1829: Colonial Histories 
