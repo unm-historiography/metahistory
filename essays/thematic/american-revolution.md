@@ -4,23 +4,44 @@ title: Historiography of the American Revolution
 subtitle: Interpreting the War for Independence 
 author: Andrew Schumann
 date: 2021-12-16
-toc-blurb: For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. For centuries now, historians have debated the causes and character of the American War for Independence in an attempt to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and subsequently characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations in society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in contemporary works. 
+toc-blurb: For centuries now, historians have debated the causes and character of the American War of Independence to better understand the nation’s founding. People, places, and documents associated with revolution are frequently scrutinized from nearly every ideological lens. As a result, the American Revolution itself has been characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution, then, serves as a case study in how political divisions within society produce dueling historiographical paradigms. Even today, the debate over how historical figures and iconography ought to be represented in contemporary works.
 
 toc-image: schumann-delaware-crossing.jpg
 toc-section: thematic 
 ---
 
 {:.abstract}
-The American Revolution is one of the most well remembered events of the late eighteenth century, especially within the history books of United States. For centuries now, historians have debated the causes and character of the War of Independence to better understand the nation's founding. The people, places, and documents of the revolution have been scrutinized from nearly every ideological lens, and thus the revolution itself has been characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution serves as a case study in how political transformations within society shape the writing of a nation’s history, and spark debates about how historical figures and iconography ought to be represented in contemporary works. 
+For centuries now, historians have debated the causes and character of the American War of Independence to better understand the nation’s founding. People, places, and documents associated with revolution are frequently scrutinized from nearly every ideological lens. As a result, the American Revolution itself has been characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution, then, serves as a case study in how political divisions within society produce dueling historiographical paradigms. Even today, the debate over how historical figures and iconography ought to be represented in contemporary works.
 
+## 1781-1829: Colonial Histories 
 
-## Colonial Interpretations
+The initial histories of the American Revolution were written by those who lived through the events of the war and published works in the late eighteenth and early nineteenth centuries. These early histories featured starkly different characterizations of the revolution and its participants, unsurprisingly shaped by the authors differing allegiances during the conflict. 
 
-The ancient Greeks are seen as the fathers of history and two Greeks stand out: [Herodotus](https://www.britannica.com/biography/Herodotus-Greek-historian), and [Thucydides](https://www.britannica.com/biography/Thucydides-Greek-historian), laid the foundations of history. These two men began to look at sources in a more critical way, and differentiated between what we would call primary and secondary sources. For Herodotus, the father of history, “history depended on the one of two criteria, that is to be based on testimony that was either eyewitness (opsis) or hearsay (akoe)” (Kelly, 21). Thucydides didn’t concern himself with hearsay (secondary source) and was our founder of a more political history, which would become a key part of historiography later. (Kelly, 29) Thucydides relied on telling the story of states in conflict and was more **critical** in his telling of history than Herodotus. Also during this period western civilization still relied on the myth-histories of [Homer](https://www.britannica.com/biography/Homer-Greek-poet) and other Greek poets to lay the foundations of creation, in the eyes of the Greeks. Ironically the Greeks were both critical of the events of the past, and yet relied on the myths of their ancestors to begin their stories of history.
+# Revolutionary Interpretation
 
-The core principle that the Greeks passed down was their obsession with **finding truth in sources**. For Herodotus and Thucydides, "They wanted to tell the "truth" as they saw it and thus to communicate something of value to their readers". (Kelly 42) These men inspired another Greek historian, [Polybius](https://www.britannica.com/biography/Polybius), who said that “to be a good historian, however, involved more than just being a good man or a good citizen, for it required that he be prepared to tell the **truth at all costs**, to the extent of accusing a friend or praising an enemy.” (Kelly, 33) This obsession with truth is the fundamental principle that they gave us historiography.
+Among the first histories to be composed in the aftermath of the Revolutionary War was [David Ramsay](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/david-ramsay/)’s *The History of the American Revolution* (1789). Ramsay was intimately involved with the events of the Revolution, serving as a surgeon in the Continental Army and later a delegate to the Continental Congress from South Carolina. His writings portray the revolution as “a mass of husbandmen, merchants, mechanics, and fishermen… guided by the leading strings of the mother country… [in] a situation that needed the abilities of all its sons,” resulting in “a vast expansion of the human mind.” (Ramsay 315) In the vein of Enlightenment historiography, Ramsey argues that the American Revolution pushed humanity forward by actualizing an emerging philosophy of government centered on individual liberty. Ramsay also touched on how the Revolution acted as a unifying cause for what were previously disparate peoples, thus creating a truly national American character for the first time. 
 
-## Whig Interpretation
+{% include figure.html
+  class="right"
+  width="33%"
+  caption="Portrait of Mercy Otis Warren (1728-1814)."
+  image-url="schumann-mercy-otis-warren.jpg"
+  source-url="[https://commons.wikimedia.org/wiki/File:Mercy_Otis_Warren.jpg]"
+%}
+
+Notable as the first female historian of the American Revolution, [Mary Otis Warren](https://www.britannica.com/biography/Mercy-Otis-Warren) offered a similarly  positive view of the war. Like Ramsay, Warren involved herself heavily in revolutionary effort, publishing satirical plays and pamphlets which mocked royal authority in Massachusetts. In her in her *History of the Rise, Progress, and Termination of the American Revolution* (1805), Warren declares that “Future generations will… never forget the energetic struggles of their fathers to secure the natural rights of men…established in the United States by a race of independent spirits who have freed their posterity from the feudal vassalage of hereditary lords.” (Warren 647) From this, it is clear that the presence of righteous American patriots and their immoral British rulers that was so common in Warren’s dramatic compositions carried over into and historical writings. 
+
+Evident in both Ramsay and Warren’s histories is the concept of the American Revolution as a profoundly moral event, taken up by righteous American patriots who ushered in a new era of human development by eschewing European rule. Crucial to this historical framework is the **interjection of a moral arc to history**, with revolutionaries and loyalists cast as heroes and villains respectively. Equally important is the **construction a new national identity**, deliberately forged as a method of rallying the citizens of the newly independent United States. 
+
+# Loyalist Interpretation 
+
+Of course, historians favorable to the British published their own histories of the American Revolution once the conflict concluded. Notable among these authors was [Thomas Hutchinson](https://www.britannica.com/biography/Thomas-Hutchinson), the former royal governor of the Massachusetts Bay colony and subject of many a prodding pamphlet produced by Mercy Otis Warren. In his writings, Hutchinson justified the British policies that generated discontent within the colonies, including the Stamp Act of 1765, asserting that such measures were necessary to reduce the debt accrued from French and Indian War. In his *Detailed Narrative of the Origin and Early Stages of the American Revolution*, Hutchinson also makes note of the distinct feeling of betrayal brought on by the revolution, recalling “All of a sudden, the officers of the crown, and such as were for keeping up their authority, were branded with the name of Tories, always the term of reproach.” Given his role as a royal authority, Hutchinson predictably takes umbrage with the hero-villain dynamic featured in revolutionary histories, instead offering a loyalist account which justifies the controversial acts of Parliament and questions the colonial distain for the crown. 
+
+While Hutchinson used historical narrative to excuse the acts of the British, other loyalist historians focused on the harmful exploits of colonial revolutionaries. In his *Origin & Progress of the American Rebellion* (1829), [Peter Oliver](https://www.encyclopedia.com/history/news-wires-white-papers-and-books/oliver-peter-1713-1791) details “the distresses of some of those people who, from a sense of their duty to the King and a reverence for his laws, have behaved quietly and peacably, and for which reason they have been deprived of their liberty, abused in their persons, and suffer’d such barbarous cruelties, insults, and indignities beside the loss of their property by the hands of lawless mobs and riots as would have been disgraceful even for savages to have committed.” Behooved to write such an angry account largely as a consequence of his own personal loss, having been forcibly removed from his post as a Justice in Massachusetts Bay, Oliver casts the American Revolution and its supporters in an exceedingly grim light, depicting revolutionaries as a violent mob intent spreading chaos and destruction.
+
+Whether defending the actions of the royal authorities or condemning the activities of colonial revolutionaries, loyalist interpretations illustrated in the works of Hutchinson and Oliver showcase a markedly antagonistic representation of the American Revolution and its supporters. Loyalist writers also tended to moralize history, but in the adverse direction of their revolutionary counterparts. As such, the **early historiography of America’s founding reveals how the political divisions between colonial historians cultivated dueling historical paradigms, both of which featured moralistic condemnations of their opponents.**
+
+## 1830-1880: Whig Interpretation
 
 {% include figure.html
   class="right"
@@ -108,6 +129,16 @@ With these pillars of history being raised we can finally get to the **scholarsh
 
 
 ## Bibliography
+
+Ramsay, David. [*The History of the American Revolution*](https://dl.tufts.edu/concern/pdfs/sb397m82f), 1789. 
+
+Warren, Mercy Otis. [*History of the Rise, Progress, and Termination of the American Revolution*](https://oll.libertyfund.org/title/warren-history-of-the-rise-progress-and-termination-of-the-american-revolution-vol-2#lf0025-02_head_016), 1805.
+
+Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf), 1781. 
+
+Hutchinson, Thomas. [*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
+
+
 Annette Gordon-Reed. “Writing Early American Lives as Biography.” _The William and Mary Quarterly_71, no. 4 (2014): 491–516.
 
 Levy, Philip. “‘Crystallized into Solid Reality’: How Mason Locke ‘Parson’ Weems Shaped George Washington’s Boyhood Home.” _The Virginia Magazine of History and Biography_ 121, no. 2 (March 22, 2013): 106.
