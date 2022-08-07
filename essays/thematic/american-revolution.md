@@ -58,9 +58,11 @@ These themes are best observed in the writings of [George Bancroft](https://www.
 
 From describing Geroge Washington as a perfect paragon of virtue to comparing the sacrifce of revolutionary soldiers to that of the Crucifixion, Bancroft's work is perhaps the best example of how __Whigs imbued their histories with an evangelical and nationalist ideology__. Beyond their historiographical importance, Whig histories contributed to a number of 19th century cultural developments, including the [Second Great Awakening](https://www.britannica.com/topic/Second-Great-Awakening) and [Manifest Destiny](https://www.britannica.com/event/Manifest-Destiny). It would not be until the turn of the century that Whig histories were seriously challenged. 
 
+# 1880-1900 Imperial Challenges 
+
 # 1900-1940: Progressive Approach
 
-# 1940-1960: Social History and Ideological History
+# 1940-1960: Ideological and Social Histories
 
 ## Neo-Whigs 
 
@@ -75,7 +77,7 @@ From describing Geroge Washington as a perfect paragon of virtue to comparing th
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courages and talwart in the face of war."
+  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
 %}
