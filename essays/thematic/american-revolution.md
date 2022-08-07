@@ -42,7 +42,7 @@ While Hutchinson used historical narrative to excuse the acts of the British, ot
 
 Whether defending the actions of the royal authorities or condemning the activities of colonial revolutionaries, loyalist interpretations illustrated in the works of Hutchinson and Oliver showcase a markedly antagonistic representation of the American Revolution and its supporters. Loyalist writers also tended to moralize history, but in the adverse direction of their revolutionary counterparts. As such, the **early historiography of America’s founding reveals how the political divisions between colonial historians cultivated dueling historical paradigms, both of which featured moralistic condemnations of their opponents.**
 
-# 1830-1880: Whig Histories
+# 1830-1889: Whig Histories
 
 {% include figure.html
   class="right"
@@ -58,7 +58,7 @@ These themes are best observed in the writings of [George Bancroft](https://www.
 
 From describing Geroge Washington as a perfect paragon of virtue to comparing the sacrifce of revolutionary soldiers to that of the Crucifixion, Bancroft's work is perhaps the best example of how __Whigs imbued their histories with an evangelical and nationalist ideology__. Beyond their historiographical importance, Whig histories contributed to a number of 19th century cultural developments, including the [Second Great Awakening](https://www.britannica.com/topic/Second-Great-Awakening) and [Manifest Destiny](https://www.britannica.com/event/Manifest-Destiny). It would not be until the turn of the century that Whig histories were seriously challenged. 
 
-# 1880-1900 Imperial Challenges 
+# 1889-1950 Imperial School 
 
 # 1900-1940: Progressive Approach
 
