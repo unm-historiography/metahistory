@@ -60,6 +60,8 @@ From describing Geroge Washington as a perfect paragon of virtue to comparing th
 
 # 1889-1950 Imperial School 
 
+Toward the end of the 19th century a new strain of historiographical thought emerged, dubbed the “imperial school.” A new crop of historians, including [Charles McLean Andrews](https://www.britannica.com/biography/Charles-McLean-Andrews) and [Lawrence Gipson](https://gipson.cas.lehigh.edu/lawrence-henry-gipson) re-oriented the study of the American colonial period, writing their histories from the perspective of British policymakers. Harkening back to the Loyalist histories of old, imperial histories depict the American Revolution not as a rebellion against a tyrannical monarch, but instead as the inevitable result of a enacting certain imperial policies which the American colonies were too defiant and unruly to tolerate.
+
 # 1900-1940: Progressive Approach
 
 # 1940-1960: Ideological and Social Histories
