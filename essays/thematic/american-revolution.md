@@ -45,11 +45,11 @@ Whether defending the actions of the royal authorities or condemning the activit
 # 1830-1889: Whig Histories
 
 {% include figure.html
-  class="right"
-  width="33%"
-  caption="George Bancroft."
-  image-url="schumann_bancroft.jpg"
-  source-url="[https://commons.wikimedia.org/wiki/File:George_Bancroft_United_States_Secretary_of_Navy_c._1860.jpg]"
+  class="img-right"
+  width="30%"
+  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
+  image-url="schumann-delaware-crossing.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
 %}
 
 For the bulk of the 19th century, Whig historians – labelled after the conservative political movement of the same name – wrote and promoted histories of the American Revolution. These works built on the revolutionary histories of prior scholars, but with heavier emphasize on __providence__ and __nationalism__. Whig histories are fundamentally _romantic works_, often embellishing the events of the revolution to offer a __heroic image of the Founding Fathers__ and instill in readers the sense that the __United States is a uniquely exceptional country__. 
@@ -89,14 +89,7 @@ The progressive interpretation continued to produce critical histories up until 
 
 ## Founders Chic
 
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
-  image-url="schumann-delaware-crossing.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
-%}
-
+# Conclusion
 
 
 ## Bibliography
