@@ -45,7 +45,7 @@ Whether defending the actions of the royal authorities or condemning the activit
 # 1830-1889: Whig Histories
 
 {% include figure.html
-  class="img-right"
+  class="right"
   width="55%"
   caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
