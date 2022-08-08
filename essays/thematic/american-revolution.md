@@ -107,7 +107,8 @@ Warren, Mercy Otis. [*History of the Rise, Progress, and Termination of the Amer
 
 Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf), 1781. 
 
-Hutchinson, Thomas. [*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
+Hutchinson, Thomas. [*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and 
+Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
 
 Bancroft, George. [*The History of the United States from the discovery of the American continent*](https://quod.lib.umich.edu/cgi/t/text/text-idx?sid=f4a084131b45cb9c164118768cbb9c80&c=moa&idno=ABZ2602.0007.001&view=toc), 1854-1860. 
 
@@ -121,5 +122,6 @@ Becker, Carl. [_The United States; An Experiment in Democracy_](https://archive.
 
 Beard, Charles. [_An Economic Interpretation of the Constitution of the United States_](https://people.tamu.edu/~b-wood/GovtEcon/Beard.pdf), 1913. 
 
-Jensen, Merrill. [_The Articles of Confederation: An Interpretation of the Social-Constitutional History of the American Revolution, 1774-1781_](https://eds-p-ebscohost-com.libproxy.unm.edu/eds/ebookviewer/ebook/bmxlYmtfXzQ5MDMwMF9fQU41?sid=2857b230-4596-4d4d-98aa-d7bdc6360040@redis&vid=0&format=EB&rid=1), 1970. 
+Jensen, Merrill. [_The Articles of Confederation: An Interpretation of the Social-Constitutional History of 
+the American Revolution, 1774-1781_](https://eds-p-ebscohost-com.libproxy.unm.edu/eds/ebookviewer/ebook/bmxlYmtfXzQ5MDMwMF9fQU41?sid=2857b230-4596-4d4d-98aa-d7bdc6360040@redis&vid=0&format=EB&rid=1), 1970. 
 
