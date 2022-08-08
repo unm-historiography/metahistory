@@ -46,7 +46,7 @@ Whether defending the actions of the royal authorities or condemning the activit
 
 {% include figure.html
   class="img-right"
-  width="30%"
+  width="45%"
   caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
