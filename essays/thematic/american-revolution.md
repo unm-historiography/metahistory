@@ -27,7 +27,7 @@ Among the first histories to be composed in the aftermath of the Revolutionary W
   width="33%"
   caption="Portrait of Mercy Otis Warren (1728-1814)."
   image-url="schumann-mercy-otis-warren.jpg"
-  source-url="[https://commons.wikimedia.org/wiki/File:Mercy_Otis_Warren.jpg]"
+  source-url="https://commons.wikimedia.org/wiki/File:Mercy_Otis_Warren.jpg"
 %}
 
 Notable as the first female historian of the American Revolution, [Mary Otis Warren](https://www.britannica.com/biography/Mercy-Otis-Warren) offered a similarly  positive view of the war. Like Ramsay, Warren involved herself heavily in revolutionary effort, publishing satirical plays and pamphlets which mocked royal authority in Massachusetts. In her in her *History of the Rise, Progress, and Termination of the American Revolution* (1805), Warren declares that “Future generations will… never forget the energetic struggles of their fathers to secure the natural rights of men…established in the United States by a race of independent spirits who have freed their posterity from the feudal vassalage of hereditary lords.” (Warren 647) From this, it is clear that the presence of righteous American patriots and their immoral British rulers that was so common in Warren’s dramatic compositions carried over into and historical writings. 
@@ -46,7 +46,7 @@ Whether defending the actions of the royal authorities or condemning the activit
 
 {% include figure.html
   class="right"
-  width="55%"
+  width="75%"
   caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
