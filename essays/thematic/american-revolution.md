@@ -58,9 +58,14 @@ These themes are best observed in the writings of [George Bancroft](https://www.
 
 From describing Geroge Washington as a perfect paragon of virtue to comparing the sacrifce of revolutionary soldiers to that of the Crucifixion, Bancroft's work is perhaps the best example of how __Whigs imbued their histories with an evangelical and nationalist ideology__. Beyond their historiographical importance, Whig histories contributed to a number of 19th century cultural developments, including the [Second Great Awakening](https://www.britannica.com/topic/Second-Great-Awakening) and [Manifest Destiny](https://www.britannica.com/event/Manifest-Destiny). It would not be until the turn of the century that Whig histories were seriously challenged. 
 
-# 1889-1950 Imperial School 
+# 1889-1935 Imperial School 
 
-Toward the end of the 19th century a new strain of historiographical thought emerged, dubbed the “imperial school.” A new crop of historians, including [Charles McLean Andrews](https://www.britannica.com/biography/Charles-McLean-Andrews) and [Lawrence Gipson](https://gipson.cas.lehigh.edu/lawrence-henry-gipson) re-oriented the study of the American colonial period, writing their histories from the perspective of British policymakers. Harkening back to the Loyalist histories of old, imperial histories depict the American Revolution not as a rebellion against a tyrannical monarch, but instead as the inevitable result of a enacting certain imperial policies which the American colonies were too defiant and unruly to tolerate.
+Toward the end of the 19th century a new strain of historiographical thought emerged, dubbed the “imperial school.” A new crop of historians re-oriented the study of the American colonial period, writing their histories from the perspective of British policymakers. Harkening back to the Loyalist histories of old, imperial histories depict the American Revolution not as a rebellion against a tyrannical monarch, but instead as the inevitable result of a enacting certain imperial policies which the American colonies were too defiant and unruly to tolerate.
+
+In a seminal article on colonial history in the Annual Report of the American Historical Association for the Year 1898, [Charles McLean Andrews](https://www.britannica.com/biography/Charles-McLean-Andrews) became the first historian to consider the British perspective of the colonial period in nearly a century, explaining that “our colonial history has been written from but one point of view - that of the  colonies…  that is, we have neglected the standpoint of the mother country,  of which we were a part. We have left largely unexamined the system which English statesmen elaborated for the management of ourselves in their interest… “(Andrews 49) In later works, Andrews would suggest English statesmen were unable to comprehend the growing revolutionary fervor within the colonies, and as such continued to enforce standard imperial policies, including various taxes to compensate for monetary losses during wartime: “Few contemporaries in England realized the danger lurking in a persistent attempt to enforce such policies… or imagined that the methods of interference adopted after 1763 would be so far resented in the colonies as to bring about an eventual breach.”(Andrews 376)
+
+One of Andrews’ students, [Lawrence Gipson](https://gipson.cas.lehigh.edu/lawrence-henry-gipson), would later expand on these works and further develop the imperial school. 
+
 
 # 1900-1940: Progressive Approach
 
@@ -97,3 +102,8 @@ Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americain
 Hutchinson, Thomas.[*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
 
 Bancroft, George. [*The History of the United States from the discovery of the American continent*](https://quod.lib.umich.edu/cgi/t/text/text-idx?sid=f4a084131b45cb9c164118768cbb9c80&c=moa&idno=ABZ2602.0007.001&view=toc), 1854-1860. 
+
+Andrews, Charles McLean. “American Colonial History: 1690-1750.” [Annual Report of the American Historical Association for the Year 1898](Annual%20Report%20of%20the%20American%20Historical%20Association%20for%20the%20Year%201898).  
+
+Andrews, Charles McLean. [_The Colonial Period of American History Vol. 4_](https://archive.org/details/in.ernet.dli.2015.185510/page/n381/mode/2up?q=revolution). 1938
+
