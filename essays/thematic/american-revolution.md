@@ -9,9 +9,7 @@ toc-blurb: For centuries now, historians have debated the causes and character o
 toc-image: schumann-delaware-crossing.jpg
 toc-section: thematic 
 ---
-
 {:.abstract}
-
 For centuries now, historians have debated the causes and character of the American Revoluion to better understand the nation’s founding. People, places, and documents associated with revolution are frequently scrutinized from nearly every ideological lens. As a result, the American Revolution itself has been characterized differently in each subsequent generation’s historical writings. The historiography of the American Revolution, then, serves as a case study in how political divisions within society produce dueling historiographical paradigms. Even today, debate rages on over how the Revolution and the Founding Fathers ought to be represented in our history.
 
 # 1781-1829: Early Histories 
