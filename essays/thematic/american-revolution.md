@@ -44,6 +44,8 @@ Whether defending the actions of the royal authorities or condemning the activit
 
 # 1830-1889: Whig Histories
 
+For the bulk of the 19th century, Whig historians – labelled after the conservative political movement of the same name – wrote and promoted histories of the American Revolution. These works built on the revolutionary histories of prior scholars, but with heavier emphasize on __providence__ and __nationalism__. Whig histories are fundamentally _romantic works_, often embellishing the events of the revolution to offer a __heroic image of the Founding Fathers__ and instill in readers the sense that the __United States is a uniquely exceptional country__. 
+
 {% include figure.html
   class="center"
   width="75%"
@@ -51,8 +53,6 @@ Whether defending the actions of the royal authorities or condemning the activit
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
 %}
-
-For the bulk of the 19th century, Whig historians – labelled after the conservative political movement of the same name – wrote and promoted histories of the American Revolution. These works built on the revolutionary histories of prior scholars, but with heavier emphasize on __providence__ and __nationalism__. Whig histories are fundamentally _romantic works_, often embellishing the events of the revolution to offer a __heroic image of the Founding Fathers__ and instill in readers the sense that the __United States is a uniquely exceptional country__. 
 
 These themes are best observed in the writings of [George Bancroft](https://www.britannica.com/biography/George-Bancroft-American-historian), an American statesmen and avid antiquarian, who published a comprehensive, multi-volume set of books entitled _The History of the United States from the discovery of the American continent_ (1854–1860). Bancroft’s History paints the American Revolution as a divine inspired event headed up by men of legend. In early chapters, Bancroft details the exceptional nature of the American colonists which spurred them toward revolution: “The idea of freedom had never been wholly unknown; [but] in America it was the breath of life to the people. For the first time it [freedom] had found a region and a race, where it could be professed with earnestness and defended with enthusiasm.” (Bancroft 22) Later, Bancroft details the character of those historical figures who made the revolution possible: “Washington was a man of action… Integrity was so completely the law of his nature, that a planet would sooner have shot from its sphere, than he have departed from his uprightness.” (Bancroft 398). Throughout the text, Bancroft weaves religious allusions into his telling of the revolution. This is well illustrated in his description of the first revolutionaries to die in the conflict: “Seven of the men at Lexington were killed, nine wounded…these village heroes prove[d] by their spirit that they were a race divine; from the example of Him who laid down his life on the cross for the life of humanity…” (Bancroft 294-5)
 
