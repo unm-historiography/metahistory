@@ -75,9 +75,7 @@ Another early adopter of the progressive approach was historian [__Charles Beard
 
 The progressive interpretation continued to produce critical histories up until the mid-twentieth centuries, wherein historians like [__Merrill Jensen__](https://alphahistory.com/americanrevolution/historian-merrill-jensen/) __stressed the role of the common man__ in the American Revolution. In his _Articles of Confederation : An Interpretation of the Social-Constitutional History of the American Revolution_ (1940), Jensen characterizes the War of Independence as “an internal revolution carried on by the masses of the people against the local aristocracy.” (Jensen 14) Moreover, he disputes the long held notion that the Founding Fathers were champions of liberty, explaining: “as time passed and bitter experience taught them, the fathers of the Revolution repented of their radical beliefs and became conservative... Such men as George Washington, James Wilson, Robert R. Livingston… had more to fear from the people of the colonies than from British legislation.” (Jensen 92) By reframing the Revolution as a popular __uprising against aristocratic authority__, and __redefining the role of the Founding Fathers as opportunistic__ instead of heroic, Jensen offers a decidedly critical history of the American Revolution with all the hallmarks of the progressive interpretation, from a emphasis on __economic interests__ to the __de-mythologizing of revolutionary figures__. 
 
-# 1942-1967: Ideological and Social Histories
-
-## Neo-Whigs 
+# 1942-1967: Ideological or Neo-Whig Histories
 
 In response to the economic determinism of the Progressive School, certain historians developed an alternative historiographical approach based on considering how Whig tradition and republicanism contributed to the American Revolution. In contrast to the Progressive School, these writers argued that __rhetoric and ideas__ were more than just propagandistic and in fact functioned as the driving force of the revolution, __emphasizing the role of revolutionary thinkers__ like Thomas Jefferson and James Madison. While less jingoistic than their nineteenth century counterparts, conservative historians in the mid-twentieth century are referred to as Neo-Whigs, given their __focus on the Founding Fathers__ and the role of [__Whigism__](https://en.wikipedia.org/wiki/Whiggism) in the American Revolution. 
 
@@ -85,13 +83,14 @@ In response to the economic determinism of the Progressive School, certain histo
 
 Ideological histories would later be spearheaded by [__Bernard Bailyn__](https://www.neh.gov/about/awards/national-humanities-medals/bernard-bailyn), author of _The Ideological Origins of the American Revolution_ (1967). While Adair had reframed the Founding Fathers and rejected Progressive economic determinism, Bailyn’s histories denote how __Whigism served as a primary causal factor in the American Revolution__. When describing the ideas cited eighteenth century revolutionary pamphlets, Bailyn describes how “Just as the colonists cited with enthusiasm the theorists of universal reason, so too did they associate themselves, with offhand familiarity, with the tradition of the English common law… manifestly influential in shaping the awareness of the revolutionary generation.” (Bailyn 30-1) He goes on to note how the construction of American government proved dependent on learning from __Whig traditions__, explaining “How to qualify, undermine, or reinterpret tenets of English political theory was the central intellectual problem that confronted the leaders of the American cause… starting in the struggle with England over the extent of Parliament's power and continuing into the debates on the ratification of the Federal Constitution…” concluding “It is a classic instance of the creative adjustment of ideas into reality.” (Bailyn 202) Through describing how English Whigism helped develop American [__republicanism__](https://en.wikipedia.org/wiki/Republicanism_in_the_United_States), Bailyn affirms the important __role of ideology in the American revolution__. 
 
-## The New Left
+# 1968 - 1987 The New Left and Social History
 
-# 1980-Present: Continuing Debate
+# 1988-Present: Continuing Debate
 
 ## Neo-Progressive 
 
 ## Founders Chic
+
 
 # Conclusion
 
