@@ -83,10 +83,10 @@ In response to the economic determinism of the Progressive School, certain histo
 
 Ideological histories would later be spearheaded by [__Bernard Bailyn__](https://www.neh.gov/about/awards/national-humanities-medals/bernard-bailyn), author of _The Ideological Origins of the American Revolution_ (1967). While Adair had reframed the Founding Fathers and rejected Progressive economic determinism, Bailyn’s histories denote how __Whigism served as a primary causal factor in the American Revolution__. When describing the ideas cited eighteenth century revolutionary pamphlets, Bailyn describes how “Just as the colonists cited with enthusiasm the theorists of universal reason, so too did they associate themselves, with offhand familiarity, with the tradition of the English common law… manifestly influential in shaping the awareness of the revolutionary generation.” (Bailyn 30-1) He goes on to note how the construction of American government proved dependent on learning from __Whig traditions__, explaining “How to qualify, undermine, or reinterpret tenets of English political theory was the central intellectual problem that confronted the leaders of the American cause… starting in the struggle with England over the extent of Parliament's power and continuing into the debates on the ratification of the Federal Constitution…” concluding “It is a classic instance of the creative adjustment of ideas into reality.” (Bailyn 202) Through describing how English Whigism helped develop American [__republicanism__](https://en.wikipedia.org/wiki/Republicanism_in_the_United_States), Bailyn affirms the important __role of ideology in the American revolution__. 
 
-# 1968 - 1987 The New Left and Social History
+# 1968 - 1990 The New Left and Social History
 
 
-# 1988-Present: Continuing Debate
+# 1990-Present: The Continuing Debate
 
 ## Founders Chic
 
