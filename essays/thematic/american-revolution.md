@@ -108,31 +108,31 @@ The histories written by Lemisch, Norton, and Nash delve into the __revolutionar
 
 ## Bibliography
 
-Ramsay, David. [*The History of the American Revolution*](https://dl.tufts.edu/concern/pdfs/sb397m82f), 1789. 
+Ramsay, David. [*The History of the American Revolution*](https://dl.tufts.edu/concern/pdfs/sb397m82f). Liberty Fund, 1789. 
 
-Warren, Mercy Otis. [*History of the Rise, Progress, and Termination of the American Revolution*](https://oll.libertyfund.org/title/warren-history-of-the-rise-progress-and-termination-of-the-american-revolution-vol-2#lf0025-02_head_016), 1805.
+Warren, Mercy Otis. [*History of the Rise, Progress, and Termination of the American Revolution*](https://oll.libertyfund.org/title/warren-history-of-the-rise-progress-and-termination-of-the-american-revolution-vol-2#lf0025-02_head_016). Liberty Fund, 1805.
 
-Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf), 1781. 
+Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf). National Humanities Center, 1781. 
 
 Hutchinson, Thomas. [*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and 
-Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf), 1829.
+Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf). National Humanities Center, 1829.
 
-Bancroft, George. [*The History of the United States from the discovery of the American continent*](https://quod.lib.umich.edu/cgi/t/text/text-idx?sid=f4a084131b45cb9c164118768cbb9c80&c=moa&idno=ABZ2602.0007.001&view=toc), 1854-1860. 
+Bancroft, George. [*The History of the United States from the discovery of the American continent*](https://quod.lib.umich.edu/cgi/t/text/text-idx?sid=f4a084131b45cb9c164118768cbb9c80&c=moa&idno=ABZ2602.0007.001&view=toc). University of Michigan, 2005 (originally 1854-1860). 
 
-Andrews, Charles McLean. “American Colonial History: 1690-1750.” [Annual Report of the _American Historical Association_ for the Year 1898](Annual%20Report%20of%20the%20American%20Historical%20Association%20for%20the%20Year%201898).  
+Andrews, Charles McLean. “American Colonial History: 1690-1750.” [Annual Report of the _American Historical Association_ for the Year 1898](https://digitalcommons.law.ou.edu/indianserialset/6997/).  
 
-Andrews, Charles McLean. [_The Colonial Period of American History Vol. 4_](https://archive.org/details/in.ernet.dli.2015.185510/page/n381/mode/2up?q=revolution). 1938
+Andrews, Charles McLean. [_The Colonial Period of American History Vol. 4_](https://archive.org/details/in.ernet.dli.2015.185510/page/n381/mode/2up?q=revolution).  Yale University Press, 1938.
 
 Gipson, Lawrence Henry. “[The American Revolution as an Aftermath of the Great War for the Empire, 1754-1763.](https://www-jstor-org.libproxy.unm.edu/stable/2144276#metadata_info_tab_contents)” _Political Science Quarterly_, vol. 65, no. 1, 1950, pp. 86–104.
 
-Becker, Carl. [_The United States; An Experiment in Democracy_](https://archive.org/details/unitedstatesexpe00beckrich/page/44/mode/2up?q=Revolution), 1915. 
+Becker, Carl. [_The United States; An Experiment in Democracy_](https://archive.org/details/unitedstatesexpe00beckrich/page/44/mode/2up?q=Revolution).Harper & Brothers, 1915. 
 
-Beard, Charles. [_An Economic Interpretation of the Constitution of the United States_](https://people.tamu.edu/~b-wood/GovtEcon/Beard.pdf), 1913. 
+Beard, Charles. [_An Economic Interpretation of the Constitution of the United States_](https://people.tamu.edu/~b-wood/GovtEcon/Beard.pdf). The Macmillan Company, 1913. 
 
 Jensen, Merrill. [_The Articles of Confederation: An Interpretation of the Social-Constitutional History of 
-the American Revolution, 1774-1781_](https://eds-p-ebscohost-com.libproxy.unm.edu/eds/ebookviewer/ebook/bmxlYmtfXzQ5MDMwMF9fQU41?sid=2857b230-4596-4d4d-98aa-d7bdc6360040@redis&vid=0&format=EB&rid=1), 1970. 
+the American Revolution, 1774-1781_](https://www.amazon.com/Articles-Confederation-Interpretation-Social-Constitutional-Revolution/dp/0299002047). University of Wisconsin Press; 1st edition, 1970. 
 
-Adair, Douglas. [ _The Intellectual Origins of Jeffersonian Democracy: Republicanism, The Class Struggle, and the Virtuous Farmer_](https://vdoc.pub/download/the-intellectual-origins-of-jeffersonian-democracy-republicanism-the-class-struggle-and-the-virtuous-farmer-7fdbmbvkuek0), 1942.
+Adair, Douglas. [ _The Intellectual Origins of Jeffersonian Democracy: Republicanism, The Class Struggle, and the Virtuous Farmer_](https://vdoc.pub/download/the-intellectual-origins-of-jeffersonian-democracy-republicanism-the-class-struggle-and-the-virtuous-farmer-7fdbmbvkuek0). Lexington Books, 1942.
 
 Bailyn, Bernard. [_The Ideological Origins of the American Revolution: Fiftieth Anniversary Edition_](https://web-p-ebscohost-com.libproxy.unm.edu/ehost/detail/detail?vid=2&sid=67859fdf-e403-4687-8ff4-da3f8d33d5d9%40redis&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=1584203&db=nlebk). Harvard University Press, 2017.
 
