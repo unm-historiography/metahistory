@@ -116,7 +116,7 @@ Ramsay, David. [*The History of the American Revolution*](https://dl.tufts.edu/c
 
 Warren, Mercy Otis. [*History of the Rise, Progress, and Termination of the American Revolution*](https://oll.libertyfund.org/title/warren-history-of-the-rise-progress-and-termination-of-the-american-revolution-vol-2#lf0025-02_head_016). Liberty Fund, 1805.
 
-Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf). National Humanities Center, 1781. 
+Oliver, Peter. [*Origin & Progress of the American Rebellion*](https://americainclass.org/sources/makingrevolution/rebellion/text2/oliverloyalistsviolence.pdf). National Humanities Center, 1781.  
 
 Hutchinson, Thomas. [*The History of the Province of Massachusetts Bay: From 1749 to 1774, Comprising a Detailed Narrative of the Origin and 
 Early Stages of the American Revolution*](nationalhumanitiescenter.org/pds/becomingamer/growth/text9/massachusettsgovernor.pdf). National Humanities Center, 1829.
