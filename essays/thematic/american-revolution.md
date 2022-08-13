@@ -23,15 +23,15 @@ The initial histories of the American Revolution were written by those who lived
 
 Among the first histories to be composed in the aftermath of the Revolutionary War was [__David Ramsay__](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/david-ramsay/)’s *The History of the American Revolution* (1789). Ramsay was intimately involved with the events of the Revolution, serving as a surgeon in the Continental Army and later a delegate to the Continental Congress from South Carolina. His writings portray the revolution as “__a mass of husbandmen, merchants, mechanics, and fishermen… guided by the leading strings of the mother country__… [in] a situation that needed the abilities of all its sons,” resulting in “a vast expansion of the human mind.” (Ramsay 315) In the vein of Enlightenment historiography, Ramsey argues that the American Revolution pushed humanity forward by actualizing an emerging philosophy of government centered on individual liberty. Ramsay also touched on how the Revolution acted as a unifying cause for what were previously disparate peoples, thus creating a truly American identity for the first time. 
 
-{% include figure.html
-  class="right"
-  width="33%"
-  caption="Portrait of Mercy Otis Warren (1728-1814)."
-  image-url="schumann-mercy-otis-warren.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Mercy_Otis_Warren.jpg"
-%}
-
 Notable as the first female historian of the American Revolution, [__Mary Otis Warren__](https://www.britannica.com/biography/Mercy-Otis-Warren) offered a similarly  positive view of the war. Like Ramsay, Warren involved herself heavily in revolutionary effort, publishing satirical plays and pamphlets which mocked royal authority in Massachusetts. In her in her *History of the Rise, Progress, and Termination of the American Revolution* (1805), Warren declares that “__Future generations will… never forget the energetic struggles of their fathers to secure the natural rights of men__…established in the United States by a race of independent spirits who have freed their posterity from the feudal vassalage of hereditary lords.” (Warren 647) From this, it is clear that the presence of righteous American patriots and their immoral British rulers that was so common in Warren’s dramatic compositions carried over into and historical writings. 
+
+{% include figure.html
+  class="center"
+  width="75%"
+  caption="_The Declaration of Independence_ by John Trumbull (1819). A veteran of the Revoluionary War, Trumbull portrays the signing of the Declaration as a momentous occasion in the avancment of mankind.
+  image-url="schumann_declaration_signing.jpg"
+  source-url="[https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg](https://en.wikipedia.org/wiki/John_Trumbull#/media/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg)"
+%}
 
 Evident in both Ramsay and Warren’s histories is the concept of __the American Revolution as a profoundly moral event__, taken up by righteous American patriots who ushered in a new era of human development by eschewing European rule. Crucial to this historical framework is the **interjection of a moral arc to history**, with revolutionaries and loyalists cast as heroes and villains respectively. Equally important is the **construction a new national identity**, deliberately forged as a method of rallying the citizens of the newly independent United States. 
 
@@ -50,7 +50,7 @@ For the bulk of the 19th century, Whig historians – labelled after the conserv
 {% include figure.html
   class="center"
   width="75%"
-  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous painting depicting Washington as courageous and stalwart in the face of war."
+  caption="_Washington Crossing the Delaware_ by Emanuel Leutze (1851). A famous nineteenth century painting depicting Washington as courageous and stalwart in the face of war."
   image-url="schumann-delaware-crossing.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_MET_DP215410.jpg"
 %}
